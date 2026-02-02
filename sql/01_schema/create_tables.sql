@@ -16,6 +16,85 @@ CREATE SCHEMA IF NOT EXISTS `Music_Store_DB` DEFAULT CHARACTER SET utf8 ;
 USE `Music_Store_DB` ;
 
 -- -----------------------------------------------------
+-- Table `Music_Store_DB`.`country`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS country;
+CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`country` (
+  `country_id` INT NOT NULL AUTO_INCREMENT,
+  `country_name` VARCHAR(25) NOT NULL,
+  PRIMARY KEY (`country_id`),
+  UNIQUE INDEX `country_name_UNIQUE` (`country_name` ASC) )
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `Music_Store_DB`.`province`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS province;
+CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`province` (
+  `province_id` INT NOT NULL AUTO_INCREMENT,
+  `province_name` VARCHAR(25) NOT NULL,
+  `country_id` INT NOT NULL,
+  PRIMARY KEY (`province_id`),
+  UNIQUE INDEX `province_name_UNIQUE` (`province_name` ASC) ,
+  INDEX `fk_province_country1_idx` (`country_id` ASC) ,
+  CONSTRAINT `fk_province_country1`
+    FOREIGN KEY (`country_id`)
+    REFERENCES `Music_Store_DB`.`country` (`country_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `Music_Store_DB`.`city`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS city;
+CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`city` (
+  `city_id` INT NOT NULL AUTO_INCREMENT,
+  `city_name` VARCHAR(25) NOT NULL,
+  `province_id` INT NOT NULL,
+  PRIMARY KEY (`city_id`),
+  UNIQUE INDEX `city_name_UNIQUE` (`city_name` ASC) ,
+  INDEX `fk_city_province1_idx` (`province_id` ASC) ,
+  CONSTRAINT `fk_city_province1`
+    FOREIGN KEY (`province_id`)
+    REFERENCES `Music_Store_DB`.`province` (`province_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+-- -----------------------------------------------------
+-- Table `Music_Store_DB`.`store_location`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `store_location`;
+CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`store_location` (
+  `store_id` INT NOT NULL,
+  `city_id` INT,
+  `province_id` INT,
+  `country_id` INT,
+  PRIMARY KEY (`store_id`),
+  INDEX `fk_store_city_idx` (`city_id` ASC),
+  INDEX `fk_store_province_idx` (`province_id` ASC),
+  INDEX `fk_store_country_idx` (`country_id` ASC),
+  CONSTRAINT `fk_store_city`
+    FOREIGN KEY (`city_id`)
+    REFERENCES `Music_Store_DB`.`city` (`city_id`)
+    ON DELETE SET NULL
+    ON UPDATE CASCADE,
+  CONSTRAINT `fk_store_province`
+    FOREIGN KEY (`province_id`)
+    REFERENCES `Music_Store_DB`.`province` (`province_id`)
+    ON DELETE SET NULL
+    ON UPDATE CASCADE,
+  CONSTRAINT `fk_store_country`
+    FOREIGN KEY (`country_id`)
+    REFERENCES `Music_Store_DB`.`country` (`country_id`)
+    ON DELETE SET NULL
+    ON UPDATE CASCADE
+)
+ENGINE = InnoDB;
+
+-- -----------------------------------------------------
 -- Table `Music_Store_DB`.`customer`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS customer;
@@ -34,6 +113,42 @@ CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`customer` (
   UNIQUE INDEX `phone_UNIQUE` (`phone` ASC) )
 ENGINE = InnoDB;
 
+-- -----------------------------------------------------
+-- Table `Music_Store_DB`.`customer_address`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS customer_address;
+CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`customer_address` (
+  `address_id` INT NOT NULL AUTO_INCREMENT,
+  `customer_id` INT NOT NULL,
+  `line1` VARCHAR(60) NOT NULL,
+  `line2` VARCHAR(60) NULL DEFAULT NULL,
+  `city_id` INT NOT NULL,
+  `pincode` VARCHAR(12) NOT NULL,
+  `disabled` TINYINT(1) NOT NULL DEFAULT 0,
+  PRIMARY KEY (`address_id`),
+  INDEX `fk_address_city1_idx` (`city_id` ASC) ,
+  INDEX `fk_customer_address_customer1_idx` (`customer_id` ASC) ,
+  CONSTRAINT `fk_address_city1`
+    FOREIGN KEY (`city_id`)
+    REFERENCES `Music_Store_DB`.`city` (`city_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_customer_address_customer1`
+    FOREIGN KEY (`customer_id`)
+    REFERENCES `Music_Store_DB`.`customer` (`customer_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+ALTER TABLE customer
+ADD CONSTRAINT fk_customer_billing_address
+FOREIGN KEY (billing_address_id)
+REFERENCES customer_address(address_id);
+
+ALTER TABLE customer
+ADD CONSTRAINT fk_customer_shipping_address
+FOREIGN KEY (shipping_address_id)
+REFERENCES customer_address(address_id);
 
 -- -----------------------------------------------------
 -- Table `Music_Store_DB`.`artist`
@@ -191,8 +306,6 @@ CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`orders` (
 )
 ENGINE = InnoDB;
 
-
-
 -- -----------------------------------------------------
 -- Table `Music_Store_DB`.`order_items`
 -- -----------------------------------------------------
@@ -217,85 +330,6 @@ CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`order_items` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `Music_Store_DB`.`country`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS country;
-CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`country` (
-  `country_id` INT NOT NULL AUTO_INCREMENT,
-  `country_name` VARCHAR(25) NOT NULL,
-  PRIMARY KEY (`country_id`),
-  UNIQUE INDEX `country_name_UNIQUE` (`country_name` ASC) )
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `Music_Store_DB`.`province`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS province;
-CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`province` (
-  `province_id` INT NOT NULL AUTO_INCREMENT,
-  `province_name` VARCHAR(25) NOT NULL,
-  `country_id` INT NOT NULL,
-  PRIMARY KEY (`province_id`),
-  UNIQUE INDEX `province_name_UNIQUE` (`province_name` ASC) ,
-  INDEX `fk_province_country1_idx` (`country_id` ASC) ,
-  CONSTRAINT `fk_province_country1`
-    FOREIGN KEY (`country_id`)
-    REFERENCES `Music_Store_DB`.`country` (`country_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `Music_Store_DB`.`city`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS city;
-CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`city` (
-  `city_id` INT NOT NULL AUTO_INCREMENT,
-  `city_name` VARCHAR(25) NOT NULL,
-  `province_id` INT NOT NULL,
-  PRIMARY KEY (`city_id`),
-  UNIQUE INDEX `city_name_UNIQUE` (`city_name` ASC) ,
-  INDEX `fk_city_province1_idx` (`province_id` ASC) ,
-  CONSTRAINT `fk_city_province1`
-    FOREIGN KEY (`province_id`)
-    REFERENCES `Music_Store_DB`.`province` (`province_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `Music_Store_DB`.`customer_address`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS customer_address;
-CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`customer_address` (
-  `address_id` INT NOT NULL AUTO_INCREMENT,
-  `customer_id` INT NOT NULL,
-  `line1` VARCHAR(60) NOT NULL,
-  `line2` VARCHAR(60) NULL DEFAULT NULL,
-  `city_id` INT NOT NULL,
-  `pincode` VARCHAR(12) NOT NULL,
-  `disabled` TINYINT(1) NOT NULL DEFAULT 0,
-  PRIMARY KEY (`address_id`),
-  INDEX `fk_address_city1_idx` (`city_id` ASC) ,
-  INDEX `fk_customer_address_customer1_idx` (`customer_id` ASC) ,
-  CONSTRAINT `fk_address_city1`
-    FOREIGN KEY (`city_id`)
-    REFERENCES `Music_Store_DB`.`city` (`city_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_customer_address_customer1`
-    FOREIGN KEY (`customer_id`)
-    REFERENCES `Music_Store_DB`.`customer` (`customer_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
 
 -- -----------------------------------------------------
 -- Table `Music_Store_DB`.`vendor`
@@ -362,37 +396,6 @@ CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`invoice_items_details` (
     REFERENCES `Music_Store_DB`.`album` (`album_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
--- -----------------------------------------------------
--- Table `Music_Store_DB`.`store_location`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `store_location`;
-CREATE TABLE IF NOT EXISTS `Music_Store_DB`.`store_location` (
-  `store_id` INT NOT NULL,
-  `city_id` INT,
-  `province_id` INT,
-  `country_id` INT,
-  PRIMARY KEY (`store_id`),
-  INDEX `fk_store_city_idx` (`city_id` ASC),
-  INDEX `fk_store_province_idx` (`province_id` ASC),
-  INDEX `fk_store_country_idx` (`country_id` ASC),
-  CONSTRAINT `fk_store_city`
-    FOREIGN KEY (`city_id`)
-    REFERENCES `Music_Store_DB`.`city` (`city_id`)
-    ON DELETE SET NULL
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_store_province`
-    FOREIGN KEY (`province_id`)
-    REFERENCES `Music_Store_DB`.`province` (`province_id`)
-    ON DELETE SET NULL
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_store_country`
-    FOREIGN KEY (`country_id`)
-    REFERENCES `Music_Store_DB`.`country` (`country_id`)
-    ON DELETE SET NULL
-    ON UPDATE CASCADE
-)
 ENGINE = InnoDB;
 
 -- -----------------------------------------------------
