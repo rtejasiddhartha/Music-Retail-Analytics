@@ -60037,3 +60037,45 @@ INSERT INTO orders (order_id, order_type_id, customer_id, order_date, store_id) 
 
 SET FOREIGN_KEY_CHECKS = 1;
 
+-- Retrieve all orders for a specific customer, sorted by most recent
+SELECT order_id, order_type_id, order_date, customer_id
+FROM orders
+WHERE customer_id = 12500
+ORDER BY order_date DESC;
+
+
+-- Execution plan analysis for recent orders of a customer
+EXPLAIN
+SELECT order_id, order_date, store_id
+FROM orders
+WHERE customer_id = 12500
+ORDER BY order_date DESC
+LIMIT 20;
+
+
+-- Count total orders placed by each customer
+SELECT customer_id, COUNT(*) AS total_orders
+FROM orders
+GROUP BY customer_id
+ORDER BY total_orders DESC
+LIMIT 20;
+
+
+-- Execution plan for customer order aggregation
+EXPLAIN
+SELECT customer_id, COUNT(*) AS total_orders
+FROM orders
+GROUP BY customer_id
+ORDER BY total_orders DESC;
+
+
+-- Find all orders that were not placed through the Online channel
+SELECT o.order_id,
+       o.order_type_id,
+       ot.order_type_name,
+       o.store_id
+FROM orders o
+JOIN order_type ot 
+  ON o.order_type_id = ot.order_type_id
+WHERE ot.order_type_name <> 'Online'
+ORDER BY o.order_id ASC;
