@@ -19,7 +19,7 @@ The schema is intentionally designed to:
 
 ## Data Model (ER Diagram)
 
-![ER Diagram](docs/ER_Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ---
 
