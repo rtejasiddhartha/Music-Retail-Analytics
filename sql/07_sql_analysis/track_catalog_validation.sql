@@ -43,26 +43,26 @@ ORDER BY track_count DESC;
 -- FAMOUS ARTISTS (TOP 35) COVERAGE
 -- =========================================================
 
--- Proportion of tracks belonging to famous 35 artists
+-- Proportion of tracks belonging to famous 50 artists
 SELECT
-    SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) AS tracks_in_famous35,
+    SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) AS tracks_in_famous50,
     COUNT(*) AS total_tracks,
     ROUND(
         100 * SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) / COUNT(*),
         2
-    ) AS pct_tracks_famous35
+    ) AS pct_tracks_famous50
 FROM track t
 JOIN album a ON t.album_id = a.album_id
 LEFT JOIN famous_artists fa ON a.artist_id = fa.artist_id;
 
--- Albums-with-tracks belonging to famous 35
+-- Albums-with-tracks belonging to famous 50
 SELECT
-    SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) AS albums_with_tracks_famous35,
+    SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) AS albums_with_tracks_famous50,
     COUNT(DISTINCT t.album_id) AS total_albums_with_tracks,
     ROUND(
         100 * SUM(CASE WHEN fa.artist_id IS NOT NULL THEN 1 ELSE 0 END) / COUNT(DISTINCT t.album_id),
         2
-    ) AS pct_albums_famous35
+    ) AS pct_albums_famous50
 FROM track t
 JOIN album a ON t.album_id = a.album_id
 LEFT JOIN famous_artists fa ON a.artist_id = fa.artist_id;
@@ -105,7 +105,7 @@ JOIN album a ON t.album_id = a.album_id
 JOIN artist art ON a.artist_id = art.artist_id;
 
 -- Famous artists present in artist master table
-SELECT COUNT(*) AS famous35_in_artist_master
+SELECT COUNT(*) AS famous50_in_artist_master
 FROM famous_artists fa
 JOIN artist art ON fa.artist_id = art.artist_id;
 
