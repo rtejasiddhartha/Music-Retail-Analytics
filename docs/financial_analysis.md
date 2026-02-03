@@ -49,6 +49,23 @@ This layer complements:
 
 ---
 
+## Net Profit Per Year
+
+**Metric:** `Revenue − Vendor Spend`
+
+| Year | Revenue | Spend | Net Profit |
+|-----:|--------:|------:|-----------:|
+| 2022 | 495,270.36 | 138,713.57 | 356,556.79 |
+| 2023 | 496,061.77 | 150,984.20 | 345,077.57 |
+| 2024 | 533,802.06 | 182,116.76 | 351,685.30 |
+| 2025 | 204,535.13 | 137,420.84 | 67,114.29 |
+
+📌 **Insight**
+- Strong profitability across all full years.
+- 2025 shows reduced profit due to partial sales window.
+- Demonstrates realistic seasonality / cut-off effects.
+
+
 ### Revenue Split by Order Type
 
 | Year | Order Type | Revenue |
