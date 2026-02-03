@@ -9,7 +9,7 @@ Designed for reporting and BI tools.
 
 
 -- =====================================================
--- VIEW 1: Customers and their total spend in March 2023
+-- VIEW 1: Customers and their total spend in March 2025
 -- =====================================================
 
 CREATE OR REPLACE VIEW Clients_Total_Spent AS
@@ -20,7 +20,7 @@ SELECT
 FROM customer c
 JOIN orders o ON c.customer_id = o.customer_id
 JOIN order_items oi ON oi.order_id = o.order_id
-WHERE o.order_date BETWEEN '2023-03-01' AND '2023-03-31 23:59:59'
+WHERE o.order_date BETWEEN '2025-03-01' AND '2025-03-31 23:59:59'
 GROUP BY c.customer_id;
 
 
@@ -33,7 +33,7 @@ WHERE total_spent > (
 
 
 -- =====================================================
--- VIEW 2: Top and least sold albums (Mar 7–13, 2023)
+-- VIEW 2: Top and least sold albums (Mar 7–13, 2025)
 -- =====================================================
 
 DROP VIEW IF EXISTS TOP_AND_LEAST_SOLD_ALBUMS;
@@ -46,7 +46,7 @@ SELECT
 FROM album a
 JOIN order_items oi ON a.album_id = oi.album_id
 JOIN orders o ON oi.order_id = o.order_id
-WHERE o.order_date BETWEEN '2023-03-07' AND '2023-03-13 23:59:59'
+WHERE o.order_date BETWEEN '2025-03-07' AND '2025-03-13 23:59:59'
 GROUP BY a.album_id, a.album_name;
 
 
@@ -100,6 +100,45 @@ SELECT
 FROM Customers_in_Province_Count p
 JOIN country co ON p.country_id = co.country_id
 GROUP BY co.country_id, co.country_name;
+
+-- Cummulative Customer Count
+SELECT
+    'City' AS level_type,
+    c.city_id AS city_id,
+    c.city_name AS city_name,
+    c.province_id AS province_id,
+    p.country_id AS country_id,
+    c.customer_count
+FROM Customers_in_City_Count c
+JOIN province p
+    ON c.province_id = p.province_id
+
+UNION ALL
+
+SELECT
+    'Province' AS level_type,
+    NULL AS city_id,
+    NULL AS city_name,
+    p.province_id AS province_id,
+    p.country_id AS country_id,
+    p.customer_count
+FROM Customers_in_Province_Count p
+
+UNION ALL
+
+SELECT
+    'Country' AS level_type,
+    NULL AS city_id,
+    NULL AS city_name,
+    NULL AS province_id,
+    co.country_id AS country_id,
+    co.customer_count
+FROM Customers_in_Country_Count co
+
+ORDER BY
+    country_id,
+    province_id,
+    city_id;
 
 
 -- =====================================================

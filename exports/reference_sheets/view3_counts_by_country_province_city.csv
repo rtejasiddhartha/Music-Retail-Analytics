@@ -1,0 +1,390 @@
+level_type,city_id,city_name,province_id,country_id,customer_count
+Country,NULL,NULL,NULL,1,15049
+Province,NULL,NULL,1,1,1883
+City,1,Calgary,1,1,165
+City,2,Edmonton,1,1,189
+City,3,"Red Deer",1,1,193
+City,4,Lethbridge,1,1,188
+City,5,"Medicine Hat",1,1,180
+City,6,Airdrie,1,1,193
+City,7,Cochrane,1,1,195
+City,8,Okotoks,1,1,203
+City,9,"Fort McMurray",1,1,172
+City,10,"Spruce Grove",1,1,205
+Province,NULL,NULL,2,1,2258
+City,11,Vancouver,2,1,167
+City,12,Surrey,2,1,214
+City,13,Burnaby,2,1,193
+City,14,Richmond,2,1,195
+City,15,Coquitlam,2,1,189
+City,16,"New Westminster",2,1,195
+City,17,"North Vancouver",2,1,180
+City,18,"West Vancouver",2,1,212
+City,19,Delta,2,1,159
+City,20,Langley,2,1,216
+City,21,Abbotsford,2,1,171
+City,22,Chilliwack,2,1,167
+Province,NULL,NULL,3,1,1114
+City,23,Winnipeg,3,1,170
+City,24,Brandon,3,1,180
+City,25,Steinbach,3,1,186
+City,26,"Portage la Prairie",3,1,186
+City,27,Selkirk,3,1,200
+City,28,Thompson,3,1,192
+Province,NULL,NULL,4,1,921
+City,29,Moncton,4,1,180
+City,30,"Saint John",4,1,172
+City,31,Fredericton,4,1,178
+City,32,Dieppe,4,1,203
+City,33,Miramichi,4,1,188
+Province,NULL,NULL,5,1,919
+City,34,"St. John's",5,1,155
+City,35,"Mount Pearl",5,1,195
+City,36,"Corner Brook",5,1,199
+City,37,Gander,5,1,194
+City,38,"Grand Falls-Windsor",5,1,176
+Province,NULL,NULL,6,1,180
+City,39,Yellowknife,6,1,180
+Province,NULL,NULL,7,1,1157
+City,40,Halifax,7,1,191
+City,41,Dartmouth,7,1,174
+City,42,Sydney,7,1,203
+City,43,Truro,7,1,182
+City,44,"New Glasgow",7,1,201
+City,45,Kentville,7,1,206
+Province,NULL,NULL,8,1,178
+City,46,Iqaluit,8,1,178
+Province,NULL,NULL,9,1,2824
+City,47,Toronto,9,1,193
+City,48,Mississauga,9,1,185
+City,49,Brampton,9,1,177
+City,50,Hamilton,9,1,175
+City,51,London,9,1,184
+City,52,Kitchener,9,1,192
+City,53,Waterloo,9,1,177
+City,54,Guelph,9,1,184
+City,55,Cambridge,9,1,193
+City,56,Oakville,9,1,193
+City,57,Burlington,9,1,203
+City,58,Milton,9,1,160
+City,59,Markham,9,1,195
+City,60,Vaughan,9,1,215
+City,61,"Richmond Hill",9,1,198
+Province,NULL,NULL,10,1,714
+City,62,Charlottetown,10,1,173
+City,63,Summerside,10,1,168
+City,64,Stratford,10,1,190
+City,65,Cornwall,10,1,183
+Province,NULL,NULL,11,1,1845
+City,66,Montreal,11,1,189
+City,67,Laval,11,1,194
+City,68,Longueuil,11,1,181
+City,69,"Quebec City",11,1,207
+City,70,Sherbrooke,11,1,179
+City,71,Trois-Rivieres,11,1,182
+City,72,Gatineau,11,1,197
+City,73,Brossard,11,1,171
+City,74,Drummondville,11,1,168
+City,75,Granby,11,1,177
+Province,NULL,NULL,12,1,891
+City,76,Saskatoon,12,1,156
+City,77,Regina,12,1,186
+City,78,"Prince Albert",12,1,162
+City,79,"Moose Jaw",12,1,189
+City,80,Yorkton,12,1,198
+Province,NULL,NULL,13,1,165
+City,81,Whitehorse,13,1,165
+Country,NULL,NULL,NULL,2,14951
+Province,NULL,NULL,14,2,328
+City,82,Birmingham,14,2,71
+City,83,Montgomery,14,2,61
+City,84,Mobile,14,2,66
+City,85,Huntsville,14,2,71
+City,86,Tuscaloosa,14,2,59
+Province,NULL,NULL,15,2,186
+City,87,Anchorage,15,2,55
+City,88,Fairbanks,15,2,72
+City,89,Juneau,15,2,59
+Province,NULL,NULL,16,2,385
+City,90,Phoenix,16,2,63
+City,91,Tucson,16,2,75
+City,92,Mesa,16,2,67
+City,93,Chandler,16,2,64
+City,94,Scottsdale,16,2,63
+City,95,Tempe,16,2,53
+Province,NULL,NULL,17,2,276
+City,96,"Little Rock",17,2,73
+City,97,Fayetteville,17,2,66
+City,98,"Fort Smith",17,2,67
+City,99,Springdale,17,2,70
+Province,NULL,NULL,18,2,941
+City,100,"Los Angeles",18,2,54
+City,101,"San Diego",18,2,49
+City,102,"San Jose",18,2,66
+City,103,"San Francisco",18,2,70
+City,104,Oakland,18,2,59
+City,105,Berkeley,18,2,44
+City,106,"Palo Alto",18,2,73
+City,107,"Mountain View",18,2,58
+City,108,Sunnyvale,18,2,62
+City,109,"Santa Clara",18,2,79
+City,110,Sacramento,18,2,64
+City,111,Fremont,18,2,70
+City,112,Irvine,18,2,61
+City,113,Pasadena,18,2,61
+City,114,"Santa Monica",18,2,71
+Province,NULL,NULL,19,2,383
+City,115,Denver,19,2,68
+City,116,Aurora,19,2,63
+City,117,Boulder,19,2,65
+City,118,"Fort Collins",19,2,54
+City,119,Lakewood,19,2,65
+City,120,"Colorado Springs",19,2,68
+Province,NULL,NULL,20,2,275
+City,121,Bridgeport,20,2,58
+City,122,"New Haven",20,2,60
+City,123,Stamford,20,2,47
+City,124,Hartford,20,2,60
+City,125,Waterbury,20,2,50
+Province,NULL,NULL,21,2,286
+City,126,Wilmington,21,2,80
+City,127,Dover,21,2,70
+City,128,Newark,21,2,59
+City,129,Middletown,21,2,77
+Province,NULL,NULL,22,2,480
+City,130,Miami,22,2,51
+City,131,Orlando,22,2,65
+City,132,Tampa,22,2,57
+City,133,"St. Petersburg",22,2,66
+City,134,Jacksonville,22,2,63
+City,135,"Fort Lauderdale",22,2,57
+City,136,Hollywood,22,2,60
+City,137,"Boca Raton",22,2,61
+Province,NULL,NULL,23,2,359
+City,138,Atlanta,23,2,48
+City,139,Decatur,23,2,70
+City,140,Marietta,23,2,57
+City,141,Alpharetta,23,2,50
+City,142,"Sandy Springs",23,2,62
+City,143,Roswell,23,2,72
+Province,NULL,NULL,24,2,228
+City,144,Honolulu,24,2,59
+City,145,Hilo,24,2,61
+City,146,Kailua,24,2,48
+City,147,Kapolei,24,2,60
+Province,NULL,NULL,25,2,243
+City,148,Boise,25,2,61
+City,149,Meridian,25,2,65
+City,150,Nampa,25,2,53
+City,151,"Idaho Falls",25,2,64
+Province,NULL,NULL,26,2,360
+City,152,Chicago,26,2,50
+City,153,Naperville,26,2,58
+City,154,Aurora,26,2,60
+City,155,Evanston,26,2,68
+City,156,Schaumburg,26,2,52
+City,157,"Oak Park",26,2,72
+Province,NULL,NULL,27,2,217
+City,158,Indianapolis,27,2,53
+City,159,"Fort Wayne",27,2,58
+City,160,Evansville,27,2,54
+City,161,"South Bend",27,2,52
+Province,NULL,NULL,28,2,311
+City,162,"Des Moines",28,2,60
+City,163,"Cedar Rapids",28,2,51
+City,164,Davenport,28,2,79
+City,165,"Sioux City",28,2,62
+City,166,"Iowa City",28,2,59
+Province,NULL,NULL,29,2,309
+City,167,Wichita,29,2,66
+City,168,"Overland Park",29,2,59
+City,169,"Kansas City",29,2,55
+City,170,Olathe,29,2,72
+City,171,Topeka,29,2,57
+Province,NULL,NULL,30,2,242
+City,172,Louisville,30,2,58
+City,173,Lexington,30,2,65
+City,174,"Bowling Green",30,2,65
+City,175,Owensboro,30,2,54
+Province,NULL,NULL,31,2,322
+City,176,"New Orleans",31,2,67
+City,177,"Baton Rouge",31,2,66
+City,178,Shreveport,31,2,54
+City,179,Lafayette,31,2,65
+City,180,"Lake Charles",31,2,70
+Province,NULL,NULL,32,2,213
+City,181,Portland,32,2,51
+City,182,Lewiston,32,2,53
+City,183,Bangor,32,2,50
+City,184,Augusta,32,2,59
+Province,NULL,NULL,33,2,297
+City,185,Baltimore,33,2,69
+City,186,Rockville,33,2,60
+City,187,Gaithersburg,33,2,51
+City,188,Bethesda,33,2,52
+City,189,"Silver Spring",33,2,65
+Province,NULL,NULL,34,2,362
+City,190,Boston,34,2,60
+City,191,Cambridge,34,2,69
+City,192,Somerville,34,2,55
+City,193,Brookline,34,2,62
+City,194,Newton,34,2,67
+City,195,Quincy,34,2,49
+Province,NULL,NULL,35,2,280
+City,196,Detroit,35,2,49
+City,197,"Grand Rapids",35,2,54
+City,198,"Ann Arbor",35,2,53
+City,199,Lansing,35,2,57
+City,200,Flint,35,2,67
+Province,NULL,NULL,36,2,272
+City,201,Minneapolis,36,2,61
+City,202,"St. Paul",36,2,73
+City,203,Bloomington,36,2,69
+City,204,Duluth,36,2,69
+Province,NULL,NULL,37,2,268
+City,205,Jackson,37,2,81
+City,206,Gulfport,37,2,68
+City,207,Hattiesburg,37,2,66
+City,208,Biloxi,37,2,53
+Province,NULL,NULL,38,2,278
+City,209,"St. Louis",38,2,68
+City,210,"Kansas City",38,2,53
+City,211,Springfield,38,2,51
+City,212,Columbia,38,2,51
+City,213,Independence,38,2,55
+Province,NULL,NULL,39,2,194
+City,214,Billings,39,2,71
+City,215,Missoula,39,2,53
+City,216,Bozeman,39,2,70
+Province,NULL,NULL,40,2,286
+City,217,Omaha,40,2,72
+City,218,Lincoln,40,2,71
+City,219,Bellevue,40,2,79
+City,220,"Grand Island",40,2,64
+Province,NULL,NULL,41,2,248
+City,221,"Las Vegas",41,2,56
+City,222,Henderson,41,2,66
+City,223,Reno,41,2,70
+City,224,"Carson City",41,2,56
+Province,NULL,NULL,42,2,255
+City,225,Manchester,42,2,61
+City,226,Nashua,42,2,79
+City,227,Concord,42,2,62
+City,228,Derry,42,2,53
+Province,NULL,NULL,43,2,303
+City,229,Newark,43,2,57
+City,230,"Jersey City",43,2,56
+City,231,Paterson,43,2,62
+City,232,Elizabeth,43,2,67
+City,233,Edison,43,2,61
+Province,NULL,NULL,44,2,246
+City,234,Albuquerque,44,2,63
+City,235,"Santa Fe",44,2,58
+City,236,"Las Cruces",44,2,62
+City,237,"Rio Rancho",44,2,63
+Province,NULL,NULL,45,2,470
+City,238,"New York City",45,2,59
+City,239,Brooklyn,45,2,64
+City,240,Queens,45,2,57
+City,241,Bronx,45,2,56
+City,242,Manhattan,45,2,58
+City,243,Buffalo,45,2,49
+City,244,Rochester,45,2,61
+City,245,Albany,45,2,66
+Province,NULL,NULL,46,2,319
+City,246,Charlotte,46,2,58
+City,247,Raleigh,46,2,61
+City,248,Durham,46,2,67
+City,249,"Chapel Hill",46,2,70
+City,250,Greensboro,46,2,63
+Province,NULL,NULL,47,2,173
+City,251,Fargo,47,2,59
+City,252,Bismarck,47,2,59
+City,253,"Grand Forks",47,2,55
+Province,NULL,NULL,48,2,303
+City,254,Columbus,48,2,66
+City,255,Cleveland,48,2,65
+City,256,Cincinnati,48,2,67
+City,257,Dayton,48,2,44
+City,258,Toledo,48,2,61
+Province,NULL,NULL,49,2,240
+City,259,"Oklahoma City",49,2,54
+City,260,Tulsa,49,2,67
+City,261,Norman,49,2,64
+City,262,"Broken Arrow",49,2,55
+Province,NULL,NULL,50,2,257
+City,263,Portland,50,2,64
+City,264,Eugene,50,2,71
+City,265,Salem,50,2,59
+City,266,Beaverton,50,2,63
+Province,NULL,NULL,51,2,341
+City,267,Philadelphia,51,2,67
+City,268,Pittsburgh,51,2,66
+City,269,Allentown,51,2,84
+City,270,Bethlehem,51,2,58
+City,271,Scranton,51,2,66
+Province,NULL,NULL,52,2,274
+City,272,Providence,52,2,69
+City,273,Cranston,52,2,79
+City,274,Warwick,52,2,66
+City,275,Pawtucket,52,2,60
+Province,NULL,NULL,53,2,279
+City,276,Charleston,53,2,82
+City,277,Columbia,53,2,67
+City,278,Greenville,53,2,61
+City,279,Spartanburg,53,2,69
+Province,NULL,NULL,54,2,186
+City,280,"Sioux Falls",54,2,69
+City,281,"Rapid City",54,2,60
+City,282,Brookings,54,2,57
+Province,NULL,NULL,55,2,287
+City,283,Nashville,55,2,65
+City,284,Memphis,55,2,50
+City,285,Knoxville,55,2,70
+City,286,Chattanooga,55,2,58
+City,287,Clarksville,55,2,44
+Province,NULL,NULL,56,2,489
+City,288,Houston,56,2,61
+City,289,Dallas,56,2,60
+City,290,Austin,56,2,65
+City,291,"San Antonio",56,2,60
+City,292,"Fort Worth",56,2,64
+City,293,Plano,56,2,65
+City,294,Irving,56,2,57
+City,295,Arlington,56,2,57
+Province,NULL,NULL,57,2,277
+City,296,"Salt Lake City",57,2,69
+City,297,Provo,57,2,63
+City,298,Orem,57,2,68
+City,299,Ogden,57,2,77
+Province,NULL,NULL,58,2,181
+City,300,Burlington,58,2,56
+City,301,"South Burlington",58,2,65
+City,302,Rutland,58,2,60
+Province,NULL,NULL,59,2,306
+City,303,Richmond,59,2,56
+City,304,Norfolk,59,2,61
+City,305,"Virginia Beach",59,2,55
+City,306,Alexandria,59,2,55
+City,307,Arlington,59,2,79
+Province,NULL,NULL,60,2,308
+City,308,Seattle,60,2,65
+City,309,Bellevue,60,2,45
+City,310,Redmond,60,2,72
+City,311,Tacoma,60,2,59
+City,312,Everett,60,2,67
+Province,NULL,NULL,61,2,193
+City,313,Charleston,61,2,65
+City,314,Huntington,61,2,71
+City,315,Morgantown,61,2,57
+Province,NULL,NULL,62,2,228
+City,316,Milwaukee,62,2,51
+City,317,Madison,62,2,63
+City,318,"Green Bay",62,2,54
+City,319,Kenosha,62,2,60
+Province,NULL,NULL,63,2,154
+City,320,Cheyenne,63,2,54
+City,321,Casper,63,2,41
+City,322,Laramie,63,2,59
+Province,NULL,NULL,64,2,53
+City,323,Washington,64,2,53
