@@ -1,0 +1,324 @@
+city_name,province_name,country_name,customer_count
+Langley,"British Columbia",Canada,216
+Vaughan,Ontario,Canada,215
+Surrey,"British Columbia",Canada,214
+"West Vancouver","British Columbia",Canada,212
+"Quebec City",Quebec,Canada,207
+Kentville,"Nova Scotia",Canada,206
+"Spruce Grove",Alberta,Canada,205
+Okotoks,Alberta,Canada,203
+Dieppe,"New Brunswick",Canada,203
+Sydney,"Nova Scotia",Canada,203
+Burlington,Ontario,Canada,203
+"New Glasgow","Nova Scotia",Canada,201
+Selkirk,Manitoba,Canada,200
+"Corner Brook","Newfoundland and Labrador",Canada,199
+"Richmond Hill",Ontario,Canada,198
+Yorkton,Saskatchewan,Canada,198
+Gatineau,Quebec,Canada,197
+Cochrane,Alberta,Canada,195
+Richmond,"British Columbia",Canada,195
+"New Westminster","British Columbia",Canada,195
+"Mount Pearl","Newfoundland and Labrador",Canada,195
+Markham,Ontario,Canada,195
+Gander,"Newfoundland and Labrador",Canada,194
+Laval,Quebec,Canada,194
+"Red Deer",Alberta,Canada,193
+Airdrie,Alberta,Canada,193
+Burnaby,"British Columbia",Canada,193
+Toronto,Ontario,Canada,193
+Cambridge,Ontario,Canada,193
+Oakville,Ontario,Canada,193
+Thompson,Manitoba,Canada,192
+Kitchener,Ontario,Canada,192
+Halifax,"Nova Scotia",Canada,191
+Stratford,"Prince Edward Island",Canada,190
+Edmonton,Alberta,Canada,189
+Coquitlam,"British Columbia",Canada,189
+Montreal,Quebec,Canada,189
+"Moose Jaw",Saskatchewan,Canada,189
+Lethbridge,Alberta,Canada,188
+Miramichi,"New Brunswick",Canada,188
+Steinbach,Manitoba,Canada,186
+"Portage la Prairie",Manitoba,Canada,186
+Regina,Saskatchewan,Canada,186
+Mississauga,Ontario,Canada,185
+London,Ontario,Canada,184
+Guelph,Ontario,Canada,184
+Cornwall,"Prince Edward Island",Canada,183
+Truro,"Nova Scotia",Canada,182
+Trois-Rivieres,Quebec,Canada,182
+Longueuil,Quebec,Canada,181
+"Medicine Hat",Alberta,Canada,180
+"North Vancouver","British Columbia",Canada,180
+Brandon,Manitoba,Canada,180
+Moncton,"New Brunswick",Canada,180
+Yellowknife,"Northwest Territories",Canada,180
+Sherbrooke,Quebec,Canada,179
+Fredericton,"New Brunswick",Canada,178
+Iqaluit,Nunavut,Canada,178
+Brampton,Ontario,Canada,177
+Waterloo,Ontario,Canada,177
+Granby,Quebec,Canada,177
+"Grand Falls-Windsor","Newfoundland and Labrador",Canada,176
+Hamilton,Ontario,Canada,175
+Dartmouth,"Nova Scotia",Canada,174
+Charlottetown,"Prince Edward Island",Canada,173
+"Fort McMurray",Alberta,Canada,172
+"Saint John","New Brunswick",Canada,172
+Abbotsford,"British Columbia",Canada,171
+Brossard,Quebec,Canada,171
+Winnipeg,Manitoba,Canada,170
+Summerside,"Prince Edward Island",Canada,168
+Drummondville,Quebec,Canada,168
+Vancouver,"British Columbia",Canada,167
+Chilliwack,"British Columbia",Canada,167
+Calgary,Alberta,Canada,165
+Whitehorse,Yukon,Canada,165
+"Prince Albert",Saskatchewan,Canada,162
+Milton,Ontario,Canada,160
+Delta,"British Columbia",Canada,159
+Saskatoon,Saskatchewan,Canada,156
+"St. John's","Newfoundland and Labrador",Canada,155
+Allentown,Pennsylvania,"United States",84
+Charleston,"South Carolina","United States",82
+Jackson,Mississippi,"United States",81
+Wilmington,Delaware,"United States",80
+"Santa Clara",California,"United States",79
+Davenport,Iowa,"United States",79
+Bellevue,Nebraska,"United States",79
+Nashua,"New Hampshire","United States",79
+Cranston,"Rhode Island","United States",79
+Arlington,Virginia,"United States",79
+Middletown,Delaware,"United States",77
+Ogden,Utah,"United States",77
+Tucson,Arizona,"United States",75
+"Little Rock",Arkansas,"United States",73
+"Palo Alto",California,"United States",73
+"St. Paul",Minnesota,"United States",73
+Fairbanks,Alaska,"United States",72
+Roswell,Georgia,"United States",72
+"Oak Park",Illinois,"United States",72
+Olathe,Kansas,"United States",72
+Omaha,Nebraska,"United States",72
+Redmond,Washington,"United States",72
+Birmingham,Alabama,"United States",71
+Huntsville,Alabama,"United States",71
+"Santa Monica",California,"United States",71
+Billings,Montana,"United States",71
+Lincoln,Nebraska,"United States",71
+Eugene,Oregon,"United States",71
+Huntington,"West Virginia","United States",71
+Springdale,Arkansas,"United States",70
+"San Francisco",California,"United States",70
+Fremont,California,"United States",70
+Dover,Delaware,"United States",70
+Decatur,Georgia,"United States",70
+"Lake Charles",Louisiana,"United States",70
+Bozeman,Montana,"United States",70
+Reno,Nevada,"United States",70
+"Chapel Hill","North Carolina","United States",70
+Knoxville,Tennessee,"United States",70
+Baltimore,Maryland,"United States",69
+Cambridge,Massachusetts,"United States",69
+Bloomington,Minnesota,"United States",69
+Duluth,Minnesota,"United States",69
+Providence,"Rhode Island","United States",69
+Spartanburg,"South Carolina","United States",69
+"Sioux Falls","South Dakota","United States",69
+"Salt Lake City",Utah,"United States",69
+Denver,Colorado,"United States",68
+"Colorado Springs",Colorado,"United States",68
+Evanston,Illinois,"United States",68
+Gulfport,Mississippi,"United States",68
+"St. Louis",Missouri,"United States",68
+Orem,Utah,"United States",68
+Mesa,Arizona,"United States",67
+"Fort Smith",Arkansas,"United States",67
+"New Orleans",Louisiana,"United States",67
+Newton,Massachusetts,"United States",67
+Flint,Michigan,"United States",67
+Elizabeth,"New Jersey","United States",67
+Durham,"North Carolina","United States",67
+Cincinnati,Ohio,"United States",67
+Tulsa,Oklahoma,"United States",67
+Philadelphia,Pennsylvania,"United States",67
+Columbia,"South Carolina","United States",67
+Everett,Washington,"United States",67
+Mobile,Alabama,"United States",66
+Fayetteville,Arkansas,"United States",66
+"San Jose",California,"United States",66
+"St. Petersburg",Florida,"United States",66
+Wichita,Kansas,"United States",66
+"Baton Rouge",Louisiana,"United States",66
+Hattiesburg,Mississippi,"United States",66
+Henderson,Nevada,"United States",66
+Albany,"New York","United States",66
+Columbus,Ohio,"United States",66
+Pittsburgh,Pennsylvania,"United States",66
+Scranton,Pennsylvania,"United States",66
+Warwick,"Rhode Island","United States",66
+Boulder,Colorado,"United States",65
+Lakewood,Colorado,"United States",65
+Orlando,Florida,"United States",65
+Meridian,Idaho,"United States",65
+Lexington,Kentucky,"United States",65
+"Bowling Green",Kentucky,"United States",65
+Lafayette,Louisiana,"United States",65
+"Silver Spring",Maryland,"United States",65
+Cleveland,Ohio,"United States",65
+Nashville,Tennessee,"United States",65
+Austin,Texas,"United States",65
+Plano,Texas,"United States",65
+"South Burlington",Vermont,"United States",65
+Seattle,Washington,"United States",65
+Charleston,"West Virginia","United States",65
+Chandler,Arizona,"United States",64
+Sacramento,California,"United States",64
+"Idaho Falls",Idaho,"United States",64
+"Grand Island",Nebraska,"United States",64
+Brooklyn,"New York","United States",64
+Norman,Oklahoma,"United States",64
+Portland,Oregon,"United States",64
+"Fort Worth",Texas,"United States",64
+Phoenix,Arizona,"United States",63
+Scottsdale,Arizona,"United States",63
+Aurora,Colorado,"United States",63
+Jacksonville,Florida,"United States",63
+Albuquerque,"New Mexico","United States",63
+"Rio Rancho","New Mexico","United States",63
+Greensboro,"North Carolina","United States",63
+Beaverton,Oregon,"United States",63
+Provo,Utah,"United States",63
+Madison,Wisconsin,"United States",63
+Sunnyvale,California,"United States",62
+"Sandy Springs",Georgia,"United States",62
+"Sioux City",Iowa,"United States",62
+Brookline,Massachusetts,"United States",62
+Concord,"New Hampshire","United States",62
+Paterson,"New Jersey","United States",62
+"Las Cruces","New Mexico","United States",62
+Montgomery,Alabama,"United States",61
+Irvine,California,"United States",61
+Pasadena,California,"United States",61
+"Boca Raton",Florida,"United States",61
+Hilo,Hawaii,"United States",61
+Boise,Idaho,"United States",61
+Minneapolis,Minnesota,"United States",61
+Manchester,"New Hampshire","United States",61
+Edison,"New Jersey","United States",61
+Rochester,"New York","United States",61
+Raleigh,"North Carolina","United States",61
+Toledo,Ohio,"United States",61
+Greenville,"South Carolina","United States",61
+Houston,Texas,"United States",61
+Norfolk,Virginia,"United States",61
+"New Haven",Connecticut,"United States",60
+Hartford,Connecticut,"United States",60
+Hollywood,Florida,"United States",60
+Kapolei,Hawaii,"United States",60
+Aurora,Illinois,"United States",60
+"Des Moines",Iowa,"United States",60
+Rockville,Maryland,"United States",60
+Boston,Massachusetts,"United States",60
+Pawtucket,"Rhode Island","United States",60
+"Rapid City","South Dakota","United States",60
+Dallas,Texas,"United States",60
+"San Antonio",Texas,"United States",60
+Rutland,Vermont,"United States",60
+Kenosha,Wisconsin,"United States",60
+Tuscaloosa,Alabama,"United States",59
+Juneau,Alaska,"United States",59
+Oakland,California,"United States",59
+Newark,Delaware,"United States",59
+Honolulu,Hawaii,"United States",59
+"Iowa City",Iowa,"United States",59
+"Overland Park",Kansas,"United States",59
+Augusta,Maine,"United States",59
+"New York City","New York","United States",59
+Fargo,"North Dakota","United States",59
+Bismarck,"North Dakota","United States",59
+Salem,Oregon,"United States",59
+Tacoma,Washington,"United States",59
+Laramie,Wyoming,"United States",59
+"Mountain View",California,"United States",58
+Bridgeport,Connecticut,"United States",58
+Naperville,Illinois,"United States",58
+"Fort Wayne",Indiana,"United States",58
+Louisville,Kentucky,"United States",58
+"Santa Fe","New Mexico","United States",58
+Manhattan,"New York","United States",58
+Charlotte,"North Carolina","United States",58
+Bethlehem,Pennsylvania,"United States",58
+Chattanooga,Tennessee,"United States",58
+Tampa,Florida,"United States",57
+"Fort Lauderdale",Florida,"United States",57
+Marietta,Georgia,"United States",57
+Topeka,Kansas,"United States",57
+Lansing,Michigan,"United States",57
+Newark,"New Jersey","United States",57
+Queens,"New York","United States",57
+Brookings,"South Dakota","United States",57
+Irving,Texas,"United States",57
+Arlington,Texas,"United States",57
+Morgantown,"West Virginia","United States",57
+"Las Vegas",Nevada,"United States",56
+"Carson City",Nevada,"United States",56
+"Jersey City","New Jersey","United States",56
+Bronx,"New York","United States",56
+Burlington,Vermont,"United States",56
+Richmond,Virginia,"United States",56
+Anchorage,Alaska,"United States",55
+"Kansas City",Kansas,"United States",55
+Somerville,Massachusetts,"United States",55
+Independence,Missouri,"United States",55
+"Grand Forks","North Dakota","United States",55
+"Broken Arrow",Oklahoma,"United States",55
+"Virginia Beach",Virginia,"United States",55
+Alexandria,Virginia,"United States",55
+"Los Angeles",California,"United States",54
+"Fort Collins",Colorado,"United States",54
+Evansville,Indiana,"United States",54
+Owensboro,Kentucky,"United States",54
+Shreveport,Louisiana,"United States",54
+"Grand Rapids",Michigan,"United States",54
+"Oklahoma City",Oklahoma,"United States",54
+"Green Bay",Wisconsin,"United States",54
+Cheyenne,Wyoming,"United States",54
+Tempe,Arizona,"United States",53
+Nampa,Idaho,"United States",53
+Indianapolis,Indiana,"United States",53
+Lewiston,Maine,"United States",53
+"Ann Arbor",Michigan,"United States",53
+Biloxi,Mississippi,"United States",53
+"Kansas City",Missouri,"United States",53
+Missoula,Montana,"United States",53
+Derry,"New Hampshire","United States",53
+Washington,"District of Columbia","United States",53
+Schaumburg,Illinois,"United States",52
+"South Bend",Indiana,"United States",52
+Bethesda,Maryland,"United States",52
+Miami,Florida,"United States",51
+"Cedar Rapids",Iowa,"United States",51
+Portland,Maine,"United States",51
+Gaithersburg,Maryland,"United States",51
+Springfield,Missouri,"United States",51
+Columbia,Missouri,"United States",51
+Milwaukee,Wisconsin,"United States",51
+Waterbury,Connecticut,"United States",50
+Alpharetta,Georgia,"United States",50
+Chicago,Illinois,"United States",50
+Bangor,Maine,"United States",50
+Memphis,Tennessee,"United States",50
+"San Diego",California,"United States",49
+Quincy,Massachusetts,"United States",49
+Detroit,Michigan,"United States",49
+Buffalo,"New York","United States",49
+Atlanta,Georgia,"United States",48
+Kailua,Hawaii,"United States",48
+Stamford,Connecticut,"United States",47
+Bellevue,Washington,"United States",45
+Berkeley,California,"United States",44
+Dayton,Ohio,"United States",44
+Clarksville,Tennessee,"United States",44
+Casper,Wyoming,"United States",41
