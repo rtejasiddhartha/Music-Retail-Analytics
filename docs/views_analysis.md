@@ -20,7 +20,7 @@ The analytics views are designed to:
 
 All views are defined in:
 
-sql/07_analysis/customer_and_sales_views.sql
+sql/05_analytical_views/customer_and_sales_views.sql
 
 
 ---
@@ -29,7 +29,7 @@ sql/07_analysis/customer_and_sales_views.sql
 
 ### View 1: `Clients_Total_Spent`
 **Purpose**
-- Calculate total customer spending for March 2023
+- Calculate total customer spending for March 2025
 - Identify high-value customers
 
 **Key Insight**
@@ -47,7 +47,7 @@ exports/reference_sheets/
 ### View 2: `TOP_AND_LEAST_SOLD_ALBUMS`
 **Purpose**
 - Identify top- and least-selling albums for a fixed campaign window
-- Time window: March 7–13, 2023
+- Time window: March 7–13, 2025
 
 **Key Insight**
 - Reveals short-term demand concentration

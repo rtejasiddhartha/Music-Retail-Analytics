@@ -7,7 +7,7 @@ and analytical readiness**, not to enforce constraints or automation.
 
 All queries used here are located in:
 
-sql/07_analysis/ad_hoc_analysis.sql
+sql/05_analytical_views/ad_hoc_analysis.sql
 
 
 ---
