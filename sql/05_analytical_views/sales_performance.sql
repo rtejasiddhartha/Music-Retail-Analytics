@@ -27,3 +27,28 @@ JOIN album a ON oi.album_id = a.album_id
 GROUP BY a.album_id, a.album_name
 ORDER BY total_orders DESC
 LIMIT 20;
+
+-- Average orders per customer for each album
+SELECT
+    a.album_id,
+    a.album_name,
+    ROUND(COUNT(*) / COUNT(DISTINCT o.customer_id), 2) AS avg_orders_per_customer
+FROM order_items oi
+JOIN orders o ON oi.order_id = o.order_id
+JOIN album a ON oi.album_id = a.album_id
+GROUP BY a.album_id, a.album_name
+ORDER BY avg_orders_per_customer DESC;
+
+-- Albums with high customer reach but low order frequency
+SELECT
+    a.album_id,
+    a.album_name,
+    COUNT(DISTINCT o.customer_id) AS unique_customers,
+    COUNT(*) AS total_orders
+FROM order_items oi
+JOIN orders o ON oi.order_id = o.order_id
+JOIN album a ON oi.album_id = a.album_id
+GROUP BY a.album_id, a.album_name
+HAVING COUNT(DISTINCT o.customer_id) > 50
+   AND COUNT(*) < 80
+ORDER BY unique_customers DESC;
