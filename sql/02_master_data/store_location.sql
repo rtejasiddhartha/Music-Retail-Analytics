@@ -29,22 +29,20 @@ ON UPDATE CASCADE;
 INSERT INTO store_location (store_id, city_id, province_id, country_id) VALUES
 -- 🇨🇦 Canada Stores
 (1, 47, 9, 1),   -- Toronto, Ontario, Canada
-(2, 11, 2, 1),   -- Vancouver, British Columbia, Canada
-(3, 66, 11, 1),  -- Montreal, Quebec, Canada
-(4, 40, 7, 1),   -- Halifax, Nova Scotia, Canada
-(5, 23, 3, 1),   -- Winnipeg, Manitoba, Canada
-(6, 76, 12, 1),  -- Saskatoon, Saskatchewan, Canada
-(7, 34, 5, 1),   -- St. John's, Newfoundland, Canada
-(8, 62, 10, 1),  -- Charlottetown, PEI, Canada
+(2, 49, 9, 1),   -- Brampton, Ontario, Canada
+(3, 73, 11, 1),  -- Brossard, Quebec, Canada
+(4, 24, 3, 1),   -- Brandon, Manitoba, Canada
+(5, 21, 9, 1),   -- Abbotsford, Ontario, Canada
+(6, 75, 11, 1),  -- Laval, Quebec, Canada
 
 -- 🇺🇸 United States Stores
-(9, 100, 18, 2), -- Los Angeles, California, USA
-(10, 103, 18, 2),-- San Francisco, California, USA
-(11, 238, 45, 2),-- New York City, New York, USA
-(12, 152, 26, 2),-- Chicago, Illinois, USA
-(13, 288, 56, 2),-- Houston, Texas, USA
-(14, 246, 46, 2),-- Charlotte, North Carolina, USA
-(15, 308, 60, 2),-- Seattle, Washington, USA
-(16, 221, 41, 2),-- Las Vegas, Nevada, USA
-(17, 190, 34, 2),-- Boston, Massachusetts, USA
-(18, 201, 36, 2);-- Minneapolis, Minnesota, USA
+(7, 145, 24, 2), -- Hilo, Hawaii, USA
+(8, 105, 18, 2), -- Berkeley, California, USA
+(9, 219, 40, 2), -- Bellevue, Washington, USA
+(10, 310, 60, 2),-- Omaha, Nebraska, USA
+(11, 318, 62, 2),-- Green Bay, Wisconsin, USA
+(12, 311, 60, 2),-- Lincoln, Nebraska, USA
+(13, 108, 18, 2),-- Oakland, California, USA
+(14, 82, 14, 2), -- Birmingham, Alabama, USA
+(15, 160, 27, 2);-- Evansville, Indiana, USA
+
