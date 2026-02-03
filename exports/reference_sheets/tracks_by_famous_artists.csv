@@ -1,0 +1,2368 @@
+icon_id,artist_id,num_albums,artist_name,album_id,track_id,album_name,track_name,media_type_id,track_length
+1,8,4,Adele,1,1,19,Daydreamer,5,335
+1,8,4,Adele,1,2,19,"Best for Last",2,182
+1,8,4,Adele,1,3,19,"Chasing Pavements",1,266
+1,8,4,Adele,1,4,19,"Cold Shoulder",2,357
+1,8,4,Adele,1,5,19,"Crazy for You",4,212
+1,8,4,Adele,1,6,19,"Melt My Heart to Stone",2,181
+1,8,4,Adele,1,7,19,"First Love",3,215
+1,8,4,Adele,1,8,19,"Right as Rain",4,313
+1,8,4,Adele,1,9,19,"Make You Feel My Love",3,302
+1,8,4,Adele,1,10,19,"My Same",1,196
+1,8,4,Adele,1,11,19,Tired,1,269
+1,8,4,Adele,1,12,19,"Hometown Glory",2,319
+1,8,4,Adele,2,13,21,"Rolling in the Deep",1,318
+1,8,4,Adele,2,14,21,"Rumour Has It",3,212
+1,8,4,Adele,2,15,21,"Turning Tables",4,234
+1,8,4,Adele,2,16,21,"Don’t You Remember",4,277
+1,8,4,Adele,2,17,21,"Set Fire to the Rain",3,300
+1,8,4,Adele,2,18,21,"He Won’t Go",1,308
+1,8,4,Adele,2,19,21,"Take It All",2,224
+1,8,4,Adele,2,20,21,"I’ll Be Waiting",3,355
+1,8,4,Adele,2,21,21,"One and Only",5,256
+1,8,4,Adele,2,22,21,Lovesong,1,241
+1,8,4,Adele,2,23,21,"Someone Like You",4,348
+1,8,4,Adele,2,24,21,"If It Hadn’t Been for Love",2,232
+1,8,4,Adele,2,25,21,"Hiding My Heart",3,325
+1,8,4,Adele,2,26,21,"I Found a Boy",3,358
+1,8,4,Adele,3,27,25,Hello,4,242
+1,8,4,Adele,3,28,25,"Send My Love (To Your New Lover)",2,239
+1,8,4,Adele,3,29,25,"I Miss You",4,216
+1,8,4,Adele,3,30,25,"When We Were Young",5,274
+1,8,4,Adele,3,31,25,Remedy,2,233
+1,8,4,Adele,3,32,25,"Water Under the Bridge",3,210
+1,8,4,Adele,3,33,25,"River Lea",4,189
+1,8,4,Adele,3,34,25,"Love in the Dark",3,356
+1,8,4,Adele,3,35,25,"Million Years Ago",3,235
+1,8,4,Adele,3,36,25,"All I Ask",3,285
+1,8,4,Adele,3,37,25,"Sweetest Devotion",4,268
+1,8,4,Adele,4,38,30,"Strangers by Nature",1,332
+1,8,4,Adele,4,39,30,"Easy on Me",1,326
+1,8,4,Adele,4,40,30,"My Little Love",4,339
+1,8,4,Adele,4,41,30,"Cry Your Heart Out",2,323
+1,8,4,Adele,4,42,30,"Oh My God",4,322
+1,8,4,Adele,4,43,30,"Can I Get It",5,326
+1,8,4,Adele,4,44,30,"I Drink Wine",5,314
+1,8,4,Adele,4,45,30,"All Night Parking",4,221
+1,8,4,Adele,4,46,30,"Woman Like Me",3,314
+1,8,4,Adele,4,47,30,"Hold On",3,275
+1,8,4,Adele,4,48,30,"To Be Loved",4,359
+1,8,4,Adele,4,49,30,"Love Is a Game",4,324
+2,68,7,"Ariana Grande",5,50,"Yours Truly","Honeymoon Avenue",4,268
+2,68,7,"Ariana Grande",5,51,"Yours Truly","Baby I",5,199
+2,68,7,"Ariana Grande",5,52,"Yours Truly","Right There",2,241
+2,68,7,"Ariana Grande",5,53,"Yours Truly","Tattooed Heart",4,332
+2,68,7,"Ariana Grande",5,54,"Yours Truly","Lovin’ It",5,181
+2,68,7,"Ariana Grande",5,55,"Yours Truly",Piano,5,287
+2,68,7,"Ariana Grande",5,56,"Yours Truly","Day Dreamin",3,282
+2,68,7,"Ariana Grande",5,57,"Yours Truly","The Way",2,279
+2,68,7,"Ariana Grande",5,58,"Yours Truly","You’ll Never Know",2,214
+2,68,7,"Ariana Grande",5,59,"Yours Truly","Almost Is Never Enough",5,244
+2,68,7,"Ariana Grande",5,60,"Yours Truly","Popular Song",1,332
+2,68,7,"Ariana Grande",5,61,"Yours Truly","Better Left Unsaid",2,203
+2,68,7,"Ariana Grande",6,62,"My Everything",Intro,4,181
+2,68,7,"Ariana Grande",6,63,"My Everything",Problem,1,349
+2,68,7,"Ariana Grande",6,64,"My Everything","One Last Time",5,355
+2,68,7,"Ariana Grande",6,65,"My Everything","Why Try",1,297
+2,68,7,"Ariana Grande",6,66,"My Everything","Break Free",5,203
+2,68,7,"Ariana Grande",6,67,"My Everything","Best Mistake",4,292
+2,68,7,"Ariana Grande",6,68,"My Everything","Be My Baby",1,250
+2,68,7,"Ariana Grande",6,69,"My Everything","Break Your Heart Right Back",3,291
+2,68,7,"Ariana Grande",6,70,"My Everything","Love Me Harder",1,265
+2,68,7,"Ariana Grande",6,71,"My Everything","Just a Little Bit of Your Heart",3,294
+2,68,7,"Ariana Grande",6,72,"My Everything","My Everything",2,246
+2,68,7,"Ariana Grande",7,73,"Dangerous Woman",Moonlight,1,238
+2,68,7,"Ariana Grande",7,74,"Dangerous Woman","Dangerous Woman",1,203
+2,68,7,"Ariana Grande",7,75,"Dangerous Woman","Be Alright",4,211
+2,68,7,"Ariana Grande",7,76,"Dangerous Woman","Into You",1,299
+2,68,7,"Ariana Grande",7,77,"Dangerous Woman","Side to Side",3,194
+2,68,7,"Ariana Grande",7,78,"Dangerous Woman","Let Me Love You",2,200
+2,68,7,"Ariana Grande",7,79,"Dangerous Woman",Greedy,1,221
+2,68,7,"Ariana Grande",7,80,"Dangerous Woman","Leave Me Lonely",3,185
+2,68,7,"Ariana Grande",7,81,"Dangerous Woman",Everyday,5,296
+2,68,7,"Ariana Grande",7,82,"Dangerous Woman",Sometimes,2,322
+2,68,7,"Ariana Grande",7,83,"Dangerous Woman","I Don’t Care",2,214
+2,68,7,"Ariana Grande",7,84,"Dangerous Woman","Bad Decisions",2,227
+2,68,7,"Ariana Grande",8,85,Sweetener,Raindrops,3,206
+2,68,7,"Ariana Grande",8,86,Sweetener,Blazed,2,210
+2,68,7,"Ariana Grande",8,87,Sweetener,"The Light Is Coming",5,300
+2,68,7,"Ariana Grande",8,88,Sweetener,R.E.M.,5,270
+2,68,7,"Ariana Grande",8,89,Sweetener,"God Is a Woman",3,253
+2,68,7,"Ariana Grande",8,90,Sweetener,Sweetener,5,326
+2,68,7,"Ariana Grande",8,91,Sweetener,Successful,2,212
+2,68,7,"Ariana Grande",8,92,Sweetener,Everytime,3,350
+2,68,7,"Ariana Grande",8,93,Sweetener,"No Tears Left to Cry",4,181
+2,68,7,"Ariana Grande",8,94,Sweetener,Borderline,1,249
+2,68,7,"Ariana Grande",8,95,Sweetener,"Better Off",3,196
+2,68,7,"Ariana Grande",8,96,Sweetener,"Goodnight n Go",2,224
+2,68,7,"Ariana Grande",8,97,Sweetener,"Pete Davidson",2,270
+2,68,7,"Ariana Grande",9,98,"Thank U, Next",Imagine,4,292
+2,68,7,"Ariana Grande",9,99,"Thank U, Next",Needy,1,332
+2,68,7,"Ariana Grande",9,100,"Thank U, Next",NASA,2,360
+2,68,7,"Ariana Grande",9,101,"Thank U, Next",Bloodline,3,292
+2,68,7,"Ariana Grande",9,102,"Thank U, Next","Fake Smile",2,348
+2,68,7,"Ariana Grande",9,103,"Thank U, Next","Bad Idea",4,180
+2,68,7,"Ariana Grande",9,104,"Thank U, Next","Make Up",2,223
+2,68,7,"Ariana Grande",9,105,"Thank U, Next",Ghostin,5,199
+2,68,7,"Ariana Grande",10,106,Positions,"Shut Up",2,286
+2,68,7,"Ariana Grande",10,107,Positions,34+35,3,350
+2,68,7,"Ariana Grande",10,108,Positions,Motive,4,329
+2,68,7,"Ariana Grande",10,109,Positions,"Just Like Magic",5,278
+2,68,7,"Ariana Grande",10,110,Positions,"Off the Table",2,250
+2,68,7,"Ariana Grande",10,111,Positions,"Six Thirty",1,270
+2,68,7,"Ariana Grande",10,112,Positions,"Safety Net",4,350
+2,68,7,"Ariana Grande",10,113,Positions,"My Hair",3,183
+2,68,7,"Ariana Grande",10,114,Positions,Nasty,5,320
+2,68,7,"Ariana Grande",10,115,Positions,Position,2,204
+2,68,7,"Ariana Grande",11,116,"Eternal Sunshine","Intro (end of the world)",1,265
+2,68,7,"Ariana Grande",11,117,"Eternal Sunshine",Bye,2,221
+2,68,7,"Ariana Grande",11,118,"Eternal Sunshine","Don’t Wanna Break Up Again",5,352
+2,68,7,"Ariana Grande",11,119,"Eternal Sunshine","Saturn Returns Interlude",2,272
+2,68,7,"Ariana Grande",11,120,"Eternal Sunshine","Eternal Sunshine",2,199
+2,68,7,"Ariana Grande",11,121,"Eternal Sunshine",Supernatural,1,354
+2,68,7,"Ariana Grande",11,122,"Eternal Sunshine",Truelove,1,272
+2,68,7,"Ariana Grande",11,123,"Eternal Sunshine","The Boy Is Mine",4,279
+2,68,7,"Ariana Grande",11,124,"Eternal Sunshine","Yes, And?",5,226
+2,68,7,"Ariana Grande",11,125,"Eternal Sunshine","We Can’t Be Friends",2,273
+2,68,7,"Ariana Grande",11,126,"Eternal Sunshine","Ordinary Thing",1,352
+3,78,4,BLACKPINK,12,127,"Square Up","Ddu-Du Ddu-Du",4,186
+3,78,4,BLACKPINK,12,128,"Square Up","Forever Young",4,333
+3,78,4,BLACKPINK,12,129,"Square Up",Really,1,345
+3,78,4,BLACKPINK,12,130,"Square Up","See U Later",5,326
+3,78,4,BLACKPINK,12,131,"Square Up","As If It’s Your Last",3,195
+3,78,4,BLACKPINK,12,132,"Square Up","Whistle (Remix)",1,350
+3,78,4,BLACKPINK,12,133,"Square Up","Boombayah (Remix)",3,292
+3,78,4,BLACKPINK,12,134,"Square Up","Playing with Fire (Remix)",4,285
+3,78,4,BLACKPINK,12,135,"Square Up","Stay (Remix)",2,200
+3,78,4,BLACKPINK,12,136,"Square Up","Kiss and Make",1,279
+3,78,4,BLACKPINK,12,137,"Square Up","So Hot (Remix)",5,358
+3,78,4,BLACKPINK,12,138,"Square Up","Final Screaming",3,328
+3,78,4,BLACKPINK,13,139,"Kill This Love","Kill This Love",4,270
+3,78,4,BLACKPINK,13,140,"Kill This Love","Don’t Know What To Do",5,304
+3,78,4,BLACKPINK,13,141,"Kill This Love","Kick It",5,246
+3,78,4,BLACKPINK,13,142,"Kill This Love","Hope Not",2,246
+3,78,4,BLACKPINK,13,143,"Kill This Love","Ddu-Du Ddu-Du (Remix)",2,340
+3,78,4,BLACKPINK,13,144,"Kill This Love","Forever Young (Remix)",1,206
+3,78,4,BLACKPINK,13,145,"Kill This Love","See U Later (Inst)",3,260
+3,78,4,BLACKPINK,13,146,"Kill This Love","Kill This Love (Inst)",5,263
+3,78,4,BLACKPINK,14,147,"The Album","How You Like",2,254
+3,78,4,BLACKPINK,14,148,"The Album","Ice Cream",2,268
+3,78,4,BLACKPINK,14,149,"The Album","Pretty Savage",3,288
+3,78,4,BLACKPINK,14,150,"The Album","Bet You Wanna",2,305
+3,78,4,BLACKPINK,14,151,"The Album","Lovesick Girls",4,239
+3,78,4,BLACKPINK,14,152,"The Album","Crazy Over You",1,205
+3,78,4,BLACKPINK,14,153,"The Album","Love to Hate",1,346
+3,78,4,BLACKPINK,14,154,"The Album","You Never Know",1,197
+3,78,4,BLACKPINK,14,155,"The Album","Sour Candy",3,279
+3,78,4,BLACKPINK,14,156,"The Album","Whistle 2.0",2,245
+3,78,4,BLACKPINK,14,157,"The Album","Typa Girl (Demo)",1,293
+3,78,4,BLACKPINK,14,158,"The Album","Stay Gold",1,218
+3,78,4,BLACKPINK,14,159,"The Album","Don’t Know Why",1,197
+3,78,4,BLACKPINK,14,160,"The Album","Hidden Track",5,220
+3,78,4,BLACKPINK,15,161,"Born Pink","Pink Venom",5,235
+3,78,4,BLACKPINK,15,162,"Born Pink","Shut Down",2,322
+3,78,4,BLACKPINK,15,163,"Born Pink","Typa Girl",1,334
+3,78,4,BLACKPINK,15,164,"Born Pink","Yeah Yeah Yeah",2,248
+3,78,4,BLACKPINK,15,165,"Born Pink","Hard to Love",4,237
+3,78,4,BLACKPINK,15,166,"Born Pink","The Happiest Girl",2,219
+3,78,4,BLACKPINK,15,167,"Born Pink",Tally,2,350
+3,78,4,BLACKPINK,15,168,"Born Pink","Ready For Love",5,212
+3,78,4,BLACKPINK,15,169,"Born Pink","Born Pink",3,314
+3,78,4,BLACKPINK,15,170,"Born Pink","So Sick",5,253
+3,78,4,BLACKPINK,15,171,"Born Pink","Stay Wild",1,198
+3,78,4,BLACKPINK,15,172,"Born Pink","Pink Venom (Remix)",5,271
+3,78,4,BLACKPINK,15,173,"Born Pink","Shut Down (Inst)",5,348
+4,79,10,BTS,16,174,"Dark & Wild","Intro: What Am I To You",4,233
+4,79,10,BTS,16,175,"Dark & Wild",Danger,2,250
+4,79,10,BTS,16,176,"Dark & Wild","War of Hormone",3,249
+4,79,10,BTS,16,177,"Dark & Wild","Hip Hop Phile",3,335
+4,79,10,BTS,16,178,"Dark & Wild","Let Me Know",3,345
+4,79,10,BTS,16,179,"Dark & Wild",Rain,2,337
+4,79,10,BTS,16,180,"Dark & Wild","BTS Cypher Pt.3: Killer",2,185
+4,79,10,BTS,16,181,"Dark & Wild","Interlude: What Are You Doing Now",1,180
+4,79,10,BTS,16,182,"Dark & Wild","Can You Turn Off Your Phone",4,229
+4,79,10,BTS,16,183,"Dark & Wild","Blanket Kick",5,316
+4,79,10,BTS,16,184,"Dark & Wild","24/7 = Heaven",4,339
+4,79,10,BTS,16,185,"Dark & Wild","Look Here",4,317
+4,79,10,BTS,16,186,"Dark & Wild","2nd Grade",4,337
+4,79,10,BTS,17,187,Wings,"Intro: Boy Meets Evil",4,274
+4,79,10,BTS,17,188,Wings,"Blood Sweat & Tears",5,354
+4,79,10,BTS,17,189,Wings,Begin,4,357
+4,79,10,BTS,17,190,Wings,Lie,5,280
+4,79,10,BTS,17,191,Wings,Stigmata,4,192
+4,79,10,BTS,17,192,Wings,"First Love (Reimagined)",2,343
+4,79,10,BTS,17,193,Wings,Reflection,3,265
+4,79,10,BTS,17,194,Wings,Mama,1,280
+4,79,10,BTS,17,195,Wings,Awake,1,245
+4,79,10,BTS,18,196,"You Never Walk Alone","Spring Day",1,282
+4,79,10,BTS,18,197,"You Never Walk Alone","Not Today",3,319
+4,79,10,BTS,18,198,"You Never Walk Alone","Outro: Wings",1,352
+4,79,10,BTS,18,199,"You Never Walk Alone","A Supplementary Story: You Never Walk Alone",3,269
+4,79,10,BTS,18,200,"You Never Walk Alone","You're My Euphoria",3,306
+4,79,10,BTS,18,201,"You Never Walk Alone","Lost Stars",1,241
+4,79,10,BTS,18,202,"You Never Walk Alone","Go Go (Reprise)",5,248
+4,79,10,BTS,18,203,"You Never Walk Alone","Crystal Snow",2,246
+4,79,10,BTS,19,204,"Love Yourself: Her","Intro: Serendipity",1,281
+4,79,10,BTS,19,205,"Love Yourself: Her",DNA,5,266
+4,79,10,BTS,19,206,"Love Yourself: Her","Best of Me",4,325
+4,79,10,BTS,19,207,"Love Yourself: Her",Dimple,3,228
+4,79,10,BTS,19,208,"Love Yourself: Her","Pied Piper",2,186
+4,79,10,BTS,19,209,"Love Yourself: Her","Skit: Billboard",2,343
+4,79,10,BTS,19,210,"Love Yourself: Her","MIC Drop",1,322
+4,79,10,BTS,19,211,"Love Yourself: Her","Go Go",4,346
+4,79,10,BTS,19,212,"Love Yourself: Her","Outro: Her",3,252
+4,79,10,BTS,19,213,"Love Yourself: Her","DNA (Remix)",1,272
+4,79,10,BTS,20,214,"Love Yourself: Tear","Intro: Singularity",5,224
+4,79,10,BTS,20,215,"Love Yourself: Tear","Fake Love",5,249
+4,79,10,BTS,20,216,"Love Yourself: Tear","The Truth Untold",1,270
+4,79,10,BTS,20,217,"Love Yourself: Tear",134340,1,358
+4,79,10,BTS,20,218,"Love Yourself: Tear",Paradise,4,209
+4,79,10,BTS,20,219,"Love Yourself: Tear","Love Maze",3,235
+4,79,10,BTS,20,220,"Love Yourself: Tear","Magic Shop",3,325
+4,79,10,BTS,20,221,"Love Yourself: Tear",Airplane,1,309
+4,79,10,BTS,20,222,"Love Yourself: Tear",Anpanman,5,308
+4,79,10,BTS,20,223,"Love Yourself: Tear","Outro: Tear",3,266
+4,79,10,BTS,21,224,"Love Yourself: Answer",Ephera,2,341
+4,79,10,BTS,21,225,"Love Yourself: Answer","Trivia 起: Just Dance",3,289
+4,79,10,BTS,21,226,"Love Yourself: Answer","Serendipity (Full Length Edit)",5,244
+4,79,10,BTS,21,227,"Love Yourself: Answer","DNA (Re-edit)",1,250
+4,79,10,BTS,21,228,"Love Yourself: Answer",IDOL,3,347
+4,79,10,BTS,21,229,"Love Yourself: Answer","Answer: Love Myself",3,229
+4,79,10,BTS,21,230,"Love Yourself: Answer","Trivia 承: Love",4,192
+4,79,10,BTS,21,231,"Love Yourself: Answer","Trivia 轉: Seesaw",5,298
+4,79,10,BTS,21,232,"Love Yourself: Answer","Tear (Remastered)",3,218
+4,79,10,BTS,21,233,"Love Yourself: Answer","Epilogue: Young Forever (Reprise)",2,293
+4,79,10,BTS,21,234,"Love Yourself: Answer","Outro: Answer",4,293
+4,79,10,BTS,22,235,"Map of the Soul: Persona","Intro: Persona",2,266
+4,79,10,BTS,22,236,"Map of the Soul: Persona","Boy With Luv",4,231
+4,79,10,BTS,22,237,"Map of the Soul: Persona",Mikrokosmos,4,313
+4,79,10,BTS,22,238,"Map of the Soul: Persona","Make It Right",3,246
+4,79,10,BTS,22,239,"Map of the Soul: Persona",HOME,1,222
+4,79,10,BTS,22,240,"Map of the Soul: Persona","Jamais Vu",1,249
+4,79,10,BTS,22,241,"Map of the Soul: Persona",Dionysus,1,285
+4,79,10,BTS,22,242,"Map of the Soul: Persona","Map Sketch (interlude)",4,263
+4,79,10,BTS,22,243,"Map of the Soul: Persona","Heartbeat (game version)",3,340
+4,79,10,BTS,22,244,"Map of the Soul: Persona","Soul Map (instrumental)",1,337
+4,79,10,BTS,22,245,"Map of the Soul: Persona","Boy With Luv (Remix)",2,276
+4,79,10,BTS,22,246,"Map of the Soul: Persona","Persona (Live Edit)",5,254
+4,79,10,BTS,22,247,"Map of the Soul: Persona","Dionysus (Remix)",5,188
+4,79,10,BTS,22,248,"Map of the Soul: Persona","Mikrokosmos (Piano Ver.)",5,255
+4,79,10,BTS,23,249,"Map of the Soul: 7","Interlude: Shadow",1,242
+4,79,10,BTS,23,250,"Map of the Soul: 7","Black Swan",4,302
+4,79,10,BTS,23,251,"Map of the Soul: 7",Filter,1,283
+4,79,10,BTS,23,252,"Map of the Soul: 7","My Time",3,194
+4,79,10,BTS,23,253,"Map of the Soul: 7","Louder than Bombs",2,313
+4,79,10,BTS,23,254,"Map of the Soul: 7",ON,1,304
+4,79,10,BTS,23,255,"Map of the Soul: 7",Ugh!,2,319
+4,79,10,BTS,23,256,"Map of the Soul: 7","00:00 (Zero O’Clock)",2,316
+4,79,10,BTS,23,257,"Map of the Soul: 7","Inner Child",5,280
+4,79,10,BTS,23,258,"Map of the Soul: 7",Friends,4,231
+4,79,10,BTS,23,259,"Map of the Soul: 7",Moon,5,307
+4,79,10,BTS,23,260,"Map of the Soul: 7","We are Bulletproof: the Eternal",2,200
+4,79,10,BTS,24,261,BE,"Life Goes On",1,310
+4,79,10,BTS,24,262,BE,"Fly To My Room",2,249
+4,79,10,BTS,24,263,BE,"Blue & Grey",5,269
+4,79,10,BTS,24,264,BE,Skit,3,313
+4,79,10,BTS,24,265,BE,Telepathy,3,314
+4,79,10,BTS,24,266,BE,Dis-ease,2,312
+4,79,10,BTS,24,267,BE,Stay,2,334
+4,79,10,BTS,24,268,BE,Dynamite,3,214
+4,79,10,BTS,24,269,BE,"Life Goes On (Acoustic)",1,201
+4,79,10,BTS,24,270,BE,"BE (Outro)",5,277
+4,79,10,BTS,25,271,Proof,"Yet To Come",3,331
+4,79,10,BTS,25,272,Proof,"Run BTS",2,269
+4,79,10,BTS,25,273,Proof,"Born Singers",2,324
+4,79,10,BTS,25,274,Proof,"No More Dream (2022 Ver)",5,244
+4,79,10,BTS,25,275,Proof,"Butter (Peaches Remix)",5,264
+4,79,10,BTS,25,276,Proof,"Fake Love (Rock Mix)",4,316
+4,79,10,BTS,25,277,Proof,"For Youth",4,349
+4,79,10,BTS,25,278,Proof,"Run (Re-edit)",5,243
+4,79,10,BTS,25,279,Proof,"DDAENG (Hidden Track)",1,323
+4,79,10,BTS,25,280,Proof,"House of Card (Full Length)",2,355
+4,79,10,BTS,25,281,Proof,"We Are Bulletproof PT.2 (Remastered)",4,205
+4,79,10,BTS,25,282,Proof,"ON (Orchestral Ver.)",3,242
+4,79,10,BTS,25,283,Proof,"Outro: Jungkook’s Note",2,283
+5,80,5,"Bad Bunny",26,284,"X 100PRE","Ni Bien Ni Mal",2,257
+5,80,5,"Bad Bunny",26,285,"X 100PRE","200 MPH",2,317
+5,80,5,"Bad Bunny",26,286,"X 100PRE","¿Quién Tú Eres?",2,338
+5,80,5,"Bad Bunny",26,287,"X 100PRE",Caro,1,304
+5,80,5,"Bad Bunny",26,288,"X 100PRE","Tenemos Que Hablar",5,352
+5,80,5,"Bad Bunny",26,289,"X 100PRE","Otra Noche en Miami",3,249
+5,80,5,"Bad Bunny",26,290,"X 100PRE","Ser Bichote",2,228
+5,80,5,"Bad Bunny",26,291,"X 100PRE","Si Estuviésemos Juntos",1,289
+5,80,5,"Bad Bunny",26,292,"X 100PRE","Solo de Mí",5,340
+5,80,5,"Bad Bunny",26,293,"X 100PRE","Cuando Perriabas",2,299
+5,80,5,"Bad Bunny",26,294,"X 100PRE","La Romana",5,337
+5,80,5,"Bad Bunny",27,295,YHLQMDLG,"Si Veo a Tu Mamá",3,254
+5,80,5,"Bad Bunny",27,296,YHLQMDLG,"La Difícil",2,272
+5,80,5,"Bad Bunny",27,297,YHLQMDLG,"Pero Ya No",3,325
+5,80,5,"Bad Bunny",27,298,YHLQMDLG,"La Santa",5,354
+5,80,5,"Bad Bunny",27,299,YHLQMDLG,"Yo Perreo Sola",2,304
+5,80,5,"Bad Bunny",27,300,YHLQMDLG,Bichiyal,2,292
+5,80,5,"Bad Bunny",27,301,YHLQMDLG,Sol,2,197
+5,80,5,"Bad Bunny",27,302,YHLQMDLG,"La Zona",3,360
+5,80,5,"Bad Bunny",27,303,YHLQMDLG,"A Tu Merced",5,326
+5,80,5,"Bad Bunny",27,304,YHLQMDLG,Ignorantes,3,208
+5,80,5,"Bad Bunny",27,305,YHLQMDLG,Vete,4,305
+5,80,5,"Bad Bunny",28,306,"El Último Tour Del Mundo","El Mundo es Mío",1,257
+5,80,5,"Bad Bunny",28,307,"El Último Tour Del Mundo","Te Mudaste",2,261
+5,80,5,"Bad Bunny",28,308,"El Último Tour Del Mundo","Hoy Cobramos",4,319
+5,80,5,"Bad Bunny",28,309,"El Último Tour Del Mundo","Maldita Pobreza",3,194
+5,80,5,"Bad Bunny",28,310,"El Último Tour Del Mundo","La Noche de Anoche",5,235
+5,80,5,"Bad Bunny",28,311,"El Último Tour Del Mundo","Te Deseo lo Mejor",2,315
+5,80,5,"Bad Bunny",28,312,"El Último Tour Del Mundo","Yo Visto Así",2,342
+5,80,5,"Bad Bunny",28,313,"El Último Tour Del Mundo","Haciendo que Me Ame",5,333
+5,80,5,"Bad Bunny",28,314,"El Último Tour Del Mundo","Booker T",2,190
+5,80,5,"Bad Bunny",28,315,"El Último Tour Del Mundo",Dákiti,4,356
+5,80,5,"Bad Bunny",28,316,"El Último Tour Del Mundo",120,2,204
+5,80,5,"Bad Bunny",28,317,"El Último Tour Del Mundo","Antes que se Vaya",5,251
+5,80,5,"Bad Bunny",28,318,"El Último Tour Del Mundo","Cantares de Navidad",2,186
+5,80,5,"Bad Bunny",29,319,"Un Verano Sin Ti","Moscow Mule",1,214
+5,80,5,"Bad Bunny",29,320,"Un Verano Sin Ti","Después de la Playa",4,256
+5,80,5,"Bad Bunny",29,321,"Un Verano Sin Ti","Me Porto Bonito",3,346
+5,80,5,"Bad Bunny",29,322,"Un Verano Sin Ti","Titi Me Preguntó",1,243
+5,80,5,"Bad Bunny",29,323,"Un Verano Sin Ti","Ojitos Lindos",2,243
+5,80,5,"Bad Bunny",29,324,"Un Verano Sin Ti","Un Ratito",4,199
+5,80,5,"Bad Bunny",29,325,"Un Verano Sin Ti",Efecto,4,283
+5,80,5,"Bad Bunny",29,326,"Un Verano Sin Ti",Andrea,3,284
+5,80,5,"Bad Bunny",29,327,"Un Verano Sin Ti",Callaíta,5,350
+5,80,5,"Bad Bunny",30,328,"Nadie Sabe Lo Que Va a Pasar Mañana","Nadie Sabe",5,264
+5,80,5,"Bad Bunny",30,329,"Nadie Sabe Lo Que Va a Pasar Mañana",Monaco,5,181
+5,80,5,"Bad Bunny",30,330,"Nadie Sabe Lo Que Va a Pasar Mañana",Fina,5,278
+5,80,5,"Bad Bunny",30,331,"Nadie Sabe Lo Que Va a Pasar Mañana",Hibiki,3,336
+5,80,5,"Bad Bunny",30,332,"Nadie Sabe Lo Que Va a Pasar Mañana","Mr. October",3,338
+5,80,5,"Bad Bunny",30,333,"Nadie Sabe Lo Que Va a Pasar Mañana",Cybertruck,5,222
+5,80,5,"Bad Bunny",30,334,"Nadie Sabe Lo Que Va a Pasar Mañana","Vou 787",3,181
+5,80,5,"Bad Bunny",30,335,"Nadie Sabe Lo Que Va a Pasar Mañana","Un Preview",1,316
+5,80,5,"Bad Bunny",30,336,"Nadie Sabe Lo Que Va a Pasar Mañana","Where She Goes",2,353
+6,88,3,"Billie Eilish",31,337,"When We All Fall Asleep, Where Do We Go?",!!!!!!!!,5,311
+6,88,3,"Billie Eilish",31,338,"When We All Fall Asleep, Where Do We Go?","Bad Guy",1,343
+6,88,3,"Billie Eilish",31,339,"When We All Fall Asleep, Where Do We Go?",Xanny,5,310
+6,88,3,"Billie Eilish",31,340,"When We All Fall Asleep, Where Do We Go?","You Should See Me in a Crown",3,336
+6,88,3,"Billie Eilish",31,341,"When We All Fall Asleep, Where Do We Go?","All the Good Girls Go to Hell",5,334
+6,88,3,"Billie Eilish",31,342,"When We All Fall Asleep, Where Do We Go?","Wish You Were Gay",2,241
+6,88,3,"Billie Eilish",31,343,"When We All Fall Asleep, Where Do We Go?","When the Party’s Over",3,246
+6,88,3,"Billie Eilish",31,344,"When We All Fall Asleep, Where Do We Go?",8,2,285
+6,88,3,"Billie Eilish",31,345,"When We All Fall Asleep, Where Do We Go?","My Strange Addiction",4,310
+6,88,3,"Billie Eilish",31,346,"When We All Fall Asleep, Where Do We Go?","Bury a Friend",4,352
+6,88,3,"Billie Eilish",32,347,"Happier Than Ever","Getting Older",1,332
+6,88,3,"Billie Eilish",32,348,"Happier Than Ever","I Didn’t Change",4,195
+6,88,3,"Billie Eilish",32,349,"Happier Than Ever","Billie Bossa Nova",2,234
+6,88,3,"Billie Eilish",32,350,"Happier Than Ever","My Future",4,223
+6,88,3,"Billie Eilish",32,351,"Happier Than Ever",O,1,203
+6,88,3,"Billie Eilish",32,352,"Happier Than Ever",Goldwing,4,182
+6,88,3,"Billie Eilish",32,353,"Happier Than Ever","Lost Cause",4,328
+6,88,3,"Billie Eilish",32,354,"Happier Than Ever","Halley’s Comet",2,224
+6,88,3,"Billie Eilish",32,355,"Happier Than Ever","Not My Responsibility",3,318
+6,88,3,"Billie Eilish",32,356,"Happier Than Ever",OverHeated,2,251
+6,88,3,"Billie Eilish",32,357,"Happier Than Ever","Everybody Dies",4,252
+6,88,3,"Billie Eilish",32,358,"Happier Than Ever","Your Power",1,185
+6,88,3,"Billie Eilish",32,359,"Happier Than Ever",NDA,2,254
+6,88,3,"Billie Eilish",32,360,"Happier Than Ever","Happier Than Ever",1,263
+6,88,3,"Billie Eilish",33,361,"Hit Me Hard and Soft",Skinny,4,308
+6,88,3,"Billie Eilish",33,362,"Hit Me Hard and Soft",Lunch,3,306
+6,88,3,"Billie Eilish",33,363,"Hit Me Hard and Soft",Chihiro,1,273
+6,88,3,"Billie Eilish",33,364,"Hit Me Hard and Soft","Birds of a Feather",1,207
+6,88,3,"Billie Eilish",33,365,"Hit Me Hard and Soft",Wildflow,2,247
+6,88,3,"Billie Eilish",33,366,"Hit Me Hard and Soft","The Greatest",1,273
+6,88,3,"Billie Eilish",33,367,"Hit Me Hard and Soft","L’amour de Ma Vie",4,339
+6,88,3,"Billie Eilish",33,368,"Hit Me Hard and Soft","The Dinn",5,295
+6,88,3,"Billie Eilish",33,369,"Hit Me Hard and Soft",Bittersuite,1,235
+6,88,3,"Billie Eilish",33,370,"Hit Me Hard and Soft",Blue,3,336
+6,88,3,"Billie Eilish",33,371,"Hit Me Hard and Soft",Heaven,2,188
+6,88,3,"Billie Eilish",33,372,"Hit Me Hard and Soft","Slip Away",1,224
+6,88,3,"Billie Eilish",33,373,"Hit Me Hard and Soft","Hit Me Softly",5,348
+7,120,4,"Bruno Mars",34,374,"Doo-Wops & Hooligans",Grenade,2,193
+7,120,4,"Bruno Mars",34,375,"Doo-Wops & Hooligans","Just the Way You Are",4,192
+7,120,4,"Bruno Mars",34,376,"Doo-Wops & Hooligans","Our First Time",4,357
+7,120,4,"Bruno Mars",34,377,"Doo-Wops & Hooligans","Runaway Baby",1,312
+7,120,4,"Bruno Mars",34,378,"Doo-Wops & Hooligans","The Lazy Song",5,190
+7,120,4,"Bruno Mars",34,379,"Doo-Wops & Hooligans","Marry You",4,353
+7,120,4,"Bruno Mars",34,380,"Doo-Wops & Hooligans","Talking to the Moon",3,252
+7,120,4,"Bruno Mars",34,381,"Doo-Wops & Hooligans","Liquor Store Blues",1,322
+7,120,4,"Bruno Mars",34,382,"Doo-Wops & Hooligans","Count on Me",4,212
+7,120,4,"Bruno Mars",34,383,"Doo-Wops & Hooligans","The Other Side",1,189
+7,120,4,"Bruno Mars",34,384,"Doo-Wops & Hooligans","Somewhere in Brooklyn",1,230
+7,120,4,"Bruno Mars",35,385,"Unorthodox Jukebox","Young Girls",4,324
+7,120,4,"Bruno Mars",35,386,"Unorthodox Jukebox","Locked Out of Heaven",1,214
+7,120,4,"Bruno Mars",35,387,"Unorthodox Jukebox",Gorilla,2,309
+7,120,4,"Bruno Mars",35,388,"Unorthodox Jukebox",Treasure,3,252
+7,120,4,"Bruno Mars",35,389,"Unorthodox Jukebox",Moonshine,2,185
+7,120,4,"Bruno Mars",35,390,"Unorthodox Jukebox","When I Was Your Man",1,332
+7,120,4,"Bruno Mars",35,391,"Unorthodox Jukebox",Natalie,1,283
+7,120,4,"Bruno Mars",35,392,"Unorthodox Jukebox","Show Me",2,210
+7,120,4,"Bruno Mars",35,393,"Unorthodox Jukebox","Money Make Her Smile",5,192
+7,120,4,"Bruno Mars",35,394,"Unorthodox Jukebox","If I Knew",4,309
+7,120,4,"Bruno Mars",36,395,"24K Magic","24K Magic",2,268
+7,120,4,"Bruno Mars",36,396,"24K Magic",Chunky,1,223
+7,120,4,"Bruno Mars",36,397,"24K Magic",Perm,2,214
+7,120,4,"Bruno Mars",36,398,"24K Magic","That’s What I Like",5,318
+7,120,4,"Bruno Mars",36,399,"24K Magic","Versace on the Floor",1,240
+7,120,4,"Bruno Mars",36,400,"24K Magic","Straight Up & Down",3,197
+7,120,4,"Bruno Mars",36,401,"24K Magic","Calling All My Lovelies",5,247
+7,120,4,"Bruno Mars",36,402,"24K Magic",Finesse,5,194
+7,120,4,"Bruno Mars",36,403,"24K Magic","Too Good to Say Goodbye",4,317
+7,120,4,"Bruno Mars",36,404,"24K Magic","24K Reprise",4,303
+7,120,4,"Bruno Mars",36,405,"24K Magic","Funky Friday",3,275
+7,120,4,"Bruno Mars",37,406,"An Evening with Silk Sonic","Silk Sonic Intro",3,294
+7,120,4,"Bruno Mars",37,407,"An Evening with Silk Sonic","Leave the Door Open",5,194
+7,120,4,"Bruno Mars",37,408,"An Evening with Silk Sonic","Fly as Me",2,296
+7,120,4,"Bruno Mars",37,409,"An Evening with Silk Sonic","After Last Night",2,290
+7,120,4,"Bruno Mars",37,410,"An Evening with Silk Sonic","Smokin Out the Window",5,204
+7,120,4,"Bruno Mars",37,411,"An Evening with Silk Sonic","Put on a Smile",5,212
+7,120,4,"Bruno Mars",37,412,"An Evening with Silk Sonic",777,3,360
+7,120,4,"Bruno Mars",37,413,"An Evening with Silk Sonic",Skate,1,263
+7,120,4,"Bruno Mars",37,414,"An Evening with Silk Sonic","Blast Off",3,219
+7,120,4,"Bruno Mars",37,415,"An Evening with Silk Sonic","Silk Sonic Outro Jam",3,231
+8,124,3,"Camila Cabello",38,416,Camila,"Never Be the Same",4,308
+8,124,3,"Camila Cabello",38,417,Camila,"All These Years",1,244
+8,124,3,"Camila Cabello",38,418,Camila,"She Loves Control",3,322
+8,124,3,"Camila Cabello",38,419,Camila,Havana,2,218
+8,124,3,"Camila Cabello",38,420,Camila,"Inside Out",2,350
+8,124,3,"Camila Cabello",38,421,Camila,Consequences,3,295
+8,124,3,"Camila Cabello",38,422,Camila,"Real Friends",4,305
+8,124,3,"Camila Cabello",38,423,Camila,"Somethin’s Gotta Give",2,245
+8,124,3,"Camila Cabello",38,424,Camila,"In the Middle",3,229
+8,124,3,"Camila Cabello",38,425,Camila,"Into It",1,360
+8,124,3,"Camila Cabello",38,426,Camila,"I Have Questions",2,214
+8,124,3,"Camila Cabello",38,427,Camila,"Cry for Me",2,255
+8,124,3,"Camila Cabello",38,428,Camila,"Havana (Remix)",2,312
+8,124,3,"Camila Cabello",39,429,Romance,Shameless,3,221
+8,124,3,"Camila Cabello",39,430,Romance,"Livin’ Proof",1,217
+8,124,3,"Camila Cabello",39,431,Romance,"Should’ve Said It",3,184
+8,124,3,"Camila Cabello",39,432,Romance,Senorita,1,355
+8,124,3,"Camila Cabello",39,433,Romance,Liar,2,325
+8,124,3,"Camila Cabello",39,434,Romance,"Bad Kind of Butterflies",4,305
+8,124,3,"Camila Cabello",39,435,Romance,Easy,1,337
+8,124,3,"Camila Cabello",39,436,Romance,"Feel It Twice",1,245
+8,124,3,"Camila Cabello",39,437,Romance,"This Love",1,238
+8,124,3,"Camila Cabello",39,438,Romance,"Used to This",1,352
+8,124,3,"Camila Cabello",40,439,Familia,"Familia Intro",2,309
+8,124,3,"Camila Cabello",40,440,Familia,Celia,2,195
+8,124,3,"Camila Cabello",40,441,Familia,Psychofreak,4,207
+8,124,3,"Camila Cabello",40,442,Familia,"Bam Bam",4,208
+8,124,3,"Camila Cabello",40,443,Familia,"La Buena",2,330
+8,124,3,"Camila Cabello",40,444,Familia,Quiet,3,236
+8,124,3,"Camila Cabello",40,445,Familia,"Boys Don’t Cry",1,216
+8,124,3,"Camila Cabello",40,446,Familia,"Hasta Los Dientes",4,261
+8,124,3,"Camila Cabello",40,447,Familia,"No Doubt",3,311
+8,124,3,"Camila Cabello",40,448,Familia,"Don’t Go Yet",1,323
+8,124,3,"Camila Cabello",40,449,Familia,Lola,3,316
+8,124,3,"Camila Cabello",40,450,Familia,"Everyone At This Party",4,266
+8,124,3,"Camila Cabello",40,451,Familia,"Si No Estás",1,360
+9,236,4,"Doja Cat",41,452,Amala,"Go to Townx",4,310
+9,236,4,"Doja Cat",41,453,Amala,"Cookie Jarrx",1,251
+9,236,4,"Doja Cat",41,454,Amala,Mooox,1,348
+9,236,4,"Doja Cat",41,455,Amala,Nakedx,1,183
+9,236,4,"Doja Cat",41,456,Amala,Gamex,4,347
+9,236,4,"Doja Cat",41,457,Amala,"No Policex",3,238
+9,236,4,"Doja Cat",41,458,Amala,"Wine Pon Youx",5,317
+9,236,4,"Doja Cat",41,459,Amala,Fancyx,1,308
+9,236,4,"Doja Cat",41,460,Amala,"Wild Beex",3,265
+9,236,4,"Doja Cat",41,461,Amala,"Morning Lightx",5,308
+9,236,4,"Doja Cat",41,462,Amala,Candyx,3,307
+9,236,4,"Doja Cat",41,463,Amala,"Down Lowx",1,207
+9,236,4,"Doja Cat",41,464,Amala,"Body Languagex *(bonus)*",5,280
+9,236,4,"Doja Cat",41,465,Amala,"So Highx *(bonus)*",3,260
+9,236,4,"Doja Cat",42,466,"Hot Pink","Cyber S*x",4,276
+9,236,4,"Doja Cat",42,467,"Hot Pink","Won’t Bitex",4,267
+9,236,4,"Doja Cat",42,468,"Hot Pink",Rulesx,1,346
+9,236,4,"Doja Cat",42,469,"Hot Pink","Bottom B***hx",3,220
+9,236,4,"Doja Cat",42,470,"Hot Pink","Say Sox",1,327
+9,236,4,"Doja Cat",42,471,"Hot Pink","Like Thatx",1,263
+9,236,4,"Doja Cat",42,472,"Hot Pink","Talk D*x",4,353
+9,236,4,"Doja Cat",42,473,"Hot Pink",Addictionx,3,268
+9,236,4,"Doja Cat",42,474,"Hot Pink",Streetsx,1,249
+9,236,4,"Doja Cat",42,475,"Hot Pink",Shinex,1,213
+9,236,4,"Doja Cat",42,476,"Hot Pink","Better Than Mex",3,267
+9,236,4,"Doja Cat",42,477,"Hot Pink",Juicex,4,346
+9,236,4,"Doja Cat",42,478,"Hot Pink","Seex *(outro)*",3,225
+9,236,4,"Doja Cat",43,479,"Planet Her",Womanx,1,340
+9,236,4,"Doja Cat",43,480,"Planet Her","Nakedx (Reimagined)",5,320
+9,236,4,"Doja Cat",43,481,"Planet Her",Paydayx,3,236
+9,236,4,"Doja Cat",43,482,"Planet Her","Get Into It (Yuh)x",5,271
+9,236,4,"Doja Cat",43,483,"Planet Her","Need to Knowx",2,191
+9,236,4,"Doja Cat",43,484,"Planet Her","I Don’t Do Drugsx",5,275
+9,236,4,"Doja Cat",43,485,"Planet Her","Love to Dreamx",3,282
+9,236,4,"Doja Cat",43,486,"Planet Her","You Rightx",2,204
+9,236,4,"Doja Cat",43,487,"Planet Her","Been Like Thisx",5,267
+9,236,4,"Doja Cat",43,488,"Planet Her",Optionsx,4,305
+9,236,4,"Doja Cat",44,489,Scarlet,"Paint the Town Redx",1,310
+9,236,4,"Doja Cat",44,490,Scarlet,Demonsx,5,354
+9,236,4,"Doja Cat",44,491,Scarlet,Attentionx,1,348
+9,236,4,"Doja Cat",44,492,Scarlet,Balutx,1,187
+9,236,4,"Doja Cat",44,493,Scarlet,97x,1,260
+9,236,4,"Doja Cat",44,494,Scarlet,Skullyx,1,223
+9,236,4,"Doja Cat",44,495,Scarlet,Ouchiex,5,330
+9,236,4,"Doja Cat",44,496,Scarlet,"Love Lifex",5,268
+9,236,4,"Doja Cat",44,497,Scarlet,W-t-vx,3,188
+9,236,4,"Doja Cat",44,498,Scarlet,Shutx,4,227
+9,236,4,"Doja Cat",44,499,Scarlet,"Agora Hillsx",3,326
+10,254,5,Drake,45,500,"Thank Me Later",Fireworks,2,236
+10,254,5,Drake,45,501,"Thank Me Later",Karaoke,1,331
+10,254,5,Drake,45,502,"Thank Me Later","The Resistance",4,334
+10,254,5,Drake,45,503,"Thank Me Later",Over,4,229
+10,254,5,Drake,45,504,"Thank Me Later","Show Me a Good Time",4,223
+10,254,5,Drake,45,505,"Thank Me Later","Up All Night",5,285
+10,254,5,Drake,45,506,"Thank Me Later",Fancy,2,346
+10,254,5,Drake,45,507,"Thank Me Later","Shut It Down",4,240
+10,254,5,Drake,45,508,"Thank Me Later",Unforgettable,3,341
+10,254,5,Drake,45,509,"Thank Me Later","Light Up",3,261
+10,254,5,Drake,45,510,"Thank Me Later","Miss Me",3,314
+10,254,5,Drake,45,511,"Thank Me Later","Thank Me Now",5,184
+10,254,5,Drake,46,512,"Take Care","Over My Dead Body",1,289
+10,254,5,Drake,46,513,"Take Care","Shot for Me",4,218
+10,254,5,Drake,46,514,"Take Care",Headlines,1,284
+10,254,5,Drake,46,515,"Take Care","Crew Love",2,187
+10,254,5,Drake,46,516,"Take Care","Take Care",5,225
+10,254,5,Drake,46,517,"Take Care","Marvin’s Room",5,336
+10,254,5,Drake,46,518,"Take Care","Underground Kings",5,339
+10,254,5,Drake,46,519,"Take Care","We’ll Be Fine",5,194
+10,254,5,Drake,46,520,"Take Care","Make Me Proud",5,331
+10,254,5,Drake,46,521,"Take Care","Lord Knows",1,290
+10,254,5,Drake,46,522,"Take Care",Cameras,1,291
+10,254,5,Drake,46,523,"Take Care","Doing It Wrong",4,349
+10,254,5,Drake,46,524,"Take Care","The Ride",3,357
+10,254,5,Drake,47,525,"Nothing Was the Same","Tuscan Leather",4,321
+10,254,5,Drake,47,526,"Nothing Was the Same","Furthest Thing",1,256
+10,254,5,Drake,47,527,"Nothing Was the Same","Started from the Bottom",4,283
+10,254,5,Drake,47,528,"Nothing Was the Same","Wu-Tang Forever",4,273
+10,254,5,Drake,47,529,"Nothing Was the Same","Own It",1,291
+10,254,5,Drake,47,530,"Nothing Was the Same","Worst Behaviour",2,340
+10,254,5,Drake,47,531,"Nothing Was the Same","From Time",4,344
+10,254,5,Drake,47,532,"Nothing Was the Same","Hold On, We’re Going Home",3,219
+10,254,5,Drake,47,533,"Nothing Was the Same",Connect,5,213
+10,254,5,Drake,47,534,"Nothing Was the Same","The Language",4,214
+10,254,5,Drake,47,535,"Nothing Was the Same","All Me",2,211
+10,254,5,Drake,48,536,"If You're Reading This It's Too Late",Legend,5,185
+10,254,5,Drake,48,537,"If You're Reading This It's Too Late",Energy,1,354
+10,254,5,Drake,48,538,"If You're Reading This It's Too Late","10 Bands",3,253
+10,254,5,Drake,48,539,"If You're Reading This It's Too Late","Know Yourself",3,184
+10,254,5,Drake,48,540,"If You're Reading This It's Too Late","No Tellin’",2,337
+10,254,5,Drake,48,541,"If You're Reading This It's Too Late",Madonna,5,342
+10,254,5,Drake,48,542,"If You're Reading This It's Too Late","6 God",4,301
+10,254,5,Drake,48,543,"If You're Reading This It's Too Late",Star67,1,357
+10,254,5,Drake,48,544,"If You're Reading This It's Too Late",Preach,3,300
+10,254,5,Drake,48,545,"If You're Reading This It's Too Late","Used To",1,252
+10,254,5,Drake,48,546,"If You're Reading This It's Too Late","6 Man",1,286
+10,254,5,Drake,48,547,"If You're Reading This It's Too Late","You & The 6",2,290
+10,254,5,Drake,49,548,Views,"Keep the Family Close",2,199
+10,254,5,Drake,49,549,Views,9,4,220
+10,254,5,Drake,49,550,Views,"U With Me",1,229
+10,254,5,Drake,49,551,Views,"Feel No Ways",2,180
+10,254,5,Drake,49,552,Views,Hype,4,307
+10,254,5,Drake,49,553,Views,"Weston Road Flow",2,292
+10,254,5,Drake,49,554,Views,Redemption,1,339
+10,254,5,Drake,49,555,Views,"With You",3,261
+10,254,5,Drake,49,556,Views,Faithful,1,248
+10,254,5,Drake,49,557,Views,"Still Here",4,293
+10,254,5,Drake,49,558,Views,Controlla,1,204
+10,254,5,Drake,49,559,Views,"One Dance",4,344
+10,254,5,Drake,49,560,Views,Views,2,210
+11,260,7,"Ed Sheeran",50,561,"+ (Plus)","The A Team",3,303
+11,260,7,"Ed Sheeran",50,562,"+ (Plus)",Drunk,5,253
+11,260,7,"Ed Sheeran",50,563,"+ (Plus)",U.N.I.,3,356
+11,260,7,"Ed Sheeran",50,564,"+ (Plus)","Grade 8",1,296
+11,260,7,"Ed Sheeran",50,565,"+ (Plus)","Wake Me Up",3,262
+11,260,7,"Ed Sheeran",50,566,"+ (Plus)","Small Bump",1,347
+11,260,7,"Ed Sheeran",50,567,"+ (Plus)",This,1,264
+11,260,7,"Ed Sheeran",50,568,"+ (Plus)","The City",5,241
+11,260,7,"Ed Sheeran",50,569,"+ (Plus)","Lego House",5,306
+11,260,7,"Ed Sheeran",50,570,"+ (Plus)","You Need Me",3,284
+11,260,7,"Ed Sheeran",50,571,"+ (Plus)","Kiss Me",1,225
+11,260,7,"Ed Sheeran",50,572,"+ (Plus)","Give Me Love",5,319
+11,260,7,"Ed Sheeran",50,573,"+ (Plus)","Autumn Leaves",4,247
+11,260,7,"Ed Sheeran",50,574,"+ (Plus)",Sunburn,5,307
+11,260,7,"Ed Sheeran",51,575,"× (Multiply)",One,2,180
+11,260,7,"Ed Sheeran",51,576,"× (Multiply)","I’m a Mess",4,308
+11,260,7,"Ed Sheeran",51,577,"× (Multiply)",Sing,4,201
+11,260,7,"Ed Sheeran",51,578,"× (Multiply)",Don’t,3,288
+11,260,7,"Ed Sheeran",51,579,"× (Multiply)",Nina,3,255
+11,260,7,"Ed Sheeran",51,580,"× (Multiply)",Photograph,2,301
+11,260,7,"Ed Sheeran",51,581,"× (Multiply)",Bloodstream,5,255
+11,260,7,"Ed Sheeran",51,582,"× (Multiply)","Tenerife Sea",5,221
+11,260,7,"Ed Sheeran",51,583,"× (Multiply)",Runaway,3,227
+11,260,7,"Ed Sheeran",51,584,"× (Multiply)","Thinking Out Loud",5,223
+11,260,7,"Ed Sheeran",52,585,"÷ (Divide)",Eraser,3,310
+11,260,7,"Ed Sheeran",52,586,"÷ (Divide)","Castle on the Hill",4,198
+11,260,7,"Ed Sheeran",52,587,"÷ (Divide)",Dive,5,261
+11,260,7,"Ed Sheeran",52,588,"÷ (Divide)","Shape of You",1,312
+11,260,7,"Ed Sheeran",52,589,"÷ (Divide)",Perfect,3,326
+11,260,7,"Ed Sheeran",52,590,"÷ (Divide)","Galway Girl",2,298
+11,260,7,"Ed Sheeran",52,591,"÷ (Divide)",Happier,2,206
+11,260,7,"Ed Sheeran",52,592,"÷ (Divide)","New Man",2,196
+11,260,7,"Ed Sheeran",52,593,"÷ (Divide)","Hearts Don’t Break Around Here",5,261
+11,260,7,"Ed Sheeran",52,594,"÷ (Divide)","What Do I Know?",4,219
+11,260,7,"Ed Sheeran",52,595,"÷ (Divide)","How Would You Feel",3,282
+11,260,7,"Ed Sheeran",52,596,"÷ (Divide)","Supermarket Flowers",2,278
+11,260,7,"Ed Sheeran",52,597,"÷ (Divide)",Barcelona,2,325
+11,260,7,"Ed Sheeran",53,598,"No.6 Collaborations Project","Beautiful People",1,358
+11,260,7,"Ed Sheeran",53,599,"No.6 Collaborations Project","South of the Border",4,319
+11,260,7,"Ed Sheeran",53,600,"No.6 Collaborations Project","Cross Me",4,201
+11,260,7,"Ed Sheeran",53,601,"No.6 Collaborations Project","Take Me Back to London",4,265
+11,260,7,"Ed Sheeran",53,602,"No.6 Collaborations Project","Best Part of Me",4,295
+11,260,7,"Ed Sheeran",53,603,"No.6 Collaborations Project","I Don't Care",1,330
+11,260,7,"Ed Sheeran",53,604,"No.6 Collaborations Project",Antisocial,3,228
+11,260,7,"Ed Sheeran",53,605,"No.6 Collaborations Project","Remember the Name",3,312
+11,260,7,"Ed Sheeran",53,606,"No.6 Collaborations Project",Feels,1,273
+11,260,7,"Ed Sheeran",53,607,"No.6 Collaborations Project","Put It All on Me",1,242
+11,260,7,"Ed Sheeran",53,608,"No.6 Collaborations Project","Nothing on You",1,314
+11,260,7,"Ed Sheeran",53,609,"No.6 Collaborations Project","I Don't Want Your Money",1,358
+11,260,7,"Ed Sheeran",53,610,"No.6 Collaborations Project",Blow,1,272
+11,260,7,"Ed Sheeran",54,611,"= (Equals)",Tides,3,333
+11,260,7,"Ed Sheeran",54,612,"= (Equals)",Shivers,5,229
+11,260,7,"Ed Sheeran",54,613,"= (Equals)","First Time",5,196
+11,260,7,"Ed Sheeran",54,614,"= (Equals)","Bad Habits",5,238
+11,260,7,"Ed Sheeran",54,615,"= (Equals)","Overpass Graffiti",2,344
+11,260,7,"Ed Sheeran",54,616,"= (Equals)","The Joker and the Queen",4,182
+11,260,7,"Ed Sheeran",54,617,"= (Equals)","Leave Your Life",2,223
+11,260,7,"Ed Sheeran",54,618,"= (Equals)",Collide,1,305
+11,260,7,"Ed Sheeran",54,619,"= (Equals)",2step,4,259
+11,260,7,"Ed Sheeran",54,620,"= (Equals)","Stop the Rain",5,313
+11,260,7,"Ed Sheeran",54,621,"= (Equals)","Visiting Hours",3,273
+11,260,7,"Ed Sheeran",55,622,"- (Subtract)",Boat,1,283
+11,260,7,"Ed Sheeran",55,623,"- (Subtract)","Salt Water",3,276
+11,260,7,"Ed Sheeran",55,624,"- (Subtract)","Eyes Closed",4,232
+11,260,7,"Ed Sheeran",55,625,"- (Subtract)",Life,5,326
+11,260,7,"Ed Sheeran",55,626,"- (Subtract)",Dusty,5,205
+11,260,7,"Ed Sheeran",55,627,"- (Subtract)","End of Youth",4,338
+11,260,7,"Ed Sheeran",55,628,"- (Subtract)",Colourblind,1,307
+11,260,7,"Ed Sheeran",55,629,"- (Subtract)",Curtain,4,228
+11,260,7,"Ed Sheeran",55,630,"- (Subtract)","Borderline (Reimagined)",4,302
+11,260,7,"Ed Sheeran",55,631,"- (Subtract)",Spark,1,293
+11,260,7,"Ed Sheeran",56,632,"Autumn Variations",Magical,2,319
+11,260,7,"Ed Sheeran",56,633,"Autumn Variations",England,1,243
+11,260,7,"Ed Sheeran",56,634,"Autumn Variations",Amazing,4,249
+11,260,7,"Ed Sheeran",56,635,"Autumn Variations","Plastic Bag",5,331
+11,260,7,"Ed Sheeran",56,636,"Autumn Variations","Ocean Haze",5,188
+11,260,7,"Ed Sheeran",56,637,"Autumn Variations","American Town",3,221
+11,260,7,"Ed Sheeran",56,638,"Autumn Variations","That's On Me",2,198
+11,260,7,"Ed Sheeran",56,639,"Autumn Variations",Page,2,360
+11,260,7,"Ed Sheeran",56,640,"Autumn Variations",Midnight,4,322
+11,260,7,"Ed Sheeran",56,641,"Autumn Variations",Spring,4,358
+11,260,7,"Ed Sheeran",56,642,"Autumn Variations","Head > Heels",4,192
+12,276,8,"Elvis Presley",57,643,"Elvis Presley","Blue Suede Shoes",5,216
+12,276,8,"Elvis Presley",57,644,"Elvis Presley","I’m Countin’ on You",3,184
+12,276,8,"Elvis Presley",57,645,"Elvis Presley","I Got a Woman",2,291
+12,276,8,"Elvis Presley",57,646,"Elvis Presley","One-Sided Love",3,245
+12,276,8,"Elvis Presley",57,647,"Elvis Presley","I Love You Because",3,271
+12,276,8,"Elvis Presley",57,648,"Elvis Presley","Just Because",2,358
+12,276,8,"Elvis Presley",57,649,"Elvis Presley","Tutti Frutti",2,355
+12,276,8,"Elvis Presley",57,650,"Elvis Presley","Tryin’ to Get to You",3,304
+12,276,8,"Elvis Presley",57,651,"Elvis Presley","I’m Gonna Sit Right Down and Cry (Over You)",2,298
+12,276,8,"Elvis Presley",57,652,"Elvis Presley","I’ll Never Let You Go",1,347
+12,276,8,"Elvis Presley",58,653,Elvis,"Rip It Up",4,193
+12,276,8,"Elvis Presley",58,654,Elvis,"Love Me",3,292
+12,276,8,"Elvis Presley",58,655,Elvis,"When My Blue Moon Turns to Gold Again",4,262
+12,276,8,"Elvis Presley",58,656,Elvis,"Long Tall Sally",2,354
+12,276,8,"Elvis Presley",58,657,Elvis,"First in Line",4,209
+12,276,8,"Elvis Presley",58,658,Elvis,Paralyzed,5,359
+12,276,8,"Elvis Presley",58,659,Elvis,"So Glad You’re Mine",3,360
+12,276,8,"Elvis Presley",58,660,Elvis,"Old Shep",5,249
+12,276,8,"Elvis Presley",58,661,Elvis,"Ready Teddy",1,234
+12,276,8,"Elvis Presley",58,662,Elvis,"Anyplace Is Paradise",4,292
+12,276,8,"Elvis Presley",58,663,Elvis,"How’s the World Treating You",5,260
+12,276,8,"Elvis Presley",58,664,Elvis,"How Do You Think I Feel",3,237
+12,276,8,"Elvis Presley",58,665,Elvis,"Elvis Medley",2,256
+12,276,8,"Elvis Presley",59,666,"Loving You","Mean Woman Blues",4,328
+12,276,8,"Elvis Presley",59,667,"Loving You","Teddy Bear",5,281
+12,276,8,"Elvis Presley",59,668,"Loving You","Loving You",4,268
+12,276,8,"Elvis Presley",59,669,"Loving You","Got a Lot o’ Livin’ to Do",4,354
+12,276,8,"Elvis Presley",59,670,"Loving You","Lonesome Cowboy",5,218
+12,276,8,"Elvis Presley",59,671,"Loving You","Hot Dog",4,228
+12,276,8,"Elvis Presley",59,672,"Loving You",Party,5,301
+12,276,8,"Elvis Presley",59,673,"Loving You","Blueberry Hill",3,224
+12,276,8,"Elvis Presley",59,674,"Loving You","True Love",3,324
+12,276,8,"Elvis Presley",59,675,"Loving You","Don’t Leave Me Now",1,181
+12,276,8,"Elvis Presley",59,676,"Loving You","Have I Told You Lately That I Love You",3,218
+12,276,8,"Elvis Presley",59,677,"Loving You","I Need You So",2,197
+12,276,8,"Elvis Presley",59,678,"Loving You","Loving You (End Title)",4,335
+12,276,8,"Elvis Presley",60,679,"Elvis' Christmas Album","Santa Claus Is Back in Town",1,277
+12,276,8,"Elvis Presley",60,680,"Elvis' Christmas Album","White Christmas",4,326
+12,276,8,"Elvis Presley",60,681,"Elvis' Christmas Album","Here Comes Santa Claus",3,338
+12,276,8,"Elvis Presley",60,682,"Elvis' Christmas Album","I’ll Be Home for Christmas",2,360
+12,276,8,"Elvis Presley",60,683,"Elvis' Christmas Album","Blue Christmas",4,315
+12,276,8,"Elvis Presley",60,684,"Elvis' Christmas Album","Santa Bring My Baby Back (To Me)",4,343
+12,276,8,"Elvis Presley",60,685,"Elvis' Christmas Album","O Little Town of Bethlehem",4,297
+12,276,8,"Elvis Presley",60,686,"Elvis' Christmas Album","Silent Night",4,181
+12,276,8,"Elvis Presley",60,687,"Elvis' Christmas Album","(There’ll Be) Peace in the Valley",2,245
+12,276,8,"Elvis Presley",60,688,"Elvis' Christmas Album","I Believe",4,206
+12,276,8,"Elvis Presley",60,689,"Elvis' Christmas Album","Take My Hand, Precious Lord",2,194
+12,276,8,"Elvis Presley",60,690,"Elvis' Christmas Album","It Is No Secret",1,339
+12,276,8,"Elvis Presley",61,691,"Elvis Is Back!","Make Me Know It",1,323
+12,276,8,"Elvis Presley",61,692,"Elvis Is Back!",Fever,2,192
+12,276,8,"Elvis Presley",61,693,"Elvis Is Back!","The Girl of My Best Friend",2,316
+12,276,8,"Elvis Presley",61,694,"Elvis Is Back!","I Will Be Home Again",3,225
+12,276,8,"Elvis Presley",61,695,"Elvis Is Back!","Dirty, Dirty Feeling",1,247
+12,276,8,"Elvis Presley",61,696,"Elvis Is Back!","Thrill of Your Love",5,260
+12,276,8,"Elvis Presley",61,697,"Elvis Is Back!","Soldier Boy",4,226
+12,276,8,"Elvis Presley",61,698,"Elvis Is Back!","Such a Night",1,232
+12,276,8,"Elvis Presley",61,699,"Elvis Is Back!","It Feels So Right",1,294
+12,276,8,"Elvis Presley",61,700,"Elvis Is Back!","Girl Net Door Went A-Walkin’",5,224
+12,276,8,"Elvis Presley",62,701,"His Hand in Mine","His Hand in Mine",3,312
+12,276,8,"Elvis Presley",62,702,"His Hand in Mine","I’m Gonna Walk Dem Golden Stairs",4,184
+12,276,8,"Elvis Presley",62,703,"His Hand in Mine","In My Father’s House",1,354
+12,276,8,"Elvis Presley",62,704,"His Hand in Mine","Milky White Way",4,285
+12,276,8,"Elvis Presley",62,705,"His Hand in Mine","Known Only to Him",4,289
+12,276,8,"Elvis Presley",62,706,"His Hand in Mine","I Believe in the Man in the Sky",2,238
+12,276,8,"Elvis Presley",62,707,"His Hand in Mine","Joshua Fit the Battle",3,339
+12,276,8,"Elvis Presley",62,708,"His Hand in Mine","He Knows Just What I Need",1,262
+12,276,8,"Elvis Presley",62,709,"His Hand in Mine","Swing Down Sweet Chariot",4,230
+12,276,8,"Elvis Presley",62,710,"His Hand in Mine","Mansion Over the Hilltop",1,308
+12,276,8,"Elvis Presley",62,711,"His Hand in Mine","If We Never Meet Again",5,319
+12,276,8,"Elvis Presley",62,712,"His Hand in Mine","Working on the Building",1,291
+12,276,8,"Elvis Presley",62,713,"His Hand in Mine","Somebody Bigger Than You and Me",1,228
+12,276,8,"Elvis Presley",62,714,"His Hand in Mine","Peace in the Valley",5,247
+12,276,8,"Elvis Presley",63,715,"Something for Everybody","There’s Always Me",4,254
+12,276,8,"Elvis Presley",63,716,"Something for Everybody","Give Me the Right",4,333
+12,276,8,"Elvis Presley",63,717,"Something for Everybody","It’s a Sin",4,271
+12,276,8,"Elvis Presley",63,718,"Something for Everybody","Sentimental Me",4,313
+12,276,8,"Elvis Presley",63,719,"Something for Everybody","Starting Today",5,206
+12,276,8,"Elvis Presley",63,720,"Something for Everybody",Gently,5,253
+12,276,8,"Elvis Presley",63,721,"Something for Everybody","I’m Comin’ Home",4,285
+12,276,8,"Elvis Presley",63,722,"Something for Everybody","In Your Arms",4,348
+12,276,8,"Elvis Presley",63,723,"Something for Everybody","Put the Blame on Me",5,302
+12,276,8,"Elvis Presley",63,724,"Something for Everybody",Judy,2,220
+12,276,8,"Elvis Presley",63,725,"Something for Everybody","I Want You With Me",4,218
+12,276,8,"Elvis Presley",63,726,"Something for Everybody","I Slipped, I Stumbled, I Fell",1,210
+12,276,8,"Elvis Presley",64,727,"Pot Luck","Kiss Me Quick",1,198
+12,276,8,"Elvis Presley",64,728,"Pot Luck","Just for Old Time’s Sake",3,252
+12,276,8,"Elvis Presley",64,729,"Pot Luck","Gonna Get Back Home Somehow",5,305
+12,276,8,"Elvis Presley",64,730,"Pot Luck","(Such an) Easy Question",2,218
+12,276,8,"Elvis Presley",64,731,"Pot Luck","Steppin’ Out of Line",1,260
+12,276,8,"Elvis Presley",64,732,"Pot Luck","I’m Yours",2,348
+12,276,8,"Elvis Presley",64,733,"Pot Luck","Something Blue",1,338
+12,276,8,"Elvis Presley",64,734,"Pot Luck",Suspicion,1,327
+12,276,8,"Elvis Presley",64,735,"Pot Luck","I Feel That I've Known You Forever",4,349
+12,276,8,"Elvis Presley",64,736,"Pot Luck","Night Rider",5,289
+12,276,8,"Elvis Presley",64,737,"Pot Luck","Fountain of Love",4,256
+12,276,8,"Elvis Presley",64,738,"Pot Luck","That's Someone You Never Forget",4,345
+13,328,3,"Harry Styles",65,739,"Harry Styles","Meet Me in the Hallway",4,231
+13,328,3,"Harry Styles",65,740,"Harry Styles","Sign of the Times",3,209
+13,328,3,"Harry Styles",65,741,"Harry Styles",Carolina,1,341
+13,328,3,"Harry Styles",65,742,"Harry Styles","Two Ghosts",1,348
+13,328,3,"Harry Styles",65,743,"Harry Styles","Sweet Creature",4,244
+13,328,3,"Harry Styles",65,744,"Harry Styles","Only Angel",4,208
+13,328,3,"Harry Styles",65,745,"Harry Styles",Kiwi,2,190
+13,328,3,"Harry Styles",65,746,"Harry Styles","Ever Since New York",1,311
+13,328,3,"Harry Styles",65,747,"Harry Styles",Woman,5,225
+13,328,3,"Harry Styles",65,748,"Harry Styles","From the Dining Table",5,191
+13,328,3,"Harry Styles",65,749,"Harry Styles","Just a Little Bit of Your Heart (Live)",5,327
+13,328,3,"Harry Styles",66,750,"Fine Line",Golden,4,189
+13,328,3,"Harry Styles",66,751,"Fine Line","Watermelon Sugar",3,345
+13,328,3,"Harry Styles",66,752,"Fine Line","Adore You",1,315
+13,328,3,"Harry Styles",66,753,"Fine Line","Lights Up",3,215
+13,328,3,"Harry Styles",66,754,"Fine Line",Cherry,3,255
+13,328,3,"Harry Styles",66,755,"Fine Line",Falling,1,266
+13,328,3,"Harry Styles",66,756,"Fine Line","To Be So Lonely",4,335
+13,328,3,"Harry Styles",66,757,"Fine Line",She,2,218
+13,328,3,"Harry Styles",66,758,"Fine Line","Sunflower, Vol. 6",2,213
+13,328,3,"Harry Styles",66,759,"Fine Line","Canyon Moon",3,249
+13,328,3,"Harry Styles",66,760,"Fine Line","Fine Line",1,180
+13,328,3,"Harry Styles",67,761,"Harry's House","Music for a Sushi Restaurant",1,260
+13,328,3,"Harry Styles",67,762,"Harry's House","Late Night Talking",2,337
+13,328,3,"Harry Styles",67,763,"Harry's House",Grapejuice,4,247
+13,328,3,"Harry Styles",67,764,"Harry's House","As It Was",1,349
+13,328,3,"Harry Styles",67,765,"Harry's House",Daylight,2,301
+13,328,3,"Harry Styles",67,766,"Harry's House","Little Freak",3,327
+13,328,3,"Harry Styles",67,767,"Harry's House",Matilda,2,248
+13,328,3,"Harry Styles",67,768,"Harry's House",Cinema,3,333
+13,328,3,"Harry Styles",67,769,"Harry's House",Daydreaming,1,212
+13,328,3,"Harry Styles",67,770,"Harry's House","Keep Driving",4,347
+13,328,3,"Harry Styles",67,771,"Harry's House",Satellite,3,258
+13,328,3,"Harry Styles",67,772,"Harry's House","Love of My Life",3,224
+14,341,6,"Imagine Dragons",68,773,"Night Visions",Radioactive,4,214
+14,341,6,"Imagine Dragons",68,774,"Night Visions",Tiptoe,1,311
+14,341,6,"Imagine Dragons",68,775,"Night Visions","It’s Time",3,198
+14,341,6,"Imagine Dragons",68,776,"Night Visions",Demons,1,218
+14,341,6,"Imagine Dragons",68,777,"Night Visions","On Top of the World",2,188
+14,341,6,"Imagine Dragons",68,778,"Night Visions",Amsterdam,2,190
+14,341,6,"Imagine Dragons",68,779,"Night Visions","Hear Me",5,342
+14,341,6,"Imagine Dragons",68,780,"Night Visions","Every Night",4,229
+14,341,6,"Imagine Dragons",68,781,"Night Visions","Bleeding Out",4,284
+14,341,6,"Imagine Dragons",68,782,"Night Visions","Nothing Left to Say / Rocks",3,351
+14,341,6,"Imagine Dragons",69,783,"Smoke + Mirrors",Shots,2,215
+14,341,6,"Imagine Dragons",69,784,"Smoke + Mirrors",Gold,3,322
+14,341,6,"Imagine Dragons",69,785,"Smoke + Mirrors","Smoke and Mirrors",4,351
+14,341,6,"Imagine Dragons",69,786,"Smoke + Mirrors","I’m So Sorry",1,232
+14,341,6,"Imagine Dragons",69,787,"Smoke + Mirrors","I Bet My Life",2,301
+14,341,6,"Imagine Dragons",69,788,"Smoke + Mirrors",Polaroid,4,316
+14,341,6,"Imagine Dragons",69,789,"Smoke + Mirrors",Friction,1,351
+14,341,6,"Imagine Dragons",69,790,"Smoke + Mirrors","It Comes Back to You",4,219
+14,341,6,"Imagine Dragons",69,791,"Smoke + Mirrors",Dream,5,234
+14,341,6,"Imagine Dragons",69,792,"Smoke + Mirrors",Trouble,2,244
+14,341,6,"Imagine Dragons",69,793,"Smoke + Mirrors",Summer,3,206
+14,341,6,"Imagine Dragons",69,794,"Smoke + Mirrors","Hopeless Opus",3,251
+14,341,6,"Imagine Dragons",69,795,"Smoke + Mirrors","The Fall",1,254
+14,341,6,"Imagine Dragons",69,796,"Smoke + Mirrors",Warriors,4,236
+14,341,6,"Imagine Dragons",70,797,Evolve,"I Don’t Know Why",3,211
+14,341,6,"Imagine Dragons",70,798,Evolve,"Whatever It Takes",1,251
+14,341,6,"Imagine Dragons",70,799,Evolve,Believer,3,188
+14,341,6,"Imagine Dragons",70,800,Evolve,"Walking the Wir",4,224
+14,341,6,"Imagine Dragons",70,801,Evolve,"Rise Up",4,265
+14,341,6,"Imagine Dragons",70,802,Evolve,"I’ll Make It Up",2,279
+14,341,6,"Imagine Dragons",70,803,Evolve,Yesterday,3,315
+14,341,6,"Imagine Dragons",70,804,Evolve,"Mouth of the River",3,239
+14,341,6,"Imagine Dragons",70,805,Evolve,Thunder,4,260
+14,341,6,"Imagine Dragons",70,806,Evolve,"Start Over",3,287
+14,341,6,"Imagine Dragons",70,807,Evolve,"Dancing in the Dark",1,191
+14,341,6,"Imagine Dragons",70,808,Evolve,Digital,3,265
+14,341,6,"Imagine Dragons",71,809,Origins,Natural,1,189
+14,341,6,"Imagine Dragons",71,810,Origins,Boomerang,3,286
+14,341,6,"Imagine Dragons",71,811,Origins,Machine,1,240
+14,341,6,"Imagine Dragons",71,812,Origins,"Cool Out",4,333
+14,341,6,"Imagine Dragons",71,813,Origins,"Bad Liars",2,226
+14,341,6,"Imagine Dragons",71,814,Origins,"West Coast",3,335
+14,341,6,"Imagine Dragons",71,815,Origins,Zero,3,267
+14,341,6,"Imagine Dragons",71,816,Origins,"Bullet in a Gun",4,208
+14,341,6,"Imagine Dragons",71,817,Origins,"Digital (Reimagined)",3,245
+14,341,6,"Imagine Dragons",71,818,Origins,Only,4,338
+14,341,6,"Imagine Dragons",71,819,Origins,Stuck,1,303
+14,341,6,"Imagine Dragons",71,820,Origins,Love,1,309
+14,341,6,"Imagine Dragons",71,821,Origins,"Burn Out",4,238
+14,341,6,"Imagine Dragons",72,822,"Mercury – Act 1","My Life",5,355
+14,341,6,"Imagine Dragons",72,823,"Mercury – Act 1",Lonely,2,351
+14,341,6,"Imagine Dragons",72,824,"Mercury – Act 1",Wrecked,1,212
+14,341,6,"Imagine Dragons",72,825,"Mercury – Act 1",Monday,5,216
+14,341,6,"Imagine Dragons",72,826,"Mercury – Act 1",#1,4,199
+14,341,6,"Imagine Dragons",72,827,"Mercury – Act 1","Easy Come Easy Go",1,330
+14,341,6,"Imagine Dragons",72,828,"Mercury – Act 1",Giants,5,195
+14,341,6,"Imagine Dragons",72,829,"Mercury – Act 1","It’s OK",1,329
+14,341,6,"Imagine Dragons",72,830,"Mercury – Act 1","Dull Knive",3,252
+14,341,6,"Imagine Dragons",72,831,"Mercury – Act 1","Follow You",5,218
+14,341,6,"Imagine Dragons",72,832,"Mercury – Act 1",Cutthroate,3,332
+14,341,6,"Imagine Dragons",72,833,"Mercury – Act 1","No Time",1,208
+14,341,6,"Imagine Dragons",72,834,"Mercury – Act 1","One Day",2,234
+14,341,6,"Imagine Dragons",73,835,"Mercury – Act 2",Bones,4,354
+14,341,6,"Imagine Dragons",73,836,"Mercury – Act 2",Symphony,4,314
+14,341,6,"Imagine Dragons",73,837,"Mercury – Act 2",Sharks,1,180
+14,341,6,"Imagine Dragons",73,838,"Mercury – Act 2","I Don’t Like Myself",4,317
+14,341,6,"Imagine Dragons",73,839,"Mercury – Act 2",Blur,3,327
+14,341,6,"Imagine Dragons",73,840,"Mercury – Act 2","Higher Ground",5,214
+14,341,6,"Imagine Dragons",73,841,"Mercury – Act 2",Crushed,4,256
+14,341,6,"Imagine Dragons",73,842,"Mercury – Act 2","Take It Easy",3,263
+14,341,6,"Imagine Dragons",73,843,"Mercury – Act 2",Waves,5,356
+14,341,6,"Imagine Dragons",73,844,"Mercury – Act 2","I Wish",5,205
+14,341,6,"Imagine Dragons",73,845,"Mercury – Act 2",Continual,4,229
+14,341,6,"Imagine Dragons",73,846,"Mercury – Act 2","They Don’t Know You Like I",1,219
+15,343,5,"J Balvin",74,847,"La Familia",Sola,2,256
+15,343,5,"J Balvin",74,848,"La Familia",Tranquila,4,337
+15,343,5,"J Balvin",74,849,"La Familia","6 AM",1,232
+15,343,5,"J Balvin",74,850,"La Familia","La Venganza",1,278
+15,343,5,"J Balvin",74,851,"La Familia","Yo Te Lo Dije",5,331
+15,343,5,"J Balvin",74,852,"La Familia",Segura,3,307
+15,343,5,"J Balvin",74,853,"La Familia","Mala Mia",1,185
+15,343,5,"J Balvin",74,854,"La Familia","Mil Fantasías",2,348
+15,343,5,"J Balvin",74,855,"La Familia","Sin Compromiso",1,239
+15,343,5,"J Balvin",74,856,"La Familia",Perdón,1,360
+15,343,5,"J Balvin",74,857,"La Familia","La Familia",4,184
+15,343,5,"J Balvin",75,858,Energía,Veneno,4,185
+15,343,5,"J Balvin",75,859,Energía,Ginza,3,223
+15,343,5,"J Balvin",75,860,Energía,Safari,1,263
+15,343,5,"J Balvin",75,861,Energía,Bobo,2,292
+15,343,5,"J Balvin",75,862,Energía,SnapChat,2,300
+15,343,5,"J Balvin",75,863,Energía,"Pierde Los Modales",3,322
+15,343,5,"J Balvin",75,864,Energía,Acércate,3,342
+15,343,5,"J Balvin",75,865,Energía,"Sigo E",4,347
+15,343,5,"J Balvin",75,866,Energía,Malvad,3,228
+15,343,5,"J Balvin",75,867,Energía,"35 Pa Las 12",2,230
+15,343,5,"J Balvin",76,868,Vibras,"Vibras (Intro)",1,261
+15,343,5,"J Balvin",76,869,Vibras,"Mi Gente",1,222
+15,343,5,"J Balvin",76,870,Vibras,Amba,1,200
+15,343,5,"J Balvin",76,871,Vibras,Brilla,5,225
+15,343,5,"J Balvin",76,872,Vibras,"En Mí",3,211
+15,343,5,"J Balvin",76,873,Vibras,"No Es Justo",5,234
+15,343,5,"J Balvin",76,874,Vibras,Ahora,5,184
+15,343,5,"J Balvin",76,875,Vibras,"Cuando Tú Quiera",3,180
+15,343,5,"J Balvin",76,876,Vibras,"Dónde Estarás",1,328
+15,343,5,"J Balvin",76,877,Vibras,Peligrosa,3,334
+15,343,5,"J Balvin",76,878,Vibras,Fantasías,5,207
+15,343,5,"J Balvin",76,879,Vibras,"Vibras (Outro)",4,219
+15,343,5,"J Balvin",76,880,Vibras,Ambiente,5,344
+15,343,5,"J Balvin",77,881,Colores,Amarillo,2,278
+15,343,5,"J Balvin",77,882,Colores,Azul,1,231
+15,343,5,"J Balvin",77,883,Colores,Rosa,2,298
+15,343,5,"J Balvin",77,884,Colores,Verde,3,224
+15,343,5,"J Balvin",77,885,Colores,Negr,5,304
+15,343,5,"J Balvin",77,886,Colores,Rojo,5,349
+15,343,5,"J Balvin",77,887,Colores,Gris,5,343
+15,343,5,"J Balvin",77,888,Colores,Morado,4,295
+15,343,5,"J Balvin",77,889,Colores,Blan,5,259
+15,343,5,"J Balvin",77,890,Colores,Arcoiris,2,259
+15,343,5,"J Balvin",78,891,Jose,"Que Locura",4,246
+15,343,5,"J Balvin",78,892,Jose,"Una Nota",2,266
+15,343,5,"J Balvin",78,893,Jose,"In Da Getto",4,359
+15,343,5,"J Balvin",78,894,Jose,Bebe,4,328
+15,343,5,"J Balvin",78,895,Jose,F40,2,236
+15,343,5,"J Balvin",78,896,Jose,"Ganas de Verte",5,319
+15,343,5,"J Balvin",78,897,Jose,Suerte,4,330
+15,343,5,"J Balvin",78,898,Jose,"Te Acuerdas de Mí",4,250
+15,343,5,"J Balvin",78,899,Jose,"7 de Mayo",2,316
+15,343,5,"J Balvin",78,900,Jose,"Lo Que Dios Quiera",3,315
+16,496,6,"Justin Bieber",79,901,"My World 2.0",Baby,2,354
+16,496,6,"Justin Bieber",79,902,"My World 2.0","Somebody to Love",3,214
+16,496,6,"Justin Bieber",79,903,"My World 2.0","Stuck in the Moment",3,311
+16,496,6,"Justin Bieber",79,904,"My World 2.0","U Smile",2,192
+16,496,6,"Justin Bieber",79,905,"My World 2.0","Runaway Love",3,199
+16,496,6,"Justin Bieber",79,906,"My World 2.0","Never Let You Go",5,274
+16,496,6,"Justin Bieber",79,907,"My World 2.0",Overboard,1,312
+16,496,6,"Justin Bieber",79,908,"My World 2.0",Eenie,3,191
+16,496,6,"Justin Bieber",79,909,"My World 2.0",Up,5,322
+16,496,6,"Justin Bieber",79,910,"My World 2.0","That Should Be Me",3,337
+16,496,6,"Justin Bieber",80,911,"Under the Mistletoe","Only Thing I Ever Get for Christmas",1,347
+16,496,6,"Justin Bieber",80,912,"Under the Mistletoe",Mistletoe,2,298
+16,496,6,"Justin Bieber",80,913,"Under the Mistletoe","The Christmas Song",3,352
+16,496,6,"Justin Bieber",80,914,"Under the Mistletoe","Santa Claus Is Coming to Town",1,238
+16,496,6,"Justin Bieber",80,915,"Under the Mistletoe","Fa La La",4,245
+16,496,6,"Justin Bieber",80,916,"Under the Mistletoe","All I Want for Christmas Is You",5,211
+16,496,6,"Justin Bieber",80,917,"Under the Mistletoe","Drummer Boy",1,240
+16,496,6,"Justin Bieber",80,918,"Under the Mistletoe","Christmas Eve",1,351
+16,496,6,"Justin Bieber",80,919,"Under the Mistletoe","All I Want Is You",1,310
+16,496,6,"Justin Bieber",80,920,"Under the Mistletoe","Home This Christmas",5,253
+16,496,6,"Justin Bieber",80,921,"Under the Mistletoe","Silent Night (Reimagined)",3,264
+16,496,6,"Justin Bieber",81,922,Believe,"All Around the World",4,335
+16,496,6,"Justin Bieber",81,923,Believe,Boyfriend,2,333
+16,496,6,"Justin Bieber",81,924,Believe,"As Long as You Love",3,284
+16,496,6,"Justin Bieber",81,925,Believe,"Catching Feelings",3,298
+16,496,6,"Justin Bieber",81,926,Believe,"Take You",3,210
+16,496,6,"Justin Bieber",81,927,Believe,"Right Here",3,279
+16,496,6,"Justin Bieber",81,928,Believe,Fall,2,333
+16,496,6,"Justin Bieber",81,929,Believe,"Thought of You",3,316
+16,496,6,"Justin Bieber",81,930,Believe,"Beauty and a Beate",4,198
+16,496,6,"Justin Bieber",81,931,Believe,"One Love",1,316
+16,496,6,"Justin Bieber",81,932,Believe,"Be Alright (Reimagined)",2,357
+16,496,6,"Justin Bieber",81,933,Believe,Believe,1,311
+16,496,6,"Justin Bieber",81,934,Believe,"Out of Town Girl",3,255
+16,496,6,"Justin Bieber",82,935,Purpose,"Mark My Words",5,222
+16,496,6,"Justin Bieber",82,936,Purpose,"I’ll Show You",3,353
+16,496,6,"Justin Bieber",82,937,Purpose,"What Do You Mean?",5,222
+16,496,6,"Justin Bieber",82,938,Purpose,Sorry,1,271
+16,496,6,"Justin Bieber",82,939,Purpose,"Love Yourself",4,307
+16,496,6,"Justin Bieber",82,940,Purpose,Company,2,330
+16,496,6,"Justin Bieber",82,941,Purpose,"No Pressure",1,184
+16,496,6,"Justin Bieber",82,942,Purpose,"No Sense",4,271
+16,496,6,"Justin Bieber",82,943,Purpose,"The Feeling",3,259
+16,496,6,"Justin Bieber",82,944,Purpose,"Chasing Life",2,305
+16,496,6,"Justin Bieber",82,945,Purpose,"Where Are Ü Now",4,180
+16,496,6,"Justin Bieber",82,946,Purpose,Purpose,5,247
+16,496,6,"Justin Bieber",83,947,Changes,"All Around Me",5,256
+16,496,6,"Justin Bieber",83,948,Changes,Habitual,3,300
+16,496,6,"Justin Bieber",83,949,Changes,Committed,1,296
+16,496,6,"Justin Bieber",83,950,Changes,Intentions,4,347
+16,496,6,"Justin Bieber",83,951,Changes,Yummy,5,343
+16,496,6,"Justin Bieber",83,952,Changes,"Running Over",3,229
+16,496,6,"Justin Bieber",83,953,Changes,Available,4,236
+16,496,6,"Justin Bieber",83,954,Changes,Forever,3,272
+16,496,6,"Justin Bieber",83,955,Changes,"Come Around Me",2,300
+16,496,6,"Justin Bieber",83,956,Changes,E.T.A.,1,314
+16,496,6,"Justin Bieber",84,957,Justice,"2 Much",3,210
+16,496,6,"Justin Bieber",84,958,Justice,"Deserve You",5,291
+16,496,6,"Justin Bieber",84,959,Justice,"As I Am",4,236
+16,496,6,"Justin Bieber",84,960,Justice,"Off My Face",4,314
+16,496,6,"Justin Bieber",84,961,Justice,Holy,3,197
+16,496,6,"Justin Bieber",84,962,Justice,Unstable,2,338
+16,496,6,"Justin Bieber",84,963,Justice,"MLK Interlude",3,291
+16,496,6,"Justin Bieber",84,964,Justice,"Die for You",1,226
+16,496,6,"Justin Bieber",84,965,Justice,"Hold Me Closer",2,218
+16,496,6,"Justin Bieber",84,966,Justice,Ghost,5,192
+16,496,6,"Justin Bieber",84,967,Justice,Peaches,2,309
+16,496,6,"Justin Bieber",84,968,Justice,"Loved by You",1,254
+17,509,10,"Kanye West",85,969,"The College Dropout",Prelude,2,315
+17,509,10,"Kanye West",85,970,"The College Dropout","We Don’t Care",1,358
+17,509,10,"Kanye West",85,971,"The College Dropout","Graduation Day",5,296
+17,509,10,"Kanye West",85,972,"The College Dropout","All Falls Down",4,246
+17,509,10,"Kanye West",85,973,"The College Dropout",Spaceship,5,250
+17,509,10,"Kanye West",85,974,"The College Dropout","Jesus Walks",1,352
+17,509,10,"Kanye West",85,975,"The College Dropout","Never Let Me",2,293
+17,509,10,"Kanye West",85,976,"The College Dropout","Get Em High",4,207
+17,509,10,"Kanye West",85,977,"The College Dropout","Workout Plan",2,263
+17,509,10,"Kanye West",85,978,"The College Dropout","The New Work",3,347
+17,509,10,"Kanye West",85,979,"The College Dropout","Through the Wire",4,306
+17,509,10,"Kanye West",85,980,"The College Dropout","Family Business",2,238
+17,509,10,"Kanye West",86,981,"Late Registration","Wake Up",5,265
+17,509,10,"Kanye West",86,982,"Late Registration","Heard 'Em Say",3,212
+17,509,10,"Kanye West",86,983,"Late Registration","Touch the Sky",2,346
+17,509,10,"Kanye West",86,984,"Late Registration","Gold Digger",1,345
+17,509,10,"Kanye West",86,985,"Late Registration","Skit #1",2,238
+17,509,10,"Kanye West",86,986,"Late Registration","Drive Slow",2,210
+17,509,10,"Kanye West",86,987,"Late Registration","My Way Home",5,286
+17,509,10,"Kanye West",86,988,"Late Registration","Crack Music",1,198
+17,509,10,"Kanye West",86,989,"Late Registration",Roses,3,194
+17,509,10,"Kanye West",86,990,"Late Registration","Bring Me Down",1,328
+17,509,10,"Kanye West",86,991,"Late Registration",Addiction,5,195
+17,509,10,"Kanye West",86,992,"Late Registration","Diamonds from Sierra Leone",1,219
+17,509,10,"Kanye West",86,993,"Late Registration","Hey Mama",1,308
+17,509,10,"Kanye West",87,994,Graduation,"Good Morning",3,299
+17,509,10,"Kanye West",87,995,Graduation,Champion,4,319
+17,509,10,"Kanye West",87,996,Graduation,Stronger,3,215
+17,509,10,"Kanye West",87,997,Graduation,"I Wonder",2,194
+17,509,10,"Kanye West",87,998,Graduation,"Good Life",1,190
+17,509,10,"Kanye West",87,999,Graduation,"Can’t Tell Me",3,259
+17,509,10,"Kanye West",87,1000,Graduation,"Barry Bonds",2,277
+17,509,10,"Kanye West",87,1001,Graduation,"Drunk and Hot Girls",3,326
+17,509,10,"Kanye West",87,1002,Graduation,"Flashing Lights",4,277
+17,509,10,"Kanye West",87,1003,Graduation,"Everything I Am",2,238
+17,509,10,"Kanye West",87,1004,Graduation,"The Glory",2,345
+17,509,10,"Kanye West",87,1005,Graduation,Homecoming,1,238
+17,509,10,"Kanye West",87,1006,Graduation,"Big Brother",1,285
+17,509,10,"Kanye West",88,1007,"808s & Heartbreak","Say You Will",3,311
+17,509,10,"Kanye West",88,1008,"808s & Heartbreak","Welcome to Heartbreak",2,342
+17,509,10,"Kanye West",88,1009,"808s & Heartbreak",Heartless,2,225
+17,509,10,"Kanye West",88,1010,"808s & Heartbreak","Amazing (Reimagined)",4,277
+17,509,10,"Kanye West",88,1011,"808s & Heartbreak","Love Lockdown",1,356
+17,509,10,"Kanye West",88,1012,"808s & Heartbreak",Paranoid,2,259
+17,509,10,"Kanye West",88,1013,"808s & Heartbreak",RoboCop,2,276
+17,509,10,"Kanye West",88,1014,"808s & Heartbreak","Street Lights",5,186
+17,509,10,"Kanye West",88,1015,"808s & Heartbreak","Bad News",5,316
+17,509,10,"Kanye West",88,1016,"808s & Heartbreak","Coldest Winter",4,240
+17,509,10,"Kanye West",89,1017,"My Beautiful Dark Twisted Fantasy","Dark Fantasy",4,286
+17,509,10,"Kanye West",89,1018,"My Beautiful Dark Twisted Fantasy",Gorgeous,1,241
+17,509,10,"Kanye West",89,1019,"My Beautiful Dark Twisted Fantasy",Power,1,221
+17,509,10,"Kanye West",89,1020,"My Beautiful Dark Twisted Fantasy","All of the Lights",1,206
+17,509,10,"Kanye West",89,1021,"My Beautiful Dark Twisted Fantasy",Monster,3,194
+17,509,10,"Kanye West",89,1022,"My Beautiful Dark Twisted Fantasy","So Appalled",4,227
+17,509,10,"Kanye West",89,1023,"My Beautiful Dark Twisted Fantasy","Devil in a New Dress",5,183
+17,509,10,"Kanye West",89,1024,"My Beautiful Dark Twisted Fantasy","Flee the Night",4,302
+17,509,10,"Kanye West",89,1025,"My Beautiful Dark Twisted Fantasy","Hell of a Life",4,276
+17,509,10,"Kanye West",89,1026,"My Beautiful Dark Twisted Fantasy","Blame Game",5,237
+17,509,10,"Kanye West",89,1027,"My Beautiful Dark Twisted Fantasy","Lost in the World",4,242
+17,509,10,"Kanye West",89,1028,"My Beautiful Dark Twisted Fantasy","Who Will Survive in America",4,339
+17,509,10,"Kanye West",90,1029,Yeezus,"On Sight",5,258
+17,509,10,"Kanye West",90,1030,Yeezus,"Black Skinhead",3,327
+17,509,10,"Kanye West",90,1031,Yeezus,"I Am a God",2,333
+17,509,10,"Kanye West",90,1032,Yeezus,"New Slaves",3,241
+17,509,10,"Kanye West",90,1033,Yeezus,"Hold My Liquor",4,300
+17,509,10,"Kanye West",90,1034,Yeezus,"I’m In It",4,269
+17,509,10,"Kanye West",90,1035,Yeezus,"Blood on the Leaves",3,299
+17,509,10,"Kanye West",90,1036,Yeezus,"Guilt Trip",1,197
+17,509,10,"Kanye West",90,1037,Yeezus,"Send It Up",2,353
+17,509,10,"Kanye West",90,1038,Yeezus,"Bound 2",5,272
+17,509,10,"Kanye West",90,1039,Yeezus,"Yeezus Outro Jam",2,359
+17,509,10,"Kanye West",91,1040,"The Life of Pablo","Ultralight Beam",3,227
+17,509,10,"Kanye West",91,1041,"The Life of Pablo","Father Stretch My Hands Pt. 1",1,219
+17,509,10,"Kanye West",91,1042,"The Life of Pablo","Pt. 2",3,211
+17,509,10,"Kanye West",91,1043,"The Life of Pablo",Famous,2,271
+17,509,10,"Kanye West",91,1044,"The Life of Pablo",Feedback,1,280
+17,509,10,"Kanye West",91,1045,"The Life of Pablo","Low Lights",2,244
+17,509,10,"Kanye West",91,1046,"The Life of Pablo",Highlights,4,215
+17,509,10,"Kanye West",91,1047,"The Life of Pablo","Freestyle 4",1,235
+17,509,10,"Kanye West",91,1048,"The Life of Pablo","I Love Kanye",3,206
+17,509,10,"Kanye West",91,1049,"The Life of Pablo","Waves (Reimagined)",3,326
+17,509,10,"Kanye West",91,1050,"The Life of Pablo",FML,1,184
+17,509,10,"Kanye West",91,1051,"The Life of Pablo","Real Friends (Reimagined)",3,206
+17,509,10,"Kanye West",91,1052,"The Life of Pablo",Wolves,2,188
+17,509,10,"Kanye West",92,1053,Ye,"I Thought About Killing You",5,240
+17,509,10,"Kanye West",92,1054,Ye,Yikes,1,214
+17,509,10,"Kanye West",92,1055,Ye,"All Mine",3,202
+17,509,10,"Kanye West",92,1056,Ye,"Wouldn’t Leave",3,328
+17,509,10,"Kanye West",92,1057,Ye,"No Mistakes",3,219
+17,509,10,"Kanye West",92,1058,Ye,"Ghost Town",3,289
+17,509,10,"Kanye West",92,1059,Ye,"Violent Crimes",5,310
+17,509,10,"Kanye West",92,1060,Ye,"Ye Interlude",2,251
+17,509,10,"Kanye West",92,1061,Ye,"Egos Death",3,349
+17,509,10,"Kanye West",92,1062,Ye,"West Side Story",2,224
+17,509,10,"Kanye West",93,1063,"Jesus Is King","Every Hour",5,201
+17,509,10,"Kanye West",93,1064,"Jesus Is King",Selah,5,321
+17,509,10,"Kanye West",93,1065,"Jesus Is King","Follow God",5,337
+17,509,10,"Kanye West",93,1066,"Jesus Is King","Closed on Sunday",5,334
+17,509,10,"Kanye West",93,1067,"Jesus Is King","On God",2,247
+17,509,10,"Kanye West",93,1068,"Jesus Is King","Everything We Need",1,283
+17,509,10,"Kanye West",93,1069,"Jesus Is King",Water,3,316
+17,509,10,"Kanye West",93,1070,"Jesus Is King","God Is",3,329
+17,509,10,"Kanye West",93,1071,"Jesus Is King","Hands On",4,247
+17,509,10,"Kanye West",93,1072,"Jesus Is King","Use This Gospel",4,253
+17,509,10,"Kanye West",93,1073,"Jesus Is King","Jesus Is Lord",1,255
+17,509,10,"Kanye West",94,1074,Donda,"Donda Chant",1,180
+17,509,10,"Kanye West",94,1075,Donda,Jail,2,272
+17,509,10,"Kanye West",94,1076,Donda,"God Breathed",4,230
+17,509,10,"Kanye West",94,1077,Donda,"Off the Grid",1,358
+17,509,10,"Kanye West",94,1078,Donda,Hurricane,3,257
+17,509,10,"Kanye West",94,1079,Donda,"Praise God",5,342
+17,509,10,"Kanye West",94,1080,Donda,Jonah,2,292
+17,509,10,"Kanye West",94,1081,Donda,"Ok Ok",4,290
+17,509,10,"Kanye West",94,1082,Donda,"Believe What I Say",3,359
+17,509,10,"Kanye West",94,1083,Donda,"Remote Control",5,189
+17,509,10,"Kanye West",94,1084,Donda,"Lunar Dreams",3,262
+17,509,10,"Kanye West",94,1085,Donda,"Heaven and Hell",5,223
+17,509,10,"Kanye West",94,1086,Donda,"Keep My Spirit Alive",5,247
+18,520,6,"Katy Perry",95,1087,"Katy Hudson","Trust in Me",2,192
+18,520,6,"Katy Perry",95,1088,"Katy Hudson",Piercing,3,211
+18,520,6,"Katy Perry",95,1089,"Katy Hudson","Search Me",2,245
+18,520,6,"Katy Perry",95,1090,"Katy Hudson","Last Call",4,280
+18,520,6,"Katy Perry",95,1091,"Katy Hudson","Growing Pains",2,340
+18,520,6,"Katy Perry",95,1092,"Katy Hudson","My Own Monst",5,261
+18,520,6,"Katy Perry",95,1093,"Katy Hudson",Spit,2,182
+18,520,6,"Katy Perry",95,1094,"Katy Hudson","Faith Won’t Fail",3,337
+18,520,6,"Katy Perry",95,1095,"Katy Hudson",Naturally,5,322
+18,520,6,"Katy Perry",95,1096,"Katy Hudson","When There's Nothing Left",2,355
+18,520,6,"Katy Perry",96,1097,"One of the Boys","One of the Boys",5,357
+18,520,6,"Katy Perry",96,1098,"One of the Boys","I Kissed a Girl",1,235
+18,520,6,"Katy Perry",96,1099,"One of the Boys","Waking Up in Vegas",2,318
+18,520,6,"Katy Perry",96,1100,"One of the Boys","Thinking of You",2,347
+18,520,6,"Katy Perry",96,1101,"One of the Boys",Mannequin,5,324
+18,520,6,"Katy Perry",96,1102,"One of the Boys","Ur So Gay",3,204
+18,520,6,"Katy Perry",96,1103,"One of the Boys","Hot N Cold",5,337
+18,520,6,"Katy Perry",96,1104,"One of the Boys","If You Can Afford Me",3,304
+18,520,6,"Katy Perry",96,1105,"One of the Boys",Lost,4,273
+18,520,6,"Katy Perry",96,1106,"One of the Boys","Self Inflicted",2,203
+18,520,6,"Katy Perry",96,1107,"One of the Boys","I’m Still Breathing",1,324
+18,520,6,"Katy Perry",96,1108,"One of the Boys",Fingerprints,2,354
+18,520,6,"Katy Perry",96,1109,"One of the Boys","Cup of Tea",5,186
+18,520,6,"Katy Perry",97,1110,"Teenage Dream","Teenage Dream",1,225
+18,520,6,"Katy Perry",97,1111,"Teenage Dream","Last Friday Night",2,300
+18,520,6,"Katy Perry",97,1112,"Teenage Dream","California Gurls",5,257
+18,520,6,"Katy Perry",97,1113,"Teenage Dream",Firework,1,301
+18,520,6,"Katy Perry",97,1114,"Teenage Dream",Peacock,1,227
+18,520,6,"Katy Perry",97,1115,"Teenage Dream","Circle the Drain",2,199
+18,520,6,"Katy Perry",97,1116,"Teenage Dream","The One That Got Away",1,329
+18,520,6,"Katy Perry",97,1117,"Teenage Dream",ET,5,265
+18,520,6,"Katy Perry",97,1118,"Teenage Dream","Who Am I",3,197
+18,520,6,"Katy Perry",97,1119,"Teenage Dream",Pearl,3,216
+18,520,6,"Katy Perry",97,1120,"Teenage Dream","Hummingbird Heartbeat",4,187
+18,520,6,"Katy Perry",97,1121,"Teenage Dream","Not Like the Movies",2,220
+18,520,6,"Katy Perry",97,1122,"Teenage Dream","Part of Me",1,180
+18,520,6,"Katy Perry",98,1123,Prism,Roar,5,308
+18,520,6,"Katy Perry",98,1124,Prism,"Legendary Lov",5,280
+18,520,6,"Katy Perry",98,1125,Prism,Birthday,4,354
+18,520,6,"Katy Perry",98,1126,Prism,"Walking on Air",1,236
+18,520,6,"Katy Perry",98,1127,Prism,Unconditionally,2,235
+18,520,6,"Katy Perry",98,1128,Prism,"Dark Horse",4,184
+18,520,6,"Katy Perry",98,1129,Prism,"This Is How We Do",4,183
+18,520,6,"Katy Perry",98,1130,Prism,"International Smile",5,299
+18,520,6,"Katy Perry",98,1131,Prism,"Ghost (Reimagined)",4,276
+18,520,6,"Katy Perry",98,1132,Prism,"Hold Me Now",2,198
+18,520,6,"Katy Perry",98,1133,Prism,"Double Rainbow",2,306
+18,520,6,"Katy Perry",98,1134,Prism,"By the Grace",3,291
+18,520,6,"Katy Perry",99,1135,Witness,Witness,1,246
+18,520,6,"Katy Perry",99,1136,Witness,"Hey Hey Hey",1,330
+18,520,6,"Katy Perry",99,1137,Witness,Roulete,5,198
+18,520,6,"Katy Perry",99,1138,Witness,"Swish Swish",2,255
+18,520,6,"Katy Perry",99,1139,Witness,"Déjà Vu",2,305
+18,520,6,"Katy Perry",99,1140,Witness,"Power (Reimagined)",1,337
+18,520,6,"Katy Perry",99,1141,Witness,"Mind Maze",1,278
+18,520,6,"Katy Perry",99,1142,Witness,"Miss You Mor",4,352
+18,520,6,"Katy Perry",99,1143,Witness,"Chained to the Rhythm",3,354
+18,520,6,"Katy Perry",99,1144,Witness,"Bon Appétit",2,297
+18,520,6,"Katy Perry",100,1145,Smile,"Never Really Over",3,197
+18,520,6,"Katy Perry",100,1146,Smile,"Cry About It Later",4,187
+18,520,6,"Katy Perry",100,1147,Smile,"Teary Eyed",2,301
+18,520,6,"Katy Perry",100,1148,Smile,Daisies,4,283
+18,520,6,"Katy Perry",100,1149,Smile,Resilient,3,295
+18,520,6,"Katy Perry",100,1150,Smile,"Not the End of the World",5,214
+18,520,6,"Katy Perry",100,1151,Smile,Smile,1,238
+18,520,6,"Katy Perry",100,1152,Smile,"Champagne Problems",1,186
+18,520,6,"Katy Perry",100,1153,Smile,Tucked,1,354
+18,520,6,"Katy Perry",100,1154,Smile,"Harleys in Hawaii",1,344
+18,520,6,"Katy Perry",100,1155,Smile,"What Makes a Woman",1,271
+19,564,6,"Lady Gaga",101,1156,"The Fame","Just Danc",1,326
+19,564,6,"Lady Gaga",101,1157,"The Fame","Love (Reimagined)",5,340
+19,564,6,"Lady Gaga",101,1158,"The Fame",Paparazzi,4,240
+19,564,6,"Lady Gaga",101,1159,"The Fame","Beautiful, Dirty, Rich",4,227
+19,564,6,"Lady Gaga",101,1160,"The Fame","Eh, Eh (Nothing Else I Can Say)",1,339
+19,564,6,"Lady Gaga",101,1161,"The Fame","Poker Face",1,188
+19,564,6,"Lady Gaga",101,1162,"The Fame","The Fame",1,342
+19,564,6,"Lady Gaga",101,1163,"The Fame","Money Honey",2,307
+19,564,6,"Lady Gaga",101,1164,"The Fame",Starstruck,1,309
+19,564,6,"Lady Gaga",101,1165,"The Fame","Boys Boys Boys",5,294
+19,564,6,"Lady Gaga",102,1166,"The Fame Monster","Bad Romanc",5,191
+19,564,6,"Lady Gaga",102,1167,"The Fame Monster",Alejandro,2,334
+19,564,6,"Lady Gaga",102,1168,"The Fame Monster","Monster (Reimagined)",5,301
+19,564,6,"Lady Gaga",102,1169,"The Fame Monster",Speechless,5,276
+19,564,6,"Lady Gaga",102,1170,"The Fame Monster",Danc,3,233
+19,564,6,"Lady Gaga",102,1171,"The Fame Monster",Telephone,2,204
+19,564,6,"Lady Gaga",102,1172,"The Fame Monster","So Happy I Could Die",1,186
+19,564,6,"Lady Gaga",102,1173,"The Fame Monster",Teethe,3,295
+19,564,6,"Lady Gaga",102,1174,"The Fame Monster","Disco Heaven",2,211
+19,564,6,"Lady Gaga",102,1175,"The Fame Monster","Again Again",2,346
+19,564,6,"Lady Gaga",102,1176,"The Fame Monster","Retro Physical",2,323
+19,564,6,"Lady Gaga",103,1177,"Born This Way","Marry the Night",2,194
+19,564,6,"Lady Gaga",103,1178,"Born This Way","Born This Way",3,347
+19,564,6,"Lady Gaga",103,1179,"Born This Way","Government Hooker",4,254
+19,564,6,"Lady Gaga",103,1180,"Born This Way",Judas,1,188
+19,564,6,"Lady Gaga",103,1181,"Born This Way",Americano,2,254
+19,564,6,"Lady Gaga",103,1182,"Born This Way",Hair,1,354
+19,564,6,"Lady Gaga",103,1183,"Born This Way",Schei,2,297
+19,564,6,"Lady Gaga",103,1184,"Born This Way","Bloody Mary",2,219
+19,564,6,"Lady Gaga",103,1185,"Born This Way","Black Jesus + Amen Fashion",5,343
+19,564,6,"Lady Gaga",103,1186,"Born This Way","Bad Kids",5,284
+19,564,6,"Lady Gaga",103,1187,"Born This Way","Fashion of His Love",5,231
+19,564,6,"Lady Gaga",103,1188,"Born This Way","Highway Unicorn (Road to Love",3,357
+19,564,6,"Lady Gaga",104,1189,Artpop,Aura,1,248
+19,564,6,"Lady Gaga",104,1190,Artpop,Venus,1,320
+19,564,6,"Lady Gaga",104,1191,Artpop,G.U.Y.,3,265
+19,564,6,"Lady Gaga",104,1192,Artpop,Se,1,307
+19,564,6,"Lady Gaga",104,1193,Artpop,"Jewels n’ Drugs",2,182
+19,564,6,"Lady Gaga",104,1194,Artpop,MANiC,5,266
+19,564,6,"Lady Gaga",104,1195,Artpop,"Do What U Want",5,269
+19,564,6,"Lady Gaga",104,1196,Artpop,Artpop,3,308
+19,564,6,"Lady Gaga",104,1197,Artpop,Swine,2,190
+19,564,6,"Lady Gaga",104,1198,Artpop,Donatella,5,222
+19,564,6,"Lady Gaga",104,1199,Artpop,Fashion!,2,265
+19,564,6,"Lady Gaga",104,1200,Artpop,Applause,1,198
+19,564,6,"Lady Gaga",105,1201,Joanne,"Diamond Heart",1,199
+19,564,6,"Lady Gaga",105,1202,Joanne,A-YO,4,223
+19,564,6,"Lady Gaga",105,1203,Joanne,Joanne,3,186
+19,564,6,"Lady Gaga",105,1204,Joanne,"John Wayne",2,261
+19,564,6,"Lady Gaga",105,1205,Joanne,"Dancin’ in Circles",5,297
+19,564,6,"Lady Gaga",105,1206,Joanne,"Perfect Illusion",4,319
+19,564,6,"Lady Gaga",105,1207,Joanne,"Million Reasons",2,245
+19,564,6,"Lady Gaga",105,1208,Joanne,"Sinner’s Prayer",5,218
+19,564,6,"Lady Gaga",105,1209,Joanne,"Come to Momma",4,261
+19,564,6,"Lady Gaga",105,1210,Joanne,"Hey Girl",5,294
+19,564,6,"Lady Gaga",105,1211,Joanne,"Angel Down",5,353
+19,564,6,"Lady Gaga",106,1212,Chromatica,"Chromatica I",2,182
+19,564,6,"Lady Gaga",106,1213,Chromatica,Alice,1,359
+19,564,6,"Lady Gaga",106,1214,Chromatica,"Stupid Love",4,264
+19,564,6,"Lady Gaga",106,1215,Chromatica,"Rain on Me",4,298
+19,564,6,"Lady Gaga",106,1216,Chromatica,"Free Woman",2,291
+19,564,6,"Lady Gaga",106,1217,Chromatica,"Fun Tonight",5,346
+19,564,6,"Lady Gaga",106,1218,Chromatica,"Chromatica II",4,257
+19,564,6,"Lady Gaga",106,1219,Chromatica,911,2,185
+19,564,6,"Lady Gaga",106,1220,Chromatica,"Plastic Doll",5,291
+19,564,6,"Lady Gaga",106,1221,Chromatica,"Sour Candy (Reimagined)",4,298
+19,564,6,"Lady Gaga",106,1222,Chromatica,Enigma,3,190
+19,564,6,"Lady Gaga",106,1223,Chromatica,Replay,1,211
+20,597,4,Lizzo,107,1224,Lizzobangers,"Lizzie Banger",3,287
+20,597,4,Lizzo,107,1225,Lizzobangers,Paris,3,321
+20,597,4,Lizzo,107,1226,Lizzobangers,"Wat U Mean",2,329
+20,597,4,Lizzo,107,1227,Lizzobangers,T-Baby,3,295
+20,597,4,Lizzo,107,1228,Lizzobangers,Faded,1,264
+20,597,4,Lizzo,107,1229,Lizzobangers,"Hot Dish",2,343
+20,597,4,Lizzo,107,1230,Lizzobangers,"Batches & Cookies",4,332
+20,597,4,Lizzo,107,1231,Lizzobangers,"Luv It",4,191
+20,597,4,Lizzo,107,1232,Lizzobangers,"Be Still",1,285
+20,597,4,Lizzo,107,1233,Lizzobangers,"Outro Lizzobang",4,277
+20,597,4,Lizzo,108,1234,"Big Grrrl Small World","Ain’t I",5,346
+20,597,4,Lizzo,108,1235,"Big Grrrl Small World",Betcha,2,313
+20,597,4,Lizzo,108,1236,"Big Grrrl Small World","The Realest",4,292
+20,597,4,Lizzo,108,1237,"Big Grrrl Small World","En Love",2,323
+20,597,4,Lizzo,108,1238,"Big Grrrl Small World",Human,1,182
+20,597,4,Lizzo,108,1239,"Big Grrrl Small World",B.G.S.W.,4,348
+20,597,4,Lizzo,108,1240,"Big Grrrl Small World",Ride,3,242
+20,597,4,Lizzo,108,1241,"Big Grrrl Small World","My Skin",2,243
+20,597,4,Lizzo,108,1242,"Big Grrrl Small World",Janga,3,256
+20,597,4,Lizzo,108,1243,"Big Grrrl Small World","I Love You Bitch",1,283
+20,597,4,Lizzo,108,1244,"Big Grrrl Small World","Catch Me if You Can",3,339
+20,597,4,Lizzo,109,1245,"Cuz I Love You","Cuz I Love You",5,312
+20,597,4,Lizzo,109,1246,"Cuz I Love You","Like a Girl",1,254
+20,597,4,Lizzo,109,1247,"Cuz I Love You",Juice,3,342
+20,597,4,Lizzo,109,1248,"Cuz I Love You",Soulmate,4,346
+20,597,4,Lizzo,109,1249,"Cuz I Love You",Jerome,4,277
+20,597,4,Lizzo,109,1250,"Cuz I Love You",Crybaby,3,186
+20,597,4,Lizzo,109,1251,"Cuz I Love You",Tempo,4,360
+20,597,4,Lizzo,109,1252,"Cuz I Love You",E,1,285
+20,597,4,Lizzo,109,1253,"Cuz I Love You","Better in Color",5,277
+20,597,4,Lizzo,109,1254,"Cuz I Love You","Heaven Help Me",4,181
+20,597,4,Lizzo,110,1255,Special,"The Sign",1,312
+20,597,4,Lizzo,110,1256,Special,"About Damn Time",3,188
+20,597,4,Lizzo,110,1257,Special,GRRRLS,4,342
+20,597,4,Lizzo,110,1258,Special,"2 B Loved (Am I Ready)",3,185
+20,597,4,Lizzo,110,1259,Special,"I Love",1,255
+20,597,4,Lizzo,110,1260,Special,Special,2,297
+20,597,4,Lizzo,110,1261,Special,"Break Up Twice",2,356
+20,597,4,Lizzo,110,1262,Special,"Everybody’s Gay",5,338
+20,597,4,Lizzo,110,1263,Special,Naked,1,205
+20,597,4,Lizzo,110,1264,Special,"Birthday Girl",2,343
+20,597,4,Lizzo,110,1265,Special,"If You Love Me",3,272
+20,597,4,Lizzo,110,1266,Special,Coldplay,1,191
+20,597,4,Lizzo,110,1267,Special,"Someday at Christmas",4,183
+21,628,7,"Maroon 5",111,1268,"Songs About Jane","Harder to Breathe",3,190
+21,628,7,"Maroon 5",111,1269,"Songs About Jane","Endless Flame",3,236
+21,628,7,"Maroon 5",111,1270,"Songs About Jane",Shiver,3,253
+21,628,7,"Maroon 5",111,1271,"Songs About Jane",Tangled,1,279
+21,628,7,"Maroon 5",111,1272,"Songs About Jane","The Sun",3,271
+21,628,7,"Maroon 5",111,1273,"Songs About Jane","Must Get Out",4,285
+21,628,7,"Maroon 5",111,1274,"Songs About Jane","Sunday Morning",2,305
+21,628,7,"Maroon 5",111,1275,"Songs About Jane",Secret,5,314
+21,628,7,"Maroon 5",111,1276,"Songs About Jane","Through with You",3,236
+21,628,7,"Maroon 5",111,1277,"Songs About Jane","Not Coming Home",3,224
+21,628,7,"Maroon 5",112,1278,"It Won't Be Soon Before Long","If I Never See Your Face",2,228
+21,628,7,"Maroon 5",112,1279,"It Won't Be Soon Before Long","Makes Me Wonder",4,197
+21,628,7,"Maroon 5",112,1280,"It Won't Be Soon Before Long","Little of Your Time",3,300
+21,628,7,"Maroon 5",112,1281,"It Won't Be Soon Before Long","Wake Up Call",4,236
+21,628,7,"Maroon 5",112,1282,"It Won't Be Soon Before Long","Won’t Go",1,352
+21,628,7,"Maroon 5",112,1283,"It Won't Be Soon Before Long","Nothing Lasts Forever",5,301
+21,628,7,"Maroon 5",112,1284,"It Won't Be Soon Before Long","Can’t Stop",3,307
+21,628,7,"Maroon 5",112,1285,"It Won't Be Soon Before Long","Goodnight Goodnight",5,334
+21,628,7,"Maroon 5",112,1286,"It Won't Be Soon Before Long","Not Falling Apart",3,328
+21,628,7,"Maroon 5",112,1287,"It Won't Be Soon Before Long","Kiwi (Reimagined)",4,217
+21,628,7,"Maroon 5",112,1288,"It Won't Be Soon Before Long","Better That We Break",1,351
+21,628,7,"Maroon 5",112,1289,"It Won't Be Soon Before Long","Back at Your Door",2,199
+21,628,7,"Maroon 5",112,1290,"It Won't Be Soon Before Long",Infatuation,5,331
+21,628,7,"Maroon 5",113,1291,"Hands All Over",Misery,2,285
+21,628,7,"Maroon 5",113,1292,"Hands All Over","Give a Little More",4,238
+21,628,7,"Maroon 5",113,1293,"Hands All Over",Stutter,2,289
+21,628,7,"Maroon 5",113,1294,"Hands All Over","Don’t Know Nothing",3,223
+21,628,7,"Maroon 5",113,1295,"Hands All Over","Never Gonna Leave This Bed",1,184
+21,628,7,"Maroon 5",113,1296,"Hands All Over","I Can’t Lie",1,195
+21,628,7,"Maroon 5",113,1297,"Hands All Over","Hands All Over",3,194
+21,628,7,"Maroon 5",113,1298,"Hands All Over",How,1,272
+21,628,7,"Maroon 5",113,1299,"Hands All Over","Get Back in My Life",1,197
+21,628,7,"Maroon 5",113,1300,"Hands All Over","Just a Feeling",3,219
+21,628,7,"Maroon 5",113,1301,"Hands All Over","Flee the Night (Reimagined)",1,205
+21,628,7,"Maroon 5",113,1302,"Hands All Over","Out of Goodbyes",3,269
+21,628,7,"Maroon 5",114,1303,Overexposed,"One More Night",2,254
+21,628,7,"Maroon 5",114,1304,Overexposed,Payph,2,323
+21,628,7,"Maroon 5",114,1305,Overexposed,"Daylight (Reimagined)",2,303
+21,628,7,"Maroon 5",114,1306,Overexposed,"Lucky Strike",5,341
+21,628,7,"Maroon 5",114,1307,Overexposed,"The Man Who Never Lied",5,210
+21,628,7,"Maroon 5",114,1308,Overexposed,"Love Somebody",3,230
+21,628,7,"Maroon 5",114,1309,Overexposed,Ladykiller,1,269
+21,628,7,"Maroon 5",114,1310,Overexposed,"Fortune Tell",2,226
+21,628,7,"Maroon 5",114,1311,Overexposed,Sad,4,330
+21,628,7,"Maroon 5",114,1312,Overexposed,Tickets,3,342
+21,628,7,"Maroon 5",114,1313,Overexposed,"Doin’ Dirt",4,270
+21,628,7,"Maroon 5",114,1314,Overexposed,"Beautiful Goodbye",3,261
+21,628,7,"Maroon 5",114,1315,Overexposed,"Wipe Your Eyes",2,301
+21,628,7,"Maroon 5",114,1316,Overexposed,Kiss,5,315
+21,628,7,"Maroon 5",115,1317,V,Maps,3,261
+21,628,7,"Maroon 5",115,1318,V,Animals,1,359
+21,628,7,"Maroon 5",115,1319,V,"It Was Always You",5,233
+21,628,7,"Maroon 5",115,1320,V,"Unkiss Me",1,200
+21,628,7,"Maroon 5",115,1321,V,Sugar,2,292
+21,628,7,"Maroon 5",115,1322,V,"Leaving California",1,265
+21,628,7,"Maroon 5",115,1323,V,"In Your Pocket",1,344
+21,628,7,"Maroon 5",115,1324,V,"New Love",4,334
+21,628,7,"Maroon 5",115,1325,V,"Coming Back for You",2,353
+21,628,7,"Maroon 5",115,1326,V,Feelings,5,360
+21,628,7,"Maroon 5",115,1327,V,"My Heart Is Open",4,262
+21,628,7,"Maroon 5",116,1328,"Red Pill Blues","Best 4 U",2,222
+21,628,7,"Maroon 5",116,1329,"Red Pill Blues","What Lovers Do",4,235
+21,628,7,"Maroon 5",116,1330,"Red Pill Blues",Wait,2,183
+21,628,7,"Maroon 5",116,1331,"Red Pill Blues","Lips on You",5,288
+21,628,7,"Maroon 5",116,1332,"Red Pill Blues","Bet My Heart",3,186
+21,628,7,"Maroon 5",116,1333,"Red Pill Blues","Help Me Out",2,222
+21,628,7,"Maroon 5",116,1334,"Red Pill Blues","Who I",4,217
+21,628,7,"Maroon 5",116,1335,"Red Pill Blues",Whiskey,2,326
+21,628,7,"Maroon 5",116,1336,"Red Pill Blues","Girls Like You",1,304
+21,628,7,"Maroon 5",116,1337,"Red Pill Blues",Closure,1,264
+21,628,7,"Maroon 5",117,1338,Jordi,"Beautiful Mistakes",1,240
+21,628,7,"Maroon 5",117,1339,Jordi,"Lost (Reimagined)",5,347
+21,628,7,"Maroon 5",117,1340,Jordi,Echo,3,213
+21,628,7,"Maroon 5",117,1341,Jordi,Lovesick,2,328
+21,628,7,"Maroon 5",117,1342,Jordi,"Remedy (Reimagined)",1,340
+21,628,7,"Maroon 5",117,1343,Jordi,Seasons,2,340
+21,628,7,"Maroon 5",117,1344,Jordi,"One Lighthous",1,202
+21,628,7,"Maroon 5",117,1345,Jordi,"Convince Me",4,192
+21,628,7,"Maroon 5",117,1346,Jordi,"Nobody’s Love",1,188
+21,628,7,"Maroon 5",117,1347,Jordi,Memories,1,260
+21,628,7,"Maroon 5",117,1348,Jordi,"Can’t Leave You",3,233
+22,670,10,"Michael Jackson",118,1349,"Got to Be There","Ain’t No Sunshine",2,339
+22,670,10,"Michael Jackson",118,1350,"Got to Be There","I Wanna Be Where You Are",4,203
+22,670,10,"Michael Jackson",118,1351,"Got to Be There","Girl Don’t Take Your Love",3,261
+22,670,10,"Michael Jackson",118,1352,"Got to Be There","In Our Small Way",3,318
+22,670,10,"Michael Jackson",118,1353,"Got to Be There","Got to Be There",1,277
+22,670,10,"Michael Jackson",118,1354,"Got to Be There","Rockin’ Robin",4,278
+22,670,10,"Michael Jackson",118,1355,"Got to Be There","Wings of My Love",4,190
+22,670,10,"Michael Jackson",118,1356,"Got to Be There",Maria,5,241
+22,670,10,"Michael Jackson",118,1357,"Got to Be There","Love Is Here",3,198
+22,670,10,"Michael Jackson",118,1358,"Got to Be There","You’ve Got a Friend",3,265
+22,670,10,"Michael Jackson",118,1359,"Got to Be There","Music and Me",2,278
+22,670,10,"Michael Jackson",118,1360,"Got to Be There","Morning Glow",5,287
+22,670,10,"Michael Jackson",118,1361,"Got to Be There","Cinderella Stay Awhile",2,242
+22,670,10,"Michael Jackson",119,1362,Ben,Be,3,190
+22,670,10,"Michael Jackson",119,1363,Ben,"The Greatest Show on Earth",4,359
+22,670,10,"Michael Jackson",119,1364,Ben,"People Make",5,300
+22,670,10,"Michael Jackson",119,1365,Ben,"We’ve Got a Good Thing Going",4,234
+22,670,10,"Michael Jackson",119,1366,Ben,"Everybody’s Somebody’s Fool",4,339
+22,670,10,"Michael Jackson",119,1367,Ben,"My Girl",1,215
+22,670,10,"Michael Jackson",119,1368,Ben,"What Goez",5,328
+22,670,10,"Michael Jackson",119,1369,Ben,"In Our Small Way (Reimagined)",5,344
+22,670,10,"Michael Jackson",119,1370,Ben,Shoo,1,261
+22,670,10,"Michael Jackson",119,1371,Ben,"Don’t Let It Get You Down",1,271
+22,670,10,"Michael Jackson",120,1372,"Music & Me","With a Child’s Heart",2,266
+22,670,10,"Michael Jackson",120,1373,"Music & Me","Up Again",1,342
+22,670,10,"Michael Jackson",120,1374,"Music & Me","All the Things You Are",4,260
+22,670,10,"Michael Jackson",120,1375,"Music & Me",Happy,4,341
+22,670,10,"Michael Jackson",120,1376,"Music & Me","Too Young",3,354
+22,670,10,"Michael Jackson",120,1377,"Music & Me","Doggin’ Around",4,246
+22,670,10,"Michael Jackson",120,1378,"Music & Me",Euphoria,1,201
+22,670,10,"Michael Jackson",120,1379,"Music & Me","Johnny Raven",5,249
+22,670,10,"Michael Jackson",120,1380,"Music & Me","Music and Me (Reimagined)",5,246
+22,670,10,"Michael Jackson",120,1381,"Music & Me","Morning Glow (Reimagined)",3,223
+22,670,10,"Michael Jackson",120,1382,"Music & Me","We’ve Got Forever",4,199
+22,670,10,"Michael Jackson",121,1383,"Forever, Michael","We’re Almost There",2,224
+22,670,10,"Michael Jackson",121,1384,"Forever, Michael","Take Me Back",3,301
+22,670,10,"Michael Jackson",121,1385,"Forever, Michael","One Day in Your Life",3,198
+22,670,10,"Michael Jackson",121,1386,"Forever, Michael","Cinderella Stay Awhile (Reimagined)",3,240
+22,670,10,"Michael Jackson",121,1387,"Forever, Michael","We’ve Got Forever (Reimagined)",3,296
+22,670,10,"Michael Jackson",121,1388,"Forever, Michael","Just a Little Bit of You",2,258
+22,670,10,"Michael Jackson",121,1389,"Forever, Michael","You Are There",2,280
+22,670,10,"Michael Jackson",121,1390,"Forever, Michael",Daphere,1,285
+22,670,10,"Michael Jackson",121,1391,"Forever, Michael","Dear Michael",3,313
+22,670,10,"Michael Jackson",121,1392,"Forever, Michael","I’ll Come Home to You",3,202
+22,670,10,"Michael Jackson",121,1393,"Forever, Michael","Forever Song",3,342
+22,670,10,"Michael Jackson",121,1394,"Forever, Michael","Sunset Driver",2,329
+22,670,10,"Michael Jackson",121,1395,"Forever, Michael","Fall Again",1,296
+22,670,10,"Michael Jackson",122,1396,"Off the Wall","Don’t Stop ’Til You Get Enough",4,355
+22,670,10,"Michael Jackson",122,1397,"Off the Wall","Rock With You",3,215
+22,670,10,"Michael Jackson",122,1398,"Off the Wall","Working Day and Night",5,260
+22,670,10,"Michael Jackson",122,1399,"Off the Wall","Get on the Floor",5,187
+22,670,10,"Michael Jackson",122,1400,"Off the Wall","Off the Wall",1,356
+22,670,10,"Michael Jackson",122,1401,"Off the Wall",Girlfriend,2,313
+22,670,10,"Michael Jackson",122,1402,"Off the Wall","She’s Out of My Life",1,274
+22,670,10,"Michael Jackson",122,1403,"Off the Wall","I Can’t Help It",5,343
+22,670,10,"Michael Jackson",122,1404,"Off the Wall","It’s the Falling in Love",3,347
+22,670,10,"Michael Jackson",122,1405,"Off the Wall","Burn This Disco Out",2,312
+22,670,10,"Michael Jackson",122,1406,"Off the Wall","Sunset Groove",4,200
+22,670,10,"Michael Jackson",122,1407,"Off the Wall",Wings,4,304
+22,670,10,"Michael Jackson",122,1408,"Off the Wall","Can’t Let Her Get Away",4,333
+22,670,10,"Michael Jackson",123,1409,Thriller,"Wanna Be Startin’ Somethin",4,254
+22,670,10,"Michael Jackson",123,1410,Thriller,"Baby Be Mine",3,264
+22,670,10,"Michael Jackson",123,1411,Thriller,"The Girl Is Mine",3,246
+22,670,10,"Michael Jackson",123,1412,Thriller,Thriller,1,261
+22,670,10,"Michael Jackson",123,1413,Thriller,"Beat It",4,305
+22,670,10,"Michael Jackson",123,1414,Thriller,Billie,1,337
+22,670,10,"Michael Jackson",123,1415,Thriller,"Human Nature",3,315
+22,670,10,"Michael Jackson",123,1416,Thriller,"P.Y.T. (Pretty Young Thing)",5,288
+22,670,10,"Michael Jackson",123,1417,Thriller,"The Lady in My Life",1,302
+22,670,10,"Michael Jackson",123,1418,Thriller,Carousel,3,345
+22,670,10,"Michael Jackson",123,1419,Thriller,"Someone in the Dark",4,194
+22,670,10,"Michael Jackson",123,1420,Thriller,"Sunset Driver (Reimagined)",4,317
+22,670,10,"Michael Jackson",123,1421,Thriller,"Behind the Mask",4,314
+22,670,10,"Michael Jackson",123,1422,Thriller,"Billie Jean (Home Demo)",5,226
+22,670,10,"Michael Jackson",124,1423,Bad,Bad,2,322
+22,670,10,"Michael Jackson",124,1424,Bad,"The Way You Make Me Feel",5,210
+22,670,10,"Michael Jackson",124,1425,Bad,"Speed Demon",1,280
+22,670,10,"Michael Jackson",124,1426,Bad,"Liberian Girl",4,280
+22,670,10,"Michael Jackson",124,1427,Bad,"Just Good Friends",1,270
+22,670,10,"Michael Jackson",124,1428,Bad,"Another Part of Me",5,283
+22,670,10,"Michael Jackson",124,1429,Bad,"Man in the Mirror",5,282
+22,670,10,"Michael Jackson",124,1430,Bad,"I Just Can’t Stop Loving You",4,207
+22,670,10,"Michael Jackson",124,1431,Bad,"Dirty Diana",4,232
+22,670,10,"Michael Jackson",124,1432,Bad,"Smooth Criminal",4,183
+22,670,10,"Michael Jackson",125,1433,Dangerous,Jam,4,328
+22,670,10,"Michael Jackson",125,1434,Dangerous,"Why You Wanna Trip on Me",4,257
+22,670,10,"Michael Jackson",125,1435,Dangerous,"In the Closet",3,207
+22,670,10,"Michael Jackson",125,1436,Dangerous,"She Drives Me Wild",5,339
+22,670,10,"Michael Jackson",125,1437,Dangerous,"Remember the Time",5,210
+22,670,10,"Michael Jackson",125,1438,Dangerous,"Can’t Let Her Get Away (Reimagined)",1,286
+22,670,10,"Michael Jackson",125,1439,Dangerous,"Heal the World",4,349
+22,670,10,"Michael Jackson",125,1440,Dangerous,"Black or White",2,265
+22,670,10,"Michael Jackson",125,1441,Dangerous,"Who Is It",5,322
+22,670,10,"Michael Jackson",125,1442,Dangerous,"Give In to Me",4,308
+22,670,10,"Michael Jackson",125,1443,Dangerous,Dangerous,5,213
+22,670,10,"Michael Jackson",126,1444,HIStory,Scream,3,204
+22,670,10,"Michael Jackson",126,1445,HIStory,"They Don’t Care About Us",3,227
+22,670,10,"Michael Jackson",126,1446,HIStory,"Stranger in Moscow",5,270
+22,670,10,"Michael Jackson",126,1447,HIStory,"This Time Around",1,347
+22,670,10,"Michael Jackson",126,1448,HIStory,"Earth Song",3,233
+22,670,10,"Michael Jackson",126,1449,HIStory,D.S.,1,315
+22,670,10,"Michael Jackson",126,1450,HIStory,Money,2,184
+22,670,10,"Michael Jackson",126,1451,HIStory,"Come Together",1,339
+22,670,10,"Michael Jackson",126,1452,HIStory,"You Are Not Alone",5,277
+22,670,10,"Michael Jackson",126,1453,HIStory,Childhood,4,317
+22,670,10,"Michael Jackson",126,1454,HIStory,"Tabloid Junkie",5,264
+22,670,10,"Michael Jackson",126,1455,HIStory,"Little Susie",4,298
+22,670,10,"Michael Jackson",126,1456,HIStory,"Smile (Reimagined)",4,315
+22,670,10,"Michael Jackson",127,1457,Invincible,Unbreakable,4,339
+22,670,10,"Michael Jackson",127,1458,Invincible,"Heartbreak Hotel",5,323
+22,670,10,"Michael Jackson",127,1459,Invincible,Invincible,5,325
+22,670,10,"Michael Jackson",127,1460,Invincible,"Break of Dawn",3,226
+22,670,10,"Michael Jackson",127,1461,Invincible,"Heaven Can Wait",2,355
+22,670,10,"Michael Jackson",127,1462,Invincible,"You Rock My World",4,279
+22,670,10,"Michael Jackson",127,1463,Invincible,Butterflies,4,281
+22,670,10,"Michael Jackson",127,1464,Invincible,"Speechless (Reimagined)",2,328
+22,670,10,"Michael Jackson",127,1465,Invincible,"2000 Watts",1,258
+22,670,10,"Michael Jackson",127,1466,Invincible,"You Are My Life",3,193
+22,670,10,"Michael Jackson",127,1467,Invincible,"Don’t Walk Away",1,224
+22,670,10,"Michael Jackson",127,1468,Invincible,Threaten,1,268
+23,725,5,"Nicki Minaj",128,1469,"Pink Friday","I’m the Best",2,336
+23,725,5,"Nicki Minaj",128,1470,"Pink Friday","Roman’s Revenge",2,353
+23,725,5,"Nicki Minaj",128,1471,"Pink Friday","Did It On ’Em",4,301
+23,725,5,"Nicki Minaj",128,1472,"Pink Friday","Right Thru Me",2,223
+23,725,5,"Nicki Minaj",128,1473,"Pink Friday",Fly,2,181
+23,725,5,"Nicki Minaj",128,1474,"Pink Friday","Save Me",4,316
+23,725,5,"Nicki Minaj",128,1475,"Pink Friday","Moment 4 Life",3,343
+23,725,5,"Nicki Minaj",128,1476,"Pink Friday","Check It Out",2,247
+23,725,5,"Nicki Minaj",128,1477,"Pink Friday",Blazin,1,231
+23,725,5,"Nicki Minaj",128,1478,"Pink Friday","Here I Am",5,300
+23,725,5,"Nicki Minaj",128,1479,"Pink Friday","Your Love",5,204
+23,725,5,"Nicki Minaj",129,1480,"Pink Friday: Roman Reloaded","Roman Holiday",2,360
+23,725,5,"Nicki Minaj",129,1481,"Pink Friday: Roman Reloaded","Come on a Cone",4,357
+23,725,5,"Nicki Minaj",129,1482,"Pink Friday: Roman Reloaded","I Am Your Leader",1,356
+23,725,5,"Nicki Minaj",129,1483,"Pink Friday: Roman Reloaded","Beez in the Trap",4,260
+23,725,5,"Nicki Minaj",129,1484,"Pink Friday: Roman Reloaded","Hov Lane",2,321
+23,725,5,"Nicki Minaj",129,1485,"Pink Friday: Roman Reloaded","Roman Reloaded",2,292
+23,725,5,"Nicki Minaj",129,1486,"Pink Friday: Roman Reloaded","Champion (Reimagined)",5,277
+23,725,5,"Nicki Minaj",129,1487,"Pink Friday: Roman Reloaded","Right By My Side",4,319
+23,725,5,"Nicki Minaj",129,1488,"Pink Friday: Roman Reloaded","Se (Reimagined)",1,242
+23,725,5,"Nicki Minaj",129,1489,"Pink Friday: Roman Reloaded",Starships,3,189
+23,725,5,"Nicki Minaj",129,1490,"Pink Friday: Roman Reloaded","Pound the Alarm",2,219
+23,725,5,"Nicki Minaj",129,1491,"Pink Friday: Roman Reloaded","Whip It",4,272
+23,725,5,"Nicki Minaj",130,1492,"The Pinkprint","All Things Go",3,336
+23,725,5,"Nicki Minaj",130,1493,"The Pinkprint","I Lied",5,337
+23,725,5,"Nicki Minaj",130,1494,"The Pinkprint","The Crying Game",5,357
+23,725,5,"Nicki Minaj",130,1495,"The Pinkprint","Get On Your Knees",1,317
+23,725,5,"Nicki Minaj",130,1496,"The Pinkprint","Feeling Mysel",5,206
+23,725,5,"Nicki Minaj",130,1497,"The Pinkprint","Only (Reimagined)",1,312
+23,725,5,"Nicki Minaj",130,1498,"The Pinkprint","Want Some More",3,206
+23,725,5,"Nicki Minaj",130,1499,"The Pinkprint","Four Door Aventador",3,253
+23,725,5,"Nicki Minaj",130,1500,"The Pinkprint",Favorite,3,343
+23,725,5,"Nicki Minaj",130,1501,"The Pinkprint","Buy a Heart",2,332
+23,725,5,"Nicki Minaj",130,1502,"The Pinkprint",Trini,4,257
+23,725,5,"Nicki Minaj",130,1503,"The Pinkprint",Anaconda,1,287
+23,725,5,"Nicki Minaj",130,1504,"The Pinkprint","The Pinkprint Freestyle",5,290
+23,725,5,"Nicki Minaj",131,1505,Queen,"Ganja Burn",1,344
+23,725,5,"Nicki Minaj",131,1506,Queen,Majesti,1,278
+23,725,5,"Nicki Minaj",131,1507,Queen,"Barbie Dreams",3,297
+23,725,5,"Nicki Minaj",131,1508,Queen,"Rich Se",4,257
+23,725,5,"Nicki Minaj",131,1509,Queen,"Hard White",3,248
+23,725,5,"Nicki Minaj",131,1510,Queen,Bed,4,245
+23,725,5,"Nicki Minaj",131,1511,Queen,"Thought I Knew You",2,305
+23,725,5,"Nicki Minaj",131,1512,Queen,"Run & Hide",3,247
+23,725,5,"Nicki Minaj",131,1513,Queen,"Chun Swae",3,193
+23,725,5,"Nicki Minaj",131,1514,Queen,LLC,5,242
+23,725,5,"Nicki Minaj",131,1515,Queen,"Good Form",4,297
+23,725,5,"Nicki Minaj",132,1516,"Pink Friday 2","Are You Gone Already",5,351
+23,725,5,"Nicki Minaj",132,1517,"Pink Friday 2","Barbie Dangerous",3,351
+23,725,5,"Nicki Minaj",132,1518,"Pink Friday 2",FTCU,2,238
+23,725,5,"Nicki Minaj",132,1519,"Pink Friday 2","Big Difference",4,227
+23,725,5,"Nicki Minaj",132,1520,"Pink Friday 2","Pink Friday Girl",1,323
+23,725,5,"Nicki Minaj",132,1521,"Pink Friday 2","Fallin Again",5,231
+23,725,5,"Nicki Minaj",132,1522,"Pink Friday 2","Beep B",3,302
+23,725,5,"Nicki Minaj",132,1523,"Pink Friday 2","Nicki Hendri",3,320
+23,725,5,"Nicki Minaj",132,1524,"Pink Friday 2","Let Me Calm Down",5,344
+23,725,5,"Nicki Minaj",132,1525,"Pink Friday 2",Needle,3,187
+23,725,5,"Nicki Minaj",132,1526,"Pink Friday 2",Blessing,5,216
+23,725,5,"Nicki Minaj",132,1527,"Pink Friday 2","Last Time I Saw You",5,306
+23,725,5,"Nicki Minaj",132,1528,"Pink Friday 2","Just the Memories",4,321
+24,734,2,"Olivia Rodrigo",133,1529,SOUR,Brutal,2,207
+24,734,2,"Olivia Rodrigo",133,1530,SOUR,Traitor,1,269
+24,734,2,"Olivia Rodrigo",133,1531,SOUR,"Drivers License",2,246
+24,734,2,"Olivia Rodrigo",133,1532,SOUR,"1 Step Forward, 3 Steps Back",4,311
+24,734,2,"Olivia Rodrigo",133,1533,SOUR,"Deja Vu",3,321
+24,734,2,"Olivia Rodrigo",133,1534,SOUR,"Good 4 U",3,263
+24,734,2,"Olivia Rodrigo",133,1535,SOUR,"Enough for You",5,341
+24,734,2,"Olivia Rodrigo",133,1536,SOUR,"Happier (Reimagined)",4,215
+24,734,2,"Olivia Rodrigo",133,1537,SOUR,"Jealousy, Jealousy",3,349
+24,734,2,"Olivia Rodrigo",133,1538,SOUR,"Favorite Crime",1,355
+24,734,2,"Olivia Rodrigo",133,1539,SOUR,"Hope Ur Ok",3,269
+24,734,2,"Olivia Rodrigo",133,1540,SOUR,Obsessed,4,327
+24,734,2,"Olivia Rodrigo",133,1541,SOUR,"The Ruse",2,267
+24,734,2,"Olivia Rodrigo",134,1542,GUTS,"All-American Bitch",3,194
+24,734,2,"Olivia Rodrigo",134,1543,GUTS,"Bad Idea (Reimagined)",4,339
+24,734,2,"Olivia Rodrigo",134,1544,GUTS,Vampire,2,213
+24,734,2,"Olivia Rodrigo",134,1545,GUTS,Lacy,2,230
+24,734,2,"Olivia Rodrigo",134,1546,GUTS,Ballad,1,232
+24,734,2,"Olivia Rodrigo",134,1547,GUTS,"Making the Bed",5,271
+24,734,2,"Olivia Rodrigo",134,1548,GUTS,Logical,4,261
+24,734,2,"Olivia Rodrigo",134,1549,GUTS,"Get Him Back!",4,200
+24,734,2,"Olivia Rodrigo",134,1550,GUTS,"Love Is Embarrassing",5,231
+24,734,2,"Olivia Rodrigo",134,1551,GUTS,"The Grudge",2,269
+24,734,2,"Olivia Rodrigo",134,1552,GUTS,"Pretty Isn’t Pretty",3,292
+24,734,2,"Olivia Rodrigo",134,1553,GUTS,"Teenage Dream (Reimagined)",3,256
+24,734,2,"Olivia Rodrigo",134,1554,GUTS,Stranger,5,207
+25,757,5,"Post Malone",135,1555,Stoney,"Broken Whisky",3,248
+25,757,5,"Post Malone",135,1556,Stoney,"Big Lie",2,198
+25,757,5,"Post Malone",135,1557,Stoney,"Deja Vu (Reimagined)",4,234
+25,757,5,"Post Malone",135,1558,Stoney,"No Option",1,201
+25,757,5,"Post Malone",135,1559,Stoney,Cold,5,340
+25,757,5,"Post Malone",135,1560,Stoney,"White Iverson",3,267
+25,757,5,"Post Malone",135,1561,Stoney,"I Fall Apart",5,281
+25,757,5,"Post Malone",135,1562,Stoney,"Go Fle",5,238
+25,757,5,"Post Malone",135,1563,Stoney,Congratulations,3,302
+25,757,5,"Post Malone",135,1564,Stoney,"Feeling Whitney",2,286
+25,757,5,"Post Malone",136,1565,"Beerbongs & Bentleys","Paranoid (Reimagined)",4,262
+25,757,5,"Post Malone",136,1566,"Beerbongs & Bentleys","Spoil My Night",3,309
+25,757,5,"Post Malone",136,1567,"Beerbongs & Bentleys","Rich & Sad",2,270
+25,757,5,"Post Malone",136,1568,"Beerbongs & Bentleys","Zack and Codeine",1,308
+25,757,5,"Post Malone",136,1569,"Beerbongs & Bentleys","Takin’ Shots",4,206
+25,757,5,"Post Malone",136,1570,"Beerbongs & Bentleys",Rockstar,5,182
+25,757,5,"Post Malone",136,1571,"Beerbongs & Bentleys","Over Now",4,256
+25,757,5,"Post Malone",136,1572,"Beerbongs & Bentleys",Psycho,2,352
+25,757,5,"Post Malone",136,1573,"Beerbongs & Bentleys","Better Now",1,355
+25,757,5,"Post Malone",136,1574,"Beerbongs & Bentleys","Ball for Me",3,296
+25,757,5,"Post Malone",136,1575,"Beerbongs & Bentleys","Don't Leave",3,360
+25,757,5,"Post Malone",137,1576,"Hollywood's Bleeding","Hollywood’s Bleeding",5,266
+25,757,5,"Post Malone",137,1577,"Hollywood's Bleeding",Saint-Tropez,3,260
+25,757,5,"Post Malone",137,1578,"Hollywood's Bleeding",Enemies,4,348
+25,757,5,"Post Malone",137,1579,"Hollywood's Bleeding",Allergic,5,217
+25,757,5,"Post Malone",137,1580,"Hollywood's Bleeding","A Thousand Bad Times",2,255
+25,757,5,"Post Malone",137,1581,"Hollywood's Bleeding",Circles,2,198
+25,757,5,"Post Malone",137,1582,"Hollywood's Bleeding","Die for Me",5,250
+25,757,5,"Post Malone",137,1583,"Hollywood's Bleeding","On the Road",1,185
+25,757,5,"Post Malone",137,1584,"Hollywood's Bleeding","Take What You Want",3,248
+25,757,5,"Post Malone",137,1585,"Hollywood's Bleeding","I’m Gonna Be",1,285
+25,757,5,"Post Malone",137,1586,"Hollywood's Bleeding",Internet,3,199
+25,757,5,"Post Malone",137,1587,"Hollywood's Bleeding",Goodbyes,3,353
+25,757,5,"Post Malone",137,1588,"Hollywood's Bleeding",Wow.,5,306
+25,757,5,"Post Malone",138,1589,"Twelve Carat Toothache",Reputation,3,268
+25,757,5,"Post Malone",138,1590,"Twelve Carat Toothache","Cooped Up",4,347
+25,757,5,"Post Malone",138,1591,"Twelve Carat Toothache","Lemon Tree",2,320
+25,757,5,"Post Malone",138,1592,"Twelve Carat Toothache","Wrapped Around Your Finger",3,188
+25,757,5,"Post Malone",138,1593,"Twelve Carat Toothache","I Like You",4,322
+25,757,5,"Post Malone",138,1594,"Twelve Carat Toothache","I Cannot Be (A Sadder Song)",3,227
+25,757,5,"Post Malone",138,1595,"Twelve Carat Toothache",Insane,4,258
+25,757,5,"Post Malone",138,1596,"Twelve Carat Toothache","Love/Hate Letter to Alcohol",3,276
+25,757,5,"Post Malone",138,1597,"Twelve Carat Toothache","Wasting Angels",4,302
+25,757,5,"Post Malone",138,1598,"Twelve Carat Toothache",Euthana,5,233
+25,757,5,"Post Malone",138,1599,"Twelve Carat Toothache","When I’m Alone",1,350
+25,757,5,"Post Malone",138,1600,"Twelve Carat Toothache","Waiting for a Miracle",5,242
+25,757,5,"Post Malone",139,1601,Austin,"Don’t Understand",5,315
+25,757,5,"Post Malone",139,1602,Austin,"Something Real",4,319
+25,757,5,"Post Malone",139,1603,Austin,Chemical,2,322
+25,757,5,"Post Malone",139,1604,Austin,Novemb,2,206
+25,757,5,"Post Malone",139,1605,Austin,Mourning,4,210
+25,757,5,"Post Malone",139,1606,Austin,"Too Cool to Die",4,213
+25,757,5,"Post Malone",139,1607,Austin,"Sign Me",5,247
+25,757,5,"Post Malone",139,1608,Austin,Socialite,2,321
+25,757,5,"Post Malone",139,1609,Austin,Overdrive,1,251
+25,757,5,"Post Malone",139,1610,Austin,Speedome,4,209
+25,757,5,"Post Malone",139,1611,Austin,"Laugh It Off",3,241
+26,793,8,Rihanna,140,1612,"Music of the Sun","Pon de Replay",2,292
+26,793,8,Rihanna,140,1613,"Music of the Sun","Here I Go",5,299
+26,793,8,Rihanna,140,1614,"Music of the Sun","If It’s Lovin’ that You Want",5,272
+26,793,8,Rihanna,140,1615,"Music of the Sun","You Don’t Love",4,296
+26,793,8,Rihanna,140,1616,"Music of the Sun","That La, La, La",3,277
+26,793,8,Rihanna,140,1617,"Music of the Sun","The Last Time",4,323
+26,793,8,Rihanna,140,1618,"Music of the Sun","Willing to Wait",3,352
+26,793,8,Rihanna,140,1619,"Music of the Sun","Music of the Sun",3,249
+26,793,8,Rihanna,140,1620,"Music of the Sun","Let Me",2,231
+26,793,8,Rihanna,140,1621,"Music of the Sun",Rush,5,202
+26,793,8,Rihanna,140,1622,"Music of the Sun","There’s a Thug in My Life",5,352
+26,793,8,Rihanna,140,1623,"Music of the Sun","Now I",3,328
+26,793,8,Rihanna,140,1624,"Music of the Sun","Should I?",3,339
+26,793,8,Rihanna,141,1625,"A Girl Like Me",SOS,3,245
+26,793,8,Rihanna,141,1626,"A Girl Like Me","Kisses Don’t Lie",2,314
+26,793,8,Rihanna,141,1627,"A Girl Like Me",Unfaithful,2,317
+26,793,8,Rihanna,141,1628,"A Girl Like Me","We Ride",4,324
+26,793,8,Rihanna,141,1629,"A Girl Like Me","Dem Hater",3,275
+26,793,8,Rihanna,141,1630,"A Girl Like Me","Final Goodbye",1,328
+26,793,8,Rihanna,141,1631,"A Girl Like Me","Break It Off",4,339
+26,793,8,Rihanna,141,1632,"A Girl Like Me","Crazy Little Thing Called Love",3,184
+26,793,8,Rihanna,141,1633,"A Girl Like Me","Selfish G",2,353
+26,793,8,Rihanna,141,1634,"A Girl Like Me","P.S. (I’m Still Not Over You)",2,224
+26,793,8,Rihanna,142,1635,"Good Girl Gone Bad",Umbrella,2,304
+26,793,8,Rihanna,142,1636,"Good Girl Gone Bad","Push Up",2,218
+26,793,8,Rihanna,142,1637,"Good Girl Gone Bad","Don’t Stop the Music",2,320
+26,793,8,Rihanna,142,1638,"Good Girl Gone Bad","Breakin’ Dishes",4,351
+26,793,8,Rihanna,142,1639,"Good Girl Gone Bad","Shut Up and Drive",1,258
+26,793,8,Rihanna,142,1640,"Good Girl Gone Bad","Hate That I Love",4,353
+26,793,8,Rihanna,142,1641,"Good Girl Gone Bad","Say It",3,331
+26,793,8,Rihanna,142,1642,"Good Girl Gone Bad","Sell Me Candy",1,325
+26,793,8,Rihanna,143,1643,"Rated R","Mad House",2,318
+26,793,8,Rihanna,143,1644,"Rated R","Wait Your Turn",3,186
+26,793,8,Rihanna,143,1645,"Rated R",Hard,5,344
+26,793,8,Rihanna,143,1646,"Rated R","Stupid in Love",2,244
+26,793,8,Rihanna,143,1647,"Rated R","Rockstar 101",4,348
+26,793,8,Rihanna,143,1648,"Rated R","Russian Roulette",3,233
+26,793,8,Rihanna,143,1649,"Rated R","Fire Bomb",4,293
+26,793,8,Rihanna,143,1650,"Rated R",Rudeboy,3,324
+26,793,8,Rihanna,144,1651,Loud,S&M,3,256
+26,793,8,Rihanna,144,1652,Loud,"What’s My Nam",1,356
+26,793,8,Rihanna,144,1653,Loud,"Cheers (Drink to That)",2,336
+26,793,8,Rihanna,144,1654,Loud,Fading,3,208
+26,793,8,Rihanna,144,1655,Loud,"Only Girl (In the World)",1,257
+26,793,8,Rihanna,144,1656,Loud,"California King Bed",3,217
+26,793,8,Rihanna,144,1657,Loud,"Man Down",3,207
+26,793,8,Rihanna,144,1658,Loud,"Raining Men",1,277
+26,793,8,Rihanna,144,1659,Loud,Complicated,1,256
+26,793,8,Rihanna,144,1660,Loud,Skin,5,352
+26,793,8,Rihanna,145,1661,"Talk That Talk","You Da One",3,274
+26,793,8,Rihanna,145,1662,"Talk That Talk","Where Have You Been",4,297
+26,793,8,Rihanna,145,1663,"Talk That Talk","We Found Love",4,285
+26,793,8,Rihanna,145,1664,"Talk That Talk","Talk That Talk",5,192
+26,793,8,Rihanna,145,1665,"Talk That Talk","Cockiness (Love It)",3,181
+26,793,8,Rihanna,145,1666,"Talk That Talk","Birthday Cake",4,217
+26,793,8,Rihanna,145,1667,"Talk That Talk","We All Want Love",5,189
+26,793,8,Rihanna,145,1668,"Talk That Talk","Drunk on Love",2,327
+26,793,8,Rihanna,145,1669,"Talk That Talk","Roc Me",5,180
+26,793,8,Rihanna,145,1670,"Talk That Talk","Watch n’ Learn",1,207
+26,793,8,Rihanna,145,1671,"Talk That Talk",Farewell,4,180
+26,793,8,Rihanna,145,1672,"Talk That Talk","Red Lipstick",4,322
+26,793,8,Rihanna,145,1673,"Talk That Talk","Do Ya Thang",5,298
+26,793,8,Rihanna,146,1674,Unapologetic,"Phresh Out the Runway",1,293
+26,793,8,Rihanna,146,1675,Unapologetic,Diamonds,4,279
+26,793,8,Rihanna,146,1676,Unapologetic,Numb,2,218
+26,793,8,Rihanna,146,1677,Unapologetic,"Pour It Up",3,241
+26,793,8,Rihanna,146,1678,Unapologetic,Loveeeeesong,4,203
+26,793,8,Rihanna,146,1679,Unapologetic,Jump,5,212
+26,793,8,Rihanna,146,1680,Unapologetic,"Right Now",2,327
+26,793,8,Rihanna,146,1681,Unapologetic,"What Now",5,207
+26,793,8,Rihanna,146,1682,Unapologetic,"Don't Leave (Reimagined)",4,203
+26,793,8,Rihanna,146,1683,Unapologetic,"Nobodys Business",2,257
+26,793,8,Rihanna,147,1684,ANTI,Consideration,3,350
+26,793,8,Rihanna,147,1685,ANTI,"James Joint",2,213
+26,793,8,Rihanna,147,1686,ANTI,"Kiss It Better",1,185
+26,793,8,Rihanna,147,1687,ANTI,Work,5,273
+26,793,8,Rihanna,147,1688,ANTI,Desperado,5,213
+26,793,8,Rihanna,147,1689,ANTI,Woo,2,235
+26,793,8,Rihanna,147,1690,ANTI,"Needed Me",4,246
+26,793,8,Rihanna,147,1691,ANTI,"Yeah, I Said It",1,311
+26,793,8,Rihanna,147,1692,ANTI,"Same Ol’ Mistakes",2,280
+26,793,8,Rihanna,147,1693,ANTI,"Love On the Brain",1,215
+27,826,4,"Sam Smith",148,1694,"In the Lonely Hour","Money on My Mind",4,221
+27,826,4,"Sam Smith",148,1695,"In the Lonely Hour","Good Thing",4,353
+27,826,4,"Sam Smith",148,1696,"In the Lonely Hour","Stay with Me",5,221
+27,826,4,"Sam Smith",148,1697,"In the Lonely Hour","Leave Your Love",2,237
+27,826,4,"Sam Smith",148,1698,"In the Lonely Hour","I’m Not the Only One",1,221
+27,826,4,"Sam Smith",148,1699,"In the Lonely Hour","I’ve Told You Now",3,292
+27,826,4,"Sam Smith",148,1700,"In the Lonely Hour","Like I Can",5,249
+27,826,4,"Sam Smith",148,1701,"In the Lonely Hour","Life Support",3,314
+27,826,4,"Sam Smith",148,1702,"In the Lonely Hour","Not in That Way",1,263
+27,826,4,"Sam Smith",148,1703,"In the Lonely Hour","Lay Me Down",1,327
+27,826,4,"Sam Smith",148,1704,"In the Lonely Hour",Restart,5,296
+27,826,4,"Sam Smith",148,1705,"In the Lonely Hour","Safe with Me",5,214
+27,826,4,"Sam Smith",148,1706,"In the Lonely Hour",Nirvana,1,298
+27,826,4,"Sam Smith",148,1707,"In the Lonely Hour",Remno,1,359
+27,826,4,"Sam Smith",149,1708,"The Thrill of It All","Too Good at Goodbyes",1,275
+27,826,4,"Sam Smith",149,1709,"The Thrill of It All","Say It First",4,356
+27,826,4,"Sam Smith",149,1710,"The Thrill of It All","One Last Song",1,235
+27,826,4,"Sam Smith",149,1711,"The Thrill of It All","Midnight Train",5,325
+27,826,4,"Sam Smith",149,1712,"The Thrill of It All",Burning,3,355
+27,826,4,"Sam Smith",149,1713,"The Thrill of It All",Him,3,330
+27,826,4,"Sam Smith",149,1714,"The Thrill of It All","Baby, You Make Me",1,327
+27,826,4,"Sam Smith",149,1715,"The Thrill of It All","No Peace",4,268
+27,826,4,"Sam Smith",149,1716,"The Thrill of It All",Palace,2,301
+27,826,4,"Sam Smith",149,1717,"The Thrill of It All",Pray,4,314
+27,826,4,"Sam Smith",149,1718,"The Thrill of It All","Nothing Left for You",5,311
+27,826,4,"Sam Smith",149,1719,"The Thrill of It All","The Thrill of It All",5,242
+27,826,4,"Sam Smith",149,1720,"The Thrill of It All",Scars,1,286
+27,826,4,"Sam Smith",150,1721,"Love Goes",Young,5,212
+27,826,4,"Sam Smith",150,1722,"Love Goes","Diamonds (Reimagined)",1,189
+27,826,4,"Sam Smith",150,1723,"Love Goes","Another One",4,257
+27,826,4,"Sam Smith",150,1724,"Love Goes","My Oasis",2,213
+27,826,4,"Sam Smith",150,1725,"Love Goes","So Am I",4,263
+27,826,4,"Sam Smith",150,1726,"Love Goes","Dance (’Til You Love Someone Else)",3,346
+27,826,4,"Sam Smith",150,1727,"Love Goes","For the Love",1,331
+27,826,4,"Sam Smith",150,1728,"Love Goes","Breaking Hearts",3,323
+27,826,4,"Sam Smith",150,1729,"Love Goes",Forgive,3,214
+27,826,4,"Sam Smith",150,1730,"Love Goes","Love Go",2,283
+27,826,4,"Sam Smith",150,1731,"Love Goes","Kids Again",3,311
+27,826,4,"Sam Smith",151,1732,Gloria,"Hold Me Now (Reimagined)",2,213
+27,826,4,"Sam Smith",151,1733,Gloria,"No God",1,320
+27,826,4,"Sam Smith",151,1734,Gloria,Hurt,2,244
+27,826,4,"Sam Smith",151,1735,Gloria,"Perfect (Reimagined)",4,308
+27,826,4,"Sam Smith",151,1736,Gloria,Unholy,2,320
+27,826,4,"Sam Smith",151,1737,Gloria,"How to Cry",4,235
+27,826,4,"Sam Smith",151,1738,Gloria,Si,4,248
+27,826,4,"Sam Smith",151,1739,Gloria,Gimme,4,336
+27,826,4,"Sam Smith",151,1740,Gloria,"Lose You",1,237
+27,826,4,"Sam Smith",151,1741,Gloria,Gloria,3,219
+27,826,4,"Sam Smith",151,1742,Gloria,"Who We Love",4,277
+28,856,3,"Selena Gomez",152,1743,"Stars Dance","Birthday (Reimagined)",3,255
+28,856,3,"Selena Gomez",152,1744,"Stars Dance","Slow Down",1,230
+28,856,3,"Selena Gomez",152,1745,"Stars Dance","Stars Danc",2,323
+28,856,3,"Selena Gomez",152,1746,"Stars Dance","Like a Champion",4,281
+28,856,3,"Selena Gomez",152,1747,"Stars Dance","Come & Get It",5,230
+28,856,3,"Selena Gomez",152,1748,"Stars Dance","Forget Forever",5,233
+28,856,3,"Selena Gomez",152,1749,"Stars Dance","Save the Day",2,318
+28,856,3,"Selena Gomez",152,1750,"Stars Dance",B.E.A.T.,5,303
+28,856,3,"Selena Gomez",152,1751,"Stars Dance","Write Your Name",4,316
+28,856,3,"Selena Gomez",152,1752,"Stars Dance",Undercover,2,254
+28,856,3,"Selena Gomez",152,1753,"Stars Dance","Love Will Remember",4,251
+28,856,3,"Selena Gomez",152,1754,"Stars Dance","Nobody Does It Like",4,201
+28,856,3,"Selena Gomez",152,1755,"Stars Dance","Lover in Me",4,297
+28,856,3,"Selena Gomez",153,1756,Revival,Revival,2,338
+28,856,3,"Selena Gomez",153,1757,Revival,"Kill Em with Kindness",3,224
+28,856,3,"Selena Gomez",153,1758,Revival,"Hands to Mysel",1,334
+28,856,3,"Selena Gomez",153,1759,Revival,"Same Old Love",4,258
+28,856,3,"Selena Gomez",153,1760,Revival,Sober,4,260
+28,856,3,"Selena Gomez",153,1761,Revival,"Good for You",1,346
+28,856,3,"Selena Gomez",153,1762,Revival,Camouflage,5,355
+28,856,3,"Selena Gomez",153,1763,Revival,"Me & the Rhythm",4,286
+28,856,3,"Selena Gomez",153,1764,Revival,Survivors,5,318
+28,856,3,"Selena Gomez",153,1765,Revival,"Body Heat",2,188
+28,856,3,"Selena Gomez",153,1766,Revival,Rise,3,203
+28,856,3,"Selena Gomez",153,1767,Revival,"Me & My Girls",2,286
+28,856,3,"Selena Gomez",153,1768,Revival,Nobody,2,237
+28,856,3,"Selena Gomez",154,1769,Rare,Rare,5,334
+28,856,3,"Selena Gomez",154,1770,Rare,"Dance Again",3,197
+28,856,3,"Selena Gomez",154,1771,Rare,"Look at Her Now",4,346
+28,856,3,"Selena Gomez",154,1772,Rare,"Lose You to Love",3,196
+28,856,3,"Selena Gomez",154,1773,Rare,Ring,2,283
+28,856,3,"Selena Gomez",154,1774,Rare,Vulnerable,5,352
+28,856,3,"Selena Gomez",154,1775,Rare,"People You Know",1,241
+28,856,3,"Selena Gomez",154,1776,Rare,"Let Me Get Me",4,346
+28,856,3,"Selena Gomez",154,1777,Rare,"Crowded Room",5,360
+28,856,3,"Selena Gomez",154,1778,Rare,"Cut You Off",2,223
+28,856,3,"Selena Gomez",154,1779,Rare,"A Sweeter Place",1,281
+29,864,4,"Shawn Mendes",155,1780,Handwritten,"Chasing Life (Reimagined)",1,216
+29,864,4,"Shawn Mendes",155,1781,Handwritten,Stitches,4,197
+29,864,4,"Shawn Mendes",155,1782,Handwritten,"Never Be Alone",3,180
+29,864,4,"Shawn Mendes",155,1783,Handwritten,"Kid In Love",5,315
+29,864,4,"Shawn Mendes",155,1784,Handwritten,"I Don’t Even Know Your Name",2,180
+29,864,4,"Shawn Mendes",155,1785,Handwritten,"Something Big",5,237
+29,864,4,"Shawn Mendes",155,1786,Handwritten,Strings,5,352
+29,864,4,"Shawn Mendes",155,1787,Handwritten,Aftertaste,4,218
+29,864,4,"Shawn Mendes",156,1788,Illuminate,Ruin,2,359
+29,864,4,"Shawn Mendes",156,1789,Illuminate,Mercy,5,314
+29,864,4,"Shawn Mendes",156,1790,Illuminate,"Treat You Better",1,202
+29,864,4,"Shawn Mendes",156,1791,Illuminate,"Three Empty Words",3,324
+29,864,4,"Shawn Mendes",156,1792,Illuminate,"Don’t Be a Fool",2,324
+29,864,4,"Shawn Mendes",156,1793,Illuminate,"Like This",3,344
+29,864,4,"Shawn Mendes",156,1794,Illuminate,"No Promise",1,352
+29,864,4,"Shawn Mendes",156,1795,Illuminate,"Hold Me Closer (Reimagined)",1,200
+29,864,4,"Shawn Mendes",157,1796,"Shawn Mendes","In My Blood",2,343
+29,864,4,"Shawn Mendes",157,1797,"Shawn Mendes",Nervous,4,236
+29,864,4,"Shawn Mendes",157,1798,"Shawn Mendes","Lost in Japan",4,341
+29,864,4,"Shawn Mendes",157,1799,"Shawn Mendes","Where Were You in the Morning",2,221
+29,864,4,"Shawn Mendes",157,1800,"Shawn Mendes","Like to Be You",5,235
+29,864,4,"Shawn Mendes",157,1801,"Shawn Mendes","Fallin’ All in You",2,202
+29,864,4,"Shawn Mendes",157,1802,"Shawn Mendes","Particular Taste",3,291
+29,864,4,"Shawn Mendes",157,1803,"Shawn Mendes",Why,4,332
+29,864,4,"Shawn Mendes",157,1804,"Shawn Mendes","Because I Had You",3,283
+29,864,4,"Shawn Mendes",157,1805,"Shawn Mendes",Youth,1,230
+29,864,4,"Shawn Mendes",158,1806,Wonder,"Prelude (Reimagined)",3,249
+29,864,4,"Shawn Mendes",158,1807,Wonder,Wonder,1,294
+29,864,4,"Shawn Mendes",158,1808,Wonder,Higher,3,259
+29,864,4,"Shawn Mendes",158,1809,Wonder,"24 Hours",3,180
+29,864,4,"Shawn Mendes",158,1810,Wonder,"Teach Me",3,354
+29,864,4,"Shawn Mendes",158,1811,Wonder,"Call My Friends",4,280
+29,864,4,"Shawn Mendes",158,1812,Wonder,"Velvet Illusion",4,231
+29,864,4,"Shawn Mendes",158,1813,Wonder,"Song for No One",2,219
+29,864,4,"Shawn Mendes",158,1814,Wonder,"Always Been You",1,313
+29,864,4,"Shawn Mendes",158,1815,Wonder,"Piece of You",1,188
+29,864,4,"Shawn Mendes",158,1816,Wonder,"Look Up",3,216
+29,864,4,"Shawn Mendes",158,1817,Wonder,"Can’t Imagine",1,322
+30,876,9,Sia,159,1818,OnlySee,"Don’t Get Mex Started",4,355
+30,876,9,Sia,159,1819,OnlySee,"I Don’t Want to Want You",2,358
+30,876,9,Sia,159,1820,OnlySee,OnlySee,2,204
+30,876,9,Sia,159,1821,OnlySee,Stories,4,313
+30,876,9,Sia,159,1822,OnlySee,"Mad Love",4,325
+30,876,9,Sia,159,1823,OnlySee,"Look at Mex Now",2,280
+30,876,9,Sia,159,1824,OnlySee,"Time to Change",4,221
+30,876,9,Sia,159,1825,OnlySee,"Velvet Illusion (Reimagined)",1,275
+30,876,9,Sia,160,1826,"Healing Is Difficult",Fear,2,360
+30,876,9,Sia,160,1827,"Healing Is Difficult","Drink to Get Drunk",3,319
+30,876,9,Sia,160,1828,"Healing Is Difficult","Taken for Granted",1,237
+30,876,9,Sia,160,1829,"Healing Is Difficult","Blow It All Away",1,226
+30,876,9,Sia,160,1830,"Healing Is Difficult","Get Me",5,229
+30,876,9,Sia,160,1831,"Healing Is Difficult","I'm Not Important to You",1,340
+30,876,9,Sia,160,1832,"Healing Is Difficult","Sober and Unkissed",2,331
+30,876,9,Sia,160,1833,"Healing Is Difficult","Healing Is Difficult",3,180
+30,876,9,Sia,160,1834,"Healing Is Difficult","Judge Me",2,210
+30,876,9,Sia,160,1835,"Healing Is Difficult","Little Man",3,209
+30,876,9,Sia,160,1836,"Healing Is Difficult",Inside,3,338
+30,876,9,Sia,160,1837,"Healing Is Difficult","Don’t Bring Mex Down *(bonus)*",5,355
+30,876,9,Sia,160,1838,"Healing Is Difficult","Take Me to the Moon *(bonus)*",4,285
+30,876,9,Sia,161,1839,"Colour the Small One",Rewrite,2,275
+30,876,9,Sia,161,1840,"Colour the Small One",Sunday,2,232
+30,876,9,Sia,161,1841,"Colour the Small One","Breathe Mexp",4,185
+30,876,9,Sia,161,1842,"Colour the Small One","The Bully",3,252
+30,876,9,Sia,161,1843,"Colour the Small One","Sweet Potato",3,227
+30,876,9,Sia,161,1844,"Colour the Small One","Don’t Bring Mex Down",3,247
+30,876,9,Sia,161,1845,"Colour the Small One",Natalee,4,186
+30,876,9,Sia,161,1846,"Colour the Small One","Lunar Dreams (Reimagined)",2,245
+30,876,9,Sia,161,1847,"Colour the Small One","Where I Belong",3,306
+30,876,9,Sia,162,1848,"Some People Have Real Problems","Little Black Sandals",2,272
+30,876,9,Sia,162,1849,"Some People Have Real Problems",Lentil,2,255
+30,876,9,Sia,162,1850,"Some People Have Real Problems","Day Too Soon",4,192
+30,876,9,Sia,162,1851,"Some People Have Real Problems","You Have Been Loved",3,352
+30,876,9,Sia,162,1852,"Some People Have Real Problems","The Girl You Lost to Cocaine",2,253
+30,876,9,Sia,162,1853,"Some People Have Real Problems",Academia,1,252
+30,876,9,Sia,162,1854,"Some People Have Real Problems","I Go to Sleep",3,295
+30,876,9,Sia,162,1855,"Some People Have Real Problems",Playground,4,309
+30,876,9,Sia,162,1856,"Some People Have Real Problems","Death by Chocolate",1,278
+30,876,9,Sia,162,1857,"Some People Have Real Problems","Soon We’ll Be Found",1,360
+30,876,9,Sia,162,1858,"Some People Have Real Problems",Lullaby,3,183
+30,876,9,Sia,163,1859,"We Are Born","The Fight",2,266
+30,876,9,Sia,163,1860,"We Are Born","Clap Your Hands",4,252
+30,876,9,Sia,163,1861,"We Are Born","Stop Trying",1,296
+30,876,9,Sia,163,1862,"We Are Born","You’ve Changed",2,216
+30,876,9,Sia,163,1863,"We Are Born","Be Good to Me",5,252
+30,876,9,Sia,163,1864,"We Are Born","Bring Night",2,295
+30,876,9,Sia,163,1865,"We Are Born","Hurt (Reimagined)",3,205
+30,876,9,Sia,163,1866,"We Are Born","Never Gonna Leave Me",5,234
+30,876,9,Sia,163,1867,"We Are Born",Cloud,2,360
+30,876,9,Sia,163,1868,"We Are Born","I’m in Here",2,285
+30,876,9,Sia,163,1869,"We Are Born","The Coa",1,203
+30,876,9,Sia,163,1870,"We Are Born","Oh Father",2,264
+30,876,9,Sia,164,1871,"1000 Forms of Fear",Chandelier,1,189
+30,876,9,Sia,164,1872,"1000 Forms of Fear","Big Girls Cry",2,244
+30,876,9,Sia,164,1873,"1000 Forms of Fear","Burn the Pages",5,311
+30,876,9,Sia,164,1874,"1000 Forms of Fear","Eye of the Needle",5,236
+30,876,9,Sia,164,1875,"1000 Forms of Fear",Hostage,4,357
+30,876,9,Sia,164,1876,"1000 Forms of Fear","Straight for the Knife",1,195
+30,876,9,Sia,164,1877,"1000 Forms of Fear","Fair Game",5,345
+30,876,9,Sia,164,1878,"1000 Forms of Fear","Elastic Heart",3,228
+30,876,9,Sia,164,1879,"1000 Forms of Fear","Free the Anima",2,229
+30,876,9,Sia,164,1880,"1000 Forms of Fear",Cellophane,4,203
+30,876,9,Sia,164,1881,"1000 Forms of Fear","Dressed in Black",5,324
+30,876,9,Sia,165,1882,"This Is Acting","Bird Set Free",2,302
+30,876,9,Sia,165,1883,"This Is Acting",Alive,1,331
+30,876,9,Sia,165,1884,"This Is Acting","One Million Bullets",4,347
+30,876,9,Sia,165,1885,"This Is Acting","Move Your Body",2,298
+30,876,9,Sia,165,1886,"This Is Acting",Unstoppable,2,271
+30,876,9,Sia,165,1887,"This Is Acting","Cheap Thrills",2,265
+30,876,9,Sia,165,1888,"This Is Acting",Reaper,1,249
+30,876,9,Sia,165,1889,"This Is Acting","House on Fire",4,303
+30,876,9,Sia,165,1890,"This Is Acting",Footprints,5,184
+30,876,9,Sia,165,1891,"This Is Acting","Space Between",3,314
+30,876,9,Sia,166,1892,"Music and Motion Picture",Together,1,225
+30,876,9,Sia,166,1893,"Music and Motion Picture","Hey Boy",4,297
+30,876,9,Sia,166,1894,"Music and Motion Picture","Saved My Life",3,184
+30,876,9,Sia,166,1895,"Music and Motion Picture","Floating Through Space",1,216
+30,876,9,Sia,166,1896,"Music and Motion Picture","Eye to Eye",5,199
+30,876,9,Sia,166,1897,"Music and Motion Picture",Music,2,347
+30,876,9,Sia,166,1898,"Music and Motion Picture",1+1,2,199
+30,876,9,Sia,166,1899,"Music and Motion Picture","Courage to Change",2,360
+30,876,9,Sia,166,1900,"Music and Motion Picture","Play Dum",3,291
+30,876,9,Sia,166,1901,"Music and Motion Picture","Beautiful Things Can Happen",1,291
+30,876,9,Sia,166,1902,"Music and Motion Picture","Lie to Me",1,252
+30,876,9,Sia,166,1903,"Music and Motion Picture",Oblivion,4,330
+30,876,9,Sia,166,1904,"Music and Motion Picture",Miracle,2,250
+30,876,9,Sia,167,1905,"Reasonable Woman","Immortal Soul",5,323
+30,876,9,Sia,167,1906,"Reasonable Woman","Fame Wont Love",2,277
+30,876,9,Sia,167,1907,"Reasonable Woman","Emotional Dna",2,354
+30,876,9,Sia,167,1908,"Reasonable Woman","Incredible Power",5,215
+30,876,9,Sia,167,1909,"Reasonable Woman","On the Moon",5,202
+30,876,9,Sia,167,1910,"Reasonable Woman","Gimme (Reimagined)",2,269
+30,876,9,Sia,167,1911,"Reasonable Woman","Im Free Now",5,206
+30,876,9,Sia,167,1912,"Reasonable Woman","Fearless Female",1,304
+30,876,9,Sia,167,1913,"Reasonable Woman","Beautiful Lie",1,180
+30,876,9,Sia,167,1914,"Reasonable Woman","Go On",1,236
+31,915,10,"Taylor Swift",168,1915,"Taylor Swift","Tim McGraw",4,207
+31,915,10,"Taylor Swift",168,1916,"Taylor Swift","Picture to Burn",4,288
+31,915,10,"Taylor Swift",168,1917,"Taylor Swift","Teardrops on My Guitar",4,219
+31,915,10,"Taylor Swift",168,1918,"Taylor Swift","A Place in This World",3,351
+31,915,10,"Taylor Swift",168,1919,"Taylor Swift","Cold as You",3,339
+31,915,10,"Taylor Swift",168,1920,"Taylor Swift","The Outside",5,202
+31,915,10,"Taylor Swift",168,1921,"Taylor Swift","Tied Together with a Smil",3,204
+31,915,10,"Taylor Swift",168,1922,"Taylor Swift","Stay Beautiful",3,272
+31,915,10,"Taylor Swift",168,1923,"Taylor Swift","Should’ve Said No",3,358
+31,915,10,"Taylor Swift",168,1924,"Taylor Swift","Mary’s Song (Oh My My My)",5,265
+31,915,10,"Taylor Swift",168,1925,"Taylor Swift","Our Song",3,259
+31,915,10,"Taylor Swift",169,1926,Fearless,Fearless,2,220
+31,915,10,"Taylor Swift",169,1927,Fearless,Fifteen,4,336
+31,915,10,"Taylor Swift",169,1928,Fearless,"Lovex Story",5,283
+31,915,10,"Taylor Swift",169,1929,Fearless,"Hey Stephanie",1,292
+31,915,10,"Taylor Swift",169,1930,Fearless,"White Horse",3,202
+31,915,10,"Taylor Swift",169,1931,Fearless,"You Belong with Me",4,304
+31,915,10,"Taylor Swift",169,1932,Fearless,Breathe,5,237
+31,915,10,"Taylor Swift",169,1933,Fearless,"Tell Me Why",3,285
+31,915,10,"Taylor Swift",169,1934,Fearless,"You’re Not Sorry",3,329
+31,915,10,"Taylor Swift",169,1935,Fearless,"The Way I Loved You",4,260
+31,915,10,"Taylor Swift",169,1936,Fearless,"Forever & Always",1,338
+31,915,10,"Taylor Swift",169,1937,Fearless,"The Best Day",1,335
+31,915,10,"Taylor Swift",169,1938,Fearless,Change,2,268
+31,915,10,"Taylor Swift",170,1939,"Speak Now",Mine,2,236
+31,915,10,"Taylor Swift",170,1940,"Speak Now","Sparks Fly",1,307
+31,915,10,"Taylor Swift",170,1941,"Speak Now","Back to December",2,352
+31,915,10,"Taylor Swift",170,1942,"Speak Now","Speak Now",1,221
+31,915,10,"Taylor Swift",170,1943,"Speak Now","Dear John",3,320
+31,915,10,"Taylor Swift",170,1944,"Speak Now",Mean,3,257
+31,915,10,"Taylor Swift",170,1945,"Speak Now","The Story of U",2,319
+31,915,10,"Taylor Swift",170,1946,"Speak Now","Never Grow Up",3,242
+31,915,10,"Taylor Swift",170,1947,"Speak Now",Enchanted,1,289
+31,915,10,"Taylor Swift",170,1948,"Speak Now","Better Than Revenge",4,247
+31,915,10,"Taylor Swift",170,1949,"Speak Now",Innocent,4,319
+31,915,10,"Taylor Swift",170,1950,"Speak Now",Haunted,4,226
+31,915,10,"Taylor Swift",170,1951,"Speak Now","Last Kiss",5,238
+31,915,10,"Taylor Swift",170,1952,"Speak Now","Long Live",3,326
+31,915,10,"Taylor Swift",171,1953,Red,Starlight,4,296
+31,915,10,"Taylor Swift",171,1954,Red,"State of Grace",1,184
+31,915,10,"Taylor Swift",171,1955,Red,Red,4,328
+31,915,10,"Taylor Swift",171,1956,Red,Treacherous,5,276
+31,915,10,"Taylor Swift",171,1957,Red,"I Knew You Were Trouble",1,352
+31,915,10,"Taylor Swift",171,1958,Red,"All Too Well",5,184
+31,915,10,"Taylor Swift",171,1959,Red,22,4,222
+31,915,10,"Taylor Swift",171,1960,Red,"I Almost Do",5,284
+31,915,10,"Taylor Swift",171,1961,Red,"The Lucky One",1,278
+31,915,10,"Taylor Swift",171,1962,Red,"Begin Again",4,249
+31,915,10,"Taylor Swift",171,1963,Red,"Holy Ground",3,339
+31,915,10,"Taylor Swift",171,1964,Red,"Everything Has Changed",4,255
+31,915,10,"Taylor Swift",172,1965,1989,"Welcome to New York",1,295
+31,915,10,"Taylor Swift",172,1966,1989,"Blank Space",4,193
+31,915,10,"Taylor Swift",172,1967,1989,Style,5,259
+31,915,10,"Taylor Swift",172,1968,1989,"Out of the Woods",2,250
+31,915,10,"Taylor Swift",172,1969,1989,"All You Had to Do",3,335
+31,915,10,"Taylor Swift",172,1970,1989,"Shake It Off",5,306
+31,915,10,"Taylor Swift",172,1971,1989,"I Wish You Would",2,222
+31,915,10,"Taylor Swift",172,1972,1989,"Bad Blood",2,305
+31,915,10,"Taylor Swift",172,1973,1989,"Wildest Dreams",2,264
+31,915,10,"Taylor Swift",172,1974,1989,"How You Get the Girl",5,232
+31,915,10,"Taylor Swift",172,1975,1989,"Endless Flame (Reimagined)",3,337
+31,915,10,"Taylor Swift",172,1976,1989,"I Know Places",4,325
+31,915,10,"Taylor Swift",172,1977,1989,Clean,2,356
+31,915,10,"Taylor Swift",173,1978,Reputation,"…Ready for It?",1,232
+31,915,10,"Taylor Swift",173,1979,Reputation,"End Game",5,283
+31,915,10,"Taylor Swift",173,1980,Reputation,"I Did Something Bad",2,236
+31,915,10,"Taylor Swift",173,1981,Reputation,"Don’t Blame Me",5,329
+31,915,10,"Taylor Swift",173,1982,Reputation,Delicate,1,272
+31,915,10,"Taylor Swift",173,1983,Reputation,"Look What You Made Mex Do",5,251
+31,915,10,"Taylor Swift",173,1984,Reputation,"So It Go",1,322
+31,915,10,"Taylor Swift",173,1985,Reputation,"Gorgeous (Reimagined)",5,283
+31,915,10,"Taylor Swift",173,1986,Reputation,"Getaway Car",3,237
+31,915,10,"Taylor Swift",173,1987,Reputation,"New Year’s Day",3,346
+31,915,10,"Taylor Swift",174,1988,Lover,"I Forgot That You Existed",3,239
+31,915,10,"Taylor Swift",174,1989,Lover,"Cruel Summer",3,289
+31,915,10,"Taylor Swift",174,1990,Lover,Lover,2,222
+31,915,10,"Taylor Swift",174,1991,Lover,"The Man",5,210
+31,915,10,"Taylor Swift",174,1992,Lover,"The Archer",5,268
+31,915,10,"Taylor Swift",174,1993,Lover,"I Think He Knows",1,218
+31,915,10,"Taylor Swift",174,1994,Lover,"Paper Ring",2,184
+31,915,10,"Taylor Swift",174,1995,Lover,"Cornelia Street",3,219
+31,915,10,"Taylor Swift",174,1996,Lover,"Death by a Thousand Cuts",2,254
+31,915,10,"Taylor Swift",174,1997,Lover,"London Boy",5,345
+31,915,10,"Taylor Swift",175,1998,Folklore,"The 1",1,214
+31,915,10,"Taylor Swift",175,1999,Folklore,Cardigan,3,231
+31,915,10,"Taylor Swift",175,2000,Folklore,"The Last Great American Dynasty",1,180
+31,915,10,"Taylor Swift",175,2001,Folklore,Exile,3,325
+31,915,10,"Taylor Swift",175,2002,Folklore,"My Tears Ricochet",2,268
+31,915,10,"Taylor Swift",175,2003,Folklore,Mirrorball,3,290
+31,915,10,"Taylor Swift",175,2004,Folklore,Seven,1,242
+31,915,10,"Taylor Swift",175,2005,Folklore,August,2,350
+31,915,10,"Taylor Swift",175,2006,Folklore,"This Is Mex Trying",5,290
+31,915,10,"Taylor Swift",175,2007,Folklore,Betty,5,257
+31,915,10,"Taylor Swift",176,2008,Evermore,Willow,5,319
+31,915,10,"Taylor Swift",176,2009,Evermore,"Champagne Problems (Reimagined)",5,320
+31,915,10,"Taylor Swift",176,2010,Evermore,"Gold Rush",2,230
+31,915,10,"Taylor Swift",176,2011,Evermore,"’Tis the Damn Season",1,257
+31,915,10,"Taylor Swift",176,2012,Evermore,Tolerate,2,189
+31,915,10,"Taylor Swift",176,2013,Evermore,"No Body, No Crime",5,200
+31,915,10,"Taylor Swift",176,2014,Evermore,Happiness,3,322
+31,915,10,"Taylor Swift",176,2015,Evermore,Dorothea,1,348
+31,915,10,"Taylor Swift",176,2016,Evermore,"Coney Island",1,209
+31,915,10,"Taylor Swift",176,2017,Evermore,"Long Story Short",3,299
+31,915,10,"Taylor Swift",176,2018,Evermore,Evermore,5,195
+31,915,10,"Taylor Swift",177,2019,Midnights,"Lavender Haze",3,265
+31,915,10,"Taylor Swift",177,2020,Midnights,Maroon,1,207
+31,915,10,"Taylor Swift",177,2021,Midnights,Anti-Hero,1,284
+31,915,10,"Taylor Swift",177,2022,Midnights,"Snow on the Beach",4,345
+31,915,10,"Taylor Swift",177,2023,Midnights,"You’re on Your Own, Kid",1,218
+31,915,10,"Taylor Swift",177,2024,Midnights,"Midnight Rain",5,295
+31,915,10,"Taylor Swift",177,2025,Midnights,Question…?,4,333
+31,915,10,"Taylor Swift",177,2026,Midnights,"Vigilante Shit",4,247
+31,915,10,"Taylor Swift",177,2027,Midnights,Bejeweled,1,209
+31,915,10,"Taylor Swift",177,2028,Midnights,Labyrinth,5,275
+31,915,10,"Taylor Swift",177,2029,Midnights,Karma,3,332
+31,915,10,"Taylor Swift",177,2030,Midnights,"Sweet Nothing",2,181
+31,915,10,"Taylor Swift",177,2031,Midnights,Mastermind,3,353
+32,921,8,"The Beatles",178,2032,"Please Please Me","I Saw Her Standing There",1,298
+32,921,8,"The Beatles",178,2033,"Please Please Me","Misery (Reimagined)",2,290
+32,921,8,"The Beatles",178,2034,"Please Please Me","Anna (Go to Him)",5,289
+32,921,8,"The Beatles",178,2035,"Please Please Me",Chains,1,303
+32,921,8,"The Beatles",178,2036,"Please Please Me",Boys,2,303
+32,921,8,"The Beatles",178,2037,"Please Please Me","Ask Mex Why",2,276
+32,921,8,"The Beatles",178,2038,"Please Please Me","Please Please Me",2,204
+32,921,8,"The Beatles",178,2039,"Please Please Me","Love Mex Do",3,336
+32,921,8,"The Beatles",178,2040,"Please Please Me","P.S. I Lovex You",3,222
+32,921,8,"The Beatles",178,2041,"Please Please Me","Baby It’s You",3,232
+32,921,8,"The Beatles",178,2042,"Please Please Me","Do You Want to Know a Secret",1,267
+32,921,8,"The Beatles",178,2043,"Please Please Me","A Taste of Honey",5,279
+32,921,8,"The Beatles",178,2044,"Please Please Me","There’s a Place",5,318
+32,921,8,"The Beatles",178,2045,"Please Please Me","Twist and Shout",1,288
+32,921,8,"The Beatles",179,2046,"With the Beatles","It Won’t Be Long",4,327
+32,921,8,"The Beatles",179,2047,"With the Beatles","All I’ve Got to Do",3,355
+32,921,8,"The Beatles",179,2048,"With the Beatles","All My Loving",3,216
+32,921,8,"The Beatles",179,2049,"With the Beatles","Don’t Bother Me",4,224
+32,921,8,"The Beatles",179,2050,"With the Beatles","Little Child",4,180
+32,921,8,"The Beatles",179,2051,"With the Beatles","Till There Was You",4,286
+32,921,8,"The Beatles",179,2052,"With the Beatles","Please Mr. Postman",1,187
+32,921,8,"The Beatles",179,2053,"With the Beatles","Roll Over Beethoven",2,359
+32,921,8,"The Beatles",179,2054,"With the Beatles","Hold Mex Tight",2,294
+32,921,8,"The Beatles",179,2055,"With the Beatles","You Really Got a Hold on Me",4,343
+32,921,8,"The Beatles",179,2056,"With the Beatles","I Wanna Be Your Man",3,214
+32,921,8,"The Beatles",179,2057,"With the Beatles","Devil in Her Heart",1,214
+32,921,8,"The Beatles",179,2058,"With the Beatles","Not a Second Time",5,328
+32,921,8,"The Beatles",179,2059,"With the Beatles","Money (That’s What I Want)",5,184
+32,921,8,"The Beatles",180,2060,"A Hard Day's Night","A Hard Day’s Night",3,343
+32,921,8,"The Beatles",180,2061,"A Hard Day's Night","I Should Have Known Better",4,345
+32,921,8,"The Beatles",180,2062,"A Hard Day's Night","If I Fell",2,221
+32,921,8,"The Beatles",180,2063,"A Hard Day's Night","I’m Happy Just to Dance with You",3,234
+32,921,8,"The Beatles",180,2064,"A Hard Day's Night","And I Lovex Her",3,243
+32,921,8,"The Beatles",180,2065,"A Hard Day's Night","Tell Mex Why",3,332
+32,921,8,"The Beatles",180,2066,"A Hard Day's Night","Can’t Buy Mex Love",2,216
+32,921,8,"The Beatles",180,2067,"A Hard Day's Night","Any Time at All",3,350
+32,921,8,"The Beatles",180,2068,"A Hard Day's Night","I’ll Cry Instead",5,249
+32,921,8,"The Beatles",180,2069,"A Hard Day's Night","Things We Said Today",4,349
+32,921,8,"The Beatles",180,2070,"A Hard Day's Night","When I Get Home",5,221
+32,921,8,"The Beatles",180,2071,"A Hard Day's Night","You Can’t Dox That",2,284
+32,921,8,"The Beatles",180,2072,"A Hard Day's Night","I’ll Be Back",2,312
+32,921,8,"The Beatles",181,2073,Help!,Help!,3,266
+32,921,8,"The Beatles",181,2074,Help!,"The Night Before",1,312
+32,921,8,"The Beatles",181,2075,Help!,"You’ve Got to Hidex Your Lovex Away",2,328
+32,921,8,"The Beatles",181,2076,Help!,"I Need You",3,274
+32,921,8,"The Beatles",181,2077,Help!,"Another Girl",1,312
+32,921,8,"The Beatles",181,2078,Help!,"You’re Going to Lose That Girl",2,212
+32,921,8,"The Beatles",181,2079,Help!,"Ticket to Ride",4,268
+32,921,8,"The Beatles",181,2080,Help!,"Act Naturally",1,196
+32,921,8,"The Beatles",181,2081,Help!,"It’s Only Love",5,196
+32,921,8,"The Beatles",181,2082,Help!,"You Like Mex Too Much",1,231
+32,921,8,"The Beatles",181,2083,Help!,"Tell Mexp What You See",2,280
+32,921,8,"The Beatles",181,2084,Help!,"I’ve Just Seen a Face",4,206
+32,921,8,"The Beatles",181,2085,Help!,"Yesterday (Reimagined)",5,318
+32,921,8,"The Beatles",181,2086,Help!,"Dizzy Miss Lizzie",3,257
+32,921,8,"The Beatles",182,2087,"Rubber Soul","Drive My Car",3,277
+32,921,8,"The Beatles",182,2088,"Rubber Soul","Norwegian Wood",2,276
+32,921,8,"The Beatles",182,2089,"Rubber Soul","You Won’t See Me",1,209
+32,921,8,"The Beatles",182,2090,"Rubber Soul","Nowhere Man",5,286
+32,921,8,"The Beatles",182,2091,"Rubber Soul","Think for Yourself",4,281
+32,921,8,"The Beatles",182,2092,"Rubber Soul","The Word",4,315
+32,921,8,"The Beatles",182,2093,"Rubber Soul",Michelle,2,197
+32,921,8,"The Beatles",182,2094,"Rubber Soul","What Goes On",3,267
+32,921,8,"The Beatles",182,2095,"Rubber Soul",Girl,4,245
+32,921,8,"The Beatles",182,2096,"Rubber Soul","I’m Looking Through You",4,260
+32,921,8,"The Beatles",182,2097,"Rubber Soul","In My Life",4,263
+32,921,8,"The Beatles",182,2098,"Rubber Soul","Wait (Reimagined)",5,268
+32,921,8,"The Beatles",182,2099,"Rubber Soul","If I Needed Some",1,332
+32,921,8,"The Beatles",182,2100,"Rubber Soul","Run for Your Life",3,248
+32,921,8,"The Beatles",183,2101,Revolver,Taxman,4,292
+32,921,8,"The Beatles",183,2102,Revolver,"Eleanor Rigby",5,269
+32,921,8,"The Beatles",183,2103,Revolver,"I’m Only Sleeping",3,187
+32,921,8,"The Beatles",183,2104,Revolver,"Love You To",2,257
+32,921,8,"The Beatles",183,2105,Revolver,"Here, There and Everywhere",5,265
+32,921,8,"The Beatles",183,2106,Revolver,"Yellow Submarine",5,259
+32,921,8,"The Beatles",183,2107,Revolver,"She Said She Said",5,345
+32,921,8,"The Beatles",183,2108,Revolver,"Good Day Sunshine",1,290
+32,921,8,"The Beatles",183,2109,Revolver,"And Your Bird Can Sing",1,305
+32,921,8,"The Beatles",183,2110,Revolver,"For No One",1,194
+32,921,8,"The Beatles",183,2111,Revolver,"Doctor Robert",4,330
+32,921,8,"The Beatles",183,2112,Revolver,"I Want to Tell You",1,202
+32,921,8,"The Beatles",183,2113,Revolver,"Got to Get You into My Life",5,340
+32,921,8,"The Beatles",183,2114,Revolver,"Tomorrow Never Knows",4,281
+32,921,8,"The Beatles",184,2115,"Sgt. Pepper's Lonely Hearts Club Band","Sgt. Pepper’s Lonely Hearts Club Band",5,185
+32,921,8,"The Beatles",184,2116,"Sgt. Pepper's Lonely Hearts Club Band","With a Little Help from My Friends",4,335
+32,921,8,"The Beatles",184,2117,"Sgt. Pepper's Lonely Hearts Club Band","Lucy in the Sky with Diamonds",1,344
+32,921,8,"The Beatles",184,2118,"Sgt. Pepper's Lonely Hearts Club Band","Getting Better",2,190
+32,921,8,"The Beatles",184,2119,"Sgt. Pepper's Lonely Hearts Club Band","Fixing a Hole",3,223
+32,921,8,"The Beatles",184,2120,"Sgt. Pepper's Lonely Hearts Club Band","She’s Leaving Home",5,304
+32,921,8,"The Beatles",184,2121,"Sgt. Pepper's Lonely Hearts Club Band","Being for the Benefit of Mr. Kite",4,343
+32,921,8,"The Beatles",184,2122,"Sgt. Pepper's Lonely Hearts Club Band","Within You Without You",4,273
+32,921,8,"The Beatles",184,2123,"Sgt. Pepper's Lonely Hearts Club Band","When I’m Sixty-Four",2,190
+32,921,8,"The Beatles",184,2124,"Sgt. Pepper's Lonely Hearts Club Band","Lovely Rita",2,214
+32,921,8,"The Beatles",184,2125,"Sgt. Pepper's Lonely Hearts Club Band","Good Morning Good Morning",3,287
+32,921,8,"The Beatles",184,2126,"Sgt. Pepper's Lonely Hearts Club Band","Sgt. Pepper (Reprise)",1,232
+32,921,8,"The Beatles",184,2127,"Sgt. Pepper's Lonely Hearts Club Band","A Day in the Life",4,223
+32,921,8,"The Beatles",185,2128,"The Beatles (White Album) (10)** *","Back in the U.S.S.R.",5,191
+32,921,8,"The Beatles",185,2129,"The Beatles (White Album) (10)** *","Dear Prudence",5,275
+32,921,8,"The Beatles",185,2130,"The Beatles (White Album) (10)** *","Glass Onion",4,357
+32,921,8,"The Beatles",185,2131,"The Beatles (White Album) (10)** *","Ob-La-Di, Ob-La-Da",2,256
+32,921,8,"The Beatles",185,2132,"The Beatles (White Album) (10)** *","While My Guitar Gently Weeps",2,248
+32,921,8,"The Beatles",185,2133,"The Beatles (White Album) (10)** *",Blackbird,3,241
+32,921,8,"The Beatles",185,2134,"The Beatles (White Album) (10)** *","Rocky Raccoon",1,253
+32,921,8,"The Beatles",185,2135,"The Beatles (White Album) (10)** *","Helter Skelter",1,314
+32,921,8,"The Beatles",185,2136,"The Beatles (White Album) (10)** *","Revolution 1",3,280
+32,921,8,"The Beatles",185,2137,"The Beatles (White Album) (10)** *","Good Night",2,252
+33,922,5,"The Weeknd",186,2138,"Kiss Land",Professional,5,354
+33,922,5,"The Weeknd",186,2139,"Kiss Land","The Town",2,337
+33,922,5,"The Weeknd",186,2140,"Kiss Land",Adaptation,1,236
+33,922,5,"The Weeknd",186,2141,"Kiss Land","Love in the Sky",4,320
+33,922,5,"The Weeknd",186,2142,"Kiss Land","Belong to the World",5,224
+33,922,5,"The Weeknd",186,2143,"Kiss Land","Live For",5,316
+33,922,5,"The Weeknd",186,2144,"Kiss Land",Wanderlu,3,220
+33,922,5,"The Weeknd",186,2145,"Kiss Land","Kiss Land",3,204
+33,922,5,"The Weeknd",186,2146,"Kiss Land",Pretty,2,315
+33,922,5,"The Weeknd",186,2147,"Kiss Land","Tears in the Rain",5,285
+33,922,5,"The Weeknd",187,2148,"Beauty Behind the Madness","Real Life",2,340
+33,922,5,"The Weeknd",187,2149,"Beauty Behind the Madness",Losers,1,248
+33,922,5,"The Weeknd",187,2150,"Beauty Behind the Madness","Tell Your Friends",5,233
+33,922,5,"The Weeknd",187,2151,"Beauty Behind the Madness",Often,2,327
+33,922,5,"The Weeknd",187,2152,"Beauty Behind the Madness","The Hills",1,235
+33,922,5,"The Weeknd",187,2153,"Beauty Behind the Madness",Acquainted,3,222
+33,922,5,"The Weeknd",187,2154,"Beauty Behind the Madness","Can’t Feel My Face",5,260
+33,922,5,"The Weeknd",187,2155,"Beauty Behind the Madness","Shameless (Reimagined)",2,181
+33,922,5,"The Weeknd",187,2156,"Beauty Behind the Madness","Earned It",2,193
+33,922,5,"The Weeknd",187,2157,"Beauty Behind the Madness","In the Night",2,214
+33,922,5,"The Weeknd",188,2158,Starboy,Starboy,1,312
+33,922,5,"The Weeknd",188,2159,Starboy,"Party Monste",3,340
+33,922,5,"The Weeknd",188,2160,Starboy,"False Alarm",5,228
+33,922,5,"The Weeknd",188,2161,Starboy,Reminder,2,251
+33,922,5,"The Weeknd",188,2162,Starboy,Rockin,5,258
+33,922,5,"The Weeknd",188,2163,Starboy,Secrets,2,351
+33,922,5,"The Weeknd",188,2164,Starboy,"True Colors",4,233
+33,922,5,"The Weeknd",188,2165,Starboy,"Stargirl Interlude",4,326
+33,922,5,"The Weeknd",188,2166,Starboy,Sidewalks,5,202
+33,922,5,"The Weeknd",188,2167,Starboy,"Die for You (Reimagined)",5,344
+33,922,5,"The Weeknd",189,2168,"After Hours","Alone Again",4,286
+33,922,5,"The Weeknd",189,2169,"After Hours","Too Late",4,302
+33,922,5,"The Weeknd",189,2170,"After Hours","Hardest to Love",2,272
+33,922,5,"The Weeknd",189,2171,"After Hours","Scared to Live",1,335
+33,922,5,"The Weeknd",189,2172,"After Hours",Snowchild,1,240
+33,922,5,"The Weeknd",189,2173,"After Hours","Escape from LA",3,344
+33,922,5,"The Weeknd",189,2174,"After Hours","Heartless (Reimagined)",4,261
+33,922,5,"The Weeknd",189,2175,"After Hours",Faith,3,218
+33,922,5,"The Weeknd",189,2176,"After Hours","Blinding Lights",4,248
+33,922,5,"The Weeknd",189,2177,"After Hours","In Your Eyes",1,256
+33,922,5,"The Weeknd",189,2178,"After Hours","After Hours",1,184
+33,922,5,"The Weeknd",190,2179,"Dawn FM","Dawn FM",1,260
+33,922,5,"The Weeknd",190,2180,"Dawn FM",Gasoline,5,325
+33,922,5,"The Weeknd",190,2181,"Dawn FM","How Do I Make You Love",1,288
+33,922,5,"The Weeknd",190,2182,"Dawn FM","Take My Breath",5,352
+33,922,5,"The Weeknd",190,2183,"Dawn FM",Sacrifice,3,215
+33,922,5,"The Weeknd",190,2184,"Dawn FM","A Tale by Jim",5,190
+33,922,5,"The Weeknd",190,2185,"Dawn FM","Out of Time",1,221
+33,922,5,"The Weeknd",190,2186,"Dawn FM","Here We Gox Again",2,271
+33,922,5,"The Weeknd",190,2187,"Dawn FM","Best Friend",2,276
+33,922,5,"The Weeknd",190,2188,"Dawn FM","Less Than Zero",3,231
+33,922,5,"The Weeknd",190,2189,"Dawn FM","Phantom Regret",1,219
+34,956,4,"Travis Scott",191,2190,Rodeo,Pornographi,3,240
+34,956,4,"Travis Scott",191,2191,Rodeo,"Oh My Dis Side",4,184
+34,956,4,"Travis Scott",191,2192,Rodeo,3500,4,210
+34,956,4,"Travis Scott",191,2193,Rodeo,Waste,1,262
+34,956,4,"Travis Scott",191,2194,Rodeo,90210,2,271
+34,956,4,"Travis Scott",191,2195,Rodeo,"Pray 4 Love",4,223
+34,956,4,"Travis Scott",191,2196,Rodeo,Nightcrawler,3,274
+34,956,4,"Travis Scott",191,2197,Rodeo,"Piss on Your Grave",5,296
+34,956,4,"Travis Scott",191,2198,Rodeo,Antidote,3,291
+34,956,4,"Travis Scott",191,2199,Rodeo,"Flying High",2,318
+34,956,4,"Travis Scott",191,2200,Rodeo,"Apple Pie",4,196
+34,956,4,"Travis Scott",192,2201,"Birds in the Trap Sing McKnight","The Ends",5,336
+34,956,4,"Travis Scott",192,2202,"Birds in the Trap Sing McKnight","Way Back",3,314
+34,956,4,"Travis Scott",192,2203,"Birds in the Trap Sing McKnight",Coordinate,2,315
+34,956,4,"Travis Scott",192,2204,"Birds in the Trap Sing McKnight","Through the Late Night",2,349
+34,956,4,"Travis Scott",192,2205,"Birds in the Trap Sing McKnight","Beibs in the Trap",3,277
+34,956,4,"Travis Scott",192,2206,"Birds in the Trap Sing McKnight","SDP Interlude",2,335
+34,956,4,"Travis Scott",192,2207,"Birds in the Trap Sing McKnight","Sweet Sweet",3,188
+34,956,4,"Travis Scott",192,2208,"Birds in the Trap Sing McKnight",Outside,4,201
+34,956,4,"Travis Scott",192,2209,"Birds in the Trap Sing McKnight",Goosebumps,2,215
+34,956,4,"Travis Scott",192,2210,"Birds in the Trap Sing McKnight","Pick Up the Phone",4,321
+34,956,4,"Travis Scott",193,2211,Astroworld,Stargazing,2,254
+34,956,4,"Travis Scott",193,2212,Astroworld,"Carousel (Reimagined)",5,229
+34,956,4,"Travis Scott",193,2213,Astroworld,"Sicko Mode",3,264
+34,956,4,"Travis Scott",193,2214,Astroworld,"R.I.P. Screw",4,214
+34,956,4,"Travis Scott",193,2215,Astroworld,"Stop Trying to Be God",3,316
+34,956,4,"Travis Scott",193,2216,Astroworld,"No Bystanders",3,298
+34,956,4,"Travis Scott",193,2217,Astroworld,Skeletons,3,311
+34,956,4,"Travis Scott",193,2218,Astroworld,"Wake Up (Reimagined)",1,215
+34,956,4,"Travis Scott",193,2219,Astroworld,"5% Tint",1,322
+34,956,4,"Travis Scott",193,2220,Astroworld,NC-17,5,268
+34,956,4,"Travis Scott",193,2221,Astroworld,Yosemite,5,276
+34,956,4,"Travis Scott",194,2222,Utopia,Hyaena,3,214
+34,956,4,"Travis Scott",194,2223,Utopia,"Thank God",5,244
+34,956,4,"Travis Scott",194,2224,Utopia,"Modern Jam",4,335
+34,956,4,"Travis Scott",194,2225,Utopia,"My Eyes",1,216
+34,956,4,"Travis Scott",194,2226,Utopia,"God’s Country",4,249
+34,956,4,"Travis Scott",194,2227,Utopia,Sirens,1,221
+34,956,4,"Travis Scott",194,2228,Utopia,Meltdown,5,292
+34,956,4,"Travis Scott",194,2229,Utopia,Fe!n,1,331
+34,956,4,"Travis Scott",194,2230,Utopia,Telekinesise,1,192
+34,956,4,"Travis Scott",194,2231,Utopia,"Til Further Notice",4,342
+35,1000,4,Zayn,195,2232,"Mind of Mine","Mind of Mine",3,191
+35,1000,4,Zayn,195,2233,"Mind of Mine",Pillowtalk,5,319
+35,1000,4,Zayn,195,2234,"Mind of Mine","It’s You",1,229
+35,1000,4,Zayn,195,2235,"Mind of Mine",Befour,5,337
+35,1000,4,Zayn,195,2236,"Mind of Mine","She (Reimagined)",3,358
+35,1000,4,Zayn,195,2237,"Mind of Mine","Drunk (Reimagined)",2,216
+35,1000,4,Zayn,195,2238,"Mind of Mine","Intermission: Flower",2,333
+35,1000,4,Zayn,195,2239,"Mind of Mine","Rear View",5,221
+35,1000,4,Zayn,195,2240,"Mind of Mine",Wrong,3,335
+35,1000,4,Zayn,195,2241,"Mind of Mine","Fool for You",1,243
+35,1000,4,Zayn,195,2242,"Mind of Mine",Bordersz,4,353
+35,1000,4,Zayn,195,2243,"Mind of Mine",Truth,1,294
+35,1000,4,Zayn,195,2244,"Mind of Mine",Luco,5,188
+35,1000,4,Zayn,195,2245,"Mind of Mine",Tio,3,228
+35,1000,4,Zayn,195,2246,"Mind of Mine","Ocean Haze (Reimagined)",3,318
+35,1000,4,Zayn,195,2247,"Mind of Mine",Bright,4,187
+35,1000,4,Zayn,195,2248,"Mind of Mine","Like Ix Would",4,278
+35,1000,4,Zayn,195,2249,"Mind of Mine","She Don’t Love",4,189
+35,1000,4,Zayn,196,2250,"Icarus Falls","Let Me (Reimagined)",4,211
+35,1000,4,Zayn,196,2251,"Icarus Falls","Natural (Reimagined)",1,250
+35,1000,4,Zayn,196,2252,"Icarus Falls","Back to Life",3,239
+35,1000,4,Zayn,196,2253,"Icarus Falls",Common,1,257
+35,1000,4,Zayn,196,2254,"Icarus Falls",Imprint,2,182
+35,1000,4,Zayn,196,2255,"Icarus Falls","Stand Still",1,333
+35,1000,4,Zayn,196,2256,"Icarus Falls",Tonight,1,216
+35,1000,4,Zayn,196,2257,"Icarus Falls","Flight of the Stxr",4,295
+35,1000,4,Zayn,196,2258,"Icarus Falls",Rainberry,3,192
+35,1000,4,Zayn,196,2259,"Icarus Falls",Insat,1,242
+35,1000,4,Zayn,196,2260,"Icarus Falls",Satisfy,5,209
+35,1000,4,Zayn,196,2261,"Icarus Falls","There You Are",1,237
+35,1000,4,Zayn,196,2262,"Icarus Falls","Icarus Interlude",5,332
+35,1000,4,Zayn,197,2263,"Nobody Is Listening",Calm,3,270
+35,1000,4,Zayn,197,2264,"Nobody Is Listening",Better,3,255
+35,1000,4,Zayn,197,2265,"Nobody Is Listening","Outside (Reimagined)",5,316
+35,1000,4,Zayn,197,2266,"Nobody Is Listening",Vibez,2,191
+35,1000,4,Zayn,197,2267,"Nobody Is Listening","When Love’s Around",3,276
+35,1000,4,Zayn,197,2268,"Nobody Is Listening",Connexion,5,207
+35,1000,4,Zayn,197,2269,"Nobody Is Listening",Sweat,3,318
+35,1000,4,Zayn,197,2270,"Nobody Is Listening",Unf,4,229
+35,1000,4,Zayn,197,2271,"Nobody Is Listening",Windowsill,1,205
+35,1000,4,Zayn,197,2272,"Nobody Is Listening",Tightrope,2,311
+35,1000,4,Zayn,197,2273,"Nobody Is Listening","River Road",2,201
+35,1000,4,Zayn,198,2274,"Room Under the Stairs",Dreaming,3,300
+35,1000,4,Zayn,198,2275,"Room Under the Stairs","What Ix Am",4,217
+35,1000,4,Zayn,198,2276,"Room Under the Stairs",Alienated,5,296
+35,1000,4,Zayn,198,2277,"Room Under the Stairs","My Womxn",3,338
+35,1000,4,Zayn,198,2278,"Room Under the Stairs",Birdz,4,188
+35,1000,4,Zayn,198,2279,"Room Under the Stairs","How It Feels",2,280
+35,1000,4,Zayn,198,2280,"Room Under the Stairs",Stardust,2,246
+35,1000,4,Zayn,198,2281,"Room Under the Stairs","Fuchsia Sea",4,330
+35,1000,4,Zayn,198,2282,"Room Under the Stairs","The Time",4,181
+35,1000,4,Zayn,198,2283,"Room Under the Stairs","Shoot at Will",3,180
+36,56,6,Anitta,253,2548,"Moonlit Horizons (Soundtrack)","Golden Skies (2)",3,158
+36,56,6,Anitta,253,2549,"Moonlit Horizons (Soundtrack)","Echo Light (Remix)",4,165
+36,56,6,Anitta,253,2550,"Moonlit Horizons (Soundtrack)","Fading Haze (2)",5,172
+36,56,6,Anitta,253,2551,"Moonlit Horizons (Soundtrack)","Midnight Light (2)",1,179
+37,86,8,Beyoncé,279,2684,"Ashen Rooms (Redux)","Midnight Echo (3)",3,134
+37,86,8,Beyoncé,279,2685,"Ashen Rooms (Redux)","Echo Dream (1)",4,141
+37,86,8,Beyoncé,279,2686,"Ashen Rooms (Redux)","Midnight Tide (1)",5,148
+37,86,8,Beyoncé,279,2687,"Ashen Rooms (Redux)","Moonlight Dream (1)",1,155
+37,86,8,Beyoncé,279,2688,"Ashen Rooms (Redux)","Velvet Light (2)",2,162
+37,86,8,Beyoncé,279,2689,"Ashen Rooms (Redux)","Wandering Wave (1)",3,169
+37,86,8,Beyoncé,279,2690,"Ashen Rooms (Redux)","Passage - Part II",4,176
+38,164,9,Coldplay,354,3063,"Radiant Rhythms (Archives)","Echo Echo (3)",3,204
+38,164,9,Coldplay,354,3064,"Radiant Rhythms (Archives)","Golden Dream (7)",4,211
+38,164,9,Coldplay,354,3065,"Radiant Rhythms (Archives)","Silent Light (Remix)",5,218
+38,164,9,Coldplay,354,3066,"Radiant Rhythms (Archives)","Neon Wave (6)",1,225
+38,164,9,Coldplay,354,3067,"Radiant Rhythms (Archives)","Moonlight Heart (4)",2,232
+39,177,7,"Daddy Yankee",367,3131,"Whisper Echoes (Reprise)","Paper River (4)",3,192
+39,177,7,"Daddy Yankee",367,3132,"Whisper Echoes (Reprise)","Paper Light (5)",4,199
+39,177,7,"Daddy Yankee",367,3133,"Whisper Echoes (Reprise)","Echo Light (5)",5,206
+39,177,7,"Daddy Yankee",367,3134,"Whisper Echoes (Reprise)","Neon Haze (5)",1,213
+39,177,7,"Daddy Yankee",367,3135,"Whisper Echoes (Reprise)","Golden Wave (3)",2,220
+39,177,7,"Daddy Yankee",367,3136,"Whisper Echoes (Reprise)","Silent Dream (5)",3,227
+40,281,11,Eminem,467,3641,"Silent Temples (Tales)","Prelude - Part II (1)",3,225
+40,281,11,Eminem,467,3642,"Silent Temples (Tales)","Paper Memory (6)",4,232
+40,281,11,Eminem,467,3643,"Silent Temples (Tales)","Echo Tide (5)",5,239
+40,281,11,Eminem,467,3644,"Silent Temples (Tales)","Echo Heart (8)",1,246
+40,281,11,Eminem,467,3645,"Silent Temples (Tales)","Wandering Memory (11)",2,253
+40,281,11,Eminem,467,3646,"Silent Temples (Tales)","Electric Heart (10)",3,260
+40,281,11,Eminem,467,3647,"Silent Temples (Tales)","Crimson Skies (8)",4,267
+41,317,10,"Green Day",503,3824,"Sacred Dreams (Sessions)","Midnight Heart (7)",3,150
+41,317,10,"Green Day",503,3825,"Sacred Dreams (Sessions)","Midnight Wave (4)",4,157
+41,317,10,"Green Day",503,3826,"Sacred Dreams (Sessions)","Wandering Echo (8)",5,164
+41,317,10,"Green Day",503,3827,"Sacred Dreams (Sessions)","Theme - Part II (1)",1,171
+42,585,7,"Linkin Park",764,5153,"Lunar Paradise (Edition)","Fading Tide (Remix) (3)",3,285
+42,585,7,"Linkin Park",764,5154,"Lunar Paradise (Edition)","Paper Dream (12)",4,292
+42,585,7,"Linkin Park",764,5155,"Lunar Paradise (Edition)","Segment - Scene (2)",5,299
+42,585,7,"Linkin Park",764,5156,"Lunar Paradise (Edition)","Midnight Tide (19)",1,125
+42,585,7,"Linkin Park",764,5157,"Lunar Paradise (Edition)","Golden River (25)",2,132
+42,585,7,"Linkin Park",764,5158,"Lunar Paradise (Edition)","Velvet Skies (10)",3,139
+42,585,7,"Linkin Park",764,5159,"Lunar Paradise (Edition)","Midnight Whisper (14)",4,146
+43,600,6,"Luis Fonsi",778,5228,"Broken Lights (Redux)","Electric Skies (17)",3,286
+43,600,6,"Luis Fonsi",778,5229,"Broken Lights (Redux)","Coda - Vision (3)",4,293
+43,600,6,"Luis Fonsi",778,5230,"Broken Lights (Redux)","Electric Wave (15)",5,300
+43,600,6,"Luis Fonsi",778,5231,"Broken Lights (Redux)","Electric Road (Remix) (2)",1,126
+43,600,6,"Luis Fonsi",778,5232,"Broken Lights (Redux)","Moonlight Echo (17)",2,133
+43,600,6,"Luis Fonsi",778,5233,"Broken Lights (Redux)","Silent Heart (17)",3,140
+44,607,14,Madonna,785,5261,"Wild Paths","Moonlight Light (24)",3,196
+44,607,14,Madonna,785,5262,"Wild Paths","Electric Wave (16)",4,203
+44,607,14,Madonna,785,5263,"Wild Paths","Electric Wave (17)",5,210
+44,607,14,Madonna,785,5264,"Wild Paths","Neon Dream (13)",1,217
+44,607,14,Madonna,785,5265,"Wild Paths","Electric Dream (24)",2,224
+44,607,14,Madonna,785,5266,"Wild Paths","Fading Dream (21)",3,231
+44,607,14,Madonna,785,5267,"Wild Paths","Fading Skies (28)",4,238
+45,732,3,Nirvana,907,5885,"Infinite Visions (Saga)","Neon Tide (22)",3,153
+45,732,3,Nirvana,907,5886,"Infinite Visions (Saga)","Paper Tide (23)",4,160
+45,732,3,Nirvana,907,5887,"Infinite Visions (Saga)","Prelude - Part II (6)",5,167
+45,732,3,Nirvana,907,5888,"Infinite Visions (Saga)","Wandering Whisper (21)",1,174
+45,732,3,Nirvana,907,5889,"Infinite Visions (Saga)","Electric Echo (39)",2,181
+45,732,3,Nirvana,907,5890,"Infinite Visions (Saga)","Golden Light (22)",3,188
+46,748,11,"Pearl Jam",922,5963,"Paper Paradise (Vol. II)","Skit - Moment (1)",3,167
+46,748,11,"Pearl Jam",922,5964,"Paper Paradise (Vol. II)","Fading Road (31)",4,174
+46,748,11,"Pearl Jam",922,5965,"Paper Paradise (Vol. II)","Fading Dream (27)",5,181
+47,758,15,Queen,931,6009,"Neon Dreams (Redux)","Neon Skies (20)",3,284
+47,758,15,Queen,931,6010,"Neon Dreams (Redux)","Midnight Road (16)",4,291
+47,758,15,Queen,931,6011,"Neon Dreams (Redux)","Paper Echo (26)",5,298
+47,758,15,Queen,931,6012,"Neon Dreams (Redux)","Fading Whisper (Remix) (1)",1,124
+48,963,6,"Twenty One Pilots",1127,7007,"Silent Lights (Edition)","Silent Haze (22)",3,298
+48,963,6,"Twenty One Pilots",1127,7008,"Silent Lights (Edition)","Paper Memory (23)",4,124
+48,963,6,"Twenty One Pilots",1127,7009,"Silent Lights (Edition)","Neon Skies (28)",5,131
+48,963,6,"Twenty One Pilots",1127,7010,"Silent Lights (Edition)","Interlude - Moment (6)",1,138
+48,963,6,"Twenty One Pilots",1127,7011,"Silent Lights (Edition)","Neon Echo (26)",2,145
+48,963,6,"Twenty One Pilots",1127,7012,"Silent Lights (Edition)","Velvet Skies (18)",3,152
+48,963,6,"Twenty One Pilots",1127,7013,"Silent Lights (Edition)","Silent Road (32)",4,159
+49,964,9,Usher,1128,7014,"Radiant Voices (Memoirs)","Wandering Road (28)",3,130
+49,964,9,Usher,1128,7015,"Radiant Voices (Memoirs)","Velvet River (29)",4,137
+49,964,9,Usher,1128,7016,"Radiant Voices (Memoirs)","Coda - Moment (3)",5,144
+49,964,9,Usher,1128,7017,"Radiant Voices (Memoirs)","Golden Skies (27)",1,151
+49,964,9,Usher,1128,7018,"Radiant Voices (Memoirs)","Midnight Road (26)",2,158
+49,964,9,Usher,1128,7019,"Radiant Voices (Memoirs)","Neon Wave (32)",3,165
+50,660,10,Metallica,837,5529,"Echo Lights","Golden Wave (17)",3,148
+50,660,10,Metallica,837,5530,"Echo Lights","Electric Heart (24)",4,155
+50,660,10,Metallica,837,5531,"Echo Lights","Echo Heart (20)",5,162
+50,660,10,Metallica,837,5532,"Echo Lights","Paper Wave (22)",1,169
+50,660,10,Metallica,837,5533,"Echo Lights","Neon Memory (20)",2,176

@@ -1,0 +1,313 @@
+city_name,orders
+Burlington,584
+Cambridge,556
+Richmond,547
+Surrey,460
+"Spruce Grove",455
+Langley,449
+Okotoks,449
+"Corner Brook",441
+Dieppe,439
+"Mount Pearl",437
+Kentville,432
+Laval,432
+"West Vancouver",430
+Sydney,429
+"Quebec City",426
+"New Glasgow",423
+Oakville,423
+Selkirk,418
+"Richmond Hill",416
+Gander,415
+Halifax,414
+Yorkton,414
+Guelph,412
+Vaughan,411
+Iqaluit,410
+Gatineau,409
+Edmonton,407
+Brandon,405
+Thompson,405
+Stratford,403
+Trois-Rivieres,403
+"Red Deer",400
+"North Vancouver",399
+"Moose Jaw",397
+Coquitlam,396
+Steinbach,396
+"New Westminster",394
+Burnaby,393
+Lethbridge,392
+Toronto,390
+Mississauga,389
+Cochrane,388
+Kitchener,387
+Airdrie,386
+Markham,386
+Abbotsford,384
+Summerside,382
+Montreal,381
+Dartmouth,378
+London,377
+Sherbrooke,377
+Fredericton,376
+Miramichi,376
+Truro,375
+Yellowknife,375
+Longueuil,374
+Regina,374
+Cornwall,371
+Hamilton,370
+Moncton,370
+"Portage la Prairie",370
+Waterloo,368
+Brossard,365
+"Fort McMurray",364
+Brampton,356
+Granby,356
+Chilliwack,353
+Vancouver,353
+Calgary,351
+Drummondville,351
+Charlottetown,348
+Saskatoon,348
+"Medicine Hat",346
+Winnipeg,346
+Milton,345
+"Grand Falls-Windsor",343
+"Saint John",334
+"St. John's",333
+Charleston,327
+"Prince Albert",326
+Whitehorse,319
+Delta,318
+Arlington,309
+Aurora,261
+Bellevue,261
+Columbia,253
+Portland,248
+Newark,243
+"Kansas City",216
+Middletown,201
+Birmingham,191
+Jackson,188
+Cranston,180
+Nashua,180
+Dover,171
+"Palo Alto",170
+Baltimore,167
+Ogden,167
+Huntsville,166
+Lakewood,165
+Allentown,164
+"San Jose",163
+Lexington,159
+Pittsburgh,159
+Sacramento,158
+Flint,157
+Providence,157
+"St. Paul",157
+"Chapel Hill",155
+Albuquerque,154
+Orlando,154
+Nashville,153
+Reno,152
+Wilmington,152
+Fairbanks,151
+Raleigh,150
+Roswell,150
+Spartanburg,150
+Warwick,150
+Plano,149
+Cleveland,148
+Redmond,148
+"Sioux Falls",148
+Cincinnati,146
+"Idaho Falls",146
+"San Francisco",146
+Brooklyn,145
+Columbus,145
+Lincoln,144
+Newton,144
+Phoenix,142
+Duluth,141
+Irvine,141
+Topeka,141
+Bloomington,140
+"Bowling Green",140
+Knoxville,140
+"South Burlington",140
+Decatur,139
+Mobile,139
+"Grand Island",138
+Manchester,138
+Mesa,138
+Naperville,138
+Scranton,138
+"Los Angeles",137
+"Broken Arrow",136
+Fayetteville,136
+"Fort Smith",136
+Philadelphia,136
+"Santa Monica",136
+Austin,135
+Billings,135
+Davenport,135
+Durham,135
+Elizabeth,135
+Eugene,135
+Evanston,135
+Kapolei,135
+"St. Louis",135
+Toledo,135
+Tulsa,135
+"Las Cruces",134
+"Oak Park",134
+"Santa Clara",134
+"Boca Raton",133
+Bozeman,133
+Denver,133
+Meridian,133
+Springdale,133
+Tampa,133
+"Colorado Springs",132
+Jacksonville,132
+Salem,132
+"Silver Spring",132
+Albany,131
+"Baton Rouge",131
+Greensboro,131
+Gulfport,131
+"Lake Charles",131
+Bethlehem,130
+Hattiesburg,130
+Henderson,130
+Hilo,130
+Honolulu,130
+Kenosha,130
+Beaverton,129
+Chandler,129
+Everett,129
+Huntington,129
+"Iowa City",129
+Lansing,129
+Tucson,129
+Boise,128
+"Little Rock",128
+"New Orleans",128
+Olathe,128
+"Overland Park",128
+"Rio Rancho",128
+Dallas,127
+"Las Vegas",127
+Omaha,127
+Sunnyvale,127
+"Fort Wayne",126
+Fremont,126
+Lewiston,126
+"New Haven",126
+Norman,126
+Rutland,126
+Bethesda,125
+Brookings,125
+Morgantown,125
+"Mountain View",125
+"Santa Fe",125
+Seattle,125
+Augusta,124
+Hollywood,124
+Paterson,124
+"Sandy Springs",124
+Bangor,123
+Fargo,123
+Juneau,123
+Tacoma,123
+Hartford,122
+Boulder,121
+Chattanooga,121
+Greenville,121
+Evansville,120
+Bridgeport,119
+Charlotte,119
+Irving,119
+Lafayette,119
+Louisville,119
+"Salt Lake City",119
+Milwaukee,118
+Rochester,118
+Buffalo,117
+Edison,117
+"Grand Forks",117
+Houston,117
+"St. Petersburg",117
+Bismarck,116
+Concord,116
+Montgomery,116
+Orem,116
+Pawtucket,116
+Scottsdale,116
+"Sioux City",116
+Anchorage,115
+"Grand Rapids",115
+Laramie,115
+Manhattan,115
+Schaumburg,115
+Boston,114
+Brookline,114
+Somerville,114
+Tuscaloosa,114
+"Carson City",113
+"Green Bay",113
+"Jersey City",113
+Quincy,113
+"Rapid City",113
+Washington,113
+"Fort Worth",112
+"San Antonio",112
+"South Bend",112
+"Virginia Beach",112
+Cheyenne,111
+"Des Moines",111
+Marietta,111
+Tempe,111
+Waterbury,111
+"Fort Lauderdale",110
+Madison,110
+"New York City",110
+Norfolk,110
+Oakland,110
+Atlanta,109
+Queens,109
+Minneapolis,108
+Wichita,108
+Independence,107
+"San Diego",107
+Alexandria,106
+Pasadena,106
+Bronx,104
+Shreveport,104
+Gaithersburg,103
+Rockville,103
+Springfield,103
+"Ann Arbor",102
+"Cedar Rapids",102
+Indianapolis,102
+Provo,102
+Owensboro,101
+Chicago,100
+"Oklahoma City",100
+Biloxi,98
+Detroit,98
+Derry,97
+Missoula,95
+Nampa,94
+Alpharetta,93
+Berkeley,93
+Dayton,92
+Miami,92
+Casper,91
+"Fort Collins",90
+Stamford,87
+Kailua,86
+Memphis,83
+Clarksville,82

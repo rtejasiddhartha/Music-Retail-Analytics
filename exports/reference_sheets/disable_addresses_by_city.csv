@@ -1,0 +1,309 @@
+city_name,disabled_count
+Brampton,20
+Burnaby,19
+Kitchener,18
+Halifax,17
+Drummondville,17
+Mississauga,17
+Dieppe,17
+"Richmond Hill",16
+London,15
+Thompson,15
+Surrey,15
+Trois-Rivieres,15
+"New Westminster",15
+"Corner Brook",15
+Moncton,15
+Hamilton,14
+"Spruce Grove",14
+Burlington,14
+Iqaluit,14
+"Portage la Prairie",14
+Kentville,14
+Milton,14
+Stratford,14
+"Grand Falls-Windsor",14
+"Prince Albert",13
+Gatineau,13
+Oakville,13
+"New Glasgow",13
+Cambridge,13
+"Saint John",13
+Guelph,13
+Regina,13
+"Medicine Hat",13
+Charleston,13
+"Moose Jaw",12
+Steinbach,12
+Coquitlam,12
+Selkirk,12
+Brossard,12
+"Mount Pearl",12
+Calgary,12
+"Palo Alto",11
+Brandon,11
+Delta,11
+"Quebec City",11
+Saskatoon,11
+Summerside,11
+Gander,11
+Charlottetown,11
+Abbotsford,11
+Yellowknife,10
+Lethbridge,10
+Okotoks,10
+Vaughan,10
+Granby,10
+Toronto,10
+Langley,10
+Laval,9
+Yorkton,9
+Davenport,9
+Sydney,9
+Truro,9
+"Fort McMurray",9
+Longueuil,9
+Fredericton,9
+Richmond,9
+Jackson,9
+Vancouver,8
+Decatur,8
+Bellevue,8
+Edmonton,8
+Arlington,8
+Montreal,8
+"West Vancouver",8
+Waterloo,8
+Dartmouth,8
+"Red Deer",8
+Cochrane,8
+Cornwall,8
+Phoenix,8
+Miramichi,8
+Whitehorse,8
+Columbia,7
+"St. Paul",7
+Hartford,7
+Houston,7
+Wilmington,7
+Bloomington,7
+Lakewood,7
+"Santa Monica",7
+"Green Bay",7
+Newark,7
+"New York City",7
+"North Vancouver",7
+Portland,7
+Boulder,7
+"Santa Clara",6
+Knoxville,6
+"Fort Collins",6
+"Iowa City",6
+"Jersey City",6
+Winnipeg,6
+Aurora,6
+Eugene,6
+Chilliwack,6
+Fargo,6
+"Sandy Springs",6
+Montgomery,6
+Lansing,6
+Manchester,6
+Durham,6
+Independence,5
+Pittsburgh,5
+Nashua,5
+Toledo,5
+Cranston,5
+"St. John's",5
+Hilo,5
+Reno,5
+Morgantown,5
+Cleveland,5
+Bozeman,5
+"South Burlington",5
+Providence,5
+Tucson,5
+Washington,5
+Salem,5
+Brooklyn,5
+"Fort Smith",5
+"Lake Charles",5
+"Los Angeles",5
+Atlanta,5
+Markham,5
+"Boca Raton",5
+Tulsa,5
+Chattanooga,5
+Allentown,5
+"Kansas City",5
+Columbus,5
+Sherbrooke,5
+Denver,5
+Minneapolis,5
+Gaithersburg,5
+"Chapel Hill",5
+Oakland,5
+"San Antonio",5
+Missoula,5
+Concord,5
+Philadelphia,4
+Anchorage,4
+Birmingham,4
+Berkeley,4
+Raleigh,4
+"New Haven",4
+Rutland,4
+Chicago,4
+Middletown,4
+Schaumburg,4
+"Sioux City",4
+"Sioux Falls",4
+"St. Louis",4
+Spartanburg,4
+Tampa,4
+"New Orleans",4
+"San Francisco",4
+Norfolk,4
+Brookline,4
+"San Jose",4
+Madison,4
+Irving,4
+Stamford,4
+Billings,4
+Huntsville,4
+Pasadena,4
+"Fort Worth",4
+Seattle,4
+"Las Vegas",4
+Boise,4
+"Rapid City",4
+Alpharetta,4
+Indianapolis,4
+Orlando,4
+Greensboro,4
+Norman,4
+Dallas,4
+Topeka,4
+Tuscaloosa,4
+Omaha,4
+Milwaukee,4
+Airdrie,4
+Henderson,4
+Laramie,4
+"Little Rock",4
+Marietta,4
+"Colorado Springs",4
+Bronx,4
+Flint,4
+Kenosha,4
+Dayton,4
+Duluth,4
+Memphis,4
+Beaverton,3
+Wichita,3
+Greenville,3
+Paterson,3
+Manhattan,3
+Cincinnati,3
+Austin,3
+Somerville,3
+Huntington,3
+Gulfport,3
+Dover,3
+Meridian,3
+"Rio Rancho",3
+Lexington,3
+Owensboro,3
+"Las Cruces",3
+"Salt Lake City",3
+"Fort Wayne",3
+Brookings,3
+"Mountain View",3
+Springdale,3
+Sunnyvale,3
+Kapolei,3
+Ogden,3
+Naperville,3
+Bangor,3
+Plano,3
+Nashville,3
+Mobile,3
+Alexandria,3
+Rochester,3
+"St. Petersburg",3
+Hattiesburg,3
+Orem,3
+"Baton Rouge",3
+Honolulu,3
+Edison,3
+"Bowling Green",3
+Provo,3
+Fairbanks,3
+Springfield,3
+"Santa Fe",3
+Mesa,3
+Boston,3
+Olathe,3
+Charlotte,3
+Kailua,3
+Sacramento,3
+"Idaho Falls",3
+"San Diego",3
+Scottsdale,3
+Bethlehem,3
+Tempe,3
+Redmond,3
+"Grand Forks",3
+Shreveport,2
+"Ann Arbor",2
+Cheyenne,2
+Queens,2
+Evanston,2
+"Des Moines",2
+"South Bend",2
+"Cedar Rapids",2
+"Oak Park",2
+Lincoln,2
+Everett,2
+Scranton,2
+Newton,2
+"Oklahoma City",2
+Fremont,2
+Bridgeport,2
+Irvine,2
+"Silver Spring",2
+"Grand Island",2
+"Virginia Beach",2
+Bethesda,2
+Chandler,2
+Clarksville,2
+Bismarck,2
+Fayetteville,2
+Roswell,2
+Nampa,2
+Quincy,2
+"Overland Park",2
+Albany,2
+"Broken Arrow",2
+Juneau,2
+Biloxi,2
+Hollywood,1
+Waterbury,1
+Rockville,1
+Miami,1
+Warwick,1
+Augusta,1
+Evansville,1
+Elizabeth,1
+Tacoma,1
+Casper,1
+Lafayette,1
+Pawtucket,1
+Baltimore,1
+Albuquerque,1
+"Grand Rapids",1
+Jacksonville,1
+"Carson City",1
+Derry,1
+Buffalo,1
