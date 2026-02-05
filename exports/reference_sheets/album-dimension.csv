@@ -1,0 +1,1164 @@
+album_id,album_name,artist_id,artist_name,is_famous_artist,genre_name,album_price,album_copies_available,price_band,inventory_band
+1,19,8,Adele,1,Blues,10.30,585,Medium,High
+2,21,8,Adele,1,Classical,12.52,789,Medium,High
+3,25,8,Adele,1,K-pop,13.81,529,Medium,High
+4,30,8,Adele,1,Country,15.64,373,Premium,Medium
+5,"Yours Truly",68,"Ariana Grande",1,Country,10.67,443,Medium,Medium
+6,"My Everything",68,"Ariana Grande",1,Electronic,11.96,800,Medium,High
+7,"Dangerous Woman",68,"Ariana Grande",1,Electronic,15.86,830,Premium,High
+8,Sweetener,68,"Ariana Grande",1,Electronic,19.50,728,Premium,High
+9,"Thank U, Next",68,"Ariana Grande",1,Country,12.99,347,Medium,Medium
+10,Positions,68,"Ariana Grande",1,Pop,11.68,502,Medium,High
+11,"Eternal Sunshine",68,"Ariana Grande",1,Classical,18.34,438,Premium,Medium
+12,"Square Up",78,BLACKPINK,1,Country,9.15,511,Medium,High
+13,"Kill This Love",78,BLACKPINK,1,"Hip Hop",14.73,410,Premium,Medium
+14,"The Album",78,BLACKPINK,1,Reggae,14.43,497,Premium,Medium
+15,"Born Pink",78,BLACKPINK,1,Electronic,9.30,742,Medium,High
+16,"Dark & Wild",79,BTS,1,"Hip Hop",11.46,384,Medium,Medium
+17,Wings,79,BTS,1,Blues,11.38,226,Medium,Medium
+18,"You Never Walk Alone",79,BTS,1,Blues,12.21,372,Medium,Medium
+19,"Love Yourself: Her",79,BTS,1,Rock,19.79,486,Premium,Medium
+20,"Love Yourself: Tear",79,BTS,1,Country,11.99,382,Medium,Medium
+21,"Love Yourself: Answer",79,BTS,1,Blues,11.08,383,Medium,Medium
+22,"Map of the Soul: Persona",79,BTS,1,Electronic,18.46,602,Premium,High
+23,"Map of the Soul: 7",79,BTS,1,"Hip Hop",11.98,578,Medium,High
+24,BE,79,BTS,1,Blues,10.63,751,Medium,High
+25,Proof,79,BTS,1,Pop,14.59,624,Premium,High
+26,"X 100PRE",80,"Bad Bunny",1,Electronic,12.98,241,Medium,Medium
+27,YHLQMDLG,80,"Bad Bunny",1,Country,9.86,737,Medium,High
+28,"El Último Tour Del Mundo",80,"Bad Bunny",1,Rock,14.48,586,Premium,High
+29,"Un Verano Sin Ti",80,"Bad Bunny",1,Blues,12.70,637,Medium,High
+30,"Nadie Sabe Lo Que Va a Pasar Mañana",80,"Bad Bunny",1,"Hip Hop",16.63,671,Premium,High
+31,"When We All Fall Asleep, Where Do We Go?",88,"Billie Eilish",1,Reggae,10.73,383,Medium,Medium
+32,"Happier Than Ever",88,"Billie Eilish",1,"Hip Hop",19.78,260,Premium,Medium
+33,"Hit Me Hard and Soft",88,"Billie Eilish",1,"Hip Hop",14.31,231,Premium,Medium
+34,"Doo-Wops & Hooligans",120,"Bruno Mars",1,"Hip Hop",13.60,798,Medium,High
+35,"Unorthodox Jukebox",120,"Bruno Mars",1,Blues,18.80,251,Premium,Medium
+36,"24K Magic",120,"Bruno Mars",1,Classical,18.10,613,Premium,High
+37,"An Evening with Silk Sonic",120,"Bruno Mars",1,Electronic,12.54,265,Medium,Medium
+38,Camila,124,"Camila Cabello",1,Classical,13.36,284,Medium,Medium
+39,Romance,124,"Camila Cabello",1,Rock,14.35,676,Premium,High
+40,Familia,124,"Camila Cabello",1,K-pop,9.80,272,Medium,Medium
+41,Amala,236,"Doja Cat",1,Rock,11.75,422,Medium,Medium
+42,"Hot Pink",236,"Doja Cat",1,"Hip Hop",15.44,259,Premium,Medium
+43,"Planet Her",236,"Doja Cat",1,"Hip Hop",11.43,261,Medium,Medium
+44,Scarlet,236,"Doja Cat",1,Classical,9.82,602,Medium,High
+45,"Thank Me Later",254,Drake,1,Electronic,8.77,440,Medium,Medium
+46,"Take Care",254,Drake,1,Classical,17.90,544,Premium,High
+47,"Nothing Was the Same",254,Drake,1,Electronic,11.84,271,Medium,Medium
+48,"If You're Reading This It's Too Late",254,Drake,1,Rock,13.62,749,Medium,High
+49,Views,254,Drake,1,Blues,9.06,302,Medium,Medium
+50,"+ (Plus)",260,"Ed Sheeran",1,Blues,9.90,711,Medium,High
+51,"× (Multiply)",260,"Ed Sheeran",1,Country,18.02,555,Premium,High
+52,"÷ (Divide)",260,"Ed Sheeran",1,Pop,16.77,254,Premium,Medium
+53,"No.6 Collaborations Project",260,"Ed Sheeran",1,Country,10.09,314,Medium,Medium
+54,"= (Equals)",260,"Ed Sheeran",1,Rock,9.34,469,Medium,Medium
+55,"- (Subtract)",260,"Ed Sheeran",1,Country,18.09,409,Premium,Medium
+56,"Autumn Variations",260,"Ed Sheeran",1,Blues,12.61,598,Medium,High
+57,"Elvis Presley",276,"Elvis Presley",1,Classical,13.68,789,Medium,High
+58,Elvis,276,"Elvis Presley",1,Electronic,17.86,289,Premium,Medium
+59,"Loving You",276,"Elvis Presley",1,"Hip Hop",17.68,286,Premium,Medium
+60,"Elvis' Christmas Album",276,"Elvis Presley",1,Classical,10.69,796,Medium,High
+61,"Elvis Is Back!",276,"Elvis Presley",1,Jazz,15.18,214,Premium,Medium
+62,"His Hand in Mine",276,"Elvis Presley",1,"Hip Hop",16.96,786,Premium,High
+63,"Something for Everybody",276,"Elvis Presley",1,Rock,10.72,469,Medium,Medium
+64,"Pot Luck",276,"Elvis Presley",1,Rock,16.72,264,Premium,Medium
+65,"Harry Styles",328,"Harry Styles",1,Blues,14.30,498,Premium,Medium
+66,"Fine Line",328,"Harry Styles",1,Electronic,14.83,720,Premium,High
+67,"Harry's House",328,"Harry Styles",1,"Hip Hop",9.99,721,Medium,High
+68,"Night Visions",341,"Imagine Dragons",1,"Hip Hop",15.66,345,Premium,Medium
+69,"Smoke + Mirrors",341,"Imagine Dragons",1,Pop,8.54,339,Medium,Medium
+70,Evolve,341,"Imagine Dragons",1,Electronic,9.65,712,Medium,High
+71,Origins,341,"Imagine Dragons",1,Reggae,8.61,286,Medium,Medium
+72,"Mercury – Act 1",341,"Imagine Dragons",1,Country,15.15,386,Premium,Medium
+73,"Mercury – Act 2",341,"Imagine Dragons",1,Country,17.46,669,Premium,High
+74,"La Familia",343,"J Balvin",1,Classical,13.45,611,Medium,High
+75,Energía,343,"J Balvin",1,Reggae,13.84,647,Medium,High
+76,Vibras,343,"J Balvin",1,Blues,14.01,243,Premium,Medium
+77,Colores,343,"J Balvin",1,Blues,12.03,694,Medium,High
+78,Jose,343,"J Balvin",1,Electronic,11.71,374,Medium,Medium
+79,"My World 2.0",496,"Justin Bieber",1,Pop,9.90,238,Medium,Medium
+80,"Under the Mistletoe",496,"Justin Bieber",1,Electronic,15.62,217,Premium,Medium
+81,Believe,496,"Justin Bieber",1,Blues,15.44,831,Premium,High
+82,Purpose,496,"Justin Bieber",1,Pop,15.21,401,Premium,Medium
+83,Changes,496,"Justin Bieber",1,Classical,13.73,671,Medium,High
+84,Justice,496,"Justin Bieber",1,Classical,14.84,838,Premium,High
+85,"The College Dropout",509,"Kanye West",1,Electronic,15.39,454,Premium,Medium
+86,"Late Registration",509,"Kanye West",1,Electronic,19.74,223,Premium,Medium
+87,Graduation,509,"Kanye West",1,Electronic,14.31,373,Premium,Medium
+88,"808s & Heartbreak",509,"Kanye West",1,Rock,14.41,482,Premium,Medium
+89,"My Beautiful Dark Twisted Fantasy",509,"Kanye West",1,Classical,12.04,576,Medium,High
+90,Yeezus,509,"Kanye West",1,Blues,11.46,789,Medium,High
+91,"The Life of Pablo",509,"Kanye West",1,"Hip Hop",12.12,430,Medium,Medium
+92,Ye,509,"Kanye West",1,K-pop,10.87,689,Medium,High
+93,"Jesus Is King",509,"Kanye West",1,K-pop,14.41,770,Premium,High
+94,Donda,509,"Kanye West",1,Country,19.76,760,Premium,High
+95,"Katy Hudson",520,"Katy Perry",1,"Hip Hop",14.46,704,Premium,High
+96,"One of the Boys",520,"Katy Perry",1,Country,18.23,252,Premium,Medium
+97,"Teenage Dream",520,"Katy Perry",1,Reggae,7.71,203,Low,Medium
+98,Prism,520,"Katy Perry",1,Pop,8.47,704,Medium,High
+99,Witness,520,"Katy Perry",1,Blues,14.69,462,Premium,Medium
+100,Smile,520,"Katy Perry",1,Blues,14.59,462,Premium,Medium
+101,"The Fame",564,"Lady Gaga",1,Reggae,12.51,205,Medium,Medium
+102,"The Fame Monster",564,"Lady Gaga",1,Country,7.81,465,Low,Medium
+103,"Born This Way",564,"Lady Gaga",1,Country,8.49,536,Medium,High
+104,Artpop,564,"Lady Gaga",1,Pop,16.73,687,Premium,High
+105,Joanne,564,"Lady Gaga",1,Jazz,13.44,318,Medium,Medium
+106,Chromatica,564,"Lady Gaga",1,Classical,14.48,268,Premium,Medium
+107,Lizzobangers,597,Lizzo,1,Blues,11.01,230,Medium,Medium
+108,"Big Grrrl Small World",597,Lizzo,1,Rock,15.22,795,Premium,High
+109,"Cuz I Love You",597,Lizzo,1,"Hip Hop",14.17,556,Premium,High
+110,Special,597,Lizzo,1,Classical,9.64,591,Medium,High
+111,"Songs About Jane",628,"Maroon 5",1,"Hip Hop",13.57,598,Medium,High
+112,"It Won't Be Soon Before Long",628,"Maroon 5",1,Jazz,17.07,309,Premium,Medium
+113,"Hands All Over",628,"Maroon 5",1,Classical,18.86,585,Premium,High
+114,Overexposed,628,"Maroon 5",1,Reggae,11.93,238,Medium,Medium
+115,V,628,"Maroon 5",1,Country,11.71,696,Medium,High
+116,"Red Pill Blues",628,"Maroon 5",1,Blues,18.66,274,Premium,Medium
+117,Jordi,628,"Maroon 5",1,Country,13.09,407,Medium,Medium
+118,"Got to Be There",670,"Michael Jackson",1,Jazz,16.00,603,Premium,High
+119,Ben,670,"Michael Jackson",1,Blues,16.24,499,Premium,Medium
+120,"Music & Me",670,"Michael Jackson",1,Classical,12.35,488,Medium,Medium
+121,"Forever, Michael",670,"Michael Jackson",1,Reggae,14.62,689,Premium,High
+122,"Off the Wall",670,"Michael Jackson",1,"Hip Hop",15.02,466,Premium,Medium
+123,Thriller,670,"Michael Jackson",1,Electronic,13.78,705,Medium,High
+124,Bad,670,"Michael Jackson",1,Pop,17.88,290,Premium,Medium
+125,Dangerous,670,"Michael Jackson",1,Electronic,19.47,367,Premium,Medium
+126,HIStory,670,"Michael Jackson",1,"Hip Hop",8.21,316,Medium,Medium
+127,Invincible,670,"Michael Jackson",1,Blues,15.69,341,Premium,Medium
+128,"Pink Friday",725,"Nicki Minaj",1,Country,18.04,737,Premium,High
+129,"Pink Friday: Roman Reloaded",725,"Nicki Minaj",1,Blues,13.52,720,Medium,High
+130,"The Pinkprint",725,"Nicki Minaj",1,"Hip Hop",12.47,608,Medium,High
+131,Queen,725,"Nicki Minaj",1,Electronic,9.53,462,Medium,Medium
+132,"Pink Friday 2",725,"Nicki Minaj",1,Country,12.73,310,Medium,Medium
+133,SOUR,734,"Olivia Rodrigo",1,Country,9.26,746,Medium,High
+134,GUTS,734,"Olivia Rodrigo",1,Blues,7.76,437,Low,Medium
+135,Stoney,757,"Post Malone",1,Country,11.26,618,Medium,High
+136,"Beerbongs & Bentleys",757,"Post Malone",1,Blues,10.93,692,Medium,High
+137,"Hollywood's Bleeding",757,"Post Malone",1,Classical,14.35,470,Premium,Medium
+138,"Twelve Carat Toothache",757,"Post Malone",1,Electronic,15.22,482,Premium,Medium
+139,Austin,757,"Post Malone",1,Classical,8.02,790,Medium,High
+140,"Music of the Sun",793,Rihanna,1,Country,13.87,436,Medium,Medium
+141,"A Girl Like Me",793,Rihanna,1,Reggae,12.19,775,Medium,High
+142,"Good Girl Gone Bad",793,Rihanna,1,Reggae,14.39,698,Premium,High
+143,"Rated R",793,Rihanna,1,Reggae,15.69,579,Premium,High
+144,Loud,793,Rihanna,1,Blues,17.87,265,Premium,Medium
+145,"Talk That Talk",793,Rihanna,1,Electronic,15.02,272,Premium,Medium
+146,Unapologetic,793,Rihanna,1,Electronic,8.84,730,Medium,High
+147,ANTI,793,Rihanna,1,Country,9.14,550,Medium,High
+148,"In the Lonely Hour",826,"Sam Smith",1,"Hip Hop",13.71,450,Medium,Medium
+149,"The Thrill of It All",826,"Sam Smith",1,Blues,19.47,480,Premium,Medium
+150,"Love Goes",826,"Sam Smith",1,Blues,8.19,684,Medium,High
+151,Gloria,826,"Sam Smith",1,Electronic,9.84,528,Medium,High
+152,"Stars Dance",856,"Selena Gomez",1,Reggae,17.68,412,Premium,Medium
+153,Revival,856,"Selena Gomez",1,Reggae,16.48,810,Premium,High
+154,Rare,856,"Selena Gomez",1,Reggae,12.92,760,Medium,High
+155,Handwritten,864,"Shawn Mendes",1,Country,14.74,355,Premium,Medium
+156,Illuminate,864,"Shawn Mendes",1,Blues,16.55,365,Premium,Medium
+157,"Shawn Mendes",864,"Shawn Mendes",1,Rock,16.75,273,Premium,Medium
+158,Wonder,864,"Shawn Mendes",1,Country,15.55,308,Premium,Medium
+159,OnlySee,876,Sia,1,Country,8.07,472,Medium,Medium
+160,"Healing Is Difficult",876,Sia,1,Classical,8.77,265,Medium,Medium
+161,"Colour the Small One",876,Sia,1,Classical,7.97,750,Low,High
+162,"Some People Have Real Problems",876,Sia,1,"Hip Hop",15.25,549,Premium,High
+163,"We Are Born",876,Sia,1,Electronic,8.10,540,Medium,High
+164,"1000 Forms of Fear",876,Sia,1,Electronic,10.51,789,Medium,High
+165,"This Is Acting",876,Sia,1,K-pop,10.23,779,Medium,High
+166,"Music and Motion Picture",876,Sia,1,Country,15.02,369,Premium,Medium
+167,"Reasonable Woman",876,Sia,1,Electronic,8.50,776,Medium,High
+168,"Taylor Swift",915,"Taylor Swift",1,Country,8.41,547,Medium,High
+169,Fearless,915,"Taylor Swift",1,Blues,12.51,524,Medium,High
+170,"Speak Now",915,"Taylor Swift",1,"Hip Hop",15.80,332,Premium,Medium
+171,Red,915,"Taylor Swift",1,Reggae,17.71,278,Premium,Medium
+172,1989,915,"Taylor Swift",1,K-pop,11.13,750,Medium,High
+173,Reputation,915,"Taylor Swift",1,Electronic,13.69,759,Medium,High
+174,Lover,915,"Taylor Swift",1,Blues,8.90,750,Medium,High
+175,Folklore,915,"Taylor Swift",1,K-pop,18.79,447,Premium,Medium
+176,Evermore,915,"Taylor Swift",1,Electronic,13.00,487,Medium,Medium
+177,Midnights,915,"Taylor Swift",1,"Hip Hop",11.72,348,Medium,Medium
+178,"Please Please Me",921,"The Beatles",1,Classical,16.78,754,Premium,High
+179,"With the Beatles",921,"The Beatles",1,Blues,8.20,389,Medium,Medium
+180,"A Hard Day's Night",921,"The Beatles",1,Rock,17.35,559,Premium,High
+181,Help!,921,"The Beatles",1,"Hip Hop",8.11,492,Medium,Medium
+182,"Rubber Soul",921,"The Beatles",1,"Hip Hop",11.36,678,Medium,High
+183,Revolver,921,"The Beatles",1,Electronic,11.08,789,Medium,High
+184,"Sgt. Pepper's Lonely Hearts Club Band",921,"The Beatles",1,Country,11.51,664,Medium,High
+185,"The Beatles (White Album) (10)** *",921,"The Beatles",1,Electronic,7.69,800,Low,High
+186,"Kiss Land",922,"The Weeknd",1,Rock,19.42,728,Premium,High
+187,"Beauty Behind the Madness",922,"The Weeknd",1,Reggae,8.97,386,Medium,Medium
+188,Starboy,922,"The Weeknd",1,Rock,10.73,758,Medium,High
+189,"After Hours",922,"The Weeknd",1,"Hip Hop",15.22,418,Premium,Medium
+190,"Dawn FM",922,"The Weeknd",1,Rock,7.59,648,Low,High
+191,Rodeo,956,"Travis Scott",1,Rock,18.42,283,Premium,Medium
+192,"Birds in the Trap Sing McKnight",956,"Travis Scott",1,"Hip Hop",9.47,792,Medium,High
+193,Astroworld,956,"Travis Scott",1,Classical,16.34,373,Premium,Medium
+194,Utopia,956,"Travis Scott",1,Pop,11.99,302,Medium,Medium
+195,"Mind of Mine",1000,Zayn,1,"Hip Hop",7.63,445,Low,Medium
+196,"Icarus Falls",1000,Zayn,1,Classical,8.06,334,Medium,Medium
+197,"Nobody Is Listening",1000,Zayn,1,Pop,16.93,462,Premium,Medium
+198,"Room Under the Stairs",1000,Zayn,1,Country,13.52,729,Medium,High
+199,"Wild Rooms (Memoirs)",1,"Aaron Harris",0,Pop,18.85,268,Premium,Medium
+200,"Burning Hearts (Vol. II)",2,"Aaron Morgan",0,Blues,13.75,504,Medium,High
+201,"Burning Paradise (Vol. I)",3,"Aaron Torres",0,Pop,6.75,183,Low,Low
+202,"Frost Paths (Saga)",4,"Abigail Crane",0,Blues,17.74,365,Premium,Medium
+203,"Sapphire Letters (Verse)",5,"Adam Baldwin",0,Rock,15.32,416,Premium,Medium
+204,"Ashen Waves (Archives)",6,"Adam Nunez",0,Jazz,13.83,358,Medium,Medium
+205,"Golden Hearts (Redux)",7,"Adam Rogers",0,Country,8.81,480,Medium,Medium
+206,"Ocean Rooms (Reprise)",9,"Adrian Roberts",0,Jazz,6.79,202,Low,Medium
+207,"Echo Whispers (Reprise)",10,"Alan White",0,"Hip Hop",11.81,348,Medium,Medium
+208,"Fading Lights (Vol. II)",11,"Alexis Moss",0,Rock,9.35,476,Medium,Medium
+209,"Midnight Echoes (Verse)",12,"Alice Miller",0,Reggae,13.79,287,Medium,Medium
+210,"Fading Stories (Verse)",13,"Alicia Alvarez",0,Country,6.03,421,Low,Medium
+211,"Distant Voices (Anthology)",14,"Alicia Carson",0,Electronic,14.90,275,Premium,Medium
+212,"Frost Roses (Sessions)",15,"Alicia Rocha",0,Reggae,13.46,320,Medium,Medium
+213,"Sacred Whispers (Verse)",16,"Alisha Diaz",0,Reggae,12.47,317,Medium,Medium
+214,"Wild Roses (Archives)",17,"Allison Jacobs",0,Jazz,10.87,380,Medium,Medium
+215,"Silent Paths (Archives)",18,"Amanda Combs",0,Jazz,6.66,428,Low,Medium
+216,"Crimson Shadows (Saga)",19,"Amanda Hobbs",0,Country,10.50,391,Medium,Medium
+217,"Blazing Paradise (Verse)",20,"Amanda Luna",0,Classical,10.53,426,Medium,Medium
+218,"Hidden Temples (Diaries)",21,"Amanda Mullins",0,Classical,15.17,396,Premium,Medium
+219,"Sacred Paths (Blueprint)",22,"Amanda Neal",0,Pop,8.81,192,Medium,Low
+220,"Blazing Serenade (Edition)",23,"Amanda Nguyen",0,Classical,9.46,209,Medium,Medium
+221,"Frost Stories (Anthology)",24,"Amanda Smith",0,Pop,19.53,210,Premium,Medium
+222,"Burning Waves (Verse)",25,"Amanda Wong",0,K-pop,12.59,232,Medium,Medium
+223,"Electric Horizons (Memoirs)",26,"Amber Lewis",0,Reggae,17.14,397,Premium,Medium
+224,"Sapphire Rooms (Blueprint)",27,"Amber Maxwell",0,Classical,8.36,385,Medium,Medium
+225,"Storm Waves (Sessions)",28,"Amber Sanchez",0,Blues,16.62,364,Premium,Medium
+226,"Obsidian Paradise (Edition)",29,"Amber Smith",0,Reggae,17.05,371,Premium,Medium
+227,"Broken Rhythms (Edition)",30,"Amber Woods",0,"Hip Hop",10.79,299,Medium,Medium
+228,"Lunar Letters (Soundtrack)",31,"Amy Cole",0,Blues,9.06,215,Medium,Medium
+229,"Crimson Paths",32,"Amy Norris",0,Blues,14.98,347,Premium,Medium
+230,"Whisper Temples (Redux)",33,"Amy Turner",0,Pop,19.82,356,Premium,Medium
+231,"Blazing Confessions (Anthology)",34,"Amy Wheeler",0,K-pop,14.18,185,Premium,Low
+232,"Frost Dreams (Saga)",35,"Andre Avila DVM",0,"Hip Hop",18.33,193,Premium,Low
+233,"Lunar Rhythms (Verse)",36,"Andre Villarreal",0,Electronic,16.62,484,Premium,Medium
+234,"Neon Shadows (Vol. I)",37,"Andrea Cline",0,Rock,11.92,260,Medium,Medium
+235,"Ashen Desire (Redux)",38,"Andrea Kirby",0,"Hip Hop",6.47,506,Low,High
+236,"Blazing Confessions (Memoirs)",39,"Andrew Harris MD",0,Rock,19.43,363,Premium,Medium
+237,"Broken Whispers (Soundtrack)",40,"Andrew Jimenez",0,Pop,7.00,508,Low,High
+238,"Blazing Signals (Sessions)",41,"Andrew Johnson",0,"Hip Hop",6.93,457,Low,Medium
+239,"Sapphire Waves (Saga)",42,"Andrew Martin",0,Rock,9.75,444,Medium,Medium
+240,"Burning Temples (Chronicles)",43,"Andrew Thomas",0,Classical,17.80,335,Premium,Medium
+241,"Whisper Shadows",44,"Andrew Webster",0,Electronic,10.20,330,Medium,Medium
+242,"Distant Visions (Archives)",45,"Andrew Welch",0,Reggae,9.63,279,Medium,Medium
+243,"Glass Dreams (Redux)",46,"Andrew Yates",0,Country,11.14,446,Medium,Medium
+244,"Blazing Desire (Sessions)",47,"Angela Cox",0,Country,10.74,337,Medium,Medium
+245,"Moonlit Letters (Chronicles)",48,"Angela Esparza",0,Electronic,17.91,199,Premium,Low
+246,"Storm Horizons (Chronicles)",49,"Angela Hall",0,Rock,17.98,301,Premium,Medium
+247,"Storm Hearts (Archives)",50,"Angela Krueger",0,Pop,13.62,508,Medium,High
+248,"Whisper Paths (Redux)",51,"Angela Luna",0,Jazz,18.90,401,Premium,Medium
+249,"Broken Lights (Verse)",52,"Angela Ortiz",0,Country,19.58,340,Premium,Medium
+250,"Sacred Confessions (Redux)",53,"Angela Smith",0,Blues,18.99,356,Premium,Medium
+251,"Velvet Waves (Anthology)",54,"Angelica Guerra",0,Electronic,6.44,468,Low,Medium
+252,"Obsidian Hearts (Memoirs)",55,"Angelica Jimenez",0,Jazz,7.84,362,Low,Medium
+253,"Moonlit Horizons (Soundtrack)",56,Anitta,1,Country,6.02,384,Low,Medium
+254,"Glass Letters (Edition)",57,"Ann Mills",0,K-pop,15.30,348,Premium,Medium
+255,"Midnight Horizons (Redux)",58,"Anna Dorsey",0,Classical,7.83,226,Low,Medium
+256,"Broken Souls (Memoirs)",59,"Anna Morton",0,K-pop,13.55,421,Medium,Medium
+257,"Frost Serenade (Redux)",60,"Anthony Mcguire",0,Classical,16.76,397,Premium,Medium
+258,"Distant Paths (Saga)",61,"Anthony Moody",0,Reggae,14.18,272,Premium,Medium
+259,"Neon Paths (Verse)",62,"Anthony Pace",0,Pop,17.15,500,Premium,Medium
+260,"Neon Letters (Soundtrack)",63,"Anthony Richardson",0,Classical,15.09,305,Premium,Medium
+261,"Silent Rhythms (Memoirs)",64,"Anthony Smith",0,Blues,8.50,355,Medium,Medium
+262,"Neon Whispers (Reprise)",65,"Anthony Willis",0,"Hip Hop",14.16,419,Premium,Medium
+263,"Fading Rhythms (Soundtrack)",66,"Antonio Miller",0,K-pop,6.82,460,Low,Medium
+264,"Crimson Desire (Saga)",67,"April Wheeler DDS",0,K-pop,16.57,232,Premium,Medium
+265,"Frost Shadows (Redux)",69,"Arthur Jones",0,"Hip Hop",14.55,284,Premium,Medium
+266,"Lunar Lights (Anthology)",70,"Ashley Burton",0,Electronic,11.03,226,Medium,Medium
+267,"Infinite Shadows (Verse)",71,"Ashley Harvey",0,Jazz,11.36,310,Medium,Medium
+268,"Infinite Echoes",72,"Ashley Nelson",0,"Hip Hop",17.65,422,Premium,Medium
+269,"Ocean Rooms (Archives)",73,"Ashley Pierce",0,Reggae,7.41,416,Low,Medium
+270,"Moonlit Waves (Archives)",74,"Ashley Simpson",0,Jazz,19.17,235,Premium,Medium
+271,"Paper Waves (Tales)",75,"Ashley Stewart",0,K-pop,7.68,167,Low,Low
+272,"Ashen Tides (Tales)",76,"Ashley Tucker",0,Country,11.53,211,Medium,Medium
+273,"Infinite Rhythms (Vol. II)",77,"Austin Christian",0,Reggae,11.00,176,Medium,Low
+274,"Distant Paths (Memoirs)",81,"Becky Weaver",0,Pop,13.81,254,Medium,Medium
+275,"Ocean Echoes",82,"Benjamin Blackburn",0,Pop,18.53,503,Premium,High
+276,"Frost Rooms (Chronicles)",83,"Benjamin Miller",0,Jazz,18.37,442,Premium,Medium
+277,"Wild Shadows (Chronicles)",84,"Beth Warren",0,K-pop,6.43,302,Low,Medium
+278,"Wild Whispers (Soundtrack)",85,"Betty Schneider",0,Pop,13.51,272,Medium,Medium
+279,"Ashen Rooms (Redux)",86,Beyoncé,1,Reggae,10.22,297,Medium,Medium
+280,"Crimson Temples (Reprise)",87,"Bill Grimes",0,Jazz,9.66,456,Medium,Medium
+281,"Frost Letters (Tales)",89,"Blake Lee",0,Country,9.68,502,Medium,High
+282,"Shattered Roses (Redux)",90,"Blake Martin",0,Rock,14.69,271,Premium,Medium
+283,"Electric Dreams",91,"Bonnie Davis",0,Blues,16.45,282,Premium,Medium
+284,"Broken Hearts (Chronicles)",92,"Brad Bryan",0,Pop,12.78,365,Medium,Medium
+285,"Burning Rhythms (Blueprint)",93,"Brad Fletcher",0,Classical,6.35,289,Low,Medium
+286,"Silent Rooms (Tales)",94,"Bradley Hale",0,Jazz,13.40,181,Medium,Low
+287,"Electric Horizons (Archives)",95,"Brady Jones",0,Jazz,13.51,407,Medium,Medium
+288,"Velvet Visions (Archives)",96,"Brandi Schroeder",0,Blues,12.60,370,Medium,Medium
+289,"Wild Lights (Memoirs)",97,"Brandi Stanley",0,Jazz,9.63,320,Medium,Medium
+290,"Blazing Confessions (Reprise)",98,"Brandon Sawyer",0,Blues,16.22,276,Premium,Medium
+291,"Infinite Reflections (Vol. II)",99,"Brandy Tucker",0,Electronic,14.18,415,Premium,Medium
+292,"Moonlit Signals (Tales)",100,"Breanna Phelps",0,"Hip Hop",15.36,461,Premium,Medium
+293,"Whisper Lights (Memoirs)",101,"Brenda Wilson",0,"Hip Hop",9.52,311,Medium,Medium
+294,"Blazing Echoes (Tales)",102,"Brett Brown",0,Classical,16.66,348,Premium,Medium
+295,"Broken Confessions (Diaries)",103,"Brian Day",0,"Hip Hop",8.87,203,Medium,Medium
+296,"Sacred Roses (Archives)",104,"Brian Erickson",0,Blues,6.36,458,Low,Medium
+297,"Glass Hearts (Verse)",105,"Brian Hill",0,Blues,14.75,372,Premium,Medium
+298,"Silent Dreams (Vol. II)",106,"Brian Medina",0,Jazz,9.54,481,Medium,Medium
+299,"Distant Hearts (Verse)",107,"Brian Myers",0,Blues,10.04,407,Medium,Medium
+300,"Electric Roses (Anthology)",108,"Brian Nicholson",0,K-pop,15.24,388,Premium,Medium
+301,"Neon Hearts (Vol. I)",109,"Brian Porter",0,Jazz,13.47,486,Medium,Medium
+302,"Frost Stories (Archives)",110,"Brian Reynolds",0,Blues,12.58,187,Medium,Low
+303,"Ashen Desire (Saga)",111,"Briana Lambert",0,Reggae,18.08,362,Premium,Medium
+304,"Silent Horizons (Memoirs)",112,"Briana Leach",0,Blues,14.40,531,Premium,High
+305,"Sapphire Paradise (Soundtrack)",113,"Bridget Lucas",0,"Hip Hop",18.95,232,Premium,Medium
+306,"Frost Tides",114,"Brittany Curry",0,Rock,9.81,282,Medium,Medium
+307,"Blazing Reflections",115,"Brittany Fuller",0,Reggae,12.16,268,Medium,Medium
+308,"Ocean Visions (Saga)",116,"Brittany Martin",0,"Hip Hop",13.56,287,Medium,Medium
+309,"Burning Signals (Blueprint)",117,"Brittany Mendez",0,Rock,11.04,239,Medium,Medium
+310,"Shattered Hearts (Tales)",118,"Brooke Adams",0,Blues,12.64,429,Medium,Medium
+311,"Ocean Echoes (Tales)",119,"Brooke Gibson",0,K-pop,17.90,319,Premium,Medium
+312,"Distant Stories (Memoirs)",121,"Bryan Curry",0,Classical,11.65,255,Medium,Medium
+313,"Fading Voices (Soundtrack)",122,"Bryan Woods",0,Rock,12.11,498,Medium,Medium
+314,"Ocean Voices (Blueprint)",123,"Caleb Johnson",0,Rock,10.85,412,Medium,Medium
+315,"Blazing Temples (Sessions)",125,"Carl Duran",0,Rock,9.43,216,Medium,Medium
+316,"Radiant Confessions (Saga)",126,"Carla Sanchez",0,Pop,9.07,196,Medium,Low
+317,"Crimson Letters (Redux)",127,"Carlos Jackson",0,Blues,17.66,386,Premium,Medium
+318,"Crimson Stories (Tales)",128,"Carmen Young",0,Country,10.18,415,Medium,Medium
+319,"Sacred Paths (Redux)",129,"Carolyn Day",0,Jazz,12.34,243,Medium,Medium
+320,"Distant Paradise (Vol. I)",130,"Carolyn Franco",0,Electronic,11.83,443,Medium,Medium
+321,"Broken Shadows (Edition)",131,"Carrie Allen",0,Jazz,16.53,252,Premium,Medium
+322,"Paper Shadows (Verse)",132,"Casey Graham",0,Jazz,12.16,386,Medium,Medium
+323,"Sacred Confessions (Chronicles)",133,"Cassandra Douglas",0,"Hip Hop",16.98,226,Premium,Medium
+324,"Ocean Voices (Tales)",134,"Cassandra Meza",0,Electronic,8.45,226,Medium,Medium
+325,"Frost Waves (Blueprint)",135,"Cassidy Mccormick",0,Classical,14.67,366,Premium,Medium
+326,"Blazing Lights (Anthology)",136,"Catherine Meyers",0,Pop,16.69,443,Premium,Medium
+327,"Fading Souls (Vol. I)",137,"Cathy Edwards",0,Rock,8.13,494,Medium,Medium
+328,"Ocean Roses (Memoirs)",138,"Cesar Morris",0,Pop,19.53,410,Premium,Medium
+329,"Moonlit Whispers (Vol. I)",139,"Chad Moses",0,"Hip Hop",19.00,318,Premium,Medium
+330,"Shattered Paths (Reprise)",140,"Charlene Reyes",0,Country,9.85,325,Medium,Medium
+331,"Obsidian Temples (Anthology)",141,"Charles Marshall",0,Jazz,6.28,408,Low,Medium
+332,"Velvet Voices (Edition)",142,"Chelsea Powers",0,"Hip Hop",16.30,496,Premium,Medium
+333,"Neon Desire (Vol. II)",143,"Cheryl Santiago",0,Electronic,16.18,497,Premium,Medium
+334,"Wild Serenade (Saga)",144,"Chloe Hunter",0,Classical,15.72,435,Premium,Medium
+335,"Ashen Souls (Soundtrack)",145,"Christian Decker",0,Classical,13.94,423,Medium,Medium
+336,"Crimson Souls (Sessions)",146,"Christian Young",0,Jazz,15.42,290,Premium,Medium
+337,"Echo Dreams (Blueprint)",147,"Christina Hawkins MD",0,K-pop,17.85,412,Premium,Medium
+338,"Burning Tides (Vol. I)",148,"Christina West",0,Electronic,19.12,241,Premium,Medium
+339,"Obsidian Echoes (Soundtrack)",149,"Christine Carroll",0,"Hip Hop",11.30,489,Medium,Medium
+340,"Radiant Temples (Diaries)",150,"Christine Farmer",0,Jazz,14.20,413,Premium,Medium
+341,"Radiant Desire (Edition)",151,"Christine Pierce",0,Jazz,10.80,265,Medium,Medium
+342,"Sapphire Shadows (Vol. II)",152,"Christine Ramsey",0,Classical,17.30,489,Premium,Medium
+343,"Neon Temples (Archives)",153,"Christine Thompson",0,K-pop,11.02,444,Medium,Medium
+344,"Lunar Voices (Saga)",154,"Christopher Harmon",0,Pop,9.88,309,Medium,Medium
+345,"Sacred Paths (Verse)",155,"Christopher Jenkins",0,Electronic,18.87,208,Premium,Medium
+346,"Electric Echoes (Soundtrack)",156,"Christopher Mack",0,Pop,6.63,194,Low,Low
+347,"Sapphire Tides (Diaries)",157,"Christopher Mitchell",0,Pop,7.44,378,Low,Medium
+348,"Midnight Dreams (Vol. II)",158,"Christopher Olson",0,Country,11.10,231,Medium,Medium
+349,"Obsidian Rooms",159,"Christopher Reyes Jr.",0,Classical,18.35,508,Premium,High
+350,"Paper Voices (Blueprint)",160,"Christopher Rogers",0,Jazz,7.00,464,Low,Medium
+351,"Sapphire Confessions (Tales)",161,"Christopher Russo",0,"Hip Hop",9.75,242,Medium,Medium
+352,"Storm Souls (Saga)",162,"Christopher Zhang",0,Blues,9.93,219,Medium,Medium
+353,"Distant Rhythms (Anthology)",163,"Cody Murray",0,Jazz,6.03,332,Low,Medium
+354,"Radiant Rhythms (Archives)",164,Coldplay,1,K-pop,15.35,261,Premium,Medium
+355,"Broken Rooms (Tales)",165,"Colin Foster",0,Rock,13.60,330,Medium,Medium
+356,"Wild Paradise (Archives)",166,"Colleen Clark",0,"Hip Hop",10.61,426,Medium,Medium
+357,"Burning Lights",167,"Colleen Taylor DVM",0,Jazz,18.60,260,Premium,Medium
+358,"Moonlit Echoes (Redux)",168,"Colton Reid",0,Electronic,18.11,501,Premium,High
+359,"Broken Lights (Reprise)",169,"Connie Wilson",0,K-pop,12.45,479,Medium,Medium
+360,"Ashen Souls (Vol. I)",170,"Crystal Davis",0,Pop,16.27,450,Premium,Medium
+361,"Glass Rooms (Chronicles)",171,"Curtis Anthony",0,"Hip Hop",13.94,290,Medium,Medium
+362,"Silent Serenade (Reprise)",172,"Cynthia Howard",0,Electronic,16.17,473,Premium,Medium
+363,"Crimson Whispers (Verse)",173,"Cynthia Murillo",0,Jazz,16.95,447,Premium,Medium
+364,"Electric Rooms",174,"Cynthia Payne",0,Reggae,19.78,361,Premium,Medium
+365,"Hidden Visions (Memoirs)",175,"Cynthia Porter",0,Classical,17.34,213,Premium,Medium
+366,"Velvet Whispers (Anthology)",176,"Cynthia Webb",0,Pop,6.67,480,Low,Medium
+367,"Whisper Echoes (Reprise)",177,"Daddy Yankee",1,K-pop,8.30,268,Medium,Medium
+368,"Shattered Echoes (Vol. I)",178,"Dalton Zamora",0,K-pop,15.03,194,Premium,Low
+369,"Infinite Paradise (Sessions)",179,"Dana Carter",0,Pop,9.11,373,Medium,Medium
+370,"Silent Shadows (Memoirs)",180,"Dana Flores",0,"Hip Hop",9.31,268,Medium,Medium
+371,"Hidden Shadows (Memoirs)",181,"Dana White",0,Reggae,19.27,163,Premium,Low
+372,"Electric Whispers (Chronicles)",182,"Daniel Chang",0,Blues,10.31,420,Medium,Medium
+373,"Blazing Echoes (Blueprint)",183,"Daniel Fowler",0,Blues,15.30,354,Premium,Medium
+374,"Ocean Temples (Reprise)",184,"Daniel Griffin",0,"Hip Hop",18.02,327,Premium,Medium
+375,"Silent Signals (Chronicles)",185,"Daniel Hensley",0,Pop,17.30,304,Premium,Medium
+376,"Echo Waves (Anthology)",186,"Daniel Ingram",0,Rock,16.40,489,Premium,Medium
+377,"Blazing Voices (Edition)",187,"Daniel Jackson",0,Rock,8.56,345,Medium,Medium
+378,"Whisper Tides (Chronicles)",188,"Daniel Johnson",0,Blues,11.62,445,Medium,Medium
+379,"Ashen Paradise",189,"Daniel King",0,"Hip Hop",17.42,322,Premium,Medium
+380,"Moonlit Signals (Memoirs)",190,"Daniel Oliver",0,K-pop,10.07,252,Medium,Medium
+381,"Blazing Rooms (Chronicles)",191,"Daniel Potter",0,K-pop,7.90,488,Low,Medium
+382,"Paper Serenade (Vol. II)",192,"Daniel Valencia",0,Country,10.27,220,Medium,Medium
+383,"Infinite Confessions (Tales)",193,"Daniel Wagner",0,Country,16.54,196,Premium,Low
+384,"Hidden Confessions (Sessions)",194,"Danielle Nelson",0,K-pop,13.69,157,Medium,Low
+385,"Neon Tides (Diaries)",195,"Danielle Richardson",0,Country,11.31,467,Medium,Medium
+386,"Storm Desire (Diaries)",196,"Danielle Steele",0,K-pop,7.61,267,Low,Medium
+387,"Echo Serenade (Chronicles)",197,"Danny Leonard",0,Jazz,9.70,298,Medium,Medium
+388,"Golden Letters (Edition)",198,"David Atkins",0,Classical,9.56,512,Medium,High
+389,"Glass Reflections (Edition)",199,"David Brown",0,Jazz,19.42,284,Premium,Medium
+390,"Golden Souls (Sessions)",200,"David Campbell",0,Rock,7.83,355,Low,Medium
+391,"Echo Shadows (Vol. II)",201,"David Esparza",0,"Hip Hop",13.79,247,Medium,Medium
+392,"Distant Roses",202,"David King",0,Rock,15.50,519,Premium,High
+393,"Paper Roses (Archives)",203,"David Lee",0,Rock,8.07,433,Medium,Medium
+394,"Whisper Waves (Diaries)",204,"David Moreno",0,Rock,6.92,358,Low,Medium
+395,"Velvet Waves (Edition)",205,"David Nelson",0,Rock,9.66,514,Medium,High
+396,"Burning Visions (Archives)",206,"David Parker",0,Country,12.59,269,Medium,Medium
+397,"Golden Roses (Verse)",207,"David Phillips",0,Pop,16.52,385,Premium,Medium
+398,"Crimson Serenade (Verse)",208,"David Reed",0,Jazz,17.13,290,Premium,Medium
+399,"Burning Dreams (Verse)",209,"David Velazquez",0,Reggae,18.07,404,Premium,Medium
+400,"Blazing Rooms (Tales)",210,"David Warner",0,Blues,7.83,473,Low,Medium
+401,"Obsidian Reflections (Diaries)",211,"Dawn Carey",0,Country,7.72,374,Low,Medium
+402,"Electric Echoes",212,"Dawn Patel",0,K-pop,6.71,471,Low,Medium
+403,"Broken Rhythms (Diaries)",213,"Dawn Young",0,Reggae,14.73,357,Premium,Medium
+404,"Sapphire Tides (Tales)",214,"Deanna Miller",0,"Hip Hop",6.38,456,Low,Medium
+405,"Radiant Reflections (Verse)",215,"Debbie Lopez PhD",0,Classical,15.46,428,Premium,Medium
+406,"Blazing Echoes (Diaries)",216,"Deborah Fleming",0,Pop,12.21,345,Medium,Medium
+407,"Lunar Souls (Verse)",217,"Debra Best",0,Blues,13.71,423,Medium,Medium
+408,"Storm Hearts (Saga)",218,"Debra Brown",0,Rock,7.86,203,Low,Medium
+409,"Sacred Signals (Saga)",219,"Debra Cervantes",0,Classical,15.71,233,Premium,Medium
+410,"Distant Reflections (Anthology)",220,"Denise Evans",0,"Hip Hop",13.81,278,Medium,Medium
+411,"Electric Whispers (Vol. I)",221,"Denise Hunt",0,Jazz,9.45,252,Medium,Medium
+412,"Moonlit Stories (Verse)",222,"Denise Phillips",0,Country,9.11,266,Medium,Medium
+413,"Ashen Temples (Diaries)",223,"Denise Walker",0,Country,13.65,267,Medium,Medium
+414,"Ashen Confessions (Tales)",224,"Dennis Smith",0,Jazz,14.82,343,Premium,Medium
+415,"Silent Rooms (Reprise)",225,"Dennis Tran",0,Country,10.96,440,Medium,Medium
+416,"Shattered Dreams (Chronicles)",226,"Dennis Williams",0,Blues,8.62,282,Medium,Medium
+417,"Burning Voices",227,"Derek Brown",0,Reggae,9.26,272,Medium,Medium
+418,"Frost Horizons (Blueprint)",228,"Derek Gates",0,"Hip Hop",18.51,228,Premium,Medium
+419,"Blazing Dreams (Redux)",229,"Derek Williams",0,Electronic,17.79,216,Premium,Medium
+420,"Wild Hearts (Chronicles)",230,"Derrick Smith",0,Rock,6.05,181,Low,Low
+421,"Ocean Horizons (Blueprint)",231,"Desiree Moody",0,Reggae,7.99,364,Low,Medium
+422,"Whisper Stories (Reprise)",232,"Diana Myers",0,Classical,11.11,201,Medium,Medium
+423,"Velvet Tides (Diaries)",233,"Diane Pierce",0,"Hip Hop",9.86,242,Medium,Medium
+424,"Midnight Shadows (Archives)",234,"Diane Stanley",0,Country,15.05,411,Premium,Medium
+425,"Frost Serenade (Anthology)",235,"Dillon Smith",0,Blues,14.35,369,Premium,Medium
+426,"Moonlit Voices (Reprise)",237,"Donald Bush",0,Blues,8.50,529,Medium,High
+427,"Broken Desire (Edition)",238,"Donald Rosales",0,Country,18.47,311,Premium,Medium
+428,"Radiant Signals (Memoirs)",239,"Donna Gonzalez",0,Classical,11.16,342,Medium,Medium
+429,"Electric Signals",240,"Donna Kelly",0,Rock,9.99,485,Medium,Medium
+430,"Ashen Letters (Diaries)",241,"Donna Thomas",0,Pop,18.94,470,Premium,Medium
+431,"Paper Stories (Archives)",242,"Douglas Lucas",0,Blues,13.09,353,Medium,Medium
+432,"Neon Shadows (Memoirs)",243,"Douglas Luna",0,K-pop,7.74,331,Low,Medium
+433,"Infinite Echoes (Chronicles)",244,"Douglas Morris",0,Reggae,15.03,178,Premium,Low
+434,"Burning Paths (Soundtrack)",245,"Dr. Briana Kim",0,Jazz,11.53,317,Medium,Medium
+435,"Fading Rooms (Verse)",246,"Dr. Christina Collins",0,Classical,7.25,307,Low,Medium
+436,"Infinite Waves (Chronicles)",247,"Dr. Jessica Thompson",0,"Hip Hop",19.33,198,Premium,Low
+437,"Echo Paradise (Edition)",248,"Dr. John Roth",0,Blues,6.26,501,Low,High
+438,"Shattered Signals (Vol. I)",249,"Dr. Kara Hanson",0,Reggae,12.60,184,Medium,Low
+439,"Obsidian Stories",250,"Dr. Kelly Wheeler",0,Pop,18.73,476,Premium,Medium
+440,"Wild Letters (Redux)",251,"Dr. Linda Valenzuela",0,"Hip Hop",13.88,360,Medium,Medium
+441,"Echo Voices (Soundtrack)",252,"Dr. Nancy Thomas DVM",0,Reggae,15.36,271,Premium,Medium
+442,"Broken Voices (Soundtrack)",253,"Dr. Nicole Moore",0,K-pop,11.99,190,Medium,Low
+443,"Ashen Rhythms (Archives)",255,"Dustin Cox",0,Blues,16.71,510,Premium,High
+444,"Fading Rhythms (Redux)",256,"Dustin Hall",0,Blues,11.13,281,Medium,Medium
+445,"Velvet Horizons (Sessions)",257,"Dustin Myers",0,Pop,16.22,339,Premium,Medium
+446,"Obsidian Shadows (Verse)",258,"Dustin Wilson",0,"Hip Hop",16.78,355,Premium,Medium
+447,"Frost Hearts (Archives)",259,"Earl Johnson",0,Pop,9.50,346,Medium,Medium
+448,"Distant Waves (Anthology)",261,"Eddie Riley",0,"Hip Hop",14.74,486,Premium,Medium
+449,"Ashen Hearts (Blueprint)",262,"Edward Kim",0,"Hip Hop",16.86,343,Premium,Medium
+450,"Obsidian Visions (Sessions)",263,"Edward Lopez",0,Blues,8.21,242,Medium,Medium
+451,"Velvet Visions (Tales)",264,"Edward Moore",0,Country,6.85,332,Low,Medium
+452,"Frost Visions (Vol. II)",265,"Edward Morales",0,Blues,15.75,352,Premium,Medium
+453,"Infinite Serenade (Diaries)",266,"Elaine Guerra",0,Reggae,17.88,308,Premium,Medium
+454,"Radiant Reflections (Diaries)",267,"Elijah Coleman",0,Classical,8.80,433,Medium,Medium
+455,"Moonlit Roses (Blueprint)",268,"Elizabeth Barber",0,Jazz,16.64,376,Premium,Medium
+456,"Paper Temples (Saga)",269,"Elizabeth Cox",0,Blues,19.78,286,Premium,Medium
+457,"Lunar Signals (Redux)",270,"Elizabeth James",0,"Hip Hop",9.77,251,Medium,Medium
+458,"Shattered Letters (Soundtrack)",271,"Elizabeth Keller",0,Rock,13.79,343,Medium,Medium
+459,"Distant Rooms (Blueprint)",272,"Elizabeth Lawson",0,Electronic,18.23,380,Premium,Medium
+460,"Midnight Temples (Blueprint)",273,"Elizabeth Lewis",0,Classical,9.46,208,Medium,Medium
+461,"Distant Roses (Vol. I)",274,"Elizabeth Perez",0,Country,12.78,289,Medium,Medium
+462,"Silent Reflections (Archives)",275,"Elizabeth Rogers",0,"Hip Hop",15.62,317,Premium,Medium
+463,"Moonlit Horizons (Tales)",277,"Emily Evans",0,Blues,10.02,493,Medium,Medium
+464,"Moonlit Paradise (Memoirs)",278,"Emily Garcia",0,Classical,17.45,181,Premium,Low
+465,"Electric Voices (Reprise)",279,"Emily Gomez",0,Country,15.38,223,Premium,Medium
+466,"Neon Souls (Anthology)",280,"Emily Yates",0,Jazz,17.32,456,Premium,Medium
+467,"Silent Temples (Tales)",281,Eminem,1,Country,13.32,308,Medium,Medium
+468,"Whisper Tides",282,"Emma Ryan",0,Pop,19.13,302,Premium,Medium
+469,"Radiant Voices (Soundtrack)",283,"Eric Anderson",0,Pop,6.44,247,Low,Medium
+470,"Neon Paths",284,"Eric Arellano",0,Rock,10.80,391,Medium,Medium
+471,"Glass Waves (Saga)",285,"Eric Richardson",0,Blues,17.99,404,Premium,Medium
+472,"Moonlit Tides (Verse)",286,"Erica Calderon",0,Rock,14.37,388,Premium,Medium
+473,"Radiant Lights (Reprise)",287,"Erica Gallagher",0,Country,17.92,255,Premium,Medium
+474,"Frost Souls (Sessions)",288,"Erika Tapia",0,Classical,15.42,376,Premium,Medium
+475,"Silent Serenade (Memoirs)",289,"Erin Kramer",0,Jazz,17.45,172,Premium,Low
+476,"Sapphire Paradise (Verse)",290,"Erin Marsh",0,Classical,11.67,301,Medium,Medium
+477,"Ocean Echoes (Edition)",291,"Erin Navarro",0,Rock,18.69,494,Premium,Medium
+478,"Sapphire Rhythms (Saga)",292,"Erin Sellers",0,Rock,7.77,432,Low,Medium
+479,"Hidden Reflections (Blueprint)",293,"Erin Thompson",0,Country,6.01,510,Low,High
+480,"Distant Dreams (Redux)",294,"Ethan James",0,Classical,19.48,361,Premium,Medium
+481,"Glass Rhythms (Archives)",295,"Eugene Allen",0,Rock,14.77,468,Premium,Medium
+482,"Midnight Paths (Archives)",296,"Evan Martin",0,Jazz,8.04,291,Medium,Medium
+483,"Lunar Echoes (Sessions)",297,"Faith Matthews",0,Jazz,14.20,436,Premium,Medium
+484,"Lunar Shadows (Diaries)",298,"Felicia Hill",0,Rock,15.39,235,Premium,Medium
+485,"Electric Paths (Anthology)",299,"Felicia Lamb",0,Rock,17.37,193,Premium,Low
+486,"Crimson Signals (Verse)",300,"Frank Allen",0,Pop,13.55,143,Medium,Low
+487,"Ashen Temples (Soundtrack)",301,"Frank Hanna",0,Blues,11.16,377,Medium,Medium
+488,"Distant Letters (Edition)",302,"Frank King",0,K-pop,12.45,273,Medium,Medium
+489,"Burning Rooms",303,"Frank Morton",0,Blues,9.58,461,Medium,Medium
+490,"Hidden Whispers (Redux)",304,"Frank Thompson",0,Pop,12.15,402,Medium,Medium
+491,"Broken Roses (Reprise)",305,"Frederick Fox",0,"Hip Hop",17.76,486,Premium,Medium
+492,"Shattered Paths (Diaries)",306,"Gabriel Weber",0,Country,6.74,435,Low,Medium
+493,"Silent Tides (Vol. II)",307,"Gabriella Little",0,K-pop,6.08,171,Low,Low
+494,"Crimson Waves (Reprise)",308,"Gary Clark",0,Jazz,19.46,191,Premium,Low
+495,"Paper Souls (Chronicles)",309,"Gary Hernandez",0,Classical,6.54,323,Low,Medium
+496,"Storm Paths (Reprise)",310,"Gary Martin",0,"Hip Hop",14.97,489,Premium,Medium
+497,"Neon Horizons (Vol. II)",311,"Gerald Hunt",0,Pop,7.41,496,Low,Medium
+498,"Infinite Signals (Chronicles)",312,"Gina Robertson",0,Classical,9.92,422,Medium,Medium
+499,"Sacred Paradise (Saga)",313,"Gina Smith",0,Blues,14.71,314,Premium,Medium
+500,"Sacred Lights (Verse)",314,"Gloria Edwards",0,Rock,13.29,285,Medium,Medium
+501,"Shattered Voices (Vol. I)",315,"Gloria Mann",0,"Hip Hop",9.99,177,Medium,Low
+502,"Golden Reflections (Archives)",316,"Grace Gregory",0,Blues,14.21,385,Premium,Medium
+503,"Sacred Dreams (Sessions)",317,"Green Day",1,Electronic,15.42,522,Premium,High
+504,"Sacred Horizons (Sessions)",318,"Gregory Harris",0,"Hip Hop",16.55,213,Premium,Medium
+505,"Hidden Letters (Sessions)",319,"Guy Brown",0,Jazz,17.18,396,Premium,Medium
+506,"Glass Signals",320,"Hailey Bell",0,Classical,19.09,343,Premium,Medium
+507,"Neon Confessions (Memoirs)",321,"Hannah Jennings",0,Rock,7.86,325,Low,Medium
+508,"Fading Rooms (Anthology)",322,"Hannah Johnson",0,Electronic,13.98,475,Medium,Medium
+509,"Neon Rooms (Chronicles)",323,"Hannah Marsh",0,Rock,19.18,443,Premium,Medium
+510,"Obsidian Stories (Edition)",324,"Hannah Miller",0,Blues,19.62,450,Premium,Medium
+511,"Paper Reflections (Verse)",325,"Hannah Phillips",0,Rock,9.29,308,Medium,Medium
+512,"Fading Horizons",326,"Hannah Proctor",0,Electronic,7.81,449,Low,Medium
+513,"Radiant Shadows (Soundtrack)",327,"Harry Hensley",0,Classical,11.78,220,Medium,Medium
+514,"Glass Shadows (Redux)",329,"Hayley Flores",0,Pop,9.15,231,Medium,Medium
+515,"Broken Rooms (Soundtrack)",330,"Heather Fowler",0,Jazz,14.73,368,Premium,Medium
+516,"Midnight Waves (Archives)",331,"Heather Martinez",0,"Hip Hop",19.04,297,Premium,Medium
+517,"Hidden Visions (Vol. II)",332,"Heather Nelson",0,K-pop,10.63,491,Medium,Medium
+518,"Electric Rooms (Soundtrack)",333,"Heather Sanchez",0,Reggae,19.13,421,Premium,Medium
+519,"Golden Lights (Anthology)",334,"Heather Solis",0,Country,14.80,379,Premium,Medium
+520,"Shattered Lights (Reprise)",335,"Holly French",0,Country,14.48,420,Premium,Medium
+521,"Blazing Confessions (Verse)",336,"Holly Lamb",0,K-pop,16.08,446,Premium,Medium
+522,"Whisper Paradise (Anthology)",337,"Holly Scott",0,Country,11.51,360,Medium,Medium
+523,"Burning Desire (Diaries)",338,"Holly Wagner",0,Reggae,10.33,206,Medium,Medium
+524,"Obsidian Lights (Verse)",339,"Ian Collins",0,"Hip Hop",18.28,237,Premium,Medium
+525,"Fading Hearts",340,"Ian Floyd",0,K-pop,16.59,334,Premium,Medium
+526,"Sapphire Horizons (Chronicles)",342,"Isaac West",0,Country,16.68,315,Premium,Medium
+527,"Broken Stories (Soundtrack)",344,"Jack Robinson",0,Jazz,10.81,304,Medium,Medium
+528,"Glass Reflections (Saga)",345,"Jaclyn Buckley",0,"Hip Hop",16.04,262,Premium,Medium
+529,"Neon Paradise (Edition)",346,"Jacob Bailey",0,Blues,7.41,164,Low,Low
+530,"Frost Dreams (Soundtrack)",347,"Jacob Morgan",0,Pop,14.92,485,Premium,Medium
+531,"Midnight Stories (Vol. I)",348,"Jacob Parrish",0,Classical,16.88,357,Premium,Medium
+532,"Burning Rhythms (Soundtrack)",349,"Jacqueline Allen",0,"Hip Hop",14.72,497,Premium,Medium
+533,"Neon Rooms (Redux)",350,"Jacqueline Levy",0,"Hip Hop",9.85,483,Medium,Medium
+534,"Silent Desire (Soundtrack)",351,"Jacqueline Stokes",0,Reggae,12.68,271,Medium,Medium
+535,"Crimson Lights (Blueprint)",352,"Jaime White",0,Pop,17.25,441,Premium,Medium
+536,"Golden Souls (Saga)",353,"James Barber",0,K-pop,11.05,357,Medium,Medium
+537,"Wild Hearts (Edition)",354,"James Berger",0,Country,17.68,226,Premium,Medium
+538,"Golden Rhythms (Tales)",355,"James Brown",0,Reggae,17.57,472,Premium,Medium
+539,"Whisper Horizons (Saga)",356,"James Garrett",0,Reggae,14.97,455,Premium,Medium
+540,"Obsidian Paths (Anthology)",357,"James Rodriguez",0,Pop,14.27,459,Premium,Medium
+541,"Fading Roses (Diaries)",358,"James Ruiz",0,Reggae,9.00,300,Medium,Medium
+542,"Sapphire Rhythms (Diaries)",359,"James Salazar",0,"Hip Hop",8.20,169,Medium,Low
+543,"Wild Whispers (Tales)",360,"James Small",0,Country,12.46,239,Medium,Medium
+544,"Midnight Dreams (Vol. I)",361,"James Watson",0,Pop,11.78,281,Medium,Medium
+545,"Radiant Rhythms (Soundtrack)",362,"Jane Rogers",0,Rock,10.07,295,Medium,Medium
+546,"Storm Roses (Memoirs)",363,"Jared Castro",0,Country,14.25,275,Premium,Medium
+547,"Shattered Horizons (Redux)",364,"Jared Chandler",0,K-pop,10.54,396,Medium,Medium
+548,"Moonlit Shadows",365,"Jared May",0,K-pop,15.84,161,Premium,Low
+549,"Neon Paths (Tales)",366,"Jasmin Bryant",0,Reggae,7.33,261,Low,Medium
+550,"Fading Lights (Redux)",367,"Jasmine Clayton",0,Blues,14.81,265,Premium,Medium
+551,"Sapphire Whispers (Redux)",368,"Jasmine Garcia",0,Electronic,7.00,413,Low,Medium
+552,"Echo Rhythms (Vol. I)",369,"Jason Gregory",0,Classical,9.09,165,Medium,Low
+553,"Neon Rooms (Edition)",370,"Jason Kim",0,Electronic,18.31,320,Premium,Medium
+554,"Storm Desire (Archives)",371,"Jason Mason",0,Country,11.82,482,Medium,Medium
+555,"Echo Stories (Archives)",372,"Jason Miller",0,K-pop,13.40,341,Medium,Medium
+556,"Ashen Voices (Blueprint)",373,"Jason Robinson MD",0,Rock,16.86,507,Premium,High
+557,"Broken Letters (Reprise)",374,"Jason Scott",0,Jazz,6.36,512,Low,High
+558,"Velvet Signals (Sessions)",375,"Jason Smith",0,Pop,13.51,327,Medium,Medium
+559,"Obsidian Tides (Soundtrack)",376,"Jay Dominguez",0,Classical,19.23,512,Premium,High
+560,"Lunar Tides (Blueprint)",377,"Jay Miller",0,"Hip Hop",8.93,273,Medium,Medium
+561,"Ashen Lights (Reprise)",378,"Jeanne Gonzalez",0,K-pop,8.12,276,Medium,Medium
+562,"Ocean Echoes (Blueprint)",379,"Jeff Smith",0,Pop,10.16,507,Medium,High
+563,"Glass Echoes (Edition)",380,"Jeffery Delgado",0,Blues,8.54,537,Medium,High
+564,"Neon Whispers (Anthology)",381,"Jeffery Douglas",0,K-pop,17.33,429,Premium,Medium
+565,"Moonlit Stories (Sessions)",382,"Jeffrey Booker",0,Reggae,17.94,318,Premium,Medium
+566,"Neon Rooms",383,"Jeffrey Boyd",0,Rock,14.34,198,Premium,Low
+567,"Sacred Hearts (Memoirs)",384,"Jeffrey Brown",0,K-pop,11.30,159,Medium,Low
+568,"Broken Whispers (Chronicles)",385,"Jeffrey Cole",0,Blues,7.49,403,Low,Medium
+569,"Ocean Roses (Verse)",386,"Jeffrey Hernandez",0,Electronic,9.08,511,Medium,High
+570,"Lunar Paths (Redux)",387,"Jeffrey Herrera",0,"Hip Hop",9.14,332,Medium,Medium
+571,"Hidden Letters (Reprise)",388,"Jeffrey King",0,Jazz,15.33,440,Premium,Medium
+572,"Neon Shadows (Tales)",389,"Jeffrey Sanchez",0,Reggae,10.70,204,Medium,Medium
+573,"Whisper Serenade (Sessions)",390,"Jeffrey Wilson",0,"Hip Hop",17.14,397,Premium,Medium
+574,"Radiant Lights (Verse)",391,"Jenna Dyer",0,Reggae,12.29,450,Medium,Medium
+575,"Sapphire Letters (Sessions)",392,"Jenna Garcia",0,Pop,7.80,476,Low,Medium
+576,"Wild Tides (Blueprint)",393,"Jennifer Bowen",0,"Hip Hop",9.71,287,Medium,Medium
+577,"Ashen Tides (Verse)",394,"Jennifer Davis",0,Classical,7.40,238,Low,Medium
+578,"Electric Temples",395,"Jennifer Dyer",0,Reggae,10.24,428,Medium,Medium
+579,"Blazing Roses (Anthology)",396,"Jennifer Gray",0,Jazz,18.58,375,Premium,Medium
+580,"Golden Whispers (Vol. I)",397,"Jennifer Harris",0,K-pop,10.30,496,Medium,Medium
+581,"Midnight Hearts (Anthology)",398,"Jennifer Horton",0,Country,18.63,180,Premium,Low
+582,"Broken Temples (Archives)",399,"Jennifer Jensen",0,K-pop,8.72,296,Medium,Medium
+583,"Moonlit Roses (Chronicles)",400,"Jennifer Johnson",0,"Hip Hop",13.19,489,Medium,Medium
+584,"Neon Stories (Vol. II)",401,"Jennifer Lin",0,Reggae,11.28,205,Medium,Medium
+585,"Sacred Lights (Saga)",402,"Jennifer Mckenzie",0,Country,17.39,333,Premium,Medium
+586,"Midnight Signals (Reprise)",403,"Jennifer Miller",0,K-pop,19.61,294,Premium,Medium
+587,"Crimson Stories (Saga)",404,"Jennifer Patrick",0,Electronic,8.12,296,Medium,Medium
+588,"Distant Signals (Saga)",405,"Jennifer Robinson",0,K-pop,6.19,513,Low,High
+589,"Hidden Echoes (Reprise)",406,"Jennifer Smith",0,K-pop,16.13,537,Premium,High
+590,"Obsidian Whispers (Vol. II)",407,"Jennifer White",0,Country,15.13,219,Premium,Medium
+591,"Crimson Reflections",408,"Jenny Fowler",0,Reggae,14.48,360,Premium,Medium
+592,"Crimson Rooms (Memoirs)",409,"Jenny Hall",0,Reggae,6.41,421,Low,Medium
+593,"Shattered Shadows",410,"Jenny Russell",0,Jazz,9.41,447,Medium,Medium
+594,"Radiant Stories (Chronicles)",411,"Jenny Ryan",0,Reggae,12.86,321,Medium,Medium
+595,"Ocean Desire (Reprise)",412,"Jeremy Hines",0,Electronic,13.54,457,Medium,Medium
+596,"Lunar Letters (Chronicles)",413,"Jeremy Manning",0,K-pop,7.28,381,Low,Medium
+597,"Broken Serenade (Vol. II)",414,"Jeremy Sosa",0,K-pop,5.99,415,Low,Medium
+598,"Blazing Signals (Anthology)",415,"Jeremy Thomas",0,K-pop,6.80,387,Low,Medium
+599,"Distant Souls (Diaries)",416,"Jeremy Wiley",0,Electronic,10.36,389,Medium,Medium
+600,"Midnight Rhythms (Tales)",417,"Jermaine Parks",0,K-pop,13.13,277,Medium,Medium
+601,"Wild Letters (Edition)",418,"Jerry Burch",0,"Hip Hop",19.22,431,Premium,Medium
+602,"Midnight Temples (Chronicles)",419,"Jerry Fitzpatrick",0,Classical,9.11,398,Medium,Medium
+603,"Silent Waves (Redux)",420,"Jesse Guzman",0,K-pop,7.75,306,Low,Medium
+604,"Wild Reflections (Soundtrack)",421,"Jesse Jimenez",0,Rock,6.66,444,Low,Medium
+605,"Ashen Rhythms (Anthology)",422,"Jesse Mcpherson",0,Electronic,11.20,464,Medium,Medium
+606,"Distant Serenade (Vol. I)",423,"Jessica Brown",0,Country,10.31,308,Medium,Medium
+607,"Blazing Whispers",424,"Jessica Crawford",0,Pop,18.44,373,Premium,Medium
+608,"Paper Paradise",425,"Jessica Fields",0,Blues,16.87,297,Premium,Medium
+609,"Fading Stories",426,"Jessica Gonzales",0,K-pop,17.77,489,Premium,Medium
+610,"Paper Serenade (Saga)",427,"Jessica Henderson",0,Blues,8.01,315,Medium,Medium
+611,"Frost Hearts (Saga)",428,"Jessica Hobbs",0,K-pop,19.78,259,Premium,Medium
+612,"Infinite Voices (Sessions)",429,"Jessica Robinson",0,Jazz,16.96,507,Premium,High
+613,"Shattered Whispers",430,"Jessica Sanchez",0,K-pop,15.05,235,Premium,Medium
+614,"Hidden Visions (Vol. I)",431,"Jessica Short",0,Electronic,16.41,190,Premium,Low
+615,"Lunar Temples (Tales)",432,"Jessica White",0,K-pop,15.14,356,Premium,Medium
+616,"Storm Signals (Soundtrack)",433,"Jessica Williamson",0,Jazz,16.37,291,Premium,Medium
+617,"Hidden Reflections",434,"Jill Chan",0,Jazz,17.36,475,Premium,Medium
+618,"Blazing Dreams (Edition)",435,"Jill Ramirez",0,Jazz,9.66,429,Medium,Medium
+619,"Obsidian Serenade (Blueprint)",436,"Jill Smith",0,Pop,6.39,421,Low,Medium
+620,"Silent Roses (Memoirs)",437,"Jill Wilson",0,Rock,10.10,489,Medium,Medium
+621,"Midnight Reflections (Chronicles)",438,"Jillian Hooper",0,Reggae,10.15,453,Medium,Medium
+622,"Infinite Paradise (Verse)",439,"Jillian Wilson",0,Pop,17.34,186,Premium,Low
+623,"Neon Shadows (Reprise)",440,"Jim Gray",0,Classical,15.65,483,Premium,Medium
+624,"Sapphire Desire",441,"Jo Sanchez",0,Rock,13.48,438,Medium,Medium
+625,"Fading Desire (Reprise)",442,"Joan Barber MD",0,Rock,17.13,483,Premium,Medium
+626,"Whisper Confessions (Archives)",443,"Joann Bender",0,Pop,7.52,417,Low,Medium
+627,"Radiant Roses (Blueprint)",444,"Jodi Reynolds",0,"Hip Hop",13.59,347,Medium,Medium
+628,"Echo Paradise (Saga)",445,"Joe Melendez",0,K-pop,17.71,413,Premium,Medium
+629,"Storm Rooms (Vol. I)",446,"John Byrd",0,Classical,18.30,498,Premium,Medium
+630,"Neon Waves (Tales)",447,"John Castillo",0,Rock,7.59,366,Low,Medium
+631,"Moonlit Desire (Chronicles)",448,"John Crawford",0,Blues,14.70,442,Premium,Medium
+632,"Obsidian Desire (Memoirs)",449,"John Cruz",0,Blues,19.47,344,Premium,Medium
+633,"Electric Stories (Diaries)",450,"John Faulkner",0,Classical,19.08,294,Premium,Medium
+634,"Wild Signals (Anthology)",451,"John Harris",0,"Hip Hop",6.23,343,Low,Medium
+635,"Paper Visions (Vol. II)",452,"John Lee",0,Blues,17.09,254,Premium,Medium
+636,"Sapphire Whispers (Reprise)",453,"John Mckee",0,Rock,6.58,447,Low,Medium
+637,"Shattered Confessions (Soundtrack)",454,"John Trujillo",0,Blues,14.55,504,Premium,High
+638,"Burning Lights (Verse)",455,"John Wade",0,Classical,13.32,409,Medium,Medium
+639,"Whisper Reflections",456,"John Young",0,Jazz,6.33,292,Low,Medium
+640,"Broken Serenade (Memoirs)",457,"Johnny Lucas",0,K-pop,13.17,246,Medium,Medium
+641,"Silent Shadows (Vol. I)",458,"Johnny Willis",0,Classical,19.37,466,Premium,Medium
+642,"Glass Tides (Archives)",459,"Jon Rogers",0,Reggae,17.32,262,Premium,Medium
+643,"Shattered Paradise (Edition)",460,"Jonathan Anderson",0,Classical,14.61,158,Premium,Low
+644,"Neon Confessions (Soundtrack)",461,"Jonathan Clayton",0,"Hip Hop",13.03,234,Medium,Medium
+645,"Lunar Roses (Tales)",462,"Jonathan Jones",0,Rock,17.11,227,Premium,Medium
+646,"Sacred Confessions (Soundtrack)",463,"Jonathan Smith",0,Jazz,7.62,429,Low,Medium
+647,"Electric Confessions (Diaries)",464,"Jonathan Wright",0,Pop,14.49,418,Premium,Medium
+648,"Radiant Echoes (Vol. II)",465,"Jonathon Howard",0,Rock,6.13,440,Low,Medium
+649,"Whisper Rooms (Tales)",466,"Jordan Fox",0,Pop,8.25,287,Medium,Medium
+650,"Broken Letters (Memoirs)",467,"Jordan Long",0,K-pop,7.11,185,Low,Low
+651,"Shattered Rooms (Sessions)",468,"Jordan White",0,Pop,17.17,372,Premium,Medium
+652,"Sapphire Rooms (Vol. I)",469,"Jose Fisher",0,Classical,13.02,247,Medium,Medium
+653,"Hidden Whispers (Chronicles)",470,"Joseph Davis",0,"Hip Hop",16.57,171,Premium,Low
+654,"Paper Waves (Saga)",471,"Joseph Floyd",0,"Hip Hop",8.94,169,Medium,Low
+655,"Sapphire Letters (Vol. I)",472,"Joseph Gray",0,Rock,9.29,216,Medium,Medium
+656,"Broken Letters (Soundtrack)",473,"Joseph Khan",0,Rock,18.58,248,Premium,Medium
+657,"Wild Temples (Edition)",474,"Joseph Leonard",0,Classical,11.09,465,Medium,Medium
+658,"Golden Stories",475,"Joseph Ortega",0,"Hip Hop",15.62,257,Premium,Medium
+659,"Golden Visions",476,"Joseph Wright",0,Jazz,14.19,407,Premium,Medium
+660,"Infinite Signals (Tales)",477,"Joseph Yates",0,Pop,8.13,528,Medium,High
+661,"Shattered Lights (Vol. II)",478,"Joshua Dennis",0,Electronic,6.92,323,Low,Medium
+662,"Neon Voices (Vol. II)",479,"Joshua Ellison",0,K-pop,6.85,338,Low,Medium
+663,"Hidden Rhythms (Vol. II)",480,"Joshua Evans",0,Pop,13.25,195,Medium,Low
+664,"Wild Rhythms",481,"Joshua Hess",0,"Hip Hop",19.97,309,Premium,Medium
+665,"Midnight Dreams (Archives)",482,"Joshua Johnson",0,Blues,19.58,434,Premium,Medium
+666,"Golden Rooms (Reprise)",483,"Joshua Kirk",0,Classical,12.62,456,Medium,Medium
+667,"Fading Dreams (Blueprint)",484,"Joshua Nguyen",0,Classical,19.48,389,Premium,Medium
+668,"Ocean Lights",485,"Joshua Salazar",0,Electronic,7.05,261,Low,Medium
+669,"Neon Desire (Tales)",486,"Joshua Thomas",0,Reggae,15.72,387,Premium,Medium
+670,"Burning Rooms (Blueprint)",487,"Joshua Thompson",0,Country,15.88,249,Premium,Medium
+671,"Shattered Voices (Reprise)",488,"Joshua Torres",0,Jazz,16.82,212,Premium,Medium
+672,"Crimson Letters (Saga)",489,"Joshua Walsh",0,Reggae,6.41,417,Low,Medium
+673,"Blazing Serenade (Archives)",490,"Juan Martinez",0,"Hip Hop",19.91,402,Premium,Medium
+674,"Velvet Tides (Vol. I)",491,"Judy Bowen",0,Classical,16.54,316,Premium,Medium
+675,"Echo Waves (Blueprint)",492,"Julie Castro",0,Country,16.67,492,Premium,Medium
+676,"Ocean Roses (Reprise)",493,"Julie Garrett",0,Country,13.04,348,Medium,Medium
+677,"Hidden Lights (Verse)",494,"Julie Griffith",0,Blues,13.37,321,Medium,Medium
+678,"Electric Paradise (Archives)",495,"Julie Myers",0,Blues,14.60,238,Premium,Medium
+679,"Glass Rooms (Soundtrack)",497,"Justin Cannon",0,Blues,9.16,366,Medium,Medium
+680,"Ashen Rooms (Saga)",498,"Justin Collins",0,Classical,6.60,296,Low,Medium
+681,"Shattered Voices (Soundtrack)",499,"Justin Davidson",0,Blues,6.19,204,Low,Medium
+682,"Sacred Lights (Chronicles)",500,"Justin Elliott",0,Electronic,10.75,241,Medium,Medium
+683,"Fading Lights (Vol. I)",501,"Justin Johnson",0,Classical,12.45,304,Medium,Medium
+684,"Obsidian Rooms (Verse)",502,"Justin Kent",0,Rock,11.30,318,Medium,Medium
+685,"Fading Serenade (Soundtrack)",503,"Justin Long",0,K-pop,18.19,210,Premium,Medium
+686,"Storm Dreams (Diaries)",504,"Justin Reynolds",0,Jazz,8.88,416,Medium,Medium
+687,"Storm Paradise (Saga)",505,"Justin Smith",0,"Hip Hop",10.76,268,Medium,Medium
+688,"Obsidian Lights (Archives)",506,"Kaitlin Smith",0,Country,13.81,460,Medium,Medium
+689,"Echo Rooms",507,"Kaitlin Whitaker",0,K-pop,12.09,314,Medium,Medium
+690,"Ashen Tides (Reprise)",508,"Kaitlyn Cameron",0,Jazz,13.11,352,Medium,Medium
+691,"Velvet Roses (Blueprint)",510,"Kara Johnson",0,Jazz,6.01,490,Low,Medium
+692,"Frost Dreams",511,"Katherine Baldwin",0,Electronic,11.19,173,Medium,Low
+693,"Frost Rooms (Blueprint)",512,"Katherine Hammond",0,"Hip Hop",14.55,386,Premium,Medium
+694,"Velvet Waves",513,"Katherine Randolph",0,Rock,17.82,228,Premium,Medium
+695,"Midnight Stories (Diaries)",514,"Kathleen Fields",0,Rock,14.14,320,Premium,Medium
+696,"Obsidian Tides (Edition)",515,"Kathleen Miller",0,Electronic,8.16,355,Medium,Medium
+697,"Infinite Waves (Archives)",516,"Kathleen Ware",0,"Hip Hop",16.89,440,Premium,Medium
+698,"Echo Echoes (Vol. I)",517,"Kathryn Sanders",0,Jazz,7.21,490,Low,Medium
+699,"Silent Waves (Sessions)",518,"Kathy Turner",0,Blues,19.07,255,Premium,Medium
+700,"Obsidian Paths (Memoirs)",519,"Katrina Walters",0,Reggae,11.76,405,Medium,Medium
+701,"Obsidian Shadows (Edition)",521,"Kayla Crawford",0,"Hip Hop",8.46,240,Medium,Medium
+702,"Neon Rooms (Diaries)",522,"Kayla Franklin",0,Country,9.36,190,Medium,Low
+703,"Shattered Whispers (Reprise)",523,"Kayla Gilmore",0,Country,12.57,278,Medium,Medium
+704,"Distant Letters (Memoirs)",524,"Kayla Williams",0,Classical,7.58,488,Low,Medium
+705,"Velvet Paths (Verse)",525,"Kaylee Mclean",0,K-pop,12.61,276,Medium,Medium
+706,"Crimson Rooms (Anthology)",526,"Kaylee Williams",0,Classical,11.53,304,Medium,Medium
+707,"Burning Desire (Soundtrack)",527,"Kelsey Cook",0,Rock,8.89,405,Medium,Medium
+708,"Lunar Roses (Archives)",528,"Kelsey Hansen",0,Rock,16.37,291,Premium,Medium
+709,"Radiant Whispers (Blueprint)",529,"Kenneth Gallagher",0,Rock,6.10,456,Low,Medium
+710,"Ocean Temples (Chronicles)",530,"Kenneth Maldonado",0,"Hip Hop",14.15,211,Premium,Medium
+711,"Blazing Rhythms (Vol. I)",531,"Kenneth Oliver",0,K-pop,6.04,273,Low,Medium
+712,"Burning Horizons (Tales)",532,"Kenneth Pittman",0,Classical,19.60,428,Premium,Medium
+713,"Shattered Tides (Diaries)",533,"Kerry Wood",0,Classical,9.09,417,Medium,Medium
+714,"Sacred Serenade (Reprise)",534,"Kevin Brock",0,K-pop,18.14,483,Premium,Medium
+715,"Silent Paths (Redux)",535,"Kevin Jones Jr.",0,K-pop,8.59,204,Medium,Medium
+716,"Neon Lights (Verse)",536,"Kevin Ortega",0,Classical,12.38,181,Medium,Low
+717,"Sapphire Visions (Vol. II)",537,"Kevin Simon",0,Country,9.52,306,Medium,Medium
+718,"Moonlit Letters (Verse)",538,"Kevin Smith",0,"Hip Hop",16.42,506,Premium,High
+719,"Crimson Visions (Reprise)",539,"Kevin Wells",0,Blues,7.52,482,Low,Medium
+720,"Echo Tides (Memoirs)",540,"Kimberly Dickerson",0,Electronic,6.54,390,Low,Medium
+721,"Midnight Whispers (Tales)",541,"Kimberly Farmer",0,Jazz,8.51,429,Medium,Medium
+722,"Sapphire Rooms (Chronicles)",542,"Kimberly Ford",0,Jazz,19.29,272,Premium,Medium
+723,"Blazing Confessions (Redux)",543,"Kimberly Gilmore",0,K-pop,7.30,454,Low,Medium
+724,"Radiant Lights (Sessions)",544,"Kimberly King",0,Country,16.96,306,Premium,Medium
+725,"Storm Serenade (Archives)",545,"Kimberly Long",0,K-pop,15.48,506,Premium,High
+726,"Crimson Roses (Memoirs)",546,"Kimberly Perez",0,"Hip Hop",9.12,384,Medium,Medium
+727,"Midnight Signals (Diaries)",547,"Kimberly Salazar",0,Country,9.15,446,Medium,Medium
+728,"Whisper Echoes (Chronicles)",548,"Kimberly Vaughn",0,Electronic,16.26,253,Premium,Medium
+729,"Infinite Serenade (Vol. II)",549,"Kimberly Wise",0,Reggae,16.61,413,Premium,Medium
+730,"Midnight Reflections (Vol. I)",550,"Kristen Thomas",0,Reggae,9.64,155,Medium,Low
+731,"Ashen Shadows (Reprise)",551,"Kristi Barker",0,Pop,15.48,367,Premium,Medium
+732,"Crimson Letters (Verse)",552,"Kristi Joseph",0,Jazz,16.49,355,Premium,Medium
+733,"Shattered Paradise (Blueprint)",553,"Kristi Morales",0,Rock,12.91,476,Medium,Medium
+734,"Whisper Dreams (Vol. II)",554,"Kristin Edwards",0,Rock,8.44,281,Medium,Medium
+735,"Radiant Horizons (Saga)",555,"Kristin Gay",0,Country,9.65,391,Medium,Medium
+736,"Radiant Temples (Blueprint)",556,"Kristin Scott",0,Blues,18.65,273,Premium,Medium
+737,"Burning Lights (Edition)",557,"Kristina Davis",0,Reggae,13.79,397,Medium,Medium
+738,"Fading Tides (Verse)",558,"Kristina Garcia",0,Classical,9.06,232,Medium,Medium
+739,"Shattered Tides (Memoirs)",559,"Kristy Perry",0,Reggae,10.86,289,Medium,Medium
+740,"Lunar Temples (Vol. I)",560,"Kristy Terry",0,Country,17.18,402,Premium,Medium
+741,"Ocean Tides (Anthology)",561,"Krystal Davis",0,Blues,13.32,301,Medium,Medium
+742,"Golden Whispers (Soundtrack)",562,"Kyle Cummings",0,Electronic,13.30,349,Medium,Medium
+743,"Midnight Reflections (Archives)",563,"Kyle Dean",0,Electronic,7.47,244,Low,Medium
+744,"Ashen Reflections (Memoirs)",565,"Larry Cox",0,Electronic,13.93,167,Medium,Low
+745,"Neon Desire (Redux)",566,"Laura Figueroa",0,Pop,12.03,400,Medium,Medium
+746,"Neon Confessions (Blueprint)",567,"Laura Garza",0,Electronic,17.58,168,Premium,Low
+747,"Burning Signals (Soundtrack)",568,"Laura Mora",0,Reggae,11.60,288,Medium,Medium
+748,"Hidden Lights (Archives)",569,"Laura Perez",0,Jazz,13.95,496,Medium,Medium
+749,"Moonlit Souls (Blueprint)",570,"Laura Robinson",0,Electronic,17.57,202,Premium,Medium
+750,"Velvet Temples (Saga)",571,"Lauren Lambert",0,Pop,14.06,292,Premium,Medium
+751,"Infinite Hearts (Vol. II)",572,"Lauren Roberts",0,K-pop,10.87,394,Medium,Medium
+752,"Crimson Confessions (Soundtrack)",573,"Laurie Morgan",0,Rock,14.97,220,Premium,Medium
+753,"Crimson Waves (Tales)",574,"Laurie Thomas",0,Jazz,12.40,469,Medium,Medium
+754,"Obsidian Shadows (Redux)",575,"Lawrence Sanchez",0,Jazz,11.19,225,Medium,Medium
+755,"Storm Paradise (Redux)",576,"Leah Nguyen",0,"Hip Hop",6.00,472,Low,Medium
+756,"Velvet Tides (Verse)",577,"Lee Turner",0,Pop,7.13,171,Low,Low
+757,"Hidden Tides (Tales)",578,"Leonard Henderson",0,Pop,8.41,428,Medium,Medium
+758,"Sapphire Temples (Vol. I)",579,"Leslie Boyd",0,Jazz,19.26,366,Premium,Medium
+759,"Frost Souls (Tales)",580,"Leslie Cameron",0,Blues,7.78,515,Low,High
+760,"Electric Lights (Memoirs)",581,"Leslie Ramirez",0,Classical,14.54,388,Premium,Medium
+761,"Ocean Rhythms (Reprise)",582,"Linda Burton",0,Jazz,13.33,370,Medium,Medium
+762,"Burning Waves (Memoirs)",583,"Linda Cameron",0,Blues,8.09,274,Medium,Medium
+763,"Paper Horizons (Vol. II)",584,"Lindsay Roberts",0,K-pop,17.97,505,Premium,High
+764,"Lunar Paradise (Edition)",585,"Linkin Park",1,Classical,12.60,268,Medium,Medium
+765,"Golden Tides (Archives)",586,"Lisa Clark",0,Electronic,8.32,452,Medium,Medium
+766,"Sacred Rooms (Vol. II)",587,"Lisa Cox",0,Pop,12.56,415,Medium,Medium
+767,"Distant Signals (Redux)",588,"Lisa Garner",0,Country,7.44,376,Low,Medium
+768,"Radiant Lights (Chronicles)",589,"Lisa Juarez",0,Pop,15.31,282,Premium,Medium
+769,"Radiant Confessions",590,"Lisa Lopez",0,Classical,7.83,509,Low,High
+770,"Shattered Shadows (Verse)",591,"Lisa Macdonald",0,Country,10.40,210,Medium,Medium
+771,"Fading Visions (Saga)",592,"Lisa Mccormick",0,Electronic,7.43,247,Low,Medium
+772,"Hidden Dreams (Vol. II)",593,"Lisa Medina",0,Reggae,8.91,518,Medium,High
+773,"Golden Temples (Archives)",594,"Lisa Osborn",0,Classical,19.43,320,Premium,Medium
+774,"Broken Souls (Anthology)",595,"Lisa Schultz",0,Pop,7.38,300,Low,Medium
+775,"Ocean Waves (Blueprint)",596,"Lisa Wilkerson",0,Country,6.97,451,Low,Medium
+776,"Hidden Stories (Edition)",598,"Loretta Flores",0,Classical,16.93,400,Premium,Medium
+777,"Velvet Souls (Diaries)",599,"Louis Gilbert",0,Electronic,15.88,325,Premium,Medium
+778,"Broken Lights (Redux)",600,"Luis Fonsi",1,Country,17.25,348,Premium,Medium
+779,"Obsidian Waves (Archives)",601,"Luis Kelley",0,K-pop,17.48,217,Premium,Medium
+780,"Midnight Whispers (Verse)",602,"Luis Oliver",0,Electronic,15.96,380,Premium,Medium
+781,"Sacred Stories (Tales)",603,"Luis Wallace",0,Pop,8.42,166,Medium,Low
+782,"Echo Roses (Chronicles)",604,"Luke Hughes",0,Rock,15.22,300,Premium,Medium
+783,"Golden Reflections (Verse)",605,"Lydia Smith",0,Classical,16.29,267,Premium,Medium
+784,"Fading Shadows (Vol. II)",606,"Mackenzie Terry",0,Blues,12.67,440,Medium,Medium
+785,"Wild Paths",607,Madonna,1,Reggae,14.62,267,Premium,Medium
+786,"Moonlit Waves (Reprise)",608,"Marcus Hernandez",0,Rock,19.34,468,Premium,Medium
+787,"Ocean Letters (Vol. I)",609,"Margaret Hartman",0,Country,13.97,369,Medium,Medium
+788,"Broken Shadows",610,"Margaret Rich",0,Blues,14.23,334,Premium,Medium
+789,"Sacred Confessions (Archives)",611,"Margaret Williams",0,Blues,11.84,256,Medium,Medium
+790,"Storm Tides (Vol. I)",612,"Maria Fox",0,Pop,17.73,381,Premium,Medium
+791,"Radiant Paradise (Blueprint)",613,"Maria Garcia",0,Country,13.97,462,Medium,Medium
+792,"Radiant Reflections",614,"Maria Johnson",0,Jazz,17.00,408,Premium,Medium
+793,"Echo Shadows",615,"Maria Rowland",0,Jazz,15.75,231,Premium,Medium
+794,"Fading Tides (Blueprint)",616,"Maria Tucker",0,Country,10.45,276,Medium,Medium
+795,"Silent Signals (Tales)",617,"Mario Green",0,Electronic,17.63,473,Premium,Medium
+796,"Velvet Rooms (Tales)",618,"Marissa Carr",0,Reggae,19.62,263,Premium,Medium
+797,"Distant Souls (Blueprint)",619,"Marissa Lee",0,Pop,13.64,154,Medium,Low
+798,"Fading Signals (Anthology)",620,"Marissa Rose",0,Blues,17.10,477,Premium,Medium
+799,"Ashen Signals (Saga)",621,"Mark Bates",0,Electronic,17.43,330,Premium,Medium
+800,"Moonlit Desire (Anthology)",622,"Mark Boyd",0,Reggae,16.29,245,Premium,Medium
+801,"Hidden Rooms (Archives)",623,"Mark Lewis",0,Blues,10.96,188,Medium,Low
+802,"Midnight Voices (Redux)",624,"Mark Parker",0,Jazz,8.42,469,Medium,Medium
+803,"Ashen Serenade (Soundtrack)",625,"Mark Parks",0,Classical,15.87,279,Premium,Medium
+804,"Neon Desire (Blueprint)",626,"Mark Santos",0,Blues,18.23,399,Premium,Medium
+805,"Glass Voices (Redux)",627,"Mark Warren",0,Country,10.54,489,Medium,Medium
+806,"Broken Lights (Tales)",629,"Martin Johnson",0,Electronic,14.98,289,Premium,Medium
+807,"Paper Confessions (Soundtrack)",630,"Mary Anderson",0,Blues,6.34,347,Low,Medium
+808,"Obsidian Lights (Chronicles)",631,"Mary Hicks",0,Reggae,14.86,345,Premium,Medium
+809,"Radiant Shadows (Tales)",632,"Mary Owens",0,Pop,15.78,257,Premium,Medium
+810,"Lunar Paths (Tales)",633,"Mary Smith",0,Blues,19.85,276,Premium,Medium
+811,"Sacred Temples",634,"Mary Wright",0,Electronic,17.32,213,Premium,Medium
+812,"Crimson Desire (Chronicles)",635,"Mason West",0,Classical,10.17,418,Medium,Medium
+813,"Broken Temples (Diaries)",636,"Matthew Anderson",0,Pop,11.48,406,Medium,Medium
+814,"Burning Whispers (Diaries)",637,"Matthew Chaney",0,Country,15.31,409,Premium,Medium
+815,"Radiant Serenade (Tales)",638,"Matthew Hahn",0,K-pop,12.72,454,Medium,Medium
+816,"Fading Visions (Anthology)",639,"Matthew Hayes",0,Rock,14.56,416,Premium,Medium
+817,"Broken Rooms (Blueprint)",640,"Matthew Lee",0,Classical,17.17,366,Premium,Medium
+818,"Midnight Stories (Soundtrack)",641,"Matthew Perry",0,Jazz,6.65,324,Low,Medium
+819,"Paper Reflections (Reprise)",642,"Matthew Scott MD",0,Jazz,12.48,265,Medium,Medium
+820,"Infinite Roses (Diaries)",643,"Matthew Taylor",0,K-pop,15.04,257,Premium,Medium
+821,"Broken Echoes (Redux)",644,"Matthew Tyler",0,"Hip Hop",6.44,309,Low,Medium
+822,"Echo Serenade (Saga)",645,"Matthew Woods",0,Rock,15.19,260,Premium,Medium
+823,"Broken Visions (Sessions)",646,"Maurice Burnett",0,"Hip Hop",10.55,482,Medium,Medium
+824,"Infinite Paths",647,"Meagan Russell",0,Rock,9.25,442,Medium,Medium
+825,"Frost Signals (Memoirs)",648,"Megan Carlson",0,Country,17.59,482,Premium,Medium
+826,"Lunar Signals",649,"Megan Jackson",0,Country,9.12,287,Medium,Medium
+827,"Frost Stories (Saga)",650,"Megan Sandoval",0,"Hip Hop",12.77,460,Medium,Medium
+828,"Fading Hearts (Chronicles)",651,"Megan Vasquez",0,Pop,17.78,455,Premium,Medium
+829,"Radiant Souls (Edition)",652,"Melissa Austin",0,Classical,6.28,404,Low,Medium
+830,"Ocean Signals (Verse)",653,"Melissa Clark",0,Pop,12.88,409,Medium,Medium
+831,"Velvet Serenade (Saga)",654,"Melissa Galloway",0,"Hip Hop",19.22,431,Premium,Medium
+832,"Electric Letters (Chronicles)",655,"Melissa Hoffman",0,K-pop,9.65,354,Medium,Medium
+833,"Velvet Roses (Verse)",656,"Melissa Mccall",0,Country,15.92,467,Premium,Medium
+834,"Radiant Letters (Archives)",657,"Melissa Nguyen",0,Reggae,11.06,195,Medium,Low
+835,"Fading Rooms (Vol. I)",658,"Melissa White",0,Rock,12.98,324,Medium,Medium
+836,"Ashen Whispers (Vol. II)",659,"Melissa Wood",0,"Hip Hop",6.89,149,Low,Low
+837,"Echo Lights",660,Metallica,1,K-pop,19.63,340,Premium,Medium
+838,"Echo Tides (Saga)",661,"Meredith Bowen",0,"Hip Hop",11.89,233,Medium,Medium
+839,"Lunar Hearts (Soundtrack)",662,"Michael Allen",0,Blues,11.11,257,Medium,Medium
+840,"Wild Tides (Vol. II)",663,"Michael Cole",0,K-pop,10.24,458,Medium,Medium
+841,"Frost Reflections (Verse)",664,"Michael Cunningham",0,Classical,12.71,195,Medium,Low
+842,"Radiant Waves (Soundtrack)",665,"Michael Dennis",0,Electronic,12.88,379,Medium,Medium
+843,"Moonlit Voices (Vol. I)",666,"Michael Garcia",0,Classical,7.95,436,Low,Medium
+844,"Moonlit Stories (Tales)",667,"Michael Gomez",0,Blues,16.20,457,Premium,Medium
+845,"Storm Letters (Reprise)",668,"Michael Horn",0,Country,16.76,465,Premium,Medium
+846,"Neon Hearts",669,"Michael Houston",0,Blues,8.72,180,Medium,Low
+847,"Neon Rhythms (Memoirs)",671,"Michael Kirby",0,Pop,19.69,227,Premium,Medium
+848,"Sacred Whispers (Reprise)",672,"Michael Myers",0,Classical,14.72,220,Premium,Medium
+849,"Ocean Rooms (Soundtrack)",673,"Michael Perry",0,Reggae,18.33,191,Premium,Low
+850,"Fading Letters (Blueprint)",674,"Michael Rangel",0,Electronic,10.63,428,Medium,Medium
+851,"Distant Signals",675,"Michael Rocha",0,Blues,8.22,356,Medium,Medium
+852,"Velvet Waves (Diaries)",676,"Michael Schneider",0,Jazz,12.12,209,Medium,Medium
+853,"Burning Temples (Vol. II)",677,"Michael White",0,Classical,13.10,384,Medium,Medium
+854,"Obsidian Stories (Anthology)",678,"Michael Williams",0,Electronic,8.79,158,Medium,Low
+855,"Frost Echoes (Vol. I)",679,"Michele Cortez",0,Reggae,6.88,378,Low,Medium
+856,"Radiant Stories (Verse)",680,"Michele Gomez",0,Country,13.03,333,Medium,Medium
+857,"Neon Reflections (Diaries)",681,"Michele Johnson",0,Blues,6.78,493,Low,Medium
+858,"Golden Visions (Vol. II)",682,"Michelle Carter",0,Classical,6.04,452,Low,Medium
+859,"Distant Reflections (Memoirs)",683,"Michelle Garcia",0,Jazz,14.13,270,Premium,Medium
+860,"Obsidian Paths (Tales)",684,"Michelle Gutierrez",0,Classical,9.05,278,Medium,Medium
+861,"Broken Voices (Archives)",685,"Michelle Hall",0,Jazz,10.74,412,Medium,Medium
+862,"Storm Temples (Redux)",686,"Michelle Harris",0,Rock,9.98,441,Medium,Medium
+863,"Distant Whispers (Memoirs)",687,"Michelle Lane",0,Country,13.37,462,Medium,Medium
+864,"Broken Paths (Saga)",688,"Michelle Olson",0,Classical,10.33,188,Medium,Low
+865,"Glass Horizons (Vol. I)",689,"Michelle Ray",0,Pop,16.41,141,Premium,Low
+866,"Crimson Temples (Anthology)",690,"Michelle Taylor",0,K-pop,12.80,167,Medium,Low
+867,"Storm Rooms (Tales)",691,"Miguel Fitzgerald",0,Rock,14.66,475,Premium,Medium
+868,"Broken Waves (Saga)",692,"Miguel Rodriguez DDS",0,Jazz,15.41,467,Premium,Medium
+869,"Ocean Echoes (Redux)",693,"Mike Scott",0,Classical,10.03,206,Medium,Medium
+870,"Lunar Stories (Edition)",694,"Mike Wright",0,Pop,7.72,303,Low,Medium
+871,"Shattered Temples (Blueprint)",695,"Mr. Brian Baird",0,Country,11.94,216,Medium,Medium
+872,"Obsidian Echoes (Edition)",696,"Mr. Brian Meyers",0,"Hip Hop",16.59,274,Premium,Medium
+873,"Obsidian Temples (Redux)",697,"Mr. Carl Roberts",0,K-pop,8.77,265,Medium,Medium
+874,"Sapphire Paths (Vol. II)",698,"Mr. Christopher Chan",0,Reggae,6.48,244,Low,Medium
+875,"Golden Waves (Diaries)",699,"Mr. Daniel Duncan Jr.",0,Rock,9.08,258,Medium,Medium
+876,"Wild Paradise (Tales)",700,"Mr. George Molina Jr.",0,Country,13.46,487,Medium,Medium
+877,"Crimson Serenade (Tales)",701,"Mr. Jose Martin IV",0,Jazz,18.85,427,Premium,Medium
+878,"Storm Shadows (Chronicles)",702,"Mr. Robert Chen II",0,Reggae,19.84,202,Premium,Medium
+879,"Velvet Serenade (Anthology)",703,"Mr. Robert Edwards",0,"Hip Hop",11.22,357,Medium,Medium
+880,"Distant Serenade (Saga)",704,"Mr. Robert Fisher",0,Blues,12.91,474,Medium,Medium
+881,"Silent Horizons",705,"Mrs. Erica Daniels",0,Rock,12.51,344,Medium,Medium
+882,"Obsidian Temples (Vol. I)",706,"Mrs. Jennifer Murray",0,Reggae,9.31,293,Medium,Medium
+883,"Ocean Paradise (Tales)",707,"Mrs. Jessica Adams",0,Pop,16.91,302,Premium,Medium
+884,"Neon Rhythms (Diaries)",708,"Mrs. Marie Savage",0,K-pop,19.86,370,Premium,Medium
+885,"Golden Roses (Vol. I)",709,"Ms. Janet Robles MD",0,Reggae,19.90,436,Premium,Medium
+886,"Electric Roses (Reprise)",710,"Nancy Byrd",0,K-pop,15.35,290,Premium,Medium
+887,"Golden Paradise (Blueprint)",711,"Nancy Griffin",0,Jazz,10.36,196,Medium,Low
+888,"Sacred Reflections (Vol. II)",712,"Nancy Middleton",0,Jazz,11.15,499,Medium,Medium
+889,"Burning Stories (Verse)",713,"Nancy Watts",0,Blues,6.88,263,Low,Medium
+890,"Storm Serenade (Diaries)",714,"Nathan Collier",0,Classical,9.95,314,Medium,Medium
+891,"Sacred Roses (Chronicles)",715,"Nathan Leblanc",0,Pop,11.92,173,Medium,Low
+892,"Sapphire Paths (Memoirs)",716,"Nathan Porter",0,Reggae,7.27,190,Low,Low
+893,"Wild Paradise (Reprise)",717,"Nathaniel Rich",0,"Hip Hop",14.52,225,Premium,Medium
+894,"Silent Horizons (Chronicles)",718,"Nathaniel Rogers",0,Blues,9.50,450,Medium,Medium
+895,"Shattered Signals (Diaries)",719,"Nicholas Becker",0,Jazz,7.48,327,Low,Medium
+896,"Sacred Tides (Vol. II)",720,"Nicholas Clark",0,Electronic,15.21,284,Premium,Medium
+897,"Wild Paradise (Edition)",721,"Nicholas Duke",0,Rock,6.71,457,Low,Medium
+898,"Fading Rooms (Soundtrack)",722,"Nicholas Frank",0,Pop,16.99,201,Premium,Medium
+899,"Lunar Stories (Redux)",723,"Nicholas Henson",0,K-pop,19.39,376,Premium,Medium
+900,"Lunar Paths",724,"Nicholas Webb",0,Jazz,11.92,389,Medium,Medium
+901,"Silent Tides (Archives)",726,"Nicole Barnett",0,Reggae,18.56,363,Premium,Medium
+902,"Ashen Letters (Blueprint)",727,"Nicole Jimenez",0,Reggae,10.54,454,Medium,Medium
+903,"Echo Dreams (Redux)",728,"Nicole Oneal",0,Electronic,15.55,211,Premium,Medium
+904,"Hidden Souls (Tales)",729,"Nicole Smith",0,Reggae,17.81,329,Premium,Medium
+905,"Sacred Paths (Chronicles)",730,"Nicole Thompson",0,K-pop,18.03,159,Premium,Low
+906,"Midnight Rooms (Memoirs)",731,"Nicole Walker",0,Rock,12.21,545,Medium,High
+907,"Infinite Visions (Saga)",732,Nirvana,1,Blues,18.11,396,Premium,Medium
+908,"Whisper Signals (Tales)",733,"Noah Young",0,Electronic,16.96,287,Premium,Medium
+909,"Hidden Confessions (Redux)",735,"Oscar Lopez",0,Blues,11.53,323,Medium,Medium
+910,"Moonlit Desire (Diaries)",736,"Patricia Buchanan",0,Pop,17.90,224,Premium,Medium
+911,"Paper Stories (Tales)",737,"Patricia Gonzalez",0,Country,10.39,177,Medium,Low
+912,"Velvet Waves (Archives)",738,"Patricia Kane",0,Country,18.94,420,Premium,Medium
+913,"Sacred Signals (Blueprint)",739,"Patricia Morgan",0,K-pop,14.74,462,Premium,Medium
+914,"Blazing Souls (Reprise)",740,"Patricia Sanchez",0,Rock,11.17,227,Medium,Medium
+915,"Electric Confessions (Saga)",741,"Patricia Williams",0,Classical,12.02,345,Medium,Medium
+916,"Burning Confessions (Anthology)",742,"Patrick George",0,"Hip Hop",14.81,184,Premium,Low
+917,"Radiant Serenade",743,"Paul Chapman",0,Reggae,15.44,204,Premium,Medium
+918,"Fading Signals (Vol. I)",744,"Paul Henderson",0,"Hip Hop",12.01,271,Medium,Medium
+919,"Radiant Visions (Vol. I)",745,"Paul Tucker",0,Country,17.08,152,Premium,Low
+920,"Crimson Rooms (Vol. I)",746,"Paul Valencia",0,Country,15.27,232,Premium,Medium
+921,"Neon Visions (Verse)",747,"Paula Webb",0,Pop,12.85,526,Medium,High
+922,"Paper Paradise (Vol. II)",748,"Pearl Jam",1,Pop,12.66,394,Medium,Medium
+923,"Obsidian Lights (Edition)",749,"Penny Miller",0,Blues,10.03,358,Medium,Medium
+924,"Blazing Stories (Edition)",750,"Peter Glass",0,Electronic,9.28,327,Medium,Medium
+925,"Wild Tides (Sessions)",751,"Peter Moore",0,Rock,17.80,222,Premium,Medium
+926,"Distant Confessions (Reprise)",752,"Peter Roth DDS",0,Blues,19.23,366,Premium,Medium
+927,"Blazing Letters (Diaries)",753,"Peter Sullivan",0,Classical,17.03,472,Premium,Medium
+928,"Wild Souls (Anthology)",754,"Peter Thornton",0,Country,9.94,403,Medium,Medium
+929,"Obsidian Rooms (Chronicles)",755,"Phillip Conner",0,Reggae,11.59,203,Medium,Medium
+930,"Broken Waves (Vol. II)",756,"Phillip Cunningham",0,Electronic,8.74,161,Medium,Low
+931,"Neon Dreams (Redux)",758,Queen,1,Classical,15.82,379,Premium,Medium
+932,"Blazing Paths",759,"Rachael Henderson",0,Country,8.12,359,Medium,Medium
+933,"Crimson Lights (Vol. II)",760,"Rachael Lambert",0,Electronic,17.93,306,Premium,Medium
+934,"Midnight Tides (Memoirs)",761,"Rachel Boyer",0,"Hip Hop",13.47,477,Medium,Medium
+935,"Crimson Whispers (Sessions)",762,"Rachel Franklin",0,Electronic,14.89,420,Premium,Medium
+936,"Lunar Whispers",763,"Rachel Garza",0,"Hip Hop",13.26,524,Medium,High
+937,"Midnight Temples (Redux)",764,"Rachel Hansen",0,Reggae,9.13,167,Medium,Low
+938,"Infinite Serenade (Vol. I)",765,"Rachel Kane",0,Electronic,17.14,310,Premium,Medium
+939,"Whisper Stories (Redux)",766,"Rachel Lopez",0,Blues,10.93,358,Medium,Medium
+940,"Midnight Desire (Anthology)",767,"Ralph Berry",0,"Hip Hop",13.92,510,Medium,High
+941,"Distant Rooms (Chronicles)",768,"Randall Chandler",0,Electronic,8.03,451,Medium,Medium
+942,"Radiant Hearts (Reprise)",769,"Randy Reilly",0,Electronic,15.38,302,Premium,Medium
+943,"Fading Whispers (Anthology)",770,"Raymond Robertson",0,Electronic,7.05,362,Low,Medium
+944,"Distant Visions (Tales)",771,"Raymond Stone",0,Classical,9.83,363,Medium,Medium
+945,"Crimson Paradise (Vol. I)",772,"Raymond Wells",0,Blues,8.64,505,Medium,High
+946,"Fading Voices (Reprise)",773,"Rebecca Anderson",0,Pop,11.18,261,Medium,Medium
+947,"Crimson Letters (Chronicles)",774,"Rebecca Benitez",0,Electronic,13.90,209,Medium,Medium
+948,"Moonlit Signals (Reprise)",775,"Rebecca Gregory",0,"Hip Hop",19.02,313,Premium,Medium
+949,"Sapphire Lights (Verse)",776,"Rebecca Joyce",0,Reggae,8.75,206,Medium,Medium
+950,"Fading Paradise (Verse)",777,"Rebecca Martinez",0,Jazz,16.99,381,Premium,Medium
+951,"Paper Echoes (Sessions)",778,"Rebecca Mccoy",0,Country,16.21,351,Premium,Medium
+952,"Velvet Visions (Vol. I)",779,"Rebecca Nelson",0,K-pop,15.96,391,Premium,Medium
+953,"Sapphire Hearts (Archives)",780,"Rebecca Orozco",0,"Hip Hop",10.09,527,Medium,High
+954,"Silent Rhythms (Tales)",781,"Rebecca Sampson",0,Jazz,19.56,215,Premium,Medium
+955,"Silent Rooms (Redux)",782,"Rebecca Washington",0,Rock,19.71,209,Premium,Medium
+956,"Electric Stories (Tales)",783,"Rebecca White",0,"Hip Hop",10.66,358,Medium,Medium
+957,"Velvet Reflections",784,"Regina Burns",0,Classical,7.49,168,Low,Low
+958,"Electric Waves (Archives)",785,"Regina Lee",0,Rock,12.14,479,Medium,Medium
+959,"Sapphire Souls (Edition)",786,"Renee Evans",0,Reggae,7.02,260,Low,Medium
+960,"Sacred Tides",787,"Rhonda Ball",0,Jazz,13.38,242,Medium,Medium
+961,"Hidden Waves (Saga)",788,"Rhonda Rivera",0,"Hip Hop",18.86,318,Premium,Medium
+962,"Paper Tides (Archives)",789,"Richard Lang",0,Rock,16.43,427,Premium,Medium
+963,"Silent Whispers (Soundtrack)",790,"Richard Saunders",0,Electronic,6.68,355,Low,Medium
+964,"Burning Confessions (Edition)",791,"Richard Watkins",0,Classical,9.93,173,Medium,Low
+965,"Ashen Echoes (Vol. I)",792,"Ricky Collins",0,Electronic,6.09,324,Low,Medium
+966,"Neon Letters (Edition)",794,"Rita Johnson",0,Classical,9.63,504,Medium,High
+967,"Distant Tides (Tales)",795,"Robert Burns",0,Reggae,15.81,219,Premium,Medium
+968,"Infinite Letters (Soundtrack)",796,"Robert Chung",0,Rock,10.09,439,Medium,Medium
+969,"Electric Letters (Saga)",797,"Robert Duarte",0,Classical,8.83,492,Medium,Medium
+970,"Neon Paradise (Archives)",798,"Robert Ingram",0,K-pop,16.94,195,Premium,Low
+971,"Golden Desire (Tales)",799,"Robert Massey",0,K-pop,18.66,215,Premium,Medium
+972,"Frost Letters (Vol. II)",800,"Robert Medina",0,Country,10.56,346,Medium,Medium
+973,"Neon Dreams (Diaries)",801,"Robert Miller",0,"Hip Hop",7.67,230,Low,Medium
+974,"Moonlit Desire (Reprise)",802,"Robert Moore",0,Blues,16.12,355,Premium,Medium
+975,"Crimson Souls (Edition)",803,"Robert Ray",0,Rock,10.16,193,Medium,Low
+976,"Neon Reflections (Archives)",804,"Robert Robinson",0,K-pop,6.51,351,Low,Medium
+977,"Ocean Hearts (Blueprint)",805,"Robert Stuart",0,K-pop,17.19,221,Premium,Medium
+978,"Shattered Reflections (Diaries)",806,"Robert Vega",0,Reggae,19.87,351,Premium,Medium
+979,"Electric Shadows (Tales)",807,"Roberto Ferguson",0,Reggae,7.06,447,Low,Medium
+980,"Frost Horizons (Verse)",808,"Robin Hancock",0,Rock,15.64,354,Premium,Medium
+981,"Glass Waves (Vol. I)",809,"Robin Mcfarland",0,Rock,17.13,499,Premium,Medium
+982,"Silent Hearts",810,"Robin Salazar",0,K-pop,19.74,403,Premium,Medium
+983,"Frost Reflections (Memoirs)",811,"Rodney Olson MD",0,Country,16.10,250,Premium,Medium
+984,"Burning Souls (Memoirs)",812,"Roger Nguyen",0,Blues,11.27,186,Medium,Low
+985,"Paper Paradise (Vol. I)",813,"Ronald Curtis",0,Blues,18.24,235,Premium,Medium
+986,"Glass Horizons (Edition)",814,"Ronald Schneider",0,"Hip Hop",6.33,238,Low,Medium
+987,"Distant Rhythms (Vol. I)",815,"Ronald Smith",0,Pop,17.94,328,Premium,Medium
+988,"Hidden Temples (Memoirs)",816,"Ronald Williams",0,Electronic,8.45,273,Medium,Medium
+989,"Echo Paradise (Tales)",817,"Roy Murray",0,Country,19.72,165,Premium,Low
+990,"Distant Paths (Edition)",818,"Ruben Sweeney",0,Classical,19.09,358,Premium,Medium
+991,"Fading Echoes (Memoirs)",819,"Russell Martin",0,K-pop,7.44,166,Low,Low
+992,"Storm Voices (Tales)",820,"Ryan Beltran DDS",0,K-pop,14.61,333,Premium,Medium
+993,"Sapphire Paths (Edition)",821,"Ryan Day",0,Electronic,18.06,201,Premium,Medium
+994,"Lunar Echoes (Diaries)",822,"Ryan Duran",0,Blues,14.12,443,Premium,Medium
+995,"Distant Letters (Tales)",823,"Ryan Patterson",0,Blues,13.71,227,Medium,Medium
+996,"Infinite Paths (Blueprint)",824,"Ryan Smith",0,K-pop,17.79,262,Premium,Medium
+997,"Golden Paths (Redux)",825,"Ryan Wyatt",0,Pop,15.48,481,Premium,Medium
+998,"Storm Paths (Vol. II)",827,"Samantha Butler",0,"Hip Hop",17.71,276,Premium,Medium
+999,"Silent Souls (Sessions)",828,"Samantha Dalton",0,Rock,15.56,258,Premium,Medium
+1000,"Burning Rhythms (Chronicles)",829,"Samantha Malone",0,Reggae,19.90,338,Premium,Medium
+1001,"Silent Confessions (Edition)",830,"Samantha Ramirez",0,Classical,19.86,284,Premium,Medium
+1002,"Distant Horizons (Tales)",831,"Samantha Wright",0,Rock,15.76,445,Premium,Medium
+1003,"Golden Signals (Blueprint)",832,"Samuel Miller DDS",0,Pop,13.58,180,Medium,Low
+1004,"Frost Visions (Diaries)",833,"Samuel Ortega",0,K-pop,6.67,224,Low,Medium
+1005,"Sacred Paths (Tales)",834,"Sara Moore",0,Pop,12.10,149,Medium,Low
+1006,"Fading Souls (Tales)",835,"Sara Solis",0,Classical,14.06,344,Premium,Medium
+1007,"Midnight Letters (Soundtrack)",836,"Sarah Hall",0,Classical,7.82,446,Low,Medium
+1008,"Moonlit Temples (Vol. I)",837,"Sarah Horn",0,Blues,8.08,336,Medium,Medium
+1009,"Shattered Desire (Sessions)",838,"Sarah Lucero",0,Reggae,17.83,491,Premium,Medium
+1010,"Ocean Waves (Diaries)",839,"Sarah Proctor",0,Classical,7.70,515,Low,High
+1011,"Infinite Signals",840,"Sarah Ward",0,Jazz,8.35,183,Medium,Low
+1012,"Neon Desire (Edition)",841,"Scott Bullock",0,Reggae,7.63,332,Low,Medium
+1013,"Sacred Serenade (Edition)",842,"Scott Cantrell",0,Electronic,12.35,373,Medium,Medium
+1014,"Moonlit Stories (Blueprint)",843,"Scott Carpenter",0,Pop,16.20,386,Premium,Medium
+1015,"Wild Echoes (Vol. II)",844,"Scott Day",0,Rock,10.86,337,Medium,Medium
+1016,"Moonlit Horizons (Vol. II)",845,"Scott Fields",0,Rock,6.36,400,Low,Medium
+1017,"Frost Voices (Chronicles)",846,"Scott Figueroa",0,K-pop,17.13,125,Premium,Low
+1018,"Golden Letters (Anthology)",847,"Scott Hampton",0,"Hip Hop",10.08,227,Medium,Medium
+1019,"Frost Desire (Verse)",848,"Scott Lopez",0,Country,16.05,257,Premium,Medium
+1020,"Sacred Dreams (Verse)",849,"Scott Moss",0,Electronic,12.00,438,Medium,Medium
+1021,"Burning Hearts (Soundtrack)",850,"Scott Perez",0,"Hip Hop",16.91,397,Premium,Medium
+1022,"Golden Waves (Edition)",851,"Scott Shepherd",0,Jazz,15.64,485,Premium,Medium
+1023,"Moonlit Horizons (Memoirs)",852,"Scott Sullivan",0,Country,10.95,202,Medium,Medium
+1024,"Midnight Lights (Reprise)",853,"Scott Wagner",0,Jazz,19.15,347,Premium,Medium
+1025,"Neon Paths (Vol. I)",854,"Sean Coleman",0,Classical,6.32,301,Low,Medium
+1026,"Distant Dreams (Memoirs)",855,"Sean Kelly",0,Reggae,16.81,391,Premium,Medium
+1027,"Moonlit Lights",857,"Seth Peters",0,"Hip Hop",9.98,407,Medium,Medium
+1028,"Electric Paradise (Anthology)",858,"Shannon Barnes",0,Pop,16.21,396,Premium,Medium
+1029,"Silent Confessions (Anthology)",859,"Shannon Reyes",0,Electronic,12.44,471,Medium,Medium
+1030,"Moonlit Hearts (Soundtrack)",860,"Shannon Wise",0,"Hip Hop",13.95,196,Medium,Low
+1031,"Sacred Rooms (Soundtrack)",861,"Sharon Gilbert",0,Country,7.92,413,Low,Medium
+1032,"Sacred Paths (Edition)",862,"Sharon Gordon",0,Jazz,18.27,204,Premium,Medium
+1033,"Wild Lights (Vol. I)",863,"Shaun Freeman",0,Country,13.28,208,Medium,Medium
+1034,"Lunar Dreams",865,"Shawn Washington",0,"Hip Hop",6.27,181,Low,Low
+1035,"Sacred Stories (Vol. II)",866,"Shawna Martin",0,Reggae,13.76,454,Medium,Medium
+1036,"Whisper Hearts (Sessions)",867,"Sheila Campbell",0,Jazz,18.64,360,Premium,Medium
+1037,"Lunar Souls (Edition)",868,"Sheila Contreras",0,Jazz,12.16,506,Medium,High
+1038,"Sapphire Tides (Verse)",869,"Shelby Black",0,Electronic,18.59,485,Premium,Medium
+1039,"Ashen Lights (Anthology)",870,"Sherri Allen",0,Electronic,8.51,445,Medium,Medium
+1040,"Shattered Tides (Sessions)",871,"Sherry Gomez",0,Country,10.03,527,Medium,High
+1041,"Radiant Whispers (Memoirs)",872,"Sherry Rios",0,Classical,18.87,372,Premium,Medium
+1042,"Hidden Shadows (Archives)",873,"Sherry Thompson",0,Reggae,11.49,325,Medium,Medium
+1043,"Distant Serenade (Vol. II)",874,"Shirley Clark",0,Country,13.46,224,Medium,Medium
+1044,"Electric Temples (Edition)",875,"Shirley Farmer",0,Pop,14.60,192,Premium,Low
+1045,"Sapphire Paths (Saga)",877,"Stacey Sandoval",0,Electronic,8.86,351,Medium,Medium
+1046,"Fading Letters (Saga)",878,"Stacy Fuller",0,Classical,10.46,379,Medium,Medium
+1047,"Blazing Shadows (Soundtrack)",879,"Stacy Willis",0,K-pop,17.51,439,Premium,Medium
+1048,"Velvet Signals (Soundtrack)",880,"Stephanie Carrillo",0,Pop,11.82,320,Medium,Medium
+1049,"Burning Signals (Memoirs)",881,"Stephanie Casey",0,Blues,10.53,352,Medium,Medium
+1050,"Velvet Souls (Redux)",882,"Stephanie Floyd",0,"Hip Hop",18.65,230,Premium,Medium
+1051,"Velvet Hearts (Archives)",883,"Stephanie Hicks",0,Country,10.83,378,Medium,Medium
+1052,"Lunar Lights (Sessions)",884,"Stephanie Jones",0,Blues,13.75,381,Medium,Medium
+1053,"Blazing Tides (Anthology)",885,"Stephanie Kane",0,Classical,12.84,235,Medium,Medium
+1054,"Whisper Letters (Chronicles)",886,"Stephanie Rodriguez",0,Blues,14.96,177,Premium,Low
+1055,"Obsidian Rhythms (Chronicles)",887,"Stephanie Ruiz",0,Classical,13.28,258,Medium,Medium
+1056,"Electric Hearts (Diaries)",888,"Stephanie Salas",0,"Hip Hop",12.84,297,Medium,Medium
+1057,"Distant Desire (Diaries)",889,"Stephanie Smith",0,Jazz,9.66,484,Medium,Medium
+1058,"Hidden Voices (Redux)",890,"Stephanie Vang",0,K-pop,11.00,298,Medium,Medium
+1059,"Paper Horizons (Reprise)",891,"Stephen Evans",0,Country,6.16,191,Low,Low
+1060,"Hidden Paradise (Soundtrack)",892,"Stephen Williams",0,Country,14.25,472,Premium,Medium
+1061,"Ocean Signals (Sessions)",893,"Steven Evans",0,Jazz,11.75,328,Medium,Medium
+1062,"Wild Stories (Reprise)",894,"Steven Horton",0,Electronic,12.90,360,Medium,Medium
+1063,"Ashen Serenade (Archives)",895,"Steven Johnston",0,Country,11.89,351,Medium,Medium
+1064,"Echo Confessions (Soundtrack)",896,"Steven Marks",0,Electronic,16.31,422,Premium,Medium
+1065,"Distant Signals (Edition)",897,"Steven Navarro",0,"Hip Hop",14.02,249,Premium,Medium
+1066,"Broken Rooms (Saga)",898,"Steven Stewart",0,Classical,15.01,386,Premium,Medium
+1067,"Moonlit Dreams (Tales)",899,"Steven Taylor",0,K-pop,17.61,179,Premium,Low
+1068,"Neon Roses (Reprise)",900,"Steven Ward",0,Pop,14.35,456,Premium,Medium
+1069,"Blazing Visions",901,"Susan Johnson",0,Reggae,13.77,390,Medium,Medium
+1070,"Electric Desire (Saga)",902,"Susan Robles",0,"Hip Hop",17.35,187,Premium,Low
+1071,"Echo Desire (Archives)",903,"Susan Salinas",0,Classical,6.26,398,Low,Medium
+1072,"Golden Shadows (Sessions)",904,"Suzanne Lopez",0,"Hip Hop",15.99,381,Premium,Medium
+1073,"Paper Tides (Memoirs)",905,"Tamara Miller",0,Jazz,16.40,406,Premium,Medium
+1074,"Moonlit Whispers (Redux)",906,"Tami Wilkinson",0,Classical,17.85,225,Premium,Medium
+1075,"Burning Visions (Blueprint)",907,"Tara Carney",0,Jazz,7.57,406,Low,Medium
+1076,"Broken Paths (Verse)",908,"Tara Hill",0,Electronic,10.34,277,Medium,Medium
+1077,"Wild Horizons (Chronicles)",909,"Tara Jones",0,Classical,13.05,207,Medium,Medium
+1078,"Ashen Visions (Archives)",910,"Tara Price",0,Country,8.36,524,Medium,High
+1079,"Electric Echoes (Redux)",911,"Taylor Bailey",0,Classical,18.19,515,Premium,High
+1080,"Neon Tides (Vol. I)",912,"Taylor Cook",0,Reggae,7.23,278,Low,Medium
+1081,"Glass Serenade (Soundtrack)",913,"Taylor Davis",0,"Hip Hop",15.60,143,Premium,Low
+1082,"Ocean Roses (Diaries)",914,"Taylor Forbes",0,Classical,14.20,397,Premium,Medium
+1083,"Electric Horizons (Redux)",916,"Teresa Lopez",0,"Hip Hop",8.76,396,Medium,Medium
+1084,"Velvet Dreams (Vol. II)",917,"Terri Carey",0,Reggae,11.97,401,Medium,Medium
+1085,"Storm Echoes (Sessions)",918,"Terri Mccullough",0,Electronic,7.43,320,Low,Medium
+1086,"Midnight Rhythms (Reprise)",919,"Terri Nguyen",0,"Hip Hop",18.82,301,Premium,Medium
+1087,"Paper Paradise (Blueprint)",920,"Terry Harris",0,Classical,7.84,448,Low,Medium
+1088,"Ocean Reflections (Vol. I)",923,"Theresa Ramos",0,Classical,10.44,475,Medium,Medium
+1089,"Blazing Desire",924,"Theresa Wall",0,"Hip Hop",7.28,479,Low,Medium
+1090,"Fading Signals (Vol. II)",925,"Thomas Duncan",0,K-pop,14.36,204,Premium,Medium
+1091,"Obsidian Confessions (Verse)",926,"Thomas Herrera",0,Jazz,19.16,450,Premium,Medium
+1092,"Velvet Dreams (Diaries)",927,"Thomas Le",0,Electronic,17.81,193,Premium,Low
+1093,"Infinite Serenade (Blueprint)",928,"Thomas Mejia",0,"Hip Hop",8.60,374,Medium,Medium
+1094,"Obsidian Desire (Redux)",929,"Thomas Miller",0,"Hip Hop",11.52,363,Medium,Medium
+1095,"Glass Waves (Reprise)",930,"Thomas Rubio",0,Country,6.46,235,Low,Medium
+1096,"Lunar Horizons (Vol. I)",931,"Tiffany Johnson",0,Jazz,10.82,425,Medium,Medium
+1097,"Ashen Letters (Redux)",932,"Tiffany Keller",0,Blues,18.45,369,Premium,Medium
+1098,"Shattered Roses (Blueprint)",933,"Tim Graham",0,Jazz,11.93,296,Medium,Medium
+1099,"Radiant Echoes (Diaries)",934,"Tim Murphy",0,Electronic,8.17,203,Medium,Medium
+1100,"Sapphire Voices (Reprise)",935,"Timothy Chavez",0,Blues,12.01,286,Medium,Medium
+1101,"Fading Souls (Diaries)",936,"Timothy Harris",0,Classical,13.26,367,Medium,Medium
+1102,"Distant Voices (Vol. I)",937,"Timothy Jones",0,Electronic,6.41,170,Low,Low
+1103,"Ashen Visions (Edition)",938,"Timothy Nelson",0,Classical,15.92,497,Premium,Medium
+1104,"Whisper Reflections (Redux)",939,"Timothy Reed",0,"Hip Hop",7.70,273,Low,Medium
+1105,"Hidden Visions (Anthology)",940,"Timothy Sanchez",0,Jazz,17.78,414,Premium,Medium
+1106,"Distant Voices (Diaries)",941,"Timothy Wade",0,Blues,6.24,249,Low,Medium
+1107,"Distant Confessions (Verse)",942,"Timothy Wilson",0,Reggae,11.70,336,Medium,Medium
+1108,"Sacred Shadows (Redux)",943,"Tina Brown",0,"Hip Hop",18.19,451,Premium,Medium
+1109,"Broken Confessions (Archives)",944,"Tina Cortez",0,Reggae,7.71,488,Low,Medium
+1110,"Infinite Letters (Verse)",945,"Tina Lawrence",0,Classical,10.04,500,Medium,Medium
+1111,"Glass Echoes (Verse)",946,"Tina Webb",0,Country,11.86,452,Medium,Medium
+1112,"Shattered Dreams (Archives)",947,"Todd Davis",0,Electronic,7.36,186,Low,Low
+1113,"Velvet Stories (Archives)",948,"Todd Riley",0,Country,19.54,367,Premium,Medium
+1114,"Frost Tides (Soundtrack)",949,"Todd Wallace",0,Blues,18.17,403,Premium,Medium
+1115,"Midnight Dreams (Soundtrack)",950,"Todd Williams",0,Blues,13.24,271,Medium,Medium
+1116,"Broken Horizons (Soundtrack)",951,"Tonya Baker",0,"Hip Hop",12.22,483,Medium,Medium
+1117,"Sacred Roses (Vol. II)",952,"Tonya Gibson",0,Country,17.10,325,Premium,Medium
+1118,"Midnight Visions (Vol. I)",953,"Tonya Thompson",0,K-pop,7.76,360,Low,Medium
+1119,"Electric Roses (Vol. II)",954,"Traci Butler",0,Rock,17.09,322,Premium,Medium
+1120,"Glass Paths (Sessions)",955,"Tracy Holt",0,Classical,10.49,429,Medium,Medium
+1121,"Crimson Desire (Vol. II)",957,"Trevor Young",0,Electronic,12.45,268,Medium,Medium
+1122,"Shattered Temples (Redux)",958,"Tricia Collins",0,Country,13.49,464,Medium,Medium
+1123,"Distant Stories (Vol. II)",959,"Troy Barnes",0,Electronic,6.27,300,Low,Medium
+1124,"Midnight Desire (Verse)",960,"Troy Jones",0,Jazz,8.97,334,Medium,Medium
+1125,"Echo Reflections (Anthology)",961,"Troy Miller MD",0,Classical,14.47,140,Premium,Low
+1126,"Whisper Hearts (Vol. II)",962,"Troy Steele",0,Blues,18.66,451,Premium,Medium
+1127,"Silent Lights (Edition)",963,"Twenty One Pilots",1,Rock,7.70,199,Low,Low
+1128,"Radiant Voices (Memoirs)",964,Usher,1,Electronic,16.52,295,Premium,Medium
+1129,"Hidden Echoes (Redux)",965,"Valerie Brown",0,Electronic,7.95,493,Low,Medium
+1130,"Velvet Serenade (Chronicles)",966,"Vanessa Oconnor",0,Country,7.57,409,Low,Medium
+1131,"Fading Rooms (Sessions)",967,"Vanessa Stanton",0,K-pop,8.89,394,Medium,Medium
+1132,"Midnight Shadows (Chronicles)",968,"Veronica Crane",0,Country,13.10,355,Medium,Medium
+1133,"Radiant Paradise (Archives)",969,"Victor Duran",0,Electronic,9.51,400,Medium,Medium
+1134,"Glass Visions (Saga)",970,"Victoria Collins",0,Jazz,18.93,450,Premium,Medium
+1135,"Whisper Signals",971,"Victoria Hawkins",0,Jazz,17.35,406,Premium,Medium
+1136,"Frost Tides (Saga)",972,"Victoria Martinez",0,K-pop,16.29,461,Premium,Medium
+1137,"Radiant Letters (Memoirs)",973,"Victoria Webb",0,K-pop,14.42,412,Premium,Medium
+1138,"Golden Echoes (Blueprint)",974,"Victoria West",0,Pop,13.74,226,Medium,Medium
+1139,"Silent Paths (Vol. II)",975,"Vincent Flores",0,Blues,16.28,214,Premium,Medium
+1140,"Velvet Dreams (Edition)",976,"Vincent Mathis",0,Country,8.48,325,Medium,Medium
+1141,"Moonlit Reflections (Memoirs)",977,"Vincent Patrick",0,Electronic,18.76,256,Premium,Medium
+1142,"Ocean Letters (Verse)",978,"Vincent Wilson",0,Classical,14.71,383,Premium,Medium
+1143,"Echo Roses (Anthology)",979,"Walter Reid",0,"Hip Hop",11.53,147,Medium,Low
+1144,"Echo Tides (Tales)",980,"Wanda Pearson",0,Classical,12.71,222,Medium,Medium
+1145,"Obsidian Horizons (Verse)",981,"Warren James",0,K-pop,8.74,371,Medium,Medium
+1146,"Whisper Confessions (Anthology)",982,"Wendy Anderson",0,Pop,18.26,362,Premium,Medium
+1147,"Fading Paradise (Blueprint)",983,"Wendy Berry",0,Pop,7.35,404,Low,Medium
+1148,"Lunar Signals (Vol. II)",984,"Wesley Bright",0,Country,16.45,363,Premium,Medium
+1149,"Whisper Confessions (Tales)",985,"Whitney Armstrong",0,"Hip Hop",9.67,524,Medium,High
+1150,"Obsidian Desire (Reprise)",986,"William Cook",0,K-pop,13.28,247,Medium,Medium
+1151,"Lunar Desire (Reprise)",987,"William Fisher",0,Reggae,12.25,279,Medium,Medium
+1152,"Glass Tides (Vol. II)",988,"William Mata",0,Blues,11.34,156,Medium,Low
+1153,"Burning Rooms (Anthology)",989,"William Mccall",0,"Hip Hop",16.72,206,Premium,Medium
+1154,"Velvet Tides",990,"William Miller",0,Jazz,15.96,504,Premium,High
+1155,"Ocean Voices (Sessions)",991,"William Ortiz",0,Rock,10.43,145,Medium,Low
+1156,"Distant Hearts (Vol. II)",992,"William Rogers",0,Jazz,10.20,393,Medium,Medium
+1157,"Distant Rooms (Memoirs)",993,"William Russo",0,Rock,12.16,469,Medium,Medium
+1158,"Silent Souls",994,"William Velez",0,"Hip Hop",15.96,214,Premium,Medium
+1159,"Ocean Rhythms (Sessions)",995,"Willie Stevens",0,Pop,10.71,374,Medium,Medium
+1160,"Blazing Voices (Sessions)",996,"Willie Wright",0,K-pop,19.43,387,Premium,Medium
+1161,"Echo Souls (Vol. I)",997,"Zachary Holder",0,"Hip Hop",9.45,316,Medium,Medium
+1162,"Ocean Serenade (Diaries)",998,"Zachary Kent",0,Rock,7.12,409,Low,Medium
+1163,"Hidden Waves (Edition)",999,"Zachary Miller",0,Reggae,14.73,247,Premium,Medium
