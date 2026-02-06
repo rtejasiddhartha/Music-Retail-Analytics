@@ -18,7 +18,7 @@ This repository demonstrates how a real-world analytics system can be built **fr
 - Business insight documentation
 
 > 📘 A **much more detailed and elaborated business & analytics explanation** is available here:  
-> 👉 **[`docs/business_overview.md`](docs/business_overview.md)**  
+> 👉 **[`business_overview.md`](business_overview.md)**  
 >  
 > The root README is intentionally kept concise to avoid visual clutter.
 
@@ -59,7 +59,7 @@ You may observe insights such as:
 ---
 
 ## 🏗️ Project Structure
-
+<pre>
 Music-Retail-Analytics/
 │
 ├── docs/ # Business & analytics documentation
@@ -86,8 +86,7 @@ Music-Retail-Analytics/
 │ └── reference_sheets/ # CSV outputs for inspection & sharing
 │
 └── README.md # This file
-
-
+</pre>
 ---
 
 ## 🧠 What This Project Covers
@@ -152,12 +151,11 @@ Instead, it demonstrates:
 - How to reason about bad data, anomalies, and edge cases
 - How to design queries that executives care about
 
-It is especially valuable for roles involving:
+It is especially valuable for:
 - Data Analysis
 - Analytics Engineering
 - BI Engineering
 - SQL-heavy backend analytics
-- Interview case studies & system walkthroughs
 
 ---
 
@@ -185,7 +183,13 @@ This project was intentionally designed to:
 
 ---
 
-**Author:** Tejas Siddhartha  
-**Database:** MySQL  
-**Focus:** SQL, Analytics, Data Warehousing
+## 👤 Author
+
+**R. Teja Siddhartha**
+
+- 💼 LinkedIn: https://linkedin.com/in/rtejasiddhartha  
+- 💻 GitHub: https://github.com/rtejasiddhartha  
+- 📧 Email: rtejasiddhartha18@gmail.com  
+
+---
 
