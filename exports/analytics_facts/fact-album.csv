@@ -1,0 +1,1164 @@
+album_id,album_name,artist_name,artist_type,total_revenue,total_vendor_cost,profit,profit_margin_percent
+1,19,Adele,Famous,45013.25,54078.94,-9065.69,-20.14
+2,21,Adele,Famous,20635.40,25943.48,-5308.08,-25.72
+3,25,Adele,Famous,50460.23,67370.41,-16910.18,-33.51
+4,30,Adele,Famous,27019.52,32266.18,-5246.66,-19.42
+5,"Yours Truly","Ariana Grande",Famous,29960.72,30152.10,-191.38,-0.64
+6,"My Everything","Ariana Grande",Famous,37980.50,50828.40,-12847.90,-33.83
+7,"Dangerous Woman","Ariana Grande",Famous,43911.68,64034.30,-20122.62,-45.83
+8,Sweetener,"Ariana Grande",Famous,49385.97,72511.25,-23125.28,-46.83
+9,"Thank U, Next","Ariana Grande",Famous,20226.78,26429.00,-6202.22,-30.66
+10,Positions,"Ariana Grande",Famous,44549.12,54783.84,-10234.72,-22.97
+11,"Eternal Sunshine","Ariana Grande",Famous,40771.25,49416.03,-8644.78,-21.20
+12,"Square Up",BLACKPINK,Famous,26458.38,32524.08,-6065.70,-22.93
+13,"Kill This Love",BLACKPINK,Famous,33606.91,43909.02,-10302.11,-30.65
+14,"The Album",BLACKPINK,Famous,19253.28,20305.35,-1052.07,-5.46
+15,"Born Pink",BLACKPINK,Famous,32717.19,41012.17,-8294.98,-25.35
+16,"Dark & Wild",BTS,Famous,59095.12,4351169.16,-4292074.04,-7262.99
+17,Wings,BTS,Famous,34273.98,42597.80,-8323.82,-24.29
+18,"You Never Walk Alone",BTS,Famous,48490.24,68025.81,-19535.57,-40.29
+19,"Love Yourself: Her",BTS,Famous,49446.00,56711.20,-7265.20,-14.69
+20,"Love Yourself: Tear",BTS,Famous,41508.56,60666.90,-19158.34,-46.16
+21,"Love Yourself: Answer",BTS,Famous,35725.97,45584.24,-9858.27,-27.59
+22,"Map of the Soul: Persona",BTS,Famous,40710.80,46752.18,-6041.38,-14.84
+23,"Map of the Soul: 7",BTS,Famous,61547.84,65959.26,-4411.42,-7.17
+24,BE,BTS,Famous,43066.40,51925.20,-8858.80,-20.57
+25,Proof,BTS,Famous,49742.00,59017.95,-9275.95,-18.65
+26,"X 100PRE","Bad Bunny",Famous,34801.41,48136.86,-13335.45,-38.32
+27,YHLQMDLG,"Bad Bunny",Famous,39324.25,54503.40,-15179.15,-38.60
+28,"El Último Tour Del Mundo","Bad Bunny",Famous,38178.84,44266.56,-6087.72,-15.95
+29,"Un Verano Sin Ti","Bad Bunny",Famous,19023.75,24265.89,-5242.14,-27.56
+30,"Nadie Sabe Lo Que Va a Pasar Mañana","Bad Bunny",Famous,42399.80,46563.60,-4163.80,-9.82
+31,"When We All Fall Asleep, Where Do We Go?","Billie Eilish",Famous,49587.50,80959.88,-31372.38,-63.27
+32,"Happier Than Ever","Billie Eilish",Famous,51406.85,55883.94,-4477.09,-8.71
+33,"Hit Me Hard and Soft","Billie Eilish",Famous,65962.38,74636.40,-8674.02,-13.15
+34,"Doo-Wops & Hooligans","Bruno Mars",Famous,49105.92,58897.00,-9791.08,-19.94
+35,"Unorthodox Jukebox","Bruno Mars",Famous,24936.00,26298.20,-1362.20,-5.46
+36,"24K Magic","Bruno Mars",Famous,53744.50,55274.24,-1529.74,-2.85
+37,"An Evening with Silk Sonic","Bruno Mars",Famous,63997.92,70976.40,-6978.48,-10.90
+38,Camila,"Camila Cabello",Famous,51273.32,68554.05,-17280.73,-33.70
+39,Romance,"Camila Cabello",Famous,52888.50,62478.83,-9590.33,-18.13
+40,Familia,"Camila Cabello",Famous,32711.82,41981.42,-9269.60,-28.34
+41,Amala,"Doja Cat",Famous,34334.52,49981.68,-15647.16,-45.57
+42,"Hot Pink","Doja Cat",Famous,63631.59,86954.28,-23322.69,-36.65
+43,"Planet Her","Doja Cat",Famous,43875.95,54243.92,-10367.97,-23.63
+44,Scarlet,"Doja Cat",Famous,36900.40,47350.20,-10449.80,-28.32
+45,"Thank Me Later",Drake,Famous,41053.10,48070.56,-7017.46,-17.09
+46,"Take Care",Drake,Famous,30639.96,34025.39,-3385.43,-11.05
+47,"Nothing Was the Same",Drake,Famous,61833.42,74211.52,-12378.10,-20.02
+48,"If You're Reading This It's Too Late",Drake,Famous,40533.43,50955.54,-10422.11,-25.71
+49,Views,Drake,Famous,55112.76,70080.46,-14967.70,-27.16
+50,"+ (Plus)","Ed Sheeran",Famous,32527.27,44331.00,-11803.73,-36.29
+51,"× (Multiply)","Ed Sheeran",Famous,42375.14,51383.36,-9008.22,-21.26
+52,"÷ (Divide)","Ed Sheeran",Famous,76557.60,116335.86,-39778.26,-51.96
+53,"No.6 Collaborations Project","Ed Sheeran",Famous,53561.57,71870.54,-18308.97,-34.18
+54,"= (Equals)","Ed Sheeran",Famous,71524.08,90360.36,-18836.28,-26.34
+55,"- (Subtract)","Ed Sheeran",Famous,35512.82,46637.78,-11124.96,-31.33
+56,"Autumn Variations","Ed Sheeran",Famous,30130.50,39206.48,-9075.98,-30.12
+57,"Elvis Presley","Elvis Presley",Famous,13546.62,13350.78,195.84,1.45
+58,Elvis,"Elvis Presley",Famous,44358.20,54540.54,-10182.34,-22.95
+59,"Loving You","Elvis Presley",Famous,38283.20,55901.88,-17618.68,-46.02
+60,"Elvis' Christmas Album","Elvis Presley",Famous,41430.82,49312.34,-7881.52,-19.02
+61,"Elvis Is Back!","Elvis Presley",Famous,26969.28,31001.20,-4031.92,-14.95
+62,"His Hand in Mine","Elvis Presley",Famous,25794.72,34786.96,-8992.24,-34.86
+63,"Something for Everybody","Elvis Presley",Famous,20976.02,24797.45,-3821.43,-18.22
+64,"Pot Luck","Elvis Presley",Famous,47916.00,65736.96,-17820.96,-37.19
+65,"Harry Styles","Harry Styles",Famous,36927.72,45950.08,-9022.36,-24.43
+66,"Fine Line","Harry Styles",Famous,20683.60,24262.14,-3578.54,-17.30
+67,"Harry's House","Harry Styles",Famous,43110.51,67753.80,-24643.29,-57.16
+68,"Night Visions","Imagine Dragons",Famous,49114.11,54589.86,-5475.75,-11.15
+69,"Smoke + Mirrors","Imagine Dragons",Famous,57630.42,67748.94,-10118.52,-17.56
+70,Evolve,"Imagine Dragons",Famous,52921.62,72444.92,-19523.30,-36.89
+71,Origins,"Imagine Dragons",Famous,30795.60,35240.40,-4444.80,-14.43
+72,"Mercury – Act 1","Imagine Dragons",Famous,22889.10,22409.01,480.09,2.10
+73,"Mercury – Act 2","Imagine Dragons",Famous,29780.86,44094.27,-14313.41,-48.06
+74,"La Familia","J Balvin",Famous,39475.44,48550.29,-9074.85,-22.99
+75,Energía,"J Balvin",Famous,58651.32,80139.52,-21488.20,-36.64
+76,Vibras,"J Balvin",Famous,26869.92,37243.70,-10373.78,-38.61
+77,Colores,"J Balvin",Famous,60680.07,67544.08,-6864.01,-11.31
+78,Jose,"J Balvin",Famous,42556.66,51340.96,-8784.30,-20.64
+79,"My World 2.0","Justin Bieber",Famous,37165.24,39040.96,-1875.72,-5.05
+80,"Under the Mistletoe","Justin Bieber",Famous,61008.00,82628.00,-21620.00,-35.44
+81,Believe,"Justin Bieber",Famous,44490.27,57260.94,-12770.67,-28.70
+82,Purpose,"Justin Bieber",Famous,27563.92,38849.30,-11285.38,-40.94
+83,Changes,"Justin Bieber",Famous,39080.16,51164.65,-12084.49,-30.92
+84,Justice,"Justin Bieber",Famous,56087.04,99371.82,-43284.78,-77.17
+85,"The College Dropout","Kanye West",Famous,31631.86,43707.64,-12075.78,-38.18
+86,"Late Registration","Kanye West",Famous,24194.73,28138.32,-3943.59,-16.30
+87,Graduation,"Kanye West",Famous,71390.48,96456.74,-25066.26,-35.11
+88,"808s & Heartbreak","Kanye West",Famous,37008.09,66076.92,-29068.83,-78.55
+89,"My Beautiful Dark Twisted Fantasy","Kanye West",Famous,38264.72,42856.95,-4592.23,-12.00
+90,Yeezus,"Kanye West",Famous,17011.56,22845.57,-5834.01,-34.29
+91,"The Life of Pablo","Kanye West",Famous,53730.90,76067.55,-22336.65,-41.57
+92,Ye,"Kanye West",Famous,32052.48,42529.52,-10477.04,-32.69
+93,"Jesus Is King","Kanye West",Famous,42663.06,54290.22,-11627.16,-27.25
+94,Donda,"Kanye West",Famous,22633.78,30868.80,-8235.02,-36.38
+95,"Katy Hudson","Katy Perry",Famous,21915.88,25260.02,-3344.14,-15.26
+96,"One of the Boys","Katy Perry",Famous,40750.94,50268.75,-9517.81,-23.36
+97,"Teenage Dream","Katy Perry",Famous,37663.65,39074.70,-1411.05,-3.75
+98,Prism,"Katy Perry",Famous,34300.80,36932.76,-2631.96,-7.67
+99,Witness,"Katy Perry",Famous,34512.88,37253.12,-2740.24,-7.94
+100,Smile,"Katy Perry",Famous,24955.83,32557.41,-7601.58,-30.46
+101,"The Fame","Lady Gaga",Famous,43872.75,57231.28,-13358.53,-30.45
+102,"The Fame Monster","Lady Gaga",Famous,42171.22,48398.49,-6227.27,-14.77
+103,"Born This Way","Lady Gaga",Famous,47490.03,66342.15,-18852.12,-39.70
+104,Artpop,"Lady Gaga",Famous,34870.14,58336.20,-23466.06,-67.30
+105,Joanne,"Lady Gaga",Famous,53853.66,63572.40,-9718.74,-18.05
+106,Chromatica,"Lady Gaga",Famous,43120.75,2588302.60,-2545181.85,-5902.45
+107,Lizzobangers,Lizzo,Famous,22890.40,26669.46,-3779.06,-16.51
+108,"Big Grrrl Small World",Lizzo,Famous,68882.22,104798.60,-35916.38,-52.14
+109,"Cuz I Love You",Lizzo,Famous,33742.95,51094.80,-17351.85,-51.42
+110,Special,Lizzo,Famous,55333.25,75860.29,-20527.04,-37.10
+111,"Songs About Jane","Maroon 5",Famous,19253.30,30948.56,-11695.26,-60.74
+112,"It Won't Be Soon Before Long","Maroon 5",Famous,37078.23,49565.90,-12487.67,-33.68
+113,"Hands All Over","Maroon 5",Famous,26954.98,33671.25,-6716.27,-24.92
+114,Overexposed,"Maroon 5",Famous,19792.08,21774.48,-1982.40,-10.02
+115,V,"Maroon 5",Famous,26625.28,31739.92,-5114.64,-19.21
+116,"Red Pill Blues","Maroon 5",Famous,29157.10,41488.80,-12331.70,-42.29
+117,Jordi,"Maroon 5",Famous,18737.76,23628.46,-4890.70,-26.10
+118,"Got to Be There","Michael Jackson",Famous,40373.97,58602.88,-18228.91,-45.15
+119,Ben,"Michael Jackson",Famous,50275.40,70028.67,-19753.27,-39.29
+120,"Music & Me","Michael Jackson",Famous,46916.88,60262.65,-13345.77,-28.45
+121,"Forever, Michael","Michael Jackson",Famous,67400.20,81601.19,-14200.99,-21.07
+122,"Off the Wall","Michael Jackson",Famous,44483.04,54980.00,-10496.96,-23.60
+123,Thriller,"Michael Jackson",Famous,33221.61,42524.65,-9303.04,-28.00
+124,Bad,"Michael Jackson",Famous,57116.36,75897.90,-18781.54,-32.88
+125,Dangerous,"Michael Jackson",Famous,34121.70,37912.71,-3791.01,-11.11
+126,HIStory,"Michael Jackson",Famous,30484.80,37575.90,-7091.10,-23.26
+127,Invincible,"Michael Jackson",Famous,32915.52,40468.75,-7553.23,-22.95
+128,"Pink Friday","Nicki Minaj",Famous,49928.01,52811.52,-2883.51,-5.78
+129,"Pink Friday: Roman Reloaded","Nicki Minaj",Famous,39558.09,56931.25,-17373.16,-43.92
+130,"The Pinkprint","Nicki Minaj",Famous,23708.70,26451.04,-2742.34,-11.57
+131,Queen,"Nicki Minaj",Famous,57103.28,88079.04,-30975.76,-54.25
+132,"Pink Friday 2","Nicki Minaj",Famous,65603.65,69826.56,-4222.91,-6.44
+133,SOUR,"Olivia Rodrigo",Famous,40794.48,54775.89,-13981.41,-34.27
+134,GUTS,"Olivia Rodrigo",Famous,34052.46,54736.32,-20683.86,-60.74
+135,Stoney,"Post Malone",Famous,45716.19,55415.18,-9698.99,-21.22
+136,"Beerbongs & Bentleys","Post Malone",Famous,39617.04,54091.80,-14474.76,-36.54
+137,"Hollywood's Bleeding","Post Malone",Famous,23809.76,31345.05,-7535.29,-31.65
+138,"Twelve Carat Toothache","Post Malone",Famous,42743.96,53372.20,-10628.24,-24.86
+139,Austin,"Post Malone",Famous,51462.32,69111.64,-17649.32,-34.30
+140,"Music of the Sun",Rihanna,Famous,61058.76,96565.98,-35507.22,-58.15
+141,"A Girl Like Me",Rihanna,Famous,59424.59,76618.28,-17193.69,-28.93
+142,"Good Girl Gone Bad",Rihanna,Famous,54188.16,75985.00,-21796.84,-40.22
+143,"Rated R",Rihanna,Famous,47167.90,56189.28,-9021.38,-19.13
+144,Loud,Rihanna,Famous,44117.46,57275.00,-13157.54,-29.82
+145,"Talk That Talk",Rihanna,Famous,40254.32,50202.00,-9947.68,-24.71
+146,Unapologetic,Rihanna,Famous,15019.02,19742.04,-4723.02,-31.45
+147,ANTI,Rihanna,Famous,23427.12,30916.08,-7488.96,-31.97
+148,"In the Lonely Hour","Sam Smith",Famous,49655.80,65774.40,-16118.60,-32.46
+149,"The Thrill of It All","Sam Smith",Famous,25875.75,29128.14,-3252.39,-12.57
+150,"Love Goes","Sam Smith",Famous,51450.39,72324.65,-20874.26,-40.57
+151,Gloria,"Sam Smith",Famous,49402.20,55286.91,-5884.71,-11.91
+152,"Stars Dance","Selena Gomez",Famous,31890.98,48723.36,-16832.38,-52.78
+153,Revival,"Selena Gomez",Famous,33314.19,47113.92,-13799.73,-41.42
+154,Rare,"Selena Gomez",Famous,31752.96,38433.60,-6680.64,-21.04
+155,Handwritten,"Shawn Mendes",Famous,39530.10,52736.40,-13206.30,-33.41
+156,Illuminate,"Shawn Mendes",Famous,25131.12,32090.10,-6958.98,-27.69
+157,"Shawn Mendes","Shawn Mendes",Famous,43601.00,56513.61,-12912.61,-29.62
+158,Wonder,"Shawn Mendes",Famous,32794.28,38348.24,-5553.96,-16.94
+159,OnlySee,Sia,Famous,33680.16,40882.20,-7202.04,-21.38
+160,"Healing Is Difficult",Sia,Famous,57754.24,71216.54,-13462.30,-23.31
+161,"Colour the Small One",Sia,Famous,39430.82,43400.00,-3969.18,-10.07
+162,"Some People Have Real Problems",Sia,Famous,58851.45,81762.18,-22910.73,-38.93
+163,"We Are Born",Sia,Famous,42357.70,40431.80,1925.90,4.55
+164,"1000 Forms of Fear",Sia,Famous,35249.84,48024.08,-12774.24,-36.24
+165,"This Is Acting",Sia,Famous,51782.11,65188.20,-13406.09,-25.89
+166,"Music and Motion Picture",Sia,Famous,24461.84,33406.35,-8944.51,-36.57
+167,"Reasonable Woman",Sia,Famous,27806.00,35701.32,-7895.32,-28.39
+168,"Taylor Swift","Taylor Swift",Famous,60116.76,84070.50,-23953.74,-39.85
+169,Fearless,"Taylor Swift",Famous,46567.95,59079.13,-12511.18,-26.87
+170,"Speak Now","Taylor Swift",Famous,59026.32,87736.62,-28710.30,-48.64
+171,Red,"Taylor Swift",Famous,74818.92,113010.24,-38191.32,-51.05
+172,1989,"Taylor Swift",Famous,34102.79,45973.26,-11870.47,-34.81
+173,Reputation,"Taylor Swift",Famous,50169.60,65103.36,-14933.76,-29.77
+174,Lover,"Taylor Swift",Famous,28513.08,38651.76,-10138.68,-35.56
+175,Folklore,"Taylor Swift",Famous,44531.16,49217.70,-4686.54,-10.52
+176,Evermore,"Taylor Swift",Famous,59640.88,67506.99,-7866.11,-13.19
+177,Midnights,"Taylor Swift",Famous,28462.63,36972.46,-8509.83,-29.90
+178,"Please Please Me","The Beatles",Famous,22980.51,32710.60,-9730.09,-42.34
+179,"With the Beatles","The Beatles",Famous,56063.56,69775.71,-13712.15,-24.46
+180,"A Hard Day's Night","The Beatles",Famous,25335.75,34739.64,-9403.89,-37.12
+181,Help!,"The Beatles",Famous,32982.25,35277.55,-2295.30,-6.96
+182,"Rubber Soul","The Beatles",Famous,78473.04,122460.00,-43986.96,-56.05
+183,Revolver,"The Beatles",Famous,42814.50,55655.04,-12840.54,-29.99
+184,"Sgt. Pepper's Lonely Hearts Club Band","The Beatles",Famous,17320.64,21242.07,-3921.43,-22.64
+185,"The Beatles (White Album) (10)** *","The Beatles",Famous,20676.40,23813.00,-3136.60,-15.17
+186,"Kiss Land","The Weeknd",Famous,44053.51,63821.52,-19768.01,-44.87
+187,"Beauty Behind the Madness","The Weeknd",Famous,26148.60,44510.40,-18361.80,-70.22
+188,Starboy,"The Weeknd",Famous,39393.60,49058.12,-9664.52,-24.53
+189,"After Hours","The Weeknd",Famous,47787.84,58512.42,-10724.58,-22.44
+190,"Dawn FM","The Weeknd",Famous,18442.20,28600.32,-10158.12,-55.08
+191,Rodeo,"Travis Scott",Famous,14804.82,20485.20,-5680.38,-38.37
+192,"Birds in the Trap Sing McKnight","Travis Scott",Famous,30800.16,38576.72,-7776.56,-25.25
+193,Astroworld,"Travis Scott",Famous,40068.42,54966.55,-14898.13,-37.18
+194,Utopia,"Travis Scott",Famous,55960.50,72301.13,-16340.63,-29.20
+195,"Mind of Mine",Zayn,Famous,23400.00,35276.10,-11876.10,-50.75
+196,"Icarus Falls",Zayn,Famous,53410.83,63042.12,-9631.29,-18.03
+197,"Nobody Is Listening",Zayn,Famous,65279.66,72926.37,-7646.71,-11.71
+198,"Room Under the Stairs",Zayn,Famous,53485.32,56060.22,-2574.90,-4.81
+199,"Wild Rooms (Memoirs)","Aaron Harris",Non-Famous,45051.06,54581.10,-9530.04,-21.15
+200,"Burning Hearts (Vol. II)","Aaron Morgan",Non-Famous,29805.57,37364.32,-7558.75,-25.36
+201,"Burning Paradise (Vol. I)","Aaron Torres",Non-Famous,25439.82,36314.51,-10874.69,-42.75
+202,"Frost Paths (Saga)","Abigail Crane",Non-Famous,51600.28,69935.06,-18334.78,-35.53
+203,"Sapphire Letters (Verse)","Adam Baldwin",Non-Famous,30632.75,38771.43,-8138.68,-26.57
+204,"Ashen Waves (Archives)","Adam Nunez",Non-Famous,24608.00,41790.39,-17182.39,-69.82
+205,"Golden Hearts (Redux)","Adam Rogers",Non-Famous,54595.84,75481.54,-20885.70,-38.26
+206,"Ocean Rooms (Reprise)","Adrian Roberts",Non-Famous,18280.78,23152.78,-4872.00,-26.65
+207,"Echo Whispers (Reprise)","Alan White",Non-Famous,29235.24,30934.80,-1699.56,-5.81
+208,"Fading Lights (Vol. II)","Alexis Moss",Non-Famous,57860.22,81187.24,-23327.02,-40.32
+209,"Midnight Echoes (Verse)","Alice Miller",Non-Famous,38059.02,46037.92,-7978.90,-20.96
+210,"Fading Stories (Verse)","Alicia Alvarez",Non-Famous,61145.64,86439.03,-25293.39,-41.37
+211,"Distant Voices (Anthology)","Alicia Carson",Non-Famous,54147.52,63271.85,-9124.33,-16.85
+212,"Frost Roses (Sessions)","Alicia Rocha",Non-Famous,53889.25,78022.08,-24132.83,-44.78
+213,"Sacred Whispers (Verse)","Alisha Diaz",Non-Famous,54852.39,61405.76,-6553.37,-11.95
+214,"Wild Roses (Archives)","Allison Jacobs",Non-Famous,68075.28,80183.07,-12107.79,-17.79
+215,"Silent Paths (Archives)","Amanda Combs",Non-Famous,43406.88,48781.70,-5374.82,-12.38
+216,"Crimson Shadows (Saga)","Amanda Hobbs",Non-Famous,51389.59,61793.28,-10403.69,-20.24
+217,"Blazing Paradise (Verse)","Amanda Luna",Non-Famous,49418.60,50942.70,-1524.10,-3.08
+218,"Hidden Temples (Diaries)","Amanda Mullins",Non-Famous,27147.64,31348.29,-4200.65,-15.47
+219,"Sacred Paths (Blueprint)","Amanda Neal",Non-Famous,58847.04,74868.64,-16021.60,-27.23
+220,"Blazing Serenade (Edition)","Amanda Nguyen",Non-Famous,43702.74,63480.56,-19777.82,-45.26
+221,"Frost Stories (Anthology)","Amanda Smith",Non-Famous,59422.97,67082.00,-7659.03,-12.89
+222,"Burning Waves (Verse)","Amanda Wong",Non-Famous,23784.77,37304.30,-13519.53,-56.84
+223,"Electric Horizons (Memoirs)","Amber Lewis",Non-Famous,24116.75,29452.85,-5336.10,-22.13
+224,"Sapphire Rooms (Blueprint)","Amber Maxwell",Non-Famous,55931.00,72410.48,-16479.48,-29.46
+225,"Storm Waves (Sessions)","Amber Sanchez",Non-Famous,57257.92,90040.49,-32782.57,-57.25
+226,"Obsidian Paradise (Edition)","Amber Smith",Non-Famous,34590.72,32355.39,2235.33,6.46
+227,"Broken Rhythms (Edition)","Amber Woods",Non-Famous,21823.24,22932.00,-1108.76,-5.08
+228,"Lunar Letters (Soundtrack)","Amy Cole",Non-Famous,37266.72,51638.31,-14371.59,-38.56
+229,"Crimson Paths","Amy Norris",Non-Famous,34422.44,48972.00,-14549.56,-42.27
+230,"Whisper Temples (Redux)","Amy Turner",Non-Famous,29068.56,31822.70,-2754.14,-9.47
+231,"Blazing Confessions (Anthology)","Amy Wheeler",Non-Famous,42565.50,61820.20,-19254.70,-45.24
+232,"Frost Dreams (Saga)","Andre Avila DVM",Non-Famous,29440.18,38096.37,-8656.19,-29.40
+233,"Lunar Rhythms (Verse)","Andre Villarreal",Non-Famous,48353.20,62079.65,-13726.45,-28.39
+234,"Neon Shadows (Vol. I)","Andrea Cline",Non-Famous,53715.50,56057.50,-2342.00,-4.36
+235,"Ashen Desire (Redux)","Andrea Kirby",Non-Famous,61711.56,76830.28,-15118.72,-24.50
+236,"Blazing Confessions (Memoirs)","Andrew Harris MD",Non-Famous,49017.60,57122.43,-8104.83,-16.53
+237,"Broken Whispers (Soundtrack)","Andrew Jimenez",Non-Famous,56184.40,80497.46,-24313.06,-43.27
+238,"Blazing Signals (Sessions)","Andrew Johnson",Non-Famous,28960.82,39679.38,-10718.56,-37.01
+239,"Sapphire Waves (Saga)","Andrew Martin",Non-Famous,58034.10,77361.48,-19327.38,-33.30
+240,"Burning Temples (Chronicles)","Andrew Thomas",Non-Famous,39904.92,53998.00,-14093.08,-35.32
+241,"Whisper Shadows","Andrew Webster",Non-Famous,30000.56,50590.10,-20589.54,-68.63
+242,"Distant Visions (Archives)","Andrew Welch",Non-Famous,33036.51,51538.80,-18502.29,-56.01
+243,"Glass Dreams (Redux)","Andrew Yates",Non-Famous,28191.90,31692.72,-3500.82,-12.42
+244,"Blazing Desire (Sessions)","Angela Cox",Non-Famous,25650.03,33082.56,-7432.53,-28.98
+245,"Moonlit Letters (Chronicles)","Angela Esparza",Non-Famous,62441.60,76963.75,-14522.15,-23.26
+246,"Storm Horizons (Chronicles)","Angela Hall",Non-Famous,67542.72,82416.62,-14873.90,-22.02
+247,"Storm Hearts (Archives)","Angela Krueger",Non-Famous,30812.80,44771.75,-13958.95,-45.30
+248,"Whisper Paths (Redux)","Angela Luna",Non-Famous,38985.24,37440.22,1545.02,3.96
+249,"Broken Lights (Verse)","Angela Ortiz",Non-Famous,51099.47,84109.76,-33010.29,-64.60
+250,"Sacred Confessions (Redux)","Angela Smith",Non-Famous,34087.04,40895.92,-6808.88,-19.98
+251,"Velvet Waves (Anthology)","Angelica Guerra",Non-Famous,44450.80,52906.21,-8455.41,-19.02
+252,"Obsidian Hearts (Memoirs)","Angelica Jimenez",Non-Famous,51624.76,69311.52,-17686.76,-34.26
+253,"Moonlit Horizons (Soundtrack)",Anitta,Famous,42836.04,52713.00,-9876.96,-23.06
+254,"Glass Letters (Edition)","Ann Mills",Non-Famous,61535.68,58103.75,3431.93,5.58
+255,"Midnight Horizons (Redux)","Anna Dorsey",Non-Famous,27911.00,40563.53,-12652.53,-45.33
+256,"Broken Souls (Memoirs)","Anna Morton",Non-Famous,42453.00,49304.88,-6851.88,-16.14
+257,"Frost Serenade (Redux)","Anthony Mcguire",Non-Famous,56800.85,66034.08,-9233.23,-16.26
+258,"Distant Paths (Saga)","Anthony Moody",Non-Famous,15521.48,16100.00,-578.52,-3.73
+259,"Neon Paths (Verse)","Anthony Pace",Non-Famous,41410.08,53479.92,-12069.84,-29.15
+260,"Neon Letters (Soundtrack)","Anthony Richardson",Non-Famous,23624.45,32888.24,-9263.79,-39.21
+261,"Silent Rhythms (Memoirs)","Anthony Smith",Non-Famous,39342.40,48996.60,-9654.20,-24.54
+262,"Neon Whispers (Reprise)","Anthony Willis",Non-Famous,42095.83,53282.28,-11186.45,-26.57
+263,"Fading Rhythms (Soundtrack)","Antonio Miller",Non-Famous,39921.79,52276.62,-12354.83,-30.95
+264,"Crimson Desire (Saga)","April Wheeler DDS",Non-Famous,42048.16,54072.93,-12024.77,-28.60
+265,"Frost Shadows (Redux)","Arthur Jones",Non-Famous,56760.00,87331.92,-30571.92,-53.86
+266,"Lunar Lights (Anthology)","Ashley Burton",Non-Famous,25931.62,27120.96,-1189.34,-4.59
+267,"Infinite Shadows (Verse)","Ashley Harvey",Non-Famous,60059.00,72997.47,-12938.47,-21.54
+268,"Infinite Echoes","Ashley Nelson",Non-Famous,28062.51,39894.30,-11831.79,-42.16
+269,"Ocean Rooms (Archives)","Ashley Pierce",Non-Famous,57098.40,79464.06,-22365.66,-39.17
+270,"Moonlit Waves (Archives)","Ashley Simpson",Non-Famous,26918.75,40495.56,-13576.81,-50.44
+271,"Paper Waves (Tales)","Ashley Stewart",Non-Famous,42922.74,65769.48,-22846.74,-53.23
+272,"Ashen Tides (Tales)","Ashley Tucker",Non-Famous,31113.83,55690.80,-24576.97,-78.99
+273,"Infinite Rhythms (Vol. II)","Austin Christian",Non-Famous,27735.18,36683.28,-8948.10,-32.26
+274,"Distant Paths (Memoirs)","Becky Weaver",Non-Famous,49134.00,61759.83,-12625.83,-25.70
+275,"Ocean Echoes","Benjamin Blackburn",Non-Famous,66345.27,78159.95,-11814.68,-17.81
+276,"Frost Rooms (Chronicles)","Benjamin Miller",Non-Famous,92828.92,129822.31,-36993.39,-39.85
+277,"Wild Shadows (Chronicles)","Beth Warren",Non-Famous,42489.46,45153.72,-2664.26,-6.27
+278,"Wild Whispers (Soundtrack)","Betty Schneider",Non-Famous,32617.00,49406.46,-16789.46,-51.47
+279,"Ashen Rooms (Redux)",Beyoncé,Famous,24988.80,26128.96,-1140.16,-4.56
+280,"Crimson Temples (Reprise)","Bill Grimes",Non-Famous,81650.80,108965.12,-27314.32,-33.45
+281,"Frost Letters (Tales)","Blake Lee",Non-Famous,57092.31,95131.41,-38039.10,-66.63
+282,"Shattered Roses (Redux)","Blake Martin",Non-Famous,46632.06,62980.68,-16348.62,-35.06
+283,"Electric Dreams","Bonnie Davis",Non-Famous,62022.46,79740.04,-17717.58,-28.57
+284,"Broken Hearts (Chronicles)","Brad Bryan",Non-Famous,24591.90,32330.97,-7739.07,-31.47
+285,"Burning Rhythms (Blueprint)","Brad Fletcher",Non-Famous,47594.79,51175.72,-3580.93,-7.52
+286,"Silent Rooms (Tales)","Bradley Hale",Non-Famous,42149.40,62347.52,-20198.12,-47.92
+287,"Electric Horizons (Archives)","Brady Jones",Non-Famous,26653.39,33446.60,-6793.21,-25.49
+288,"Velvet Visions (Archives)","Brandi Schroeder",Non-Famous,50364.48,87458.48,-37094.00,-73.65
+289,"Wild Lights (Memoirs)","Brandi Stanley",Non-Famous,54709.05,85354.61,-30645.56,-56.02
+290,"Blazing Confessions (Reprise)","Brandon Sawyer",Non-Famous,36892.06,50721.99,-13829.93,-37.49
+291,"Infinite Reflections (Vol. II)","Brandy Tucker",Non-Famous,73204.64,104828.24,-31623.60,-43.20
+292,"Moonlit Signals (Tales)","Breanna Phelps",Non-Famous,59550.92,80169.72,-20618.80,-34.62
+293,"Whisper Lights (Memoirs)","Brenda Wilson",Non-Famous,48735.39,75648.18,-26912.79,-55.22
+294,"Blazing Echoes (Tales)","Brett Brown",Non-Famous,29779.96,36409.60,-6629.64,-22.26
+295,"Broken Confessions (Diaries)","Brian Day",Non-Famous,41672.42,58211.64,-16539.22,-39.69
+296,"Sacred Roses (Archives)","Brian Erickson",Non-Famous,25865.16,28488.60,-2623.44,-10.14
+297,"Glass Hearts (Verse)","Brian Hill",Non-Famous,31551.66,43312.50,-11760.84,-37.27
+298,"Silent Dreams (Vol. II)","Brian Medina",Non-Famous,41531.28,50839.36,-9308.08,-22.41
+299,"Distant Hearts (Verse)","Brian Myers",Non-Famous,35554.68,44376.40,-8821.72,-24.81
+300,"Electric Roses (Anthology)","Brian Nicholson",Non-Famous,32152.56,37570.17,-5417.61,-16.85
+301,"Neon Hearts (Vol. I)","Brian Porter",Non-Famous,39455.10,53063.32,-13608.22,-34.49
+302,"Frost Stories (Archives)","Brian Reynolds",Non-Famous,34729.20,38588.48,-3859.28,-11.11
+303,"Ashen Desire (Saga)","Briana Lambert",Non-Famous,48962.34,59141.60,-10179.26,-20.79
+304,"Silent Horizons (Memoirs)","Briana Leach",Non-Famous,46555.08,75982.56,-29427.48,-63.21
+305,"Sapphire Paradise (Soundtrack)","Bridget Lucas",Non-Famous,57757.96,61070.90,-3312.94,-5.74
+306,"Frost Tides","Brittany Curry",Non-Famous,49484.96,74189.02,-24704.06,-49.92
+307,"Blazing Reflections","Brittany Fuller",Non-Famous,28272.72,31201.36,-2928.64,-10.36
+308,"Ocean Visions (Saga)","Brittany Martin",Non-Famous,68430.96,90499.36,-22068.40,-32.25
+309,"Burning Signals (Blueprint)","Brittany Mendez",Non-Famous,47327.54,67451.96,-20124.42,-42.52
+310,"Shattered Hearts (Tales)","Brooke Adams",Non-Famous,25271.20,29991.09,-4719.89,-18.68
+311,"Ocean Echoes (Tales)","Brooke Gibson",Non-Famous,53698.96,76424.61,-22725.65,-42.32
+312,"Distant Stories (Memoirs)","Bryan Curry",Non-Famous,30313.47,37367.46,-7053.99,-23.27
+313,"Fading Voices (Soundtrack)","Bryan Woods",Non-Famous,42202.44,50234.83,-8032.39,-19.03
+314,"Ocean Voices (Blueprint)","Caleb Johnson",Non-Famous,53961.84,54854.72,-892.88,-1.65
+315,"Blazing Temples (Sessions)","Carl Duran",Non-Famous,59971.67,77590.00,-17618.33,-29.38
+316,"Radiant Confessions (Saga)","Carla Sanchez",Non-Famous,34818.96,39266.16,-4447.20,-12.77
+317,"Crimson Letters (Redux)","Carlos Jackson",Non-Famous,54080.07,70087.20,-16007.13,-29.60
+318,"Crimson Stories (Tales)","Carmen Young",Non-Famous,30866.46,33983.20,-3116.74,-10.10
+319,"Sacred Paths (Redux)","Carolyn Day",Non-Famous,57926.88,82245.73,-24318.85,-41.98
+320,"Distant Paradise (Vol. I)","Carolyn Franco",Non-Famous,34706.32,45781.95,-11075.63,-31.91
+321,"Broken Shadows (Edition)","Carrie Allen",Non-Famous,40445.16,57981.96,-17536.80,-43.36
+322,"Paper Shadows (Verse)","Casey Graham",Non-Famous,30355.17,39139.32,-8784.15,-28.94
+323,"Sacred Confessions (Chronicles)","Cassandra Douglas",Non-Famous,26741.34,33726.02,-6984.68,-26.12
+324,"Ocean Voices (Tales)","Cassandra Meza",Non-Famous,30938.22,29771.28,1166.94,3.77
+325,"Frost Waves (Blueprint)","Cassidy Mccormick",Non-Famous,41904.50,48858.12,-6953.62,-16.59
+326,"Blazing Lights (Anthology)","Catherine Meyers",Non-Famous,15438.50,26547.84,-11109.34,-71.96
+327,"Fading Souls (Vol. I)","Cathy Edwards",Non-Famous,49277.96,69826.70,-20548.74,-41.70
+328,"Ocean Roses (Memoirs)","Cesar Morris",Non-Famous,30365.28,35577.63,-5212.35,-17.17
+329,"Moonlit Whispers (Vol. I)","Chad Moses",Non-Famous,24608.64,29371.58,-4762.94,-19.35
+330,"Shattered Paths (Reprise)","Charlene Reyes",Non-Famous,36243.03,51609.56,-15366.53,-42.40
+331,"Obsidian Temples (Anthology)","Charles Marshall",Non-Famous,53634.56,61680.25,-8045.69,-15.00
+332,"Velvet Voices (Edition)","Chelsea Powers",Non-Famous,30878.00,40207.00,-9329.00,-30.21
+333,"Neon Desire (Vol. II)","Cheryl Santiago",Non-Famous,55566.03,54292.65,1273.38,2.29
+334,"Wild Serenade (Saga)","Chloe Hunter",Non-Famous,67700.40,68632.06,-931.66,-1.38
+335,"Ashen Souls (Soundtrack)","Christian Decker",Non-Famous,50073.87,47088.27,2985.60,5.96
+336,"Crimson Souls (Sessions)","Christian Young",Non-Famous,23608.80,25702.47,-2093.67,-8.87
+337,"Echo Dreams (Blueprint)","Christina Hawkins MD",Non-Famous,39805.12,56783.23,-16978.11,-42.65
+338,"Burning Tides (Vol. I)","Christina West",Non-Famous,55287.30,62166.05,-6878.75,-12.44
+339,"Obsidian Echoes (Soundtrack)","Christine Carroll",Non-Famous,39999.68,57080.92,-17081.24,-42.70
+340,"Radiant Temples (Diaries)","Christine Farmer",Non-Famous,42800.23,55539.00,-12738.77,-29.76
+341,"Radiant Desire (Edition)","Christine Pierce",Non-Famous,29518.56,41865.51,-12346.95,-41.83
+342,"Sapphire Shadows (Vol. II)","Christine Ramsey",Non-Famous,52133.64,89182.99,-37049.35,-71.07
+343,"Neon Temples (Archives)","Christine Thompson",Non-Famous,49267.20,62096.73,-12829.53,-26.04
+344,"Lunar Voices (Saga)","Christopher Harmon",Non-Famous,37583.56,38518.12,-934.56,-2.49
+345,"Sacred Paths (Verse)","Christopher Jenkins",Non-Famous,47201.00,62643.20,-15442.20,-32.72
+346,"Electric Echoes (Soundtrack)","Christopher Mack",Non-Famous,41102.86,55143.10,-14040.24,-34.16
+347,"Sapphire Tides (Diaries)","Christopher Mitchell",Non-Famous,21689.10,27480.40,-5791.30,-26.70
+348,"Midnight Dreams (Vol. II)","Christopher Olson",Non-Famous,31364.97,34054.95,-2689.98,-8.58
+349,"Obsidian Rooms","Christopher Reyes Jr.",Non-Famous,27692.83,32856.00,-5163.17,-18.64
+350,"Paper Voices (Blueprint)","Christopher Rogers",Non-Famous,39323.70,50131.51,-10807.81,-27.48
+351,"Sapphire Confessions (Tales)","Christopher Russo",Non-Famous,37741.39,56160.00,-18418.61,-48.80
+352,"Storm Souls (Saga)","Christopher Zhang",Non-Famous,49057.85,69798.36,-20740.51,-42.28
+353,"Distant Rhythms (Anthology)","Cody Murray",Non-Famous,19000.96,19821.34,-820.38,-4.32
+354,"Radiant Rhythms (Archives)",Coldplay,Famous,32897.75,35954.65,-3056.90,-9.29
+355,"Broken Rooms (Tales)","Colin Foster",Non-Famous,34978.23,37034.84,-2056.61,-5.88
+356,"Wild Paradise (Archives)","Colleen Clark",Non-Famous,31858.96,40582.08,-8723.12,-27.38
+357,"Burning Lights","Colleen Taylor DVM",Non-Famous,57190.04,74920.20,-17730.16,-31.00
+358,"Moonlit Echoes (Redux)","Colton Reid",Non-Famous,18989.03,27444.75,-8455.72,-44.53
+359,"Broken Lights (Reprise)","Connie Wilson",Non-Famous,46751.36,65349.12,-18597.76,-39.78
+360,"Ashen Souls (Vol. I)","Crystal Davis",Non-Famous,26235.04,34348.95,-8113.91,-30.93
+361,"Glass Rooms (Chronicles)","Curtis Anthony",Non-Famous,45010.32,44573.76,436.56,0.97
+362,"Silent Serenade (Reprise)","Cynthia Howard",Non-Famous,46321.99,59513.70,-13191.71,-28.48
+363,"Crimson Whispers (Verse)","Cynthia Murillo",Non-Famous,38017.20,47022.35,-9005.15,-23.69
+364,"Electric Rooms","Cynthia Payne",Non-Famous,34716.24,40760.23,-6043.99,-17.41
+365,"Hidden Visions (Memoirs)","Cynthia Porter",Non-Famous,51849.20,72095.13,-20245.93,-39.05
+366,"Velvet Whispers (Anthology)","Cynthia Webb",Non-Famous,34741.04,37671.40,-2930.36,-8.43
+367,"Whisper Echoes (Reprise)","Daddy Yankee",Famous,57660.93,78629.20,-20968.27,-36.36
+368,"Shattered Echoes (Vol. I)","Dalton Zamora",Non-Famous,29838.50,34166.96,-4328.46,-14.51
+369,"Infinite Paradise (Sessions)","Dana Carter",Non-Famous,52111.80,68807.33,-16695.53,-32.04
+370,"Silent Shadows (Memoirs)","Dana Flores",Non-Famous,45995.73,65625.42,-19629.69,-42.68
+371,"Hidden Shadows (Memoirs)","Dana White",Non-Famous,42969.36,51230.24,-8260.88,-19.23
+372,"Electric Whispers (Chronicles)","Daniel Chang",Non-Famous,42752.16,60407.76,-17655.60,-41.30
+373,"Blazing Echoes (Blueprint)","Daniel Fowler",Non-Famous,56221.75,61253.07,-5031.32,-8.95
+374,"Ocean Temples (Reprise)","Daniel Griffin",Non-Famous,38986.50,42291.20,-3304.70,-8.48
+375,"Silent Signals (Chronicles)","Daniel Hensley",Non-Famous,32520.24,37277.94,-4757.70,-14.63
+376,"Echo Waves (Anthology)","Daniel Ingram",Non-Famous,45986.64,60514.92,-14528.28,-31.59
+377,"Blazing Voices (Edition)","Daniel Jackson",Non-Famous,37302.24,51237.81,-13935.57,-37.36
+378,"Whisper Tides (Chronicles)","Daniel Johnson",Non-Famous,28941.82,34686.48,-5744.66,-19.85
+379,"Ashen Paradise","Daniel King",Non-Famous,50971.50,65201.07,-14229.57,-27.92
+380,"Moonlit Signals (Memoirs)","Daniel Oliver",Non-Famous,62707.28,88630.08,-25922.80,-41.34
+381,"Blazing Rooms (Chronicles)","Daniel Potter",Non-Famous,53742.51,70255.90,-16513.39,-30.73
+382,"Paper Serenade (Vol. II)","Daniel Valencia",Non-Famous,30245.89,35790.12,-5544.23,-18.33
+383,"Infinite Confessions (Tales)","Daniel Wagner",Non-Famous,57014.87,93726.84,-36711.97,-64.39
+384,"Hidden Confessions (Sessions)","Danielle Nelson",Non-Famous,26393.75,33886.50,-7492.75,-28.39
+385,"Neon Tides (Diaries)","Danielle Richardson",Non-Famous,35946.36,43664.07,-7717.71,-21.47
+386,"Storm Desire (Diaries)","Danielle Steele",Non-Famous,39500.18,44429.68,-4929.50,-12.48
+387,"Echo Serenade (Chronicles)","Danny Leonard",Non-Famous,25731.16,31048.65,-5317.49,-20.67
+388,"Golden Letters (Edition)","David Atkins",Non-Famous,21474.79,26486.45,-5011.66,-23.34
+389,"Glass Reflections (Edition)","David Brown",Non-Famous,26037.00,32555.00,-6518.00,-25.03
+390,"Golden Souls (Sessions)","David Campbell",Non-Famous,18714.50,20859.98,-2145.48,-11.46
+391,"Echo Shadows (Vol. II)","David Esparza",Non-Famous,52501.44,80322.66,-27821.22,-52.99
+392,"Distant Roses","David King",Non-Famous,34676.75,58537.39,-23860.64,-68.81
+393,"Paper Roses (Archives)","David Lee",Non-Famous,53697.89,75984.70,-22286.81,-41.50
+394,"Whisper Waves (Diaries)","David Moreno",Non-Famous,31558.08,34827.36,-3269.28,-10.36
+395,"Velvet Waves (Edition)","David Nelson",Non-Famous,40387.58,43992.96,-3605.38,-8.93
+396,"Burning Visions (Archives)","David Parker",Non-Famous,47863.44,60926.21,-13062.77,-27.29
+397,"Golden Roses (Verse)","David Phillips",Non-Famous,38061.40,46569.63,-8508.23,-22.35
+398,"Crimson Serenade (Verse)","David Reed",Non-Famous,22101.85,35497.92,-13396.07,-60.61
+399,"Burning Dreams (Verse)","David Velazquez",Non-Famous,44373.56,72108.96,-27735.40,-62.50
+400,"Blazing Rooms (Tales)","David Warner",Non-Famous,12321.43,16085.31,-3763.88,-30.55
+401,"Obsidian Reflections (Diaries)","Dawn Carey",Non-Famous,26909.28,29639.24,-2729.96,-10.15
+402,"Electric Echoes","Dawn Patel",Non-Famous,46333.01,60991.88,-14658.87,-31.64
+403,"Broken Rhythms (Diaries)","Dawn Young",Non-Famous,34667.64,35489.34,-821.70,-2.37
+404,"Sapphire Tides (Tales)","Deanna Miller",Non-Famous,20091.50,29573.18,-9481.68,-47.19
+405,"Radiant Reflections (Verse)","Debbie Lopez PhD",Non-Famous,33086.68,37721.64,-4634.96,-14.01
+406,"Blazing Echoes (Diaries)","Deborah Fleming",Non-Famous,43099.61,53860.80,-10761.19,-24.97
+407,"Lunar Souls (Verse)","Debra Best",Non-Famous,78008.40,101635.76,-23627.36,-30.29
+408,"Storm Hearts (Saga)","Debra Brown",Non-Famous,69086.77,87021.13,-17934.36,-25.96
+409,"Sacred Signals (Saga)","Debra Cervantes",Non-Famous,33102.72,44886.24,-11783.52,-35.60
+410,"Distant Reflections (Anthology)","Denise Evans",Non-Famous,67904.80,76516.44,-8611.64,-12.68
+411,"Electric Whispers (Vol. I)","Denise Hunt",Non-Famous,30769.47,41129.75,-10360.28,-33.67
+412,"Moonlit Stories (Verse)","Denise Phillips",Non-Famous,34369.65,41954.30,-7584.65,-22.07
+413,"Ashen Temples (Diaries)","Denise Walker",Non-Famous,17890.10,21373.17,-3483.07,-19.47
+414,"Ashen Confessions (Tales)","Dennis Smith",Non-Famous,26006.94,28700.79,-2693.85,-10.36
+415,"Silent Rooms (Reprise)","Dennis Tran",Non-Famous,25284.48,25520.74,-236.26,-0.93
+416,"Shattered Dreams (Chronicles)","Dennis Williams",Non-Famous,28235.11,31906.98,-3671.87,-13.00
+417,"Burning Voices","Derek Brown",Non-Famous,17148.26,19494.00,-2345.74,-13.68
+418,"Frost Horizons (Blueprint)","Derek Gates",Non-Famous,43642.08,62006.25,-18364.17,-42.08
+419,"Blazing Dreams (Redux)","Derek Williams",Non-Famous,60091.84,84192.69,-24100.85,-40.11
+420,"Wild Hearts (Chronicles)","Derrick Smith",Non-Famous,27882.72,42616.23,-14733.51,-52.84
+421,"Ocean Horizons (Blueprint)","Desiree Moody",Non-Famous,56609.16,62077.40,-5468.24,-9.66
+422,"Whisper Stories (Reprise)","Diana Myers",Non-Famous,61582.84,89951.76,-28368.92,-46.07
+423,"Velvet Tides (Diaries)","Diane Pierce",Non-Famous,29386.80,34754.22,-5367.42,-18.26
+424,"Midnight Shadows (Archives)","Diane Stanley",Non-Famous,29208.82,47407.68,-18198.86,-62.31
+425,"Frost Serenade (Anthology)","Dillon Smith",Non-Famous,26993.30,40128.84,-13135.54,-48.66
+426,"Moonlit Voices (Reprise)","Donald Bush",Non-Famous,43946.26,58188.78,-14242.52,-32.41
+427,"Broken Desire (Edition)","Donald Rosales",Non-Famous,66664.26,66209.00,455.26,0.68
+428,"Radiant Signals (Memoirs)","Donna Gonzalez",Non-Famous,32800.07,38853.10,-6053.03,-18.45
+429,"Electric Signals","Donna Kelly",Non-Famous,26750.50,36231.90,-9481.40,-35.44
+430,"Ashen Letters (Diaries)","Donna Thomas",Non-Famous,40376.64,49951.20,-9574.56,-23.71
+431,"Paper Stories (Archives)","Douglas Lucas",Non-Famous,36756.06,41759.34,-5003.28,-13.61
+432,"Neon Shadows (Memoirs)","Douglas Luna",Non-Famous,44730.40,58230.66,-13500.26,-30.18
+433,"Infinite Echoes (Chronicles)","Douglas Morris",Non-Famous,35730.00,52233.89,-16503.89,-46.19
+434,"Burning Paths (Soundtrack)","Dr. Briana Kim",Non-Famous,25578.48,33710.41,-8131.93,-31.79
+435,"Fading Rooms (Verse)","Dr. Christina Collins",Non-Famous,36200.64,52135.09,-15934.45,-44.02
+436,"Infinite Waves (Chronicles)","Dr. Jessica Thompson",Non-Famous,22392.23,27468.04,-5075.81,-22.67
+437,"Echo Paradise (Edition)","Dr. John Roth",Non-Famous,21822.99,40116.96,-18293.97,-83.83
+438,"Shattered Signals (Vol. I)","Dr. Kara Hanson",Non-Famous,30253.86,30801.48,-547.62,-1.81
+439,"Obsidian Stories","Dr. Kelly Wheeler",Non-Famous,23099.08,26360.30,-3261.22,-14.12
+440,"Wild Letters (Redux)","Dr. Linda Valenzuela",Non-Famous,46395.30,57507.42,-11112.12,-23.95
+441,"Echo Voices (Soundtrack)","Dr. Nancy Thomas DVM",Non-Famous,42093.48,54453.65,-12360.17,-29.36
+442,"Broken Voices (Soundtrack)","Dr. Nicole Moore",Non-Famous,54029.25,73281.45,-19252.20,-35.63
+443,"Ashen Rhythms (Archives)","Dustin Cox",Non-Famous,26646.24,39149.67,-12503.43,-46.92
+444,"Fading Rhythms (Redux)","Dustin Hall",Non-Famous,50729.60,61385.94,-10656.34,-21.01
+445,"Velvet Horizons (Sessions)","Dustin Myers",Non-Famous,47305.72,55433.64,-8127.92,-17.18
+446,"Obsidian Shadows (Verse)","Dustin Wilson",Non-Famous,31007.80,36929.95,-5922.15,-19.10
+447,"Frost Hearts (Archives)","Earl Johnson",Non-Famous,57354.75,68685.00,-11330.25,-19.75
+448,"Distant Waves (Anthology)","Eddie Riley",Non-Famous,44511.30,49286.70,-4775.40,-10.73
+449,"Ashen Hearts (Blueprint)","Edward Kim",Non-Famous,25487.27,36204.84,-10717.57,-42.05
+450,"Obsidian Visions (Sessions)","Edward Lopez",Non-Famous,32160.60,39508.10,-7347.50,-22.85
+451,"Velvet Visions (Tales)","Edward Moore",Non-Famous,60147.74,89907.84,-29760.10,-49.48
+452,"Frost Visions (Vol. II)","Edward Morales",Non-Famous,55032.43,71182.08,-16149.65,-29.35
+453,"Infinite Serenade (Diaries)","Elaine Guerra",Non-Famous,30062.55,31671.15,-1608.60,-5.35
+454,"Radiant Reflections (Diaries)","Elijah Coleman",Non-Famous,18803.25,22217.42,-3414.17,-18.16
+455,"Moonlit Roses (Blueprint)","Elizabeth Barber",Non-Famous,31506.78,38733.01,-7226.23,-22.94
+456,"Paper Temples (Saga)","Elizabeth Cox",Non-Famous,28779.03,35630.84,-6851.81,-23.81
+457,"Lunar Signals (Redux)","Elizabeth James",Non-Famous,40752.78,65698.08,-24945.30,-61.21
+458,"Shattered Letters (Soundtrack)","Elizabeth Keller",Non-Famous,34451.25,51679.08,-17227.83,-50.01
+459,"Distant Rooms (Blueprint)","Elizabeth Lawson",Non-Famous,18583.50,24681.37,-6097.87,-32.81
+460,"Midnight Temples (Blueprint)","Elizabeth Lewis",Non-Famous,33750.36,38511.20,-4760.84,-14.11
+461,"Distant Roses (Vol. I)","Elizabeth Perez",Non-Famous,26436.48,33954.09,-7517.61,-28.44
+462,"Silent Reflections (Archives)","Elizabeth Rogers",Non-Famous,57983.10,93428.26,-35445.16,-61.13
+463,"Moonlit Horizons (Tales)","Emily Evans",Non-Famous,30279.42,42175.76,-11896.34,-39.29
+464,"Moonlit Paradise (Memoirs)","Emily Garcia",Non-Famous,54883.20,66465.30,-11582.10,-21.10
+465,"Electric Voices (Reprise)","Emily Gomez",Non-Famous,33245.10,60051.04,-26805.94,-80.63
+466,"Neon Souls (Anthology)","Emily Yates",Non-Famous,41936.44,54405.00,-12468.56,-29.73
+467,"Silent Temples (Tales)",Eminem,Famous,13728.48,19184.30,-5455.82,-39.74
+468,"Whisper Tides","Emma Ryan",Non-Famous,42138.90,66030.72,-23891.82,-56.70
+469,"Radiant Voices (Soundtrack)","Eric Anderson",Non-Famous,29492.88,35386.36,-5893.48,-19.98
+470,"Neon Paths","Eric Arellano",Non-Famous,43035.00,43386.53,-351.53,-0.82
+471,"Glass Waves (Saga)","Eric Richardson",Non-Famous,17235.54,20774.16,-3538.62,-20.53
+472,"Moonlit Tides (Verse)","Erica Calderon",Non-Famous,67325.74,93403.52,-26077.78,-38.73
+473,"Radiant Lights (Reprise)","Erica Gallagher",Non-Famous,34064.64,42843.24,-8778.60,-25.77
+474,"Frost Souls (Sessions)","Erika Tapia",Non-Famous,40687.66,48475.90,-7788.24,-19.14
+475,"Silent Serenade (Memoirs)","Erin Kramer",Non-Famous,41719.44,49968.16,-8248.72,-19.77
+476,"Sapphire Paradise (Verse)","Erin Marsh",Non-Famous,49582.44,60370.00,-10787.56,-21.76
+477,"Ocean Echoes (Edition)","Erin Navarro",Non-Famous,33990.96,40963.00,-6972.04,-20.51
+478,"Sapphire Rhythms (Saga)","Erin Sellers",Non-Famous,32826.78,44486.40,-11659.62,-35.52
+479,"Hidden Reflections (Blueprint)","Erin Thompson",Non-Famous,52241.92,69770.80,-17528.88,-33.55
+480,"Distant Dreams (Redux)","Ethan James",Non-Famous,44574.28,60264.32,-15690.04,-35.20
+481,"Glass Rhythms (Archives)","Eugene Allen",Non-Famous,96267.36,114766.48,-18499.12,-19.22
+482,"Midnight Paths (Archives)","Evan Martin",Non-Famous,29339.88,40276.36,-10936.48,-37.28
+483,"Lunar Echoes (Sessions)","Faith Matthews",Non-Famous,34842.99,47885.60,-13042.61,-37.43
+484,"Lunar Shadows (Diaries)","Felicia Hill",Non-Famous,22649.02,28984.56,-6335.54,-27.97
+485,"Electric Paths (Anthology)","Felicia Lamb",Non-Famous,28782.21,47949.56,-19167.35,-66.59
+486,"Crimson Signals (Verse)","Frank Allen",Non-Famous,90827.97,90281.40,546.57,0.60
+487,"Ashen Temples (Soundtrack)","Frank Hanna",Non-Famous,29271.84,40117.82,-10845.98,-37.05
+488,"Distant Letters (Edition)","Frank King",Non-Famous,62590.55,109904.85,-47314.30,-75.59
+489,"Burning Rooms","Frank Morton",Non-Famous,32269.50,33156.48,-886.98,-2.75
+490,"Hidden Whispers (Redux)","Frank Thompson",Non-Famous,27161.50,32340.60,-5179.10,-19.07
+491,"Broken Roses (Reprise)","Frederick Fox",Non-Famous,59571.00,80480.80,-20909.80,-35.10
+492,"Shattered Paths (Diaries)","Gabriel Weber",Non-Famous,51168.26,61522.14,-10353.88,-20.24
+493,"Silent Tides (Vol. II)","Gabriella Little",Non-Famous,30278.36,32321.84,-2043.48,-6.75
+494,"Crimson Waves (Reprise)","Gary Clark",Non-Famous,32584.16,40214.44,-7630.28,-23.42
+495,"Paper Souls (Chronicles)","Gary Hernandez",Non-Famous,22731.02,21918.52,812.50,3.57
+496,"Storm Paths (Reprise)","Gary Martin",Non-Famous,24758.76,33227.62,-8468.86,-34.21
+497,"Neon Horizons (Vol. II)","Gerald Hunt",Non-Famous,19099.89,26969.52,-7869.63,-41.20
+498,"Infinite Signals (Chronicles)","Gina Robertson",Non-Famous,34236.09,46574.28,-12338.19,-36.04
+499,"Sacred Paradise (Saga)","Gina Smith",Non-Famous,33401.94,37857.65,-4455.71,-13.34
+500,"Sacred Lights (Verse)","Gloria Edwards",Non-Famous,41093.60,50632.62,-9539.02,-23.21
+501,"Shattered Voices (Vol. I)","Gloria Mann",Non-Famous,54455.22,75172.12,-20716.90,-38.04
+502,"Golden Reflections (Archives)","Grace Gregory",Non-Famous,64260.48,114933.30,-50672.82,-78.86
+503,"Sacred Dreams (Sessions)","Green Day",Famous,18365.04,20516.30,-2151.26,-11.71
+504,"Sacred Horizons (Sessions)","Gregory Harris",Non-Famous,28804.38,35866.20,-7061.82,-24.52
+505,"Hidden Letters (Sessions)","Guy Brown",Non-Famous,58847.60,76894.72,-18047.12,-30.67
+506,"Glass Signals","Hailey Bell",Non-Famous,35181.16,46094.95,-10913.79,-31.02
+507,"Neon Confessions (Memoirs)","Hannah Jennings",Non-Famous,24303.20,25961.04,-1657.84,-6.82
+508,"Fading Rooms (Anthology)","Hannah Johnson",Non-Famous,32480.50,34198.56,-1718.06,-5.29
+509,"Neon Rooms (Chronicles)","Hannah Marsh",Non-Famous,21343.77,26227.00,-4883.23,-22.88
+510,"Obsidian Stories (Edition)","Hannah Miller",Non-Famous,27429.20,37234.56,-9805.36,-35.75
+511,"Paper Reflections (Verse)","Hannah Phillips",Non-Famous,43849.68,51102.16,-7252.48,-16.54
+512,"Fading Horizons","Hannah Proctor",Non-Famous,27409.79,33799.45,-6389.66,-23.31
+513,"Radiant Shadows (Soundtrack)","Harry Hensley",Non-Famous,18529.84,22211.26,-3681.42,-19.87
+514,"Glass Shadows (Redux)","Hayley Flores",Non-Famous,51024.96,59197.06,-8172.10,-16.02
+515,"Broken Rooms (Soundtrack)","Heather Fowler",Non-Famous,27448.03,35546.17,-8098.14,-29.50
+516,"Midnight Waves (Archives)","Heather Martinez",Non-Famous,62280.86,92237.60,-29956.74,-48.10
+517,"Hidden Visions (Vol. II)","Heather Nelson",Non-Famous,68794.88,79383.89,-10589.01,-15.39
+518,"Electric Rooms (Soundtrack)","Heather Sanchez",Non-Famous,47807.10,60977.92,-13170.82,-27.55
+519,"Golden Lights (Anthology)","Heather Solis",Non-Famous,33061.52,39014.12,-5952.60,-18.00
+520,"Shattered Lights (Reprise)","Holly French",Non-Famous,55944.00,90484.76,-34540.76,-61.74
+521,"Blazing Confessions (Verse)","Holly Lamb",Non-Famous,51172.80,56591.07,-5418.27,-10.59
+522,"Whisper Paradise (Anthology)","Holly Scott",Non-Famous,36538.06,48174.08,-11636.02,-31.85
+523,"Burning Desire (Diaries)","Holly Wagner",Non-Famous,32302.58,34723.48,-2420.90,-7.49
+524,"Obsidian Lights (Verse)","Ian Collins",Non-Famous,51442.49,67201.40,-15758.91,-30.63
+525,"Fading Hearts","Ian Floyd",Non-Famous,39432.35,52218.78,-12786.43,-32.43
+526,"Sapphire Horizons (Chronicles)","Isaac West",Non-Famous,34533.69,51047.43,-16513.74,-47.82
+527,"Broken Stories (Soundtrack)","Jack Robinson",Non-Famous,70211.70,77533.24,-7321.54,-10.43
+528,"Glass Reflections (Saga)","Jaclyn Buckley",Non-Famous,24461.19,31464.00,-7002.81,-28.63
+529,"Neon Paradise (Edition)","Jacob Bailey",Non-Famous,40427.52,51417.84,-10990.32,-27.19
+530,"Frost Dreams (Soundtrack)","Jacob Morgan",Non-Famous,39185.52,48905.92,-9720.40,-24.81
+531,"Midnight Stories (Vol. I)","Jacob Parrish",Non-Famous,34280.82,47685.28,-13404.46,-39.10
+532,"Burning Rhythms (Soundtrack)","Jacqueline Allen",Non-Famous,54475.98,65687.76,-11211.78,-20.58
+533,"Neon Rooms (Redux)","Jacqueline Levy",Non-Famous,60372.81,78112.16,-17739.35,-29.38
+534,"Silent Desire (Soundtrack)","Jacqueline Stokes",Non-Famous,51466.74,70791.42,-19324.68,-37.55
+535,"Crimson Lights (Blueprint)","Jaime White",Non-Famous,37554.66,58009.98,-20455.32,-54.47
+536,"Golden Souls (Saga)","James Barber",Non-Famous,45948.56,49565.88,-3617.32,-7.87
+537,"Wild Hearts (Edition)","James Berger",Non-Famous,74583.94,103176.75,-28592.81,-38.34
+538,"Golden Rhythms (Tales)","James Brown",Non-Famous,26175.25,34819.20,-8643.95,-33.02
+539,"Whisper Horizons (Saga)","James Garrett",Non-Famous,15816.15,21819.66,-6003.51,-37.96
+540,"Obsidian Paths (Anthology)","James Rodriguez",Non-Famous,39912.60,46989.63,-7077.03,-17.73
+541,"Fading Roses (Diaries)","James Ruiz",Non-Famous,32925.84,42600.47,-9674.63,-29.38
+542,"Sapphire Rhythms (Diaries)","James Salazar",Non-Famous,57003.30,63458.30,-6455.00,-11.32
+543,"Wild Whispers (Tales)","James Small",Non-Famous,49732.90,70474.08,-20741.18,-41.71
+544,"Midnight Dreams (Vol. I)","James Watson",Non-Famous,37815.25,50521.20,-12705.95,-33.60
+545,"Radiant Rhythms (Soundtrack)","Jane Rogers",Non-Famous,20754.72,32187.87,-11433.15,-55.09
+546,"Storm Roses (Memoirs)","Jared Castro",Non-Famous,32524.48,42724.35,-10199.87,-31.36
+547,"Shattered Horizons (Redux)","Jared Chandler",Non-Famous,27409.59,31605.36,-4195.77,-15.31
+548,"Moonlit Shadows","Jared May",Non-Famous,69259.52,93763.10,-24503.58,-35.38
+549,"Neon Paths (Tales)","Jasmin Bryant",Non-Famous,50781.90,60001.00,-9219.10,-18.15
+550,"Fading Lights (Redux)","Jasmine Clayton",Non-Famous,30081.52,40356.30,-10274.78,-34.16
+551,"Sapphire Whispers (Redux)","Jasmine Garcia",Non-Famous,31874.64,26990.88,4883.76,15.32
+552,"Echo Rhythms (Vol. I)","Jason Gregory",Non-Famous,48226.29,60521.85,-12295.56,-25.50
+553,"Neon Rooms (Edition)","Jason Kim",Non-Famous,30779.24,39273.12,-8493.88,-27.60
+554,"Storm Desire (Archives)","Jason Mason",Non-Famous,31506.23,41088.15,-9581.92,-30.41
+555,"Echo Stories (Archives)","Jason Miller",Non-Famous,31399.72,41779.86,-10380.14,-33.06
+556,"Ashen Voices (Blueprint)","Jason Robinson MD",Non-Famous,47483.70,61460.74,-13977.04,-29.44
+557,"Broken Letters (Reprise)","Jason Scott",Non-Famous,58134.45,71428.75,-13294.30,-22.87
+558,"Velvet Signals (Sessions)","Jason Smith",Non-Famous,59608.44,68450.46,-8842.02,-14.83
+559,"Obsidian Tides (Soundtrack)","Jay Dominguez",Non-Famous,45067.49,52424.04,-7356.55,-16.32
+560,"Lunar Tides (Blueprint)","Jay Miller",Non-Famous,18778.20,18897.90,-119.70,-0.64
+561,"Ashen Lights (Reprise)","Jeanne Gonzalez",Non-Famous,48909.50,59208.86,-10299.36,-21.06
+562,"Ocean Echoes (Blueprint)","Jeff Smith",Non-Famous,39144.70,42103.20,-2958.50,-7.56
+563,"Glass Echoes (Edition)","Jeffery Delgado",Non-Famous,62895.93,83064.45,-20168.52,-32.07
+564,"Neon Whispers (Anthology)","Jeffery Douglas",Non-Famous,25351.65,27560.40,-2208.75,-8.71
+565,"Moonlit Stories (Sessions)","Jeffrey Booker",Non-Famous,27548.10,38640.69,-11092.59,-40.27
+566,"Neon Rooms","Jeffrey Boyd",Non-Famous,26645.96,33015.00,-6369.04,-23.90
+567,"Sacred Hearts (Memoirs)","Jeffrey Brown",Non-Famous,32158.10,36058.25,-3900.15,-12.13
+568,"Broken Whispers (Chronicles)","Jeffrey Cole",Non-Famous,43600.58,53980.16,-10379.58,-23.81
+569,"Ocean Roses (Verse)","Jeffrey Hernandez",Non-Famous,20343.96,27770.26,-7426.30,-36.50
+570,"Lunar Paths (Redux)","Jeffrey Herrera",Non-Famous,51617.17,61806.22,-10189.05,-19.74
+571,"Hidden Letters (Reprise)","Jeffrey King",Non-Famous,47358.27,72376.40,-25018.13,-52.83
+572,"Neon Shadows (Tales)","Jeffrey Sanchez",Non-Famous,63409.66,87053.20,-23643.54,-37.29
+573,"Whisper Serenade (Sessions)","Jeffrey Wilson",Non-Famous,45406.75,56051.04,-10644.29,-23.44
+574,"Radiant Lights (Verse)","Jenna Dyer",Non-Famous,50995.88,76935.88,-25940.00,-50.87
+575,"Sapphire Letters (Sessions)","Jenna Garcia",Non-Famous,35300.50,50321.52,-15021.02,-42.55
+576,"Wild Tides (Blueprint)","Jennifer Bowen",Non-Famous,27785.22,38328.78,-10543.56,-37.95
+577,"Ashen Tides (Verse)","Jennifer Davis",Non-Famous,27492.25,41370.10,-13877.85,-50.48
+578,"Electric Temples","Jennifer Dyer",Non-Famous,54087.88,65034.00,-10946.12,-20.24
+579,"Blazing Roses (Anthology)","Jennifer Gray",Non-Famous,35846.08,39809.12,-3963.04,-11.06
+580,"Golden Whispers (Vol. I)","Jennifer Harris",Non-Famous,30309.44,33580.61,-3271.17,-10.79
+581,"Midnight Hearts (Anthology)","Jennifer Horton",Non-Famous,26064.94,29104.74,-3039.80,-11.66
+582,"Broken Temples (Archives)","Jennifer Jensen",Non-Famous,34471.36,50951.22,-16479.86,-47.81
+583,"Moonlit Roses (Chronicles)","Jennifer Johnson",Non-Famous,32235.35,38769.84,-6534.49,-20.27
+584,"Neon Stories (Vol. II)","Jennifer Lin",Non-Famous,44988.00,51276.75,-6288.75,-13.98
+585,"Sacred Lights (Saga)","Jennifer Mckenzie",Non-Famous,20614.00,20006.56,607.44,2.95
+586,"Midnight Signals (Reprise)","Jennifer Miller",Non-Famous,50332.53,64540.08,-14207.55,-28.23
+587,"Crimson Stories (Saga)","Jennifer Patrick",Non-Famous,56630.31,71326.56,-14696.25,-25.95
+588,"Distant Signals (Saga)","Jennifer Robinson",Non-Famous,47273.79,59199.28,-11925.49,-25.23
+589,"Hidden Echoes (Reprise)","Jennifer Smith",Non-Famous,44655.00,69049.14,-24394.14,-54.63
+590,"Obsidian Whispers (Vol. II)","Jennifer White",Non-Famous,52681.59,44935.56,7746.03,14.70
+591,"Crimson Reflections","Jenny Fowler",Non-Famous,41275.08,50401.05,-9125.97,-22.11
+592,"Crimson Rooms (Memoirs)","Jenny Hall",Non-Famous,25833.37,36083.30,-10249.93,-39.68
+593,"Shattered Shadows","Jenny Russell",Non-Famous,42435.03,51755.90,-9320.87,-21.97
+594,"Radiant Stories (Chronicles)","Jenny Ryan",Non-Famous,41274.95,50090.04,-8815.09,-21.36
+595,"Ocean Desire (Reprise)","Jeremy Hines",Non-Famous,68188.33,88982.95,-20794.62,-30.50
+596,"Lunar Letters (Chronicles)","Jeremy Manning",Non-Famous,45215.52,64321.92,-19106.40,-42.26
+597,"Broken Serenade (Vol. II)","Jeremy Sosa",Non-Famous,80639.80,101150.52,-20510.72,-25.44
+598,"Blazing Signals (Anthology)","Jeremy Thomas",Non-Famous,31249.68,41257.37,-10007.69,-32.02
+599,"Distant Souls (Diaries)","Jeremy Wiley",Non-Famous,32032.77,39300.80,-7268.03,-22.69
+600,"Midnight Rhythms (Tales)","Jermaine Parks",Non-Famous,27279.06,49053.90,-21774.84,-79.82
+601,"Wild Letters (Edition)","Jerry Burch",Non-Famous,28872.50,32634.00,-3761.50,-13.03
+602,"Midnight Temples (Chronicles)","Jerry Fitzpatrick",Non-Famous,35285.46,45611.50,-10326.04,-29.26
+603,"Silent Waves (Redux)","Jesse Guzman",Non-Famous,30572.74,35318.34,-4745.60,-15.52
+604,"Wild Reflections (Soundtrack)","Jesse Jimenez",Non-Famous,44660.55,57390.33,-12729.78,-28.50
+605,"Ashen Rhythms (Anthology)","Jesse Mcpherson",Non-Famous,45408.06,53308.20,-7900.14,-17.40
+606,"Distant Serenade (Vol. I)","Jessica Brown",Non-Famous,22940.01,29243.60,-6303.59,-27.48
+607,"Blazing Whispers","Jessica Crawford",Non-Famous,41554.70,51695.35,-10140.65,-24.40
+608,"Paper Paradise","Jessica Fields",Non-Famous,84159.27,93725.39,-9566.12,-11.37
+609,"Fading Stories","Jessica Gonzales",Non-Famous,39580.38,58586.88,-19006.50,-48.02
+610,"Paper Serenade (Saga)","Jessica Henderson",Non-Famous,83881.92,110365.68,-26483.76,-31.57
+611,"Frost Hearts (Saga)","Jessica Hobbs",Non-Famous,48378.87,56153.52,-7774.65,-16.07
+612,"Infinite Voices (Sessions)","Jessica Robinson",Non-Famous,25036.83,31705.56,-6668.73,-26.64
+613,"Shattered Whispers","Jessica Sanchez",Non-Famous,25520.58,40386.15,-14865.57,-58.25
+614,"Hidden Visions (Vol. I)","Jessica Short",Non-Famous,32653.14,51765.28,-19112.14,-58.53
+615,"Lunar Temples (Tales)","Jessica White",Non-Famous,36305.22,46823.40,-10518.18,-28.97
+616,"Storm Signals (Soundtrack)","Jessica Williamson",Non-Famous,52028.61,64025.85,-11997.24,-23.06
+617,"Hidden Reflections","Jill Chan",Non-Famous,23235.52,22275.00,960.52,4.13
+618,"Blazing Dreams (Edition)","Jill Ramirez",Non-Famous,50314.60,60602.70,-10288.10,-20.45
+619,"Obsidian Serenade (Blueprint)","Jill Smith",Non-Famous,28104.30,31929.22,-3824.92,-13.61
+620,"Silent Roses (Memoirs)","Jill Wilson",Non-Famous,37301.37,44101.20,-6799.83,-18.23
+621,"Midnight Reflections (Chronicles)","Jillian Hooper",Non-Famous,31809.78,37670.16,-5860.38,-18.42
+622,"Infinite Paradise (Verse)","Jillian Wilson",Non-Famous,30635.50,40021.38,-9385.88,-30.64
+623,"Neon Shadows (Reprise)","Jim Gray",Non-Famous,66253.11,80018.79,-13765.68,-20.78
+624,"Sapphire Desire","Jo Sanchez",Non-Famous,44042.01,52567.20,-8525.19,-19.36
+625,"Fading Desire (Reprise)","Joan Barber MD",Non-Famous,31626.64,49733.43,-18106.79,-57.25
+626,"Whisper Confessions (Archives)","Joann Bender",Non-Famous,20473.11,28987.24,-8514.13,-41.59
+627,"Radiant Roses (Blueprint)","Jodi Reynolds",Non-Famous,21426.34,26105.31,-4678.97,-21.84
+628,"Echo Paradise (Saga)","Joe Melendez",Non-Famous,27869.38,41082.18,-13212.80,-47.41
+629,"Storm Rooms (Vol. I)","John Byrd",Non-Famous,46249.92,45643.16,606.76,1.31
+630,"Neon Waves (Tales)","John Castillo",Non-Famous,34125.00,40755.00,-6630.00,-19.43
+631,"Moonlit Desire (Chronicles)","John Crawford",Non-Famous,33459.84,40174.12,-6714.28,-20.07
+632,"Obsidian Desire (Memoirs)","John Cruz",Non-Famous,46218.87,58674.00,-12455.13,-26.95
+633,"Electric Stories (Diaries)","John Faulkner",Non-Famous,46212.66,59842.02,-13629.36,-29.49
+634,"Wild Signals (Anthology)","John Harris",Non-Famous,23221.64,38705.89,-15484.25,-66.68
+635,"Paper Visions (Vol. II)","John Lee",Non-Famous,36181.44,35312.64,868.80,2.40
+636,"Sapphire Whispers (Reprise)","John Mckee",Non-Famous,27548.46,30298.75,-2750.29,-9.98
+637,"Shattered Confessions (Soundtrack)","John Trujillo",Non-Famous,16551.47,22834.08,-6282.61,-37.96
+638,"Burning Lights (Verse)","John Wade",Non-Famous,45684.70,49173.48,-3488.78,-7.64
+639,"Whisper Reflections","John Young",Non-Famous,44604.04,55476.36,-10872.32,-24.38
+640,"Broken Serenade (Memoirs)","Johnny Lucas",Non-Famous,32879.60,32477.62,401.98,1.22
+641,"Silent Shadows (Vol. I)","Johnny Willis",Non-Famous,20175.48,30297.98,-10122.50,-50.17
+642,"Glass Tides (Archives)","Jon Rogers",Non-Famous,33446.15,42664.96,-9218.81,-27.56
+643,"Shattered Paradise (Edition)","Jonathan Anderson",Non-Famous,41074.56,53307.80,-12233.24,-29.78
+644,"Neon Confessions (Soundtrack)","Jonathan Clayton",Non-Famous,23969.68,31962.72,-7993.04,-33.35
+645,"Lunar Roses (Tales)","Jonathan Jones",Non-Famous,25723.53,28747.44,-3023.91,-11.76
+646,"Sacred Confessions (Soundtrack)","Jonathan Smith",Non-Famous,23417.94,29150.88,-5732.94,-24.48
+647,"Electric Confessions (Diaries)","Jonathan Wright",Non-Famous,28985.32,37214.93,-8229.61,-28.39
+648,"Radiant Echoes (Vol. II)","Jonathon Howard",Non-Famous,42433.82,56379.82,-13946.00,-32.87
+649,"Whisper Rooms (Tales)","Jordan Fox",Non-Famous,55245.63,72050.80,-16805.17,-30.42
+650,"Broken Letters (Memoirs)","Jordan Long",Non-Famous,25851.76,39440.70,-13588.94,-52.56
+651,"Shattered Rooms (Sessions)","Jordan White",Non-Famous,33028.32,44934.56,-11906.24,-36.05
+652,"Sapphire Rooms (Vol. I)","Jose Fisher",Non-Famous,39102.30,50415.16,-11312.86,-28.93
+653,"Hidden Whispers (Chronicles)","Joseph Davis",Non-Famous,58285.50,55311.01,2974.49,5.10
+654,"Paper Waves (Saga)","Joseph Floyd",Non-Famous,16121.31,16029.30,92.01,0.57
+655,"Sapphire Letters (Vol. I)","Joseph Gray",Non-Famous,62571.60,98655.41,-36083.81,-57.67
+656,"Broken Letters (Soundtrack)","Joseph Khan",Non-Famous,46414.08,59344.74,-12930.66,-27.86
+657,"Wild Temples (Edition)","Joseph Leonard",Non-Famous,47349.36,76873.68,-29524.32,-62.35
+658,"Golden Stories","Joseph Ortega",Non-Famous,41589.34,61281.04,-19691.70,-47.35
+659,"Golden Visions","Joseph Wright",Non-Famous,34040.82,39996.45,-5955.63,-17.50
+660,"Infinite Signals (Tales)","Joseph Yates",Non-Famous,39942.30,58908.30,-18966.00,-47.48
+661,"Shattered Lights (Vol. II)","Joshua Dennis",Non-Famous,34980.54,46687.31,-11706.77,-33.47
+662,"Neon Voices (Vol. II)","Joshua Ellison",Non-Famous,46445.35,63358.20,-16912.85,-36.41
+663,"Hidden Rhythms (Vol. II)","Joshua Evans",Non-Famous,45219.60,52998.40,-7778.80,-17.20
+664,"Wild Rhythms","Joshua Hess",Non-Famous,53626.80,67318.70,-13691.90,-25.53
+665,"Midnight Dreams (Archives)","Joshua Johnson",Non-Famous,41909.40,58609.98,-16700.58,-39.85
+666,"Golden Rooms (Reprise)","Joshua Kirk",Non-Famous,46118.40,64765.68,-18647.28,-40.43
+667,"Fading Dreams (Blueprint)","Joshua Nguyen",Non-Famous,42384.21,49302.67,-6918.46,-16.32
+668,"Ocean Lights","Joshua Salazar",Non-Famous,57169.17,72996.00,-15826.83,-27.68
+669,"Neon Desire (Tales)","Joshua Thomas",Non-Famous,48493.30,49684.50,-1191.20,-2.46
+670,"Burning Rooms (Blueprint)","Joshua Thompson",Non-Famous,43973.01,50286.13,-6313.12,-14.36
+671,"Shattered Voices (Reprise)","Joshua Torres",Non-Famous,20188.08,30325.54,-10137.46,-50.22
+672,"Crimson Letters (Saga)","Joshua Walsh",Non-Famous,36311.60,37902.42,-1590.82,-4.38
+673,"Blazing Serenade (Archives)","Juan Martinez",Non-Famous,43210.80,53762.68,-10551.88,-24.42
+674,"Velvet Tides (Vol. I)","Judy Bowen",Non-Famous,70679.54,104521.71,-33842.17,-47.88
+675,"Echo Waves (Blueprint)","Julie Castro",Non-Famous,27707.68,32333.49,-4625.81,-16.70
+676,"Ocean Roses (Reprise)","Julie Garrett",Non-Famous,63499.08,72130.50,-8631.42,-13.59
+677,"Hidden Lights (Verse)","Julie Griffith",Non-Famous,30309.84,38712.80,-8402.96,-27.72
+678,"Electric Paradise (Archives)","Julie Myers",Non-Famous,49026.24,63819.70,-14793.46,-30.17
+679,"Glass Rooms (Soundtrack)","Justin Cannon",Non-Famous,68296.32,87981.98,-19685.66,-28.82
+680,"Ashen Rooms (Saga)","Justin Collins",Non-Famous,35243.26,47091.62,-11848.36,-33.62
+681,"Shattered Voices (Soundtrack)","Justin Davidson",Non-Famous,44292.00,51216.66,-6924.66,-15.63
+682,"Sacred Lights (Chronicles)","Justin Elliott",Non-Famous,47285.66,57650.10,-10364.44,-21.92
+683,"Fading Lights (Vol. I)","Justin Johnson",Non-Famous,46707.15,60051.25,-13344.10,-28.57
+684,"Obsidian Rooms (Verse)","Justin Kent",Non-Famous,51948.75,53598.96,-1650.21,-3.18
+685,"Fading Serenade (Soundtrack)","Justin Long",Non-Famous,24887.38,36610.92,-11723.54,-47.11
+686,"Storm Dreams (Diaries)","Justin Reynolds",Non-Famous,51646.08,65398.38,-13752.30,-26.63
+687,"Storm Paradise (Saga)","Justin Smith",Non-Famous,40856.92,47231.91,-6374.99,-15.60
+688,"Obsidian Lights (Archives)","Kaitlin Smith",Non-Famous,29262.22,35803.75,-6541.53,-22.35
+689,"Echo Rooms","Kaitlin Whitaker",Non-Famous,64190.56,89802.90,-25612.34,-39.90
+690,"Ashen Tides (Reprise)","Kaitlyn Cameron",Non-Famous,52162.56,68657.94,-16495.38,-31.62
+691,"Velvet Roses (Blueprint)","Kara Johnson",Non-Famous,59016.44,82274.70,-23258.26,-39.41
+692,"Frost Dreams","Katherine Baldwin",Non-Famous,38095.95,43561.48,-5465.53,-14.35
+693,"Frost Rooms (Blueprint)","Katherine Hammond",Non-Famous,30139.89,42712.67,-12572.78,-41.71
+694,"Velvet Waves","Katherine Randolph",Non-Famous,25345.71,36487.20,-11141.49,-43.96
+695,"Midnight Stories (Diaries)","Kathleen Fields",Non-Famous,42255.15,46066.54,-3811.39,-9.02
+696,"Obsidian Tides (Edition)","Kathleen Miller",Non-Famous,30983.04,36200.08,-5217.04,-16.84
+697,"Infinite Waves (Archives)","Kathleen Ware",Non-Famous,30919.05,42623.90,-11704.85,-37.86
+698,"Echo Echoes (Vol. I)","Kathryn Sanders",Non-Famous,45190.44,52716.30,-7525.86,-16.65
+699,"Silent Waves (Sessions)","Kathy Turner",Non-Famous,38907.82,50833.92,-11926.10,-30.65
+700,"Obsidian Paths (Memoirs)","Katrina Walters",Non-Famous,37614.78,46268.32,-8653.54,-23.01
+701,"Obsidian Shadows (Edition)","Kayla Crawford",Non-Famous,37755.20,54230.68,-16475.48,-43.64
+702,"Neon Rooms (Diaries)","Kayla Franklin",Non-Famous,58988.40,56632.40,2356.00,3.99
+703,"Shattered Whispers (Reprise)","Kayla Gilmore",Non-Famous,32897.40,39670.40,-6773.00,-20.59
+704,"Distant Letters (Memoirs)","Kayla Williams",Non-Famous,45210.48,65660.77,-20450.29,-45.23
+705,"Velvet Paths (Verse)","Kaylee Mclean",Non-Famous,34685.00,42256.77,-7571.77,-21.83
+706,"Crimson Rooms (Anthology)","Kaylee Williams",Non-Famous,20000.64,25268.46,-5267.82,-26.34
+707,"Burning Desire (Soundtrack)","Kelsey Cook",Non-Famous,37201.80,42234.40,-5032.60,-13.53
+708,"Lunar Roses (Archives)","Kelsey Hansen",Non-Famous,69704.31,90395.07,-20690.76,-29.68
+709,"Radiant Whispers (Blueprint)","Kenneth Gallagher",Non-Famous,32059.01,37796.85,-5737.84,-17.90
+710,"Ocean Temples (Chronicles)","Kenneth Maldonado",Non-Famous,24060.14,32291.01,-8230.87,-34.21
+711,"Blazing Rhythms (Vol. I)","Kenneth Oliver",Non-Famous,42419.26,50467.66,-8048.40,-18.97
+712,"Burning Horizons (Tales)","Kenneth Pittman",Non-Famous,44343.95,56167.58,-11823.63,-26.66
+713,"Shattered Tides (Diaries)","Kerry Wood",Non-Famous,50977.95,59617.50,-8639.55,-16.95
+714,"Sacred Serenade (Reprise)","Kevin Brock",Non-Famous,64760.36,69941.16,-5180.80,-8.00
+715,"Silent Paths (Redux)","Kevin Jones Jr.",Non-Famous,30515.28,41792.06,-11276.78,-36.95
+716,"Neon Lights (Verse)","Kevin Ortega",Non-Famous,47375.58,63017.90,-15642.32,-33.02
+717,"Sapphire Visions (Vol. II)","Kevin Simon",Non-Famous,29630.16,45410.76,-15780.60,-53.26
+718,"Moonlit Letters (Verse)","Kevin Smith",Non-Famous,36621.45,59827.20,-23205.75,-63.37
+719,"Crimson Visions (Reprise)","Kevin Wells",Non-Famous,36721.44,48541.01,-11819.57,-32.19
+720,"Echo Tides (Memoirs)","Kimberly Dickerson",Non-Famous,32718.60,45139.72,-12421.12,-37.96
+721,"Midnight Whispers (Tales)","Kimberly Farmer",Non-Famous,39842.70,47054.01,-7211.31,-18.10
+722,"Sapphire Rooms (Chronicles)","Kimberly Ford",Non-Famous,60566.40,83495.50,-22929.10,-37.86
+723,"Blazing Confessions (Redux)","Kimberly Gilmore",Non-Famous,27811.42,34204.50,-6393.08,-22.99
+724,"Radiant Lights (Sessions)","Kimberly King",Non-Famous,35118.13,60124.05,-25005.92,-71.21
+725,"Storm Serenade (Archives)","Kimberly Long",Non-Famous,63925.41,75619.44,-11694.03,-18.29
+726,"Crimson Roses (Memoirs)","Kimberly Perez",Non-Famous,34553.79,51580.66,-17026.87,-49.28
+727,"Midnight Signals (Diaries)","Kimberly Salazar",Non-Famous,68837.38,100836.48,-31999.10,-46.49
+728,"Whisper Echoes (Chronicles)","Kimberly Vaughn",Non-Famous,25819.42,29011.48,-3192.06,-12.36
+729,"Infinite Serenade (Vol. II)","Kimberly Wise",Non-Famous,35227.08,45632.60,-10405.52,-29.54
+730,"Midnight Reflections (Vol. I)","Kristen Thomas",Non-Famous,45417.41,53117.56,-7700.15,-16.95
+731,"Ashen Shadows (Reprise)","Kristi Barker",Non-Famous,20491.68,20986.44,-494.76,-2.41
+732,"Crimson Letters (Verse)","Kristi Joseph",Non-Famous,55796.58,76741.02,-20944.44,-37.54
+733,"Shattered Paradise (Blueprint)","Kristi Morales",Non-Famous,29637.96,34759.68,-5121.72,-17.28
+734,"Whisper Dreams (Vol. II)","Kristin Edwards",Non-Famous,54165.60,71802.00,-17636.40,-32.56
+735,"Radiant Horizons (Saga)","Kristin Gay",Non-Famous,31860.24,45424.03,-13563.79,-42.57
+736,"Radiant Temples (Blueprint)","Kristin Scott",Non-Famous,27889.38,43911.60,-16022.22,-57.45
+737,"Burning Lights (Edition)","Kristina Davis",Non-Famous,40710.60,50024.70,-9314.10,-22.88
+738,"Fading Tides (Verse)","Kristina Garcia",Non-Famous,54517.65,59351.00,-4833.35,-8.87
+739,"Shattered Tides (Memoirs)","Kristy Perry",Non-Famous,36610.38,51012.16,-14401.78,-39.34
+740,"Lunar Temples (Vol. I)","Kristy Terry",Non-Famous,60620.50,80246.48,-19625.98,-32.38
+741,"Ocean Tides (Anthology)","Krystal Davis",Non-Famous,37332.90,46522.71,-9189.81,-24.62
+742,"Golden Whispers (Soundtrack)","Kyle Cummings",Non-Famous,50375.93,80005.47,-29629.54,-58.82
+743,"Midnight Reflections (Archives)","Kyle Dean",Non-Famous,59774.22,80663.04,-20888.82,-34.95
+744,"Ashen Reflections (Memoirs)","Larry Cox",Non-Famous,25619.60,34168.04,-8548.44,-33.37
+745,"Neon Desire (Redux)","Laura Figueroa",Non-Famous,27744.86,31945.20,-4200.34,-15.14
+746,"Neon Confessions (Blueprint)","Laura Garza",Non-Famous,31539.05,35568.88,-4029.83,-12.78
+747,"Burning Signals (Soundtrack)","Laura Mora",Non-Famous,52185.85,59231.04,-7045.19,-13.50
+748,"Hidden Lights (Archives)","Laura Perez",Non-Famous,78254.74,99216.00,-20961.26,-26.79
+749,"Moonlit Souls (Blueprint)","Laura Robinson",Non-Famous,39949.50,50463.60,-10514.10,-26.32
+750,"Velvet Temples (Saga)","Lauren Lambert",Non-Famous,29439.72,31021.92,-1582.20,-5.37
+751,"Infinite Hearts (Vol. II)","Lauren Roberts",Non-Famous,44932.44,67671.56,-22739.12,-50.61
+752,"Crimson Confessions (Soundtrack)","Laurie Morgan",Non-Famous,35673.80,55620.00,-19946.20,-55.91
+753,"Crimson Waves (Tales)","Laurie Thomas",Non-Famous,57212.67,81553.80,-24341.13,-42.55
+754,"Obsidian Shadows (Redux)","Lawrence Sanchez",Non-Famous,49759.68,52303.15,-2543.47,-5.11
+755,"Storm Paradise (Redux)","Leah Nguyen",Non-Famous,22661.91,28476.00,-5814.09,-25.66
+756,"Velvet Tides (Verse)","Lee Turner",Non-Famous,19892.79,20199.33,-306.54,-1.54
+757,"Hidden Tides (Tales)","Leonard Henderson",Non-Famous,37598.22,53418.75,-15820.53,-42.08
+758,"Sapphire Temples (Vol. I)","Leslie Boyd",Non-Famous,43324.05,57832.74,-14508.69,-33.49
+759,"Frost Souls (Tales)","Leslie Cameron",Non-Famous,30775.14,36719.22,-5944.08,-19.31
+760,"Electric Lights (Memoirs)","Leslie Ramirez",Non-Famous,57024.66,78268.94,-21244.28,-37.25
+761,"Ocean Rhythms (Reprise)","Linda Burton",Non-Famous,29176.32,37962.65,-8786.33,-30.11
+762,"Burning Waves (Memoirs)","Linda Cameron",Non-Famous,54418.50,65115.60,-10697.10,-19.66
+763,"Paper Horizons (Vol. II)","Lindsay Roberts",Non-Famous,43973.19,63203.58,-19230.39,-43.73
+764,"Lunar Paradise (Edition)","Linkin Park",Famous,47599.20,56000.93,-8401.73,-17.65
+765,"Golden Tides (Archives)","Lisa Clark",Non-Famous,49791.84,60102.56,-10310.72,-20.71
+766,"Sacred Rooms (Vol. II)","Lisa Cox",Non-Famous,30746.82,42533.40,-11786.58,-38.33
+767,"Distant Signals (Redux)","Lisa Garner",Non-Famous,46600.40,60029.55,-13429.15,-28.82
+768,"Radiant Lights (Chronicles)","Lisa Juarez",Non-Famous,28270.68,39896.44,-11625.76,-41.12
+769,"Radiant Confessions","Lisa Lopez",Non-Famous,39788.00,61970.04,-22182.04,-55.75
+770,"Shattered Shadows (Verse)","Lisa Macdonald",Non-Famous,49735.08,64935.32,-15200.24,-30.56
+771,"Fading Visions (Saga)","Lisa Mccormick",Non-Famous,54596.70,71629.92,-17033.22,-31.20
+772,"Hidden Dreams (Vol. II)","Lisa Medina",Non-Famous,79046.76,127476.58,-48429.82,-61.27
+773,"Golden Temples (Archives)","Lisa Osborn",Non-Famous,72309.05,82894.68,-10585.63,-14.64
+774,"Broken Souls (Anthology)","Lisa Schultz",Non-Famous,55048.09,73093.44,-18045.35,-32.78
+775,"Ocean Waves (Blueprint)","Lisa Wilkerson",Non-Famous,70224.28,68162.85,2061.43,2.94
+776,"Hidden Stories (Edition)","Loretta Flores",Non-Famous,27001.50,36073.02,-9071.52,-33.60
+777,"Velvet Souls (Diaries)","Louis Gilbert",Non-Famous,67552.65,84838.95,-17286.30,-25.59
+778,"Broken Lights (Redux)","Luis Fonsi",Famous,25931.04,34101.32,-8170.28,-31.51
+779,"Obsidian Waves (Archives)","Luis Kelley",Non-Famous,27759.51,32757.76,-4998.25,-18.01
+780,"Midnight Whispers (Verse)","Luis Oliver",Non-Famous,45489.33,45619.50,-130.17,-0.29
+781,"Sacred Stories (Tales)","Luis Wallace",Non-Famous,50777.82,57088.98,-6311.16,-12.43
+782,"Echo Roses (Chronicles)","Luke Hughes",Non-Famous,35621.58,39948.15,-4326.57,-12.15
+783,"Golden Reflections (Verse)","Lydia Smith",Non-Famous,48461.70,60566.48,-12104.78,-24.98
+784,"Fading Shadows (Vol. II)","Mackenzie Terry",Non-Famous,49004.88,54068.04,-5063.16,-10.33
+785,"Wild Paths",Madonna,Famous,47357.76,63226.95,-15869.19,-33.51
+786,"Moonlit Waves (Reprise)","Marcus Hernandez",Non-Famous,26887.00,30971.80,-4084.80,-15.19
+787,"Ocean Letters (Vol. I)","Margaret Hartman",Non-Famous,67050.90,74794.50,-7743.60,-11.55
+788,"Broken Shadows","Margaret Rich",Non-Famous,38980.55,51969.09,-12988.54,-33.32
+789,"Sacred Confessions (Archives)","Margaret Williams",Non-Famous,42149.75,54545.65,-12395.90,-29.41
+790,"Storm Tides (Vol. I)","Maria Fox",Non-Famous,21877.92,27565.50,-5687.58,-26.00
+791,"Radiant Paradise (Blueprint)","Maria Garcia",Non-Famous,56299.98,71922.50,-15622.52,-27.75
+792,"Radiant Reflections","Maria Johnson",Non-Famous,35273.00,50338.80,-15065.80,-42.71
+793,"Echo Shadows","Maria Rowland",Non-Famous,54922.14,75247.20,-20325.06,-37.01
+794,"Fading Tides (Blueprint)","Maria Tucker",Non-Famous,22378.40,31915.26,-9536.86,-42.62
+795,"Silent Signals (Tales)","Mario Green",Non-Famous,81264.40,92137.54,-10873.14,-13.38
+796,"Velvet Rooms (Tales)","Marissa Carr",Non-Famous,38795.25,53952.82,-15157.57,-39.07
+797,"Distant Souls (Blueprint)","Marissa Lee",Non-Famous,32683.35,39827.40,-7144.05,-21.86
+798,"Fading Signals (Anthology)","Marissa Rose",Non-Famous,50461.20,72365.16,-21903.96,-43.41
+799,"Ashen Signals (Saga)","Mark Bates",Non-Famous,36715.80,57203.20,-20487.40,-55.80
+800,"Moonlit Desire (Anthology)","Mark Boyd",Non-Famous,41861.82,42716.10,-854.28,-2.04
+801,"Hidden Rooms (Archives)","Mark Lewis",Non-Famous,54663.39,68884.34,-14220.95,-26.02
+802,"Midnight Voices (Redux)","Mark Parker",Non-Famous,22809.33,28821.25,-6011.92,-26.36
+803,"Ashen Serenade (Soundtrack)","Mark Parks",Non-Famous,44230.51,65936.28,-21705.77,-49.07
+804,"Neon Desire (Blueprint)","Mark Santos",Non-Famous,87106.95,119430.01,-32323.06,-37.11
+805,"Glass Voices (Redux)","Mark Warren",Non-Famous,38074.56,49913.85,-11839.29,-31.10
+806,"Broken Lights (Tales)","Martin Johnson",Non-Famous,55087.53,64230.65,-9143.12,-16.60
+807,"Paper Confessions (Soundtrack)","Mary Anderson",Non-Famous,27096.76,37171.68,-10074.92,-37.18
+808,"Obsidian Lights (Chronicles)","Mary Hicks",Non-Famous,41973.80,54382.38,-12408.58,-29.56
+809,"Radiant Shadows (Tales)","Mary Owens",Non-Famous,32077.25,46330.00,-14252.75,-44.43
+810,"Lunar Paths (Tales)","Mary Smith",Non-Famous,27710.08,36261.68,-8551.60,-30.86
+811,"Sacred Temples","Mary Wright",Non-Famous,34945.28,45286.02,-10340.74,-29.59
+812,"Crimson Desire (Chronicles)","Mason West",Non-Famous,25074.83,35549.85,-10475.02,-41.78
+813,"Broken Temples (Diaries)","Matthew Anderson",Non-Famous,67455.04,79039.80,-11584.76,-17.17
+814,"Burning Whispers (Diaries)","Matthew Chaney",Non-Famous,54578.37,62574.22,-7995.85,-14.65
+815,"Radiant Serenade (Tales)","Matthew Hahn",Non-Famous,29502.08,39806.14,-10304.06,-34.93
+816,"Fading Visions (Anthology)","Matthew Hayes",Non-Famous,49448.56,71996.10,-22547.54,-45.60
+817,"Broken Rooms (Blueprint)","Matthew Lee",Non-Famous,31689.30,35483.64,-3794.34,-11.97
+818,"Midnight Stories (Soundtrack)","Matthew Perry",Non-Famous,24836.76,45412.06,-20575.30,-82.84
+819,"Paper Reflections (Reprise)","Matthew Scott MD",Non-Famous,24048.64,22987.35,1061.29,4.41
+820,"Infinite Roses (Diaries)","Matthew Taylor",Non-Famous,56831.68,69042.60,-12210.92,-21.49
+821,"Broken Echoes (Redux)","Matthew Tyler",Non-Famous,21947.04,23621.00,-1673.96,-7.63
+822,"Echo Serenade (Saga)","Matthew Woods",Non-Famous,24864.60,33402.00,-8537.40,-34.34
+823,"Broken Visions (Sessions)","Maurice Burnett",Non-Famous,36487.10,48928.46,-12441.36,-34.10
+824,"Infinite Paths","Meagan Russell",Non-Famous,54247.05,78254.16,-24007.11,-44.26
+825,"Frost Signals (Memoirs)","Megan Carlson",Non-Famous,39719.79,41508.90,-1789.11,-4.50
+826,"Lunar Signals","Megan Jackson",Non-Famous,19222.40,29060.24,-9837.84,-51.18
+827,"Frost Stories (Saga)","Megan Sandoval",Non-Famous,73167.48,95284.98,-22117.50,-30.23
+828,"Fading Hearts (Chronicles)","Megan Vasquez",Non-Famous,47775.60,57268.00,-9492.40,-19.87
+829,"Radiant Souls (Edition)","Melissa Austin",Non-Famous,60863.75,71297.66,-10433.91,-17.14
+830,"Ocean Signals (Verse)","Melissa Clark",Non-Famous,40021.28,68032.65,-28011.37,-69.99
+831,"Velvet Serenade (Saga)","Melissa Galloway",Non-Famous,33651.76,36454.92,-2803.16,-8.33
+832,"Electric Letters (Chronicles)","Melissa Hoffman",Non-Famous,38635.74,45671.84,-7036.10,-18.21
+833,"Velvet Roses (Verse)","Melissa Mccall",Non-Famous,46502.82,64038.72,-17535.90,-37.71
+834,"Radiant Letters (Archives)","Melissa Nguyen",Non-Famous,26833.60,33991.25,-7157.65,-26.67
+835,"Fading Rooms (Vol. I)","Melissa White",Non-Famous,22914.96,27422.55,-4507.59,-19.67
+836,"Ashen Whispers (Vol. II)","Melissa Wood",Non-Famous,29221.50,36672.30,-7450.80,-25.50
+837,"Echo Lights",Metallica,Famous,25277.78,30327.90,-5050.12,-19.98
+838,"Echo Tides (Saga)","Meredith Bowen",Non-Famous,59744.65,61097.85,-1353.20,-2.27
+839,"Lunar Hearts (Soundtrack)","Michael Allen",Non-Famous,41758.46,47680.15,-5921.69,-14.18
+840,"Wild Tides (Vol. II)","Michael Cole",Non-Famous,53328.52,70326.82,-16998.30,-31.87
+841,"Frost Reflections (Verse)","Michael Cunningham",Non-Famous,27205.74,38729.60,-11523.86,-42.36
+842,"Radiant Waves (Soundtrack)","Michael Dennis",Non-Famous,50860.77,60127.40,-9266.63,-18.22
+843,"Moonlit Voices (Vol. I)","Michael Garcia",Non-Famous,45355.95,47402.35,-2046.40,-4.51
+844,"Moonlit Stories (Tales)","Michael Gomez",Non-Famous,27612.01,32417.04,-4805.03,-17.40
+845,"Storm Letters (Reprise)","Michael Horn",Non-Famous,26270.64,31345.52,-5074.88,-19.32
+846,"Neon Hearts","Michael Houston",Non-Famous,37538.37,50552.73,-13014.36,-34.67
+847,"Neon Rhythms (Memoirs)","Michael Kirby",Non-Famous,60144.93,70117.12,-9972.19,-16.58
+848,"Sacred Whispers (Reprise)","Michael Myers",Non-Famous,42803.59,47755.20,-4951.61,-11.57
+849,"Ocean Rooms (Soundtrack)","Michael Perry",Non-Famous,46891.00,75168.58,-28277.58,-60.30
+850,"Fading Letters (Blueprint)","Michael Rangel",Non-Famous,42962.50,41206.13,1756.37,4.09
+851,"Distant Signals","Michael Rocha",Non-Famous,47817.36,65481.12,-17663.76,-36.94
+852,"Velvet Waves (Diaries)","Michael Schneider",Non-Famous,35132.94,40436.40,-5303.46,-15.10
+853,"Burning Temples (Vol. II)","Michael White",Non-Famous,25656.48,25780.68,-124.20,-0.48
+854,"Obsidian Stories (Anthology)","Michael Williams",Non-Famous,45103.23,43013.12,2090.11,4.63
+855,"Frost Echoes (Vol. I)","Michele Cortez",Non-Famous,23869.44,21780.54,2088.90,8.75
+856,"Radiant Stories (Verse)","Michele Gomez",Non-Famous,24753.82,30339.80,-5585.98,-22.57
+857,"Neon Reflections (Diaries)","Michele Johnson",Non-Famous,18908.12,26162.08,-7253.96,-38.36
+858,"Golden Visions (Vol. II)","Michelle Carter",Non-Famous,34916.88,49907.70,-14990.82,-42.93
+859,"Distant Reflections (Memoirs)","Michelle Garcia",Non-Famous,41139.60,50484.82,-9345.22,-22.72
+860,"Obsidian Paths (Tales)","Michelle Gutierrez",Non-Famous,53452.08,52347.50,1104.58,2.07
+861,"Broken Voices (Archives)","Michelle Hall",Non-Famous,60024.30,77295.60,-17271.30,-28.77
+862,"Storm Temples (Redux)","Michelle Harris",Non-Famous,63626.44,86927.35,-23300.91,-36.62
+863,"Distant Whispers (Memoirs)","Michelle Lane",Non-Famous,44791.50,61148.56,-16357.06,-36.52
+864,"Broken Paths (Saga)","Michelle Olson",Non-Famous,49910.40,55819.10,-5908.70,-11.84
+865,"Glass Horizons (Vol. I)","Michelle Ray",Non-Famous,45031.98,60266.22,-15234.24,-33.83
+866,"Crimson Temples (Anthology)","Michelle Taylor",Non-Famous,75475.95,104465.40,-28989.45,-38.41
+867,"Storm Rooms (Tales)","Miguel Fitzgerald",Non-Famous,60763.82,91817.04,-31053.22,-51.10
+868,"Broken Waves (Saga)","Miguel Rodriguez DDS",Non-Famous,51037.97,60282.86,-9244.89,-18.11
+869,"Ocean Echoes (Redux)","Mike Scott",Non-Famous,19835.89,25924.60,-6088.71,-30.70
+870,"Lunar Stories (Edition)","Mike Wright",Non-Famous,44119.98,66698.85,-22578.87,-51.18
+871,"Shattered Temples (Blueprint)","Mr. Brian Baird",Non-Famous,62191.78,91404.32,-29212.54,-46.97
+872,"Obsidian Echoes (Edition)","Mr. Brian Meyers",Non-Famous,44379.40,47797.80,-3418.40,-7.70
+873,"Obsidian Temples (Redux)","Mr. Carl Roberts",Non-Famous,49795.50,70641.36,-20845.86,-41.86
+874,"Sapphire Paths (Vol. II)","Mr. Christopher Chan",Non-Famous,46330.78,59571.84,-13241.06,-28.58
+875,"Golden Waves (Diaries)","Mr. Daniel Duncan Jr.",Non-Famous,40406.60,51352.45,-10945.85,-27.09
+876,"Wild Paradise (Tales)","Mr. George Molina Jr.",Non-Famous,51724.43,74781.41,-23056.98,-44.58
+877,"Crimson Serenade (Tales)","Mr. Jose Martin IV",Non-Famous,26704.35,42413.42,-15709.07,-58.83
+878,"Storm Shadows (Chronicles)","Mr. Robert Chen II",Non-Famous,15984.20,24537.66,-8553.46,-53.51
+879,"Velvet Serenade (Anthology)","Mr. Robert Edwards",Non-Famous,36263.75,50581.20,-14317.45,-39.48
+880,"Distant Serenade (Saga)","Mr. Robert Fisher",Non-Famous,18300.24,18113.34,186.90,1.02
+881,"Silent Horizons","Mrs. Erica Daniels",Non-Famous,35738.78,50650.39,-14911.61,-41.72
+882,"Obsidian Temples (Vol. I)","Mrs. Jennifer Murray",Non-Famous,62409.68,75251.40,-12841.72,-20.58
+883,"Ocean Paradise (Tales)","Mrs. Jessica Adams",Non-Famous,37249.44,49163.40,-11913.96,-31.98
+884,"Neon Rhythms (Diaries)","Mrs. Marie Savage",Non-Famous,22228.35,19820.94,2407.41,10.83
+885,"Golden Roses (Vol. I)","Ms. Janet Robles MD",Non-Famous,47334.50,48119.28,-784.78,-1.66
+886,"Electric Roses (Reprise)","Nancy Byrd",Non-Famous,40836.96,65179.40,-24342.44,-59.61
+887,"Golden Paradise (Blueprint)","Nancy Griffin",Non-Famous,53410.80,83410.47,-29999.67,-56.17
+888,"Sacred Reflections (Vol. II)","Nancy Middleton",Non-Famous,32877.35,41338.92,-8461.57,-25.74
+889,"Burning Stories (Verse)","Nancy Watts",Non-Famous,53905.20,62313.79,-8408.59,-15.60
+890,"Storm Serenade (Diaries)","Nathan Collier",Non-Famous,27333.32,36861.75,-9528.43,-34.86
+891,"Sacred Roses (Chronicles)","Nathan Leblanc",Non-Famous,43340.88,57135.52,-13794.64,-31.83
+892,"Sapphire Paths (Memoirs)","Nathan Porter",Non-Famous,22399.50,34026.72,-11627.22,-51.91
+893,"Wild Paradise (Reprise)","Nathaniel Rich",Non-Famous,31267.80,32896.36,-1628.56,-5.21
+894,"Silent Horizons (Chronicles)","Nathaniel Rogers",Non-Famous,29674.56,32997.34,-3322.78,-11.20
+895,"Shattered Signals (Diaries)","Nicholas Becker",Non-Famous,41054.40,42227.50,-1173.10,-2.86
+896,"Sacred Tides (Vol. II)","Nicholas Clark",Non-Famous,32771.48,41245.90,-8474.42,-25.86
+897,"Wild Paradise (Edition)","Nicholas Duke",Non-Famous,27234.53,37902.00,-10667.47,-39.17
+898,"Fading Rooms (Soundtrack)","Nicholas Frank",Non-Famous,69917.55,89572.30,-19654.75,-28.11
+899,"Lunar Stories (Redux)","Nicholas Henson",Non-Famous,37915.85,55787.60,-17871.75,-47.14
+900,"Lunar Paths","Nicholas Webb",Non-Famous,52840.64,63477.52,-10636.88,-20.13
+901,"Silent Tides (Archives)","Nicole Barnett",Non-Famous,38308.48,56728.60,-18420.12,-48.08
+902,"Ashen Letters (Blueprint)","Nicole Jimenez",Non-Famous,56206.41,77995.30,-21788.89,-38.77
+903,"Echo Dreams (Redux)","Nicole Oneal",Non-Famous,38675.00,46996.00,-8321.00,-21.52
+904,"Hidden Souls (Tales)","Nicole Smith",Non-Famous,31348.42,44693.64,-13345.22,-42.57
+905,"Sacred Paths (Chronicles)","Nicole Thompson",Non-Famous,39107.10,49473.90,-10366.80,-26.51
+906,"Midnight Rooms (Memoirs)","Nicole Walker",Non-Famous,18833.64,25818.92,-6985.28,-37.09
+907,"Infinite Visions (Saga)",Nirvana,Famous,59171.58,78592.32,-19420.74,-32.82
+908,"Whisper Signals (Tales)","Noah Young",Non-Famous,33634.71,40705.60,-7070.89,-21.02
+909,"Hidden Confessions (Redux)","Oscar Lopez",Non-Famous,49591.45,60562.67,-10971.22,-22.12
+910,"Moonlit Desire (Diaries)","Patricia Buchanan",Non-Famous,25827.60,31287.30,-5459.70,-21.14
+911,"Paper Stories (Tales)","Patricia Gonzalez",Non-Famous,26603.64,35857.39,-9253.75,-34.78
+912,"Velvet Waves (Archives)","Patricia Kane",Non-Famous,44027.75,51902.40,-7874.65,-17.89
+913,"Sacred Signals (Blueprint)","Patricia Morgan",Non-Famous,40008.98,49347.56,-9338.58,-23.34
+914,"Blazing Souls (Reprise)","Patricia Sanchez",Non-Famous,19371.75,33359.04,-13987.29,-72.20
+915,"Electric Confessions (Saga)","Patricia Williams",Non-Famous,55220.67,80533.20,-25312.53,-45.84
+916,"Burning Confessions (Anthology)","Patrick George",Non-Famous,54713.50,89223.12,-34509.62,-63.07
+917,"Radiant Serenade","Paul Chapman",Non-Famous,44607.60,55890.00,-11282.40,-25.29
+918,"Fading Signals (Vol. I)","Paul Henderson",Non-Famous,23503.35,26644.24,-3140.89,-13.36
+919,"Radiant Visions (Vol. I)","Paul Tucker",Non-Famous,30377.25,43427.16,-13049.91,-42.96
+920,"Crimson Rooms (Vol. I)","Paul Valencia",Non-Famous,52834.65,60296.60,-7461.95,-14.12
+921,"Neon Visions (Verse)","Paula Webb",Non-Famous,51082.88,61880.24,-10797.36,-21.14
+922,"Paper Paradise (Vol. II)","Pearl Jam",Famous,54707.24,64988.28,-10281.04,-18.79
+923,"Obsidian Lights (Edition)","Penny Miller",Non-Famous,39131.18,54157.21,-15026.03,-38.40
+924,"Blazing Stories (Edition)","Peter Glass",Non-Famous,55885.55,62870.39,-6984.84,-12.50
+925,"Wild Tides (Sessions)","Peter Moore",Non-Famous,29512.08,35714.40,-6202.32,-21.02
+926,"Distant Confessions (Reprise)","Peter Roth DDS",Non-Famous,30122.64,36942.75,-6820.11,-22.64
+927,"Blazing Letters (Diaries)","Peter Sullivan",Non-Famous,28746.56,42052.07,-13305.51,-46.29
+928,"Wild Souls (Anthology)","Peter Thornton",Non-Famous,48456.72,68761.56,-20304.84,-41.90
+929,"Obsidian Rooms (Chronicles)","Phillip Conner",Non-Famous,31423.14,40569.60,-9146.46,-29.11
+930,"Broken Waves (Vol. II)","Phillip Cunningham",Non-Famous,29514.76,27997.46,1517.30,5.14
+931,"Neon Dreams (Redux)",Queen,Famous,26211.60,32958.14,-6746.54,-25.74
+932,"Blazing Paths","Rachael Henderson",Non-Famous,53236.08,60333.84,-7097.76,-13.33
+933,"Crimson Lights (Vol. II)","Rachael Lambert",Non-Famous,62955.84,86892.61,-23936.77,-38.02
+934,"Midnight Tides (Memoirs)","Rachel Boyer",Non-Famous,71381.48,90549.73,-19168.25,-26.85
+935,"Crimson Whispers (Sessions)","Rachel Franklin",Non-Famous,29900.43,39269.76,-9369.33,-31.34
+936,"Lunar Whispers","Rachel Garza",Non-Famous,23966.60,30856.60,-6890.00,-28.75
+937,"Midnight Temples (Redux)","Rachel Hansen",Non-Famous,34076.40,45029.16,-10952.76,-32.14
+938,"Infinite Serenade (Vol. I)","Rachel Kane",Non-Famous,48150.20,72116.13,-23965.93,-49.77
+939,"Whisper Stories (Redux)","Rachel Lopez",Non-Famous,38116.20,35996.29,2119.91,5.56
+940,"Midnight Desire (Anthology)","Ralph Berry",Non-Famous,28406.84,40918.02,-12511.18,-44.04
+941,"Distant Rooms (Chronicles)","Randall Chandler",Non-Famous,55916.85,69743.52,-13826.67,-24.73
+942,"Radiant Hearts (Reprise)","Randy Reilly",Non-Famous,17945.84,23529.44,-5583.60,-31.11
+943,"Fading Whispers (Anthology)","Raymond Robertson",Non-Famous,19022.38,24500.08,-5477.70,-28.80
+944,"Distant Visions (Tales)","Raymond Stone",Non-Famous,40278.00,52511.25,-12233.25,-30.37
+945,"Crimson Paradise (Vol. I)","Raymond Wells",Non-Famous,52898.65,65685.02,-12786.37,-24.17
+946,"Fading Voices (Reprise)","Rebecca Anderson",Non-Famous,41737.68,48949.81,-7212.13,-17.28
+947,"Crimson Letters (Chronicles)","Rebecca Benitez",Non-Famous,47079.12,50650.92,-3571.80,-7.59
+948,"Moonlit Signals (Reprise)","Rebecca Gregory",Non-Famous,20067.08,32017.92,-11950.84,-59.55
+949,"Sapphire Lights (Verse)","Rebecca Joyce",Non-Famous,56673.30,63650.76,-6977.46,-12.31
+950,"Fading Paradise (Verse)","Rebecca Martinez",Non-Famous,50935.77,60811.02,-9875.25,-19.39
+951,"Paper Echoes (Sessions)","Rebecca Mccoy",Non-Famous,42054.12,51287.24,-9233.12,-21.96
+952,"Velvet Visions (Vol. I)","Rebecca Nelson",Non-Famous,67089.60,76748.76,-9659.16,-14.40
+953,"Sapphire Hearts (Archives)","Rebecca Orozco",Non-Famous,42068.16,64608.00,-22539.84,-53.58
+954,"Silent Rhythms (Tales)","Rebecca Sampson",Non-Famous,45379.32,73920.16,-28540.84,-62.89
+955,"Silent Rooms (Redux)","Rebecca Washington",Non-Famous,29828.67,34313.72,-4485.05,-15.04
+956,"Electric Stories (Tales)","Rebecca White",Non-Famous,52119.36,62249.25,-10129.89,-19.44
+957,"Velvet Reflections","Regina Burns",Non-Famous,47661.38,61431.85,-13770.47,-28.89
+958,"Electric Waves (Archives)","Regina Lee",Non-Famous,31344.72,33612.00,-2267.28,-7.23
+959,"Sapphire Souls (Edition)","Renee Evans",Non-Famous,44991.52,62303.66,-17312.14,-38.48
+960,"Sacred Tides","Rhonda Ball",Non-Famous,23311.20,32823.81,-9512.61,-40.81
+961,"Hidden Waves (Saga)","Rhonda Rivera",Non-Famous,27660.06,41984.02,-14323.96,-51.79
+962,"Paper Tides (Archives)","Richard Lang",Non-Famous,26147.85,34526.14,-8378.29,-32.04
+963,"Silent Whispers (Soundtrack)","Richard Saunders",Non-Famous,57902.11,91416.96,-33514.85,-57.88
+964,"Burning Confessions (Edition)","Richard Watkins",Non-Famous,28081.83,31390.20,-3308.37,-11.78
+965,"Ashen Echoes (Vol. I)","Ricky Collins",Non-Famous,43010.19,54559.66,-11549.47,-26.85
+966,"Neon Letters (Edition)","Rita Johnson",Non-Famous,68972.81,96913.95,-27941.14,-40.51
+967,"Distant Tides (Tales)","Robert Burns",Non-Famous,56670.88,77069.24,-20398.36,-35.99
+968,"Infinite Letters (Soundtrack)","Robert Chung",Non-Famous,34241.74,49055.22,-14813.48,-43.26
+969,"Electric Letters (Saga)","Robert Duarte",Non-Famous,55791.94,73350.94,-17559.00,-31.47
+970,"Neon Paradise (Archives)","Robert Ingram",Non-Famous,61867.84,83230.72,-21362.88,-34.53
+971,"Golden Desire (Tales)","Robert Massey",Non-Famous,56609.35,75150.27,-18540.92,-32.75
+972,"Frost Letters (Vol. II)","Robert Medina",Non-Famous,31001.58,38748.22,-7746.64,-24.99
+973,"Neon Dreams (Diaries)","Robert Miller",Non-Famous,27486.25,26775.00,711.25,2.59
+974,"Moonlit Desire (Reprise)","Robert Moore",Non-Famous,52617.60,66300.12,-13682.52,-26.00
+975,"Crimson Souls (Edition)","Robert Ray",Non-Famous,26369.70,44229.15,-17859.45,-67.73
+976,"Neon Reflections (Archives)","Robert Robinson",Non-Famous,60839.97,70689.24,-9849.27,-16.19
+977,"Ocean Hearts (Blueprint)","Robert Stuart",Non-Famous,33978.10,38167.20,-4189.10,-12.33
+978,"Shattered Reflections (Diaries)","Robert Vega",Non-Famous,35233.80,48283.00,-13049.20,-37.04
+979,"Electric Shadows (Tales)","Roberto Ferguson",Non-Famous,45839.92,53826.24,-7986.32,-17.42
+980,"Frost Horizons (Verse)","Robin Hancock",Non-Famous,16784.24,23561.00,-6776.76,-40.38
+981,"Glass Waves (Vol. I)","Robin Mcfarland",Non-Famous,29978.90,42507.04,-12528.14,-41.79
+982,"Silent Hearts","Robin Salazar",Non-Famous,53959.68,73398.71,-19439.03,-36.03
+983,"Frost Reflections (Memoirs)","Rodney Olson MD",Non-Famous,35595.56,54398.30,-18802.74,-52.82
+984,"Burning Souls (Memoirs)","Roger Nguyen",Non-Famous,50220.80,62591.40,-12370.60,-24.63
+985,"Paper Paradise (Vol. I)","Ronald Curtis",Non-Famous,56677.04,88025.64,-31348.60,-55.31
+986,"Glass Horizons (Edition)","Ronald Schneider",Non-Famous,16200.24,20414.82,-4214.58,-26.02
+987,"Distant Rhythms (Vol. I)","Ronald Smith",Non-Famous,22304.52,20908.01,1396.51,6.26
+988,"Hidden Temples (Memoirs)","Ronald Williams",Non-Famous,65709.76,91679.28,-25969.52,-39.52
+989,"Echo Paradise (Tales)","Roy Murray",Non-Famous,47788.00,65302.80,-17514.80,-36.65
+990,"Distant Paths (Edition)","Ruben Sweeney",Non-Famous,32149.38,43258.88,-11109.50,-34.56
+991,"Fading Echoes (Memoirs)","Russell Martin",Non-Famous,41764.75,46401.16,-4636.41,-11.10
+992,"Storm Voices (Tales)","Ryan Beltran DDS",Non-Famous,23175.12,29844.15,-6669.03,-28.78
+993,"Sapphire Paths (Edition)","Ryan Day",Non-Famous,25666.14,30334.59,-4668.45,-18.19
+994,"Lunar Echoes (Diaries)","Ryan Duran",Non-Famous,74933.43,98928.58,-23995.15,-32.02
+995,"Distant Letters (Tales)","Ryan Patterson",Non-Famous,32451.20,40228.62,-7777.42,-23.97
+996,"Infinite Paths (Blueprint)","Ryan Smith",Non-Famous,29136.24,40995.03,-11858.79,-40.70
+997,"Golden Paths (Redux)","Ryan Wyatt",Non-Famous,33932.29,31473.24,2459.05,7.25
+998,"Storm Paths (Vol. II)","Samantha Butler",Non-Famous,36502.00,44601.55,-8099.55,-22.19
+999,"Silent Souls (Sessions)","Samantha Dalton",Non-Famous,42757.26,63439.11,-20681.85,-48.37
+1000,"Burning Rhythms (Chronicles)","Samantha Malone",Non-Famous,41916.96,52272.84,-10355.88,-24.71
+1001,"Silent Confessions (Edition)","Samantha Ramirez",Non-Famous,33312.72,45053.79,-11741.07,-35.25
+1002,"Distant Horizons (Tales)","Samantha Wright",Non-Famous,28494.60,39018.21,-10523.61,-36.93
+1003,"Golden Signals (Blueprint)","Samuel Miller DDS",Non-Famous,35353.80,38526.05,-3172.25,-8.97
+1004,"Frost Visions (Diaries)","Samuel Ortega",Non-Famous,65545.28,89485.83,-23940.55,-36.53
+1005,"Sacred Paths (Tales)","Sara Moore",Non-Famous,76720.66,94804.95,-18084.29,-23.57
+1006,"Fading Souls (Tales)","Sara Solis",Non-Famous,31088.40,41513.85,-10425.45,-33.53
+1007,"Midnight Letters (Soundtrack)","Sarah Hall",Non-Famous,22548.48,33491.16,-10942.68,-48.53
+1008,"Moonlit Temples (Vol. I)","Sarah Horn",Non-Famous,58616.35,79523.68,-20907.33,-35.67
+1009,"Shattered Desire (Sessions)","Sarah Lucero",Non-Famous,37940.34,52216.75,-14276.41,-37.63
+1010,"Ocean Waves (Diaries)","Sarah Proctor",Non-Famous,50521.19,72258.17,-21736.98,-43.03
+1011,"Infinite Signals","Sarah Ward",Non-Famous,49499.24,69893.55,-20394.31,-41.20
+1012,"Neon Desire (Edition)","Scott Bullock",Non-Famous,23262.20,25480.26,-2218.06,-9.54
+1013,"Sacred Serenade (Edition)","Scott Cantrell",Non-Famous,24302.60,30323.80,-6021.20,-24.78
+1014,"Moonlit Stories (Blueprint)","Scott Carpenter",Non-Famous,41402.79,53752.80,-12350.01,-29.83
+1015,"Wild Echoes (Vol. II)","Scott Day",Non-Famous,71865.50,100041.60,-28176.10,-39.21
+1016,"Moonlit Horizons (Vol. II)","Scott Fields",Non-Famous,28705.59,35916.69,-7211.10,-25.12
+1017,"Frost Voices (Chronicles)","Scott Figueroa",Non-Famous,22346.40,27347.46,-5001.06,-22.38
+1018,"Golden Letters (Anthology)","Scott Hampton",Non-Famous,27866.52,27820.56,45.96,0.16
+1019,"Frost Desire (Verse)","Scott Lopez",Non-Famous,71211.98,64697.92,6514.06,9.15
+1020,"Sacred Dreams (Verse)","Scott Moss",Non-Famous,32609.70,43094.61,-10484.91,-32.15
+1021,"Burning Hearts (Soundtrack)","Scott Perez",Non-Famous,29370.66,36859.68,-7489.02,-25.50
+1022,"Golden Waves (Edition)","Scott Shepherd",Non-Famous,36255.20,57697.38,-21442.18,-59.14
+1023,"Moonlit Horizons (Memoirs)","Scott Sullivan",Non-Famous,51112.60,68165.37,-17052.77,-33.36
+1024,"Midnight Lights (Reprise)","Scott Wagner",Non-Famous,22221.60,33630.62,-11409.02,-51.34
+1025,"Neon Paths (Vol. I)","Sean Coleman",Non-Famous,39959.26,44523.40,-4564.14,-11.42
+1026,"Distant Dreams (Memoirs)","Sean Kelly",Non-Famous,49131.94,57713.32,-8581.38,-17.47
+1027,"Moonlit Lights","Seth Peters",Non-Famous,39307.68,57826.16,-18518.48,-47.11
+1028,"Electric Paradise (Anthology)","Shannon Barnes",Non-Famous,41993.64,49700.75,-7707.11,-18.35
+1029,"Silent Confessions (Anthology)","Shannon Reyes",Non-Famous,30048.30,40684.41,-10636.11,-35.40
+1030,"Moonlit Hearts (Soundtrack)","Shannon Wise",Non-Famous,33080.40,41480.52,-8400.12,-25.39
+1031,"Sacred Rooms (Soundtrack)","Sharon Gilbert",Non-Famous,56836.50,78647.59,-21811.09,-38.38
+1032,"Sacred Paths (Edition)","Sharon Gordon",Non-Famous,51484.68,64655.37,-13170.69,-25.58
+1033,"Wild Lights (Vol. I)","Shaun Freeman",Non-Famous,21261.12,27534.66,-6273.54,-29.51
+1034,"Lunar Dreams","Shawn Washington",Non-Famous,59711.00,94390.21,-34679.21,-58.08
+1035,"Sacred Stories (Vol. II)","Shawna Martin",Non-Famous,30990.72,34858.08,-3867.36,-12.48
+1036,"Whisper Hearts (Sessions)","Sheila Campbell",Non-Famous,27840.33,35860.90,-8020.57,-28.81
+1037,"Lunar Souls (Edition)","Sheila Contreras",Non-Famous,61717.26,81369.12,-19651.86,-31.84
+1038,"Sapphire Tides (Verse)","Shelby Black",Non-Famous,51375.24,69524.38,-18149.14,-35.33
+1039,"Ashen Lights (Anthology)","Sherri Allen",Non-Famous,57837.45,67206.90,-9369.45,-16.20
+1040,"Shattered Tides (Sessions)","Sherry Gomez",Non-Famous,41169.66,55328.22,-14158.56,-34.39
+1041,"Radiant Whispers (Memoirs)","Sherry Rios",Non-Famous,41224.97,51264.40,-10039.43,-24.35
+1042,"Hidden Shadows (Archives)","Sherry Thompson",Non-Famous,21211.68,29048.76,-7837.08,-36.95
+1043,"Distant Serenade (Vol. II)","Shirley Clark",Non-Famous,29691.06,43586.40,-13895.34,-46.80
+1044,"Electric Temples (Edition)","Shirley Farmer",Non-Famous,43305.12,72370.10,-29064.98,-67.12
+1045,"Sapphire Paths (Saga)","Stacey Sandoval",Non-Famous,40348.20,48135.00,-7786.80,-19.30
+1046,"Fading Letters (Saga)","Stacy Fuller",Non-Famous,13633.56,18584.50,-4950.94,-36.31
+1047,"Blazing Shadows (Soundtrack)","Stacy Willis",Non-Famous,43864.20,53660.38,-9796.18,-22.33
+1048,"Velvet Signals (Soundtrack)","Stephanie Carrillo",Non-Famous,22520.22,29406.96,-6886.74,-30.58
+1049,"Burning Signals (Memoirs)","Stephanie Casey",Non-Famous,33429.90,38744.16,-5314.26,-15.90
+1050,"Velvet Souls (Redux)","Stephanie Floyd",Non-Famous,67757.76,94139.02,-26381.26,-38.93
+1051,"Velvet Hearts (Archives)","Stephanie Hicks",Non-Famous,42174.96,41724.00,450.96,1.07
+1052,"Lunar Lights (Sessions)","Stephanie Jones",Non-Famous,26980.02,43115.10,-16135.08,-59.80
+1053,"Blazing Tides (Anthology)","Stephanie Kane",Non-Famous,16819.97,18356.69,-1536.72,-9.14
+1054,"Whisper Letters (Chronicles)","Stephanie Rodriguez",Non-Famous,49131.50,56611.06,-7479.56,-15.22
+1055,"Obsidian Rhythms (Chronicles)","Stephanie Ruiz",Non-Famous,82657.92,124763.80,-42105.88,-50.94
+1056,"Electric Hearts (Diaries)","Stephanie Salas",Non-Famous,47955.84,66046.35,-18090.51,-37.72
+1057,"Distant Desire (Diaries)","Stephanie Smith",Non-Famous,27395.28,36227.52,-8832.24,-32.24
+1058,"Hidden Voices (Redux)","Stephanie Vang",Non-Famous,38367.58,57388.32,-19020.74,-49.58
+1059,"Paper Horizons (Reprise)","Stephen Evans",Non-Famous,32417.10,38293.20,-5876.10,-18.13
+1060,"Hidden Paradise (Soundtrack)","Stephen Williams",Non-Famous,28242.52,29547.20,-1304.68,-4.62
+1061,"Ocean Signals (Sessions)","Steven Evans",Non-Famous,52416.63,57119.35,-4702.72,-8.97
+1062,"Wild Stories (Reprise)","Steven Horton",Non-Famous,35159.88,33499.69,1660.19,4.72
+1063,"Ashen Serenade (Archives)","Steven Johnston",Non-Famous,30955.68,41755.00,-10799.32,-34.89
+1064,"Echo Confessions (Soundtrack)","Steven Marks",Non-Famous,44214.72,47212.00,-2997.28,-6.78
+1065,"Distant Signals (Edition)","Steven Navarro",Non-Famous,21010.56,26192.40,-5181.84,-24.66
+1066,"Broken Rooms (Saga)","Steven Stewart",Non-Famous,53494.50,67286.91,-13792.41,-25.78
+1067,"Moonlit Dreams (Tales)","Steven Taylor",Non-Famous,58704.60,66742.32,-8037.72,-13.69
+1068,"Neon Roses (Reprise)","Steven Ward",Non-Famous,77052.84,122222.10,-45169.26,-58.62
+1069,"Blazing Visions","Susan Johnson",Non-Famous,62532.72,71744.00,-9211.28,-14.73
+1070,"Electric Desire (Saga)","Susan Robles",Non-Famous,26615.75,33195.68,-6579.93,-24.72
+1071,"Echo Desire (Archives)","Susan Salinas",Non-Famous,36304.24,48505.80,-12201.56,-33.61
+1072,"Golden Shadows (Sessions)","Suzanne Lopez",Non-Famous,16526.40,17135.00,-608.60,-3.68
+1073,"Paper Tides (Memoirs)","Tamara Miller",Non-Famous,43546.20,54177.80,-10631.60,-24.41
+1074,"Moonlit Whispers (Redux)","Tami Wilkinson",Non-Famous,37362.75,49923.00,-12560.25,-33.62
+1075,"Burning Visions (Blueprint)","Tara Carney",Non-Famous,73638.22,95630.04,-21991.82,-29.86
+1076,"Broken Paths (Verse)","Tara Hill",Non-Famous,55749.87,83664.24,-27914.37,-50.07
+1077,"Wild Horizons (Chronicles)","Tara Jones",Non-Famous,30510.60,48710.40,-18199.80,-59.65
+1078,"Ashen Visions (Archives)","Tara Price",Non-Famous,58027.55,79717.04,-21689.49,-37.38
+1079,"Electric Echoes (Redux)","Taylor Bailey",Non-Famous,28435.68,35708.40,-7272.72,-25.58
+1080,"Neon Tides (Vol. I)","Taylor Cook",Non-Famous,61807.25,101203.20,-39395.95,-63.74
+1081,"Glass Serenade (Soundtrack)","Taylor Davis",Non-Famous,41536.26,35930.88,5605.38,13.50
+1082,"Ocean Roses (Diaries)","Taylor Forbes",Non-Famous,31597.68,45466.25,-13868.57,-43.89
+1083,"Electric Horizons (Redux)","Teresa Lopez",Non-Famous,60546.92,76124.51,-15577.59,-25.73
+1084,"Velvet Dreams (Vol. II)","Terri Carey",Non-Famous,35553.00,27145.00,8408.00,23.65
+1085,"Storm Echoes (Sessions)","Terri Mccullough",Non-Famous,32356.20,47886.00,-15529.80,-48.00
+1086,"Midnight Rhythms (Reprise)","Terri Nguyen",Non-Famous,24040.75,30294.18,-6253.43,-26.01
+1087,"Paper Paradise (Blueprint)","Terry Harris",Non-Famous,27753.60,39797.99,-12044.39,-43.40
+1088,"Ocean Reflections (Vol. I)","Theresa Ramos",Non-Famous,22070.80,24537.76,-2466.96,-11.18
+1089,"Blazing Desire","Theresa Wall",Non-Famous,29997.75,37444.68,-7446.93,-24.83
+1090,"Fading Signals (Vol. II)","Thomas Duncan",Non-Famous,28539.04,36361.26,-7822.22,-27.41
+1091,"Obsidian Confessions (Verse)","Thomas Herrera",Non-Famous,31436.64,42403.40,-10966.76,-34.89
+1092,"Velvet Dreams (Diaries)","Thomas Le",Non-Famous,46739.50,50681.80,-3942.30,-8.43
+1093,"Infinite Serenade (Blueprint)","Thomas Mejia",Non-Famous,52104.92,70721.70,-18616.78,-35.73
+1094,"Obsidian Desire (Redux)","Thomas Miller",Non-Famous,55495.80,72769.49,-17273.69,-31.13
+1095,"Glass Waves (Reprise)","Thomas Rubio",Non-Famous,46426.05,56653.82,-10227.77,-22.03
+1096,"Lunar Horizons (Vol. I)","Tiffany Johnson",Non-Famous,24183.12,28056.28,-3873.16,-16.02
+1097,"Ashen Letters (Redux)","Tiffany Keller",Non-Famous,51713.48,59015.33,-7301.85,-14.12
+1098,"Shattered Roses (Blueprint)","Tim Graham",Non-Famous,24570.00,24503.00,67.00,0.27
+1099,"Radiant Echoes (Diaries)","Tim Murphy",Non-Famous,30189.06,27907.11,2281.95,7.56
+1100,"Sapphire Voices (Reprise)","Timothy Chavez",Non-Famous,63372.83,85842.72,-22469.89,-35.46
+1101,"Fading Souls (Diaries)","Timothy Harris",Non-Famous,17202.99,22196.77,-4993.78,-29.03
+1102,"Distant Voices (Vol. I)","Timothy Jones",Non-Famous,40587.00,66115.98,-25528.98,-62.90
+1103,"Ashen Visions (Edition)","Timothy Nelson",Non-Famous,31357.50,40572.00,-9214.50,-29.39
+1104,"Whisper Reflections (Redux)","Timothy Reed",Non-Famous,71570.40,88582.00,-17011.60,-23.77
+1105,"Hidden Visions (Anthology)","Timothy Sanchez",Non-Famous,29374.08,27145.72,2228.36,7.59
+1106,"Distant Voices (Diaries)","Timothy Wade",Non-Famous,41285.16,57987.36,-16702.20,-40.46
+1107,"Distant Confessions (Verse)","Timothy Wilson",Non-Famous,43337.00,40754.28,2582.72,5.96
+1108,"Sacred Shadows (Redux)","Tina Brown",Non-Famous,41572.18,53857.50,-12285.32,-29.55
+1109,"Broken Confessions (Archives)","Tina Cortez",Non-Famous,53750.52,66471.21,-12720.69,-23.67
+1110,"Infinite Letters (Verse)","Tina Lawrence",Non-Famous,51660.36,70559.64,-18899.28,-36.58
+1111,"Glass Echoes (Verse)","Tina Webb",Non-Famous,40790.25,45759.42,-4969.17,-12.18
+1112,"Shattered Dreams (Archives)","Todd Davis",Non-Famous,23049.00,33336.08,-10287.08,-44.63
+1113,"Velvet Stories (Archives)","Todd Riley",Non-Famous,31268.34,33337.08,-2068.74,-6.62
+1114,"Frost Tides (Soundtrack)","Todd Wallace",Non-Famous,31195.89,35865.18,-4669.29,-14.97
+1115,"Midnight Dreams (Soundtrack)","Todd Williams",Non-Famous,35320.56,35010.54,310.02,0.88
+1116,"Broken Horizons (Soundtrack)","Tonya Baker",Non-Famous,69874.05,108847.80,-38973.75,-55.78
+1117,"Sacred Roses (Vol. II)","Tonya Gibson",Non-Famous,22698.01,23076.90,-378.89,-1.67
+1118,"Midnight Visions (Vol. I)","Tonya Thompson",Non-Famous,17013.60,21999.60,-4986.00,-29.31
+1119,"Electric Roses (Vol. II)","Traci Butler",Non-Famous,33412.50,41820.80,-8408.30,-25.17
+1120,"Glass Paths (Sessions)","Tracy Holt",Non-Famous,48200.10,67717.75,-19517.65,-40.49
+1121,"Crimson Desire (Vol. II)","Trevor Young",Non-Famous,42960.51,48380.50,-5419.99,-12.62
+1122,"Shattered Temples (Redux)","Tricia Collins",Non-Famous,28863.80,38434.24,-9570.44,-33.16
+1123,"Distant Stories (Vol. II)","Troy Barnes",Non-Famous,48779.50,72758.36,-23978.86,-49.16
+1124,"Midnight Desire (Verse)","Troy Jones",Non-Famous,58290.87,78086.32,-19795.45,-33.96
+1125,"Echo Reflections (Anthology)","Troy Miller MD",Non-Famous,46829.79,69780.48,-22950.69,-49.01
+1126,"Whisper Hearts (Vol. II)","Troy Steele",Non-Famous,40146.72,47105.60,-6958.88,-17.33
+1127,"Silent Lights (Edition)","Twenty One Pilots",Famous,14551.04,13732.80,818.24,5.62
+1128,"Radiant Voices (Memoirs)",Usher,Famous,68020.59,81891.18,-13870.59,-20.39
+1129,"Hidden Echoes (Redux)","Valerie Brown",Non-Famous,70862.40,100644.70,-29782.30,-42.03
+1130,"Velvet Serenade (Chronicles)","Vanessa Oconnor",Non-Famous,46621.17,63209.04,-16587.87,-35.58
+1131,"Fading Rooms (Sessions)","Vanessa Stanton",Non-Famous,57408.61,69050.80,-11642.19,-20.28
+1132,"Midnight Shadows (Chronicles)","Veronica Crane",Non-Famous,54903.25,79258.14,-24354.89,-44.36
+1133,"Radiant Paradise (Archives)","Victor Duran",Non-Famous,39998.20,54825.32,-14827.12,-37.07
+1134,"Glass Visions (Saga)","Victoria Collins",Non-Famous,40363.39,53842.73,-13479.34,-33.40
+1135,"Whisper Signals","Victoria Hawkins",Non-Famous,46284.04,48169.89,-1885.85,-4.07
+1136,"Frost Tides (Saga)","Victoria Martinez",Non-Famous,42859.04,49472.58,-6613.54,-15.43
+1137,"Radiant Letters (Memoirs)","Victoria Webb",Non-Famous,55831.25,71714.12,-15882.87,-28.45
+1138,"Golden Echoes (Blueprint)","Victoria West",Non-Famous,42278.22,48334.50,-6056.28,-14.32
+1139,"Silent Paths (Vol. II)","Vincent Flores",Non-Famous,42239.60,48031.20,-5791.60,-13.71
+1140,"Velvet Dreams (Edition)","Vincent Mathis",Non-Famous,63809.83,105084.35,-41274.52,-64.68
+1141,"Moonlit Reflections (Memoirs)","Vincent Patrick",Non-Famous,48256.02,56935.77,-8679.75,-17.99
+1142,"Ocean Letters (Verse)","Vincent Wilson",Non-Famous,35773.78,53013.78,-17240.00,-48.19
+1143,"Echo Roses (Anthology)","Walter Reid",Non-Famous,46831.98,52512.63,-5680.65,-12.13
+1144,"Echo Tides (Tales)","Wanda Pearson",Non-Famous,65694.44,92929.02,-27234.58,-41.46
+1145,"Obsidian Horizons (Verse)","Warren James",Non-Famous,40022.55,50160.63,-10138.08,-25.33
+1146,"Whisper Confessions (Anthology)","Wendy Anderson",Non-Famous,41105.47,48698.00,-7592.53,-18.47
+1147,"Fading Paradise (Blueprint)","Wendy Berry",Non-Famous,65922.94,84960.02,-19037.08,-28.88
+1148,"Lunar Signals (Vol. II)","Wesley Bright",Non-Famous,48643.65,47283.92,1359.73,2.80
+1149,"Whisper Confessions (Tales)","Whitney Armstrong",Non-Famous,31846.08,46991.69,-15145.61,-47.56
+1150,"Obsidian Desire (Reprise)","William Cook",Non-Famous,43679.36,55989.96,-12310.60,-28.18
+1151,"Lunar Desire (Reprise)","William Fisher",Non-Famous,43662.00,59259.48,-15597.48,-35.72
+1152,"Glass Tides (Vol. II)","William Mata",Non-Famous,37197.36,41254.32,-4056.96,-10.91
+1153,"Burning Rooms (Anthology)","William Mccall",Non-Famous,45738.49,3314896.64,-3269158.15,-7147.50
+1154,"Velvet Tides","William Miller",Non-Famous,45043.67,69473.36,-24429.69,-54.24
+1155,"Ocean Voices (Sessions)","William Ortiz",Non-Famous,38511.42,50473.54,-11962.12,-31.06
+1156,"Distant Hearts (Vol. II)","William Rogers",Non-Famous,37270.51,51725.88,-14455.37,-38.79
+1157,"Distant Rooms (Memoirs)","William Russo",Non-Famous,45426.96,54000.66,-8573.70,-18.87
+1158,"Silent Souls","William Velez",Non-Famous,62564.40,95425.44,-32861.04,-52.52
+1159,"Ocean Rhythms (Sessions)","Willie Stevens",Non-Famous,53231.68,59739.36,-6507.68,-12.23
+1160,"Blazing Voices (Sessions)","Willie Wright",Non-Famous,43237.48,57795.00,-14557.52,-33.67
+1161,"Echo Souls (Vol. I)","Zachary Holder",Non-Famous,37273.60,44816.33,-7542.73,-20.24
+1162,"Ocean Serenade (Diaries)","Zachary Kent",Non-Famous,18.97,NULL,NULL,NULL
+1163,"Hidden Waves (Edition)","Zachary Miller",Non-Famous,19.47,NULL,NULL,NULL
