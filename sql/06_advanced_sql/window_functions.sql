@@ -254,3 +254,209 @@ FROM (
 ) x
 WHERE rn = 1
   AND order_revenue > avg_customer_order_value;
+
+/* =========================================================
+   Customer Order Ranking Within Each Year
+   ---------------------------------------------------------
+   Purpose:
+   - Rank customers by number of orders within each year
+   - Helps identify top customers annually
+   ---------------------------------------------------------
+   Logic:
+   - Aggregate orders per customer per year
+   - RANK() assigns same rank for ties
+   ========================================================= */
+
+SELECT
+    year,
+    customer_id,
+    total_orders,
+    RANK() OVER (
+        PARTITION BY year
+        ORDER BY total_orders DESC
+    ) AS customer_rank_in_year
+FROM (
+    SELECT
+        YEAR(order_date) AS year,
+        customer_id,
+        COUNT(order_id) AS total_orders
+    FROM orders
+    GROUP BY YEAR(order_date), customer_id
+) x;
+
+
+/* =========================================================
+   Dense Ranking of Albums by Revenue (No Gaps)
+   ---------------------------------------------------------
+   Purpose:
+   - Rank albums by revenue without gaps in ranking
+   - Useful for leaderboard-style reporting
+   ---------------------------------------------------------
+   Logic:
+   - DENSE_RANK() avoids skipping ranks on ties
+   ========================================================= */
+
+SELECT
+    album_id,
+    album_name,
+    revenue,
+    DENSE_RANK() OVER (
+        ORDER BY revenue DESC
+    ) AS revenue_rank
+FROM (
+    SELECT
+        a.album_id,
+        a.album_name,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS revenue
+    FROM album a
+    JOIN order_items oi ON a.album_id = oi.album_id
+    GROUP BY a.album_id, a.album_name
+) x;
+
+
+/* =========================================================
+   Order Revenue Compared to Customer Maximum
+   ---------------------------------------------------------
+   Purpose:
+   - Compare each order’s revenue to the customer’s
+     highest-ever order value
+   ---------------------------------------------------------
+   Logic:
+   - MAX() OVER() provides customer-level benchmark
+   ========================================================= */
+
+SELECT
+    order_id,
+    customer_id,
+    order_revenue,
+    max_order_revenue,
+    order_revenue - max_order_revenue AS diff_from_max
+FROM (
+    SELECT
+        o.order_id,
+        o.customer_id,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS order_revenue,
+        MAX(SUM(oi.unit_price * oi.quantity_to_buy)) OVER (
+            PARTITION BY o.customer_id
+        ) AS max_order_revenue
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    GROUP BY o.order_id, o.customer_id
+) x;
+
+
+/* =========================================================
+   Customer Growth Trajectory (Order Sequence + Gap)
+   ---------------------------------------------------------
+   Purpose:
+   - Track how quickly customers place repeat orders
+   ---------------------------------------------------------
+   Logic:
+   - ROW_NUMBER() gives purchase sequence
+   - LAG() enables gap analysis
+   ========================================================= */
+
+SELECT
+    customer_id,
+    order_id,
+    order_date,
+    ROW_NUMBER() OVER (
+        PARTITION BY customer_id
+        ORDER BY order_date
+    ) AS purchase_number,
+    DATEDIFF(
+        order_date,
+        LAG(order_date) OVER (
+            PARTITION BY customer_id
+            ORDER BY order_date
+        )
+    ) AS days_since_previous_order
+FROM orders
+ORDER BY customer_id, order_date;
+
+
+/* =========================================================
+   Revenue Contribution Percentage per Album
+   ---------------------------------------------------------
+   Purpose:
+   - Measure how much each album contributes
+     to total store revenue
+   ---------------------------------------------------------
+   Logic:
+   - SUM() OVER() without PARTITION gives global total
+   ========================================================= */
+
+SELECT
+    album_id,
+    album_name,
+    revenue,
+    ROUND(
+        revenue * 100.0 /
+        SUM(revenue) OVER (),
+        2
+    ) AS revenue_pct_of_total
+FROM (
+    SELECT
+        a.album_id,
+        a.album_name,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS revenue
+    FROM album a
+    JOIN order_items oi ON a.album_id = oi.album_id
+    GROUP BY a.album_id, a.album_name
+) x;
+
+
+/* =========================================================
+   Customer Lifetime Value (CLV) Ranking
+   ---------------------------------------------------------
+   Purpose:
+   - Rank customers by total revenue generated
+   ---------------------------------------------------------
+   Logic:
+   - SUM() OVER(PARTITION) computes lifetime value
+   ========================================================= */
+
+SELECT
+    customer_id,
+    lifetime_revenue,
+    RANK() OVER (
+        ORDER BY lifetime_revenue DESC
+    ) AS clv_rank
+FROM (
+    SELECT
+        o.customer_id,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS lifetime_revenue
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    GROUP BY o.customer_id
+) x;
+
+
+/* =========================================================
+   Order Revenue vs Customer Average (Z-style comparison)
+   ---------------------------------------------------------
+   Purpose:
+   - Identify unusually high or low orders per customer
+   ---------------------------------------------------------
+   Logic:
+   - AVG() OVER() gives customer baseline
+   ========================================================= */
+
+SELECT
+    order_id,
+    customer_id,
+    order_revenue,
+    avg_order_revenue,
+    order_revenue - avg_order_revenue AS deviation
+FROM (
+    SELECT
+        o.order_id,
+        o.customer_id,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS order_revenue,
+        AVG(SUM(oi.unit_price * oi.quantity_to_buy)) OVER (
+            PARTITION BY o.customer_id
+        ) AS avg_order_revenue
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    GROUP BY o.order_id, o.customer_id
+) x;
