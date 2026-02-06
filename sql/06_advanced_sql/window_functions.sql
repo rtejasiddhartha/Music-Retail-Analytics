@@ -171,3 +171,86 @@ SELECT
     ) AS days_since_last_order
 FROM orders
 ORDER BY customer_id, order_date;
+
+/* Price change compared to previous sale of same album */
+SELECT
+    oi.order_id,
+    oi.album_id,
+    oi.unit_price,
+    LAG(oi.unit_price) OVER (
+        PARTITION BY oi.album_id
+        ORDER BY o.order_date
+    ) AS previous_price,
+    oi.unit_price - LAG(oi.unit_price) OVER (
+        PARTITION BY oi.album_id
+        ORDER BY o.order_date
+    ) AS price_change
+FROM order_items oi
+JOIN orders o ON oi.order_id = o.order_id;
+
+/* Customer segmentation by order volume (quartiles) */
+SELECT
+    customer_id,
+    total_orders,
+    NTILE(4) OVER (ORDER BY total_orders DESC) AS customer_quartile
+FROM (
+    SELECT
+        customer_id,
+        COUNT(order_id) AS total_orders
+    FROM orders
+    GROUP BY customer_id
+) x;
+
+/* Revenue percentile per album */
+SELECT
+    album_id,
+    album_name,
+    revenue,
+    PERCENT_RANK() OVER (ORDER BY revenue) AS revenue_percentile
+FROM (
+    SELECT
+        a.album_id,
+        a.album_name,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS revenue
+    FROM album a
+    JOIN order_items oi ON a.album_id = oi.album_id
+    GROUP BY a.album_id, a.album_name
+) x;
+
+/* 3-order moving average revenue per customer */
+SELECT
+    o.customer_id,
+    o.order_date,
+    SUM(oi.unit_price * oi.quantity_to_buy) AS order_revenue,
+    AVG(SUM(oi.unit_price * oi.quantity_to_buy)) OVER (
+        PARTITION BY o.customer_id
+        ORDER BY o.order_date
+        ROWS BETWEEN 2 PRECEDING AND CURRENT ROW
+    ) AS moving_avg_revenue
+FROM orders o
+JOIN order_items oi ON o.order_id = oi.order_id
+GROUP BY o.customer_id, o.order_date;
+
+/* First-time orders where spend exceeds customer's average */
+SELECT
+    order_id,
+    customer_id,
+    order_revenue
+FROM (
+    SELECT
+        o.order_id,
+        o.customer_id,
+        SUM(oi.unit_price * oi.quantity_to_buy) AS order_revenue,
+        AVG(SUM(oi.unit_price * oi.quantity_to_buy)) OVER (
+            PARTITION BY o.customer_id
+        ) AS avg_customer_order_value,
+        ROW_NUMBER() OVER (
+            PARTITION BY o.customer_id
+            ORDER BY o.order_date
+        ) AS rn
+    FROM orders o
+    JOIN order_items oi ON o.order_id = oi.order_id
+    GROUP BY o.order_id, o.customer_id, o.order_date
+) x
+WHERE rn = 1
+  AND order_revenue > avg_customer_order_value;
