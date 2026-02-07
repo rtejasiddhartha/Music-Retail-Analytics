@@ -24,6 +24,22 @@ This repository demonstrates how a real-world analytics system can be built **fr
 
 ---
 
+## 📊 Detailed Analytics Walkthrough (PPT)
+
+For a **visual, business-style walkthrough** of the full OLTP → OLAP architecture, data model, KPIs, and insights, refer to the presentation below:
+
+👉 **[Music_Retail_Analytics.pptx](./Music_Retail_Analytics.pptx)**
+
+This deck covers:
+- End-to-end OLTP → OLAP pipeline design  
+- Fact & dimension modeling (star-style)  
+- Revenue, profit, and customer analytics  
+- Strategic insights and anomaly interpretation  
+
+> Recommended for recruiters and interview discussions.
+
+---
+
 ## ⚠️ Important Disclaimers (Please Read)
 
 ### 1️⃣ Synthetic Data Disclaimer
