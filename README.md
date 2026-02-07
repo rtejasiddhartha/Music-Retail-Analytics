@@ -2,7 +2,7 @@
 
 A complete **end-to-end SQL-based Data Warehouse & Analytics system** built using **MySQL**, covering **OLTP → OLAP → Business Analytics** with a strong focus on **data modeling, data quality, and advanced SQL analytics**.
 
-This project simulates a **music retail business** and is designed primarily for **learning, demonstration, and interview discussion**, not for real-world commercial reporting.
+This project simulates a **music retail business** and is designed primarily for **learning, and demonstration**, not for real-world commercial reporting.
 
 ---
 
@@ -35,8 +35,6 @@ This deck covers:
 - Fact & dimension modeling (star-style)  
 - Revenue, profit, and customer analytics  
 - Strategic insights and anomaly interpretation  
-
-> Recommended for recruiters and interview discussions.
 
 ---
 
